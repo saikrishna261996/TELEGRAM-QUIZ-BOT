@@ -2,249 +2,172 @@ const { Telegraf, Markup } = require('telegraf');
 const fs = require('fs');
 const Redis = require('ioredis');
 
-// --- CONFIGURATION ---
-const BOT_TOKEN = process.env.BOT_TOKEN || '8170920973:AAGHtD63apa-4qIRrdV7z2E1k0DFmyXpRog'; 
-const REDIS_URL = process.env.REDIS_URL || 'redis://localhost:6379';
-const WHATSAPP_URL = 'https://chat.whatsapp.com/GwtVGLUarAVDqBXV4PaYF1'; 
+// --- 1. CONFIGURATION ---
+const BOT_TOKEN = '8170920973:AAExkJs1jX7BqrAV2NW2hh6qU9oXpk7AN3o'; 
+const CHANNEL_ID = '@NursingAchieversHub'; 
+const REDIS_URL = 'redis://127.0.0.1:6379';
 
-// IMPORTANT: Replace 'YOUR_ADMIN_ID' with your numerical Telegram ID
-const ADMIN_ID = 8170920973; 
-
-const CONFIG = {
-    RATE_LIMIT_MS: 2000,        
-    POLL_DURATION: 25,          
-    AUTO_SKIP_BUFFER: 2000,     
-    MAX_RETRIES: 3,
-    SESSION_TIMEOUT: 7200,      
-    NEXT_QUESTION_DELAY: 2500,  
-    LEADERBOARD_KEY: 'quiz_leaderboard_v1',
-    USER_NAMES_KEY: 'user_display_names'
-};
-
-// --- INITIALIZATION ---
 const bot = new Telegraf(BOT_TOKEN);
-let redis = null;
-let useRedis = false;
-const sessions = new Map();
-const timeouts = new Map(); 
+const redis = new Redis(REDIS_URL);
+const timeouts = new Map(); // Stores the auto-skip timers
 
-function initRedis() {
-    try {
-        redis = new Redis(REDIS_URL, { 
-            retryStrategy: (times) => Math.min(times * 50, 2000),
-            connectTimeout: 10000 
-        });
-        redis.on('connect', () => { console.log('✅ Redis Connected'); useRedis = true; });
-        redis.on('error', (err) => { console.error('❌ Redis Error:', err.message); useRedis = false; });
-    } catch { console.log('⚠️ Redis failed! Leaderboard requires Redis.'); }
-}
+console.log("🚀 INITIALIZING NURSING ACHIEVERS BOT...");
 
-// --- DATA LOADING ---
+// --- 2. DATA LOAD ---
 let quizData = [];
-let TOTAL_QUESTIONS = 0;
-function loadQuestions() {
-    try {
-        const raw = fs.readFileSync('questions.json', 'utf8');
-        quizData = JSON.parse(raw);
-        quizData.forEach(item => {
-            item.options = item.options.map(opt => String(opt).substring(0, 100));
-        });
-        TOTAL_QUESTIONS = quizData.length;
-        console.log(`✅ Loaded ${TOTAL_QUESTIONS} questions.`);
-    } catch (err) {
-        console.error("🚨 JSON Error: Check questions.json!");
-        process.exit(1);
-    }
+try {
+    quizData = JSON.parse(fs.readFileSync('questions.json', 'utf8'));
+    console.log(`✅ SUCCESS: ${quizData.length} questions loaded.`);
+} catch (err) {
+    console.error("❌ ERROR: questions.json not found!");
+    process.exit(1);
 }
 
-// --- API SAFETY ---
-const chatCooldowns = new Map();
-async function safeApi(chatId, apiFn, retries = 0) {
-    const now = Date.now();
-    const last = chatCooldowns.get(chatId) || 0;
-    if (now - last < CONFIG.RATE_LIMIT_MS) {
-        await new Promise(r => setTimeout(r, CONFIG.RATE_LIMIT_MS - (now - last)));
-    }
-    chatCooldowns.set(chatId, Date.now());
-    try { return await apiFn(); } catch (error) {
-        if (error.response?.error_code === 429 && retries < CONFIG.MAX_RETRIES) {
-            const retryAfter = (error.response.parameters?.retry_after || 2) * 1000;
-            await new Promise(r => setTimeout(r, retryAfter));
-            return safeApi(chatId, apiFn, retries + 1);
-        }
-        throw error;
-    }
-}
-
-// --- LEADERBOARD LOGIC ---
-async function getLeaderboardText(currentUserId) {
-    if (!useRedis) return "⚠️ Leaderboard requires Redis to be connected.";
-    const top20 = await redis.zrevrange(CONFIG.LEADERBOARD_KEY, 0, 19, 'WITHSCORES');
-    const userRank = await redis.zrevrank(CONFIG.LEADERBOARD_KEY, currentUserId);
-    const userScore = await redis.zscore(CONFIG.LEADERBOARD_KEY, currentUserId);
-
-    let text = "🏆 *TOP 20 PERFORMERS* 🏆\n\n";
-    if (top20.length === 0) {
-        text += "_No scores recorded yet!_";
-    } else {
-        for (let i = 0; i < top20.length; i += 2) {
-            const userId = top20[i];
-            const score = top20[i + 1];
-            const name = await redis.hget(CONFIG.USER_NAMES_KEY, userId) || "Candidate";
-            const rank = (i / 2) + 1;
-            const medal = rank === 1 ? "🥇" : rank === 2 ? "🥈" : rank === 3 ? "🥉" : "🔹";
-            text += `${medal} ${rank}. *${name}*: ${score} pts\n`;
-        }
-    }
-    if (userRank !== null) text += `\n---\n🎖 *Your Rank:* #${userRank + 1} | *Score:* ${userScore}`;
-    return text;
-}
-
-// --- SESSION HELPERS ---
-async function getSession(userId) {
-    if (useRedis) {
-        const data = await redis.hgetall(`session:${userId}`);
-        return Object.keys(data).length ? {
-            index: parseInt(data.index), chatId: data.chatId,
-            score: parseInt(data.score), userName: data.userName
-        } : null;
-    }
-    return sessions.get(userId);
-}
-
-async function setSession(userId, session) {
-    if (useRedis) {
-        await redis.hmset(`session:${userId}`, session);
-        await redis.expire(`session:${userId}`, CONFIG.SESSION_TIMEOUT);
-        await redis.hset(CONFIG.USER_NAMES_KEY, userId, session.userName);
-    } else sessions.set(userId, session);
-}
-
-// --- CORE QUIZ LOGIC ---
+// --- 3. THE QUIZ ENGINE ---
 async function sendQuestion(userId, chatId, index) {
-    if (index >= TOTAL_QUESTIONS) {
-        const session = await getSession(userId);
-        const finalButtons = Markup.inlineKeyboard([
-            [Markup.button.url('🔗 Join WhatsApp Community', WHATSAPP_URL)],
-            [Markup.button.url('📤 Share with Friends', `https://t.me/share/url?url=${WHATSAPP_URL}&text=Join%20this%20Nursing%20Achievers%20Group!`)]
-        ]);
+    // End of Quiz Logic
+    if (index >= quizData.length) {
+        const session = await redis.hgetall(`session:${userId}`);
+        const finalScore = session.score || 0;
+        const name = session.userName || "Nursing Student";
 
-        await safeApi(chatId, () => bot.telegram.sendMessage(chatId, 
-            `🎉 *QUIZ COMPLETE!*\n\nFinal Score: *${session?.score || 0}/${TOTAL_QUESTIONS}*`, 
-            { parse_mode: 'Markdown', protect_content: true }
-        ));
+        // Save to Leaderboard
+        await redis.zadd('leaderboard', finalScore, name);
 
-        const lbText = await getLeaderboardText(userId);
-        await safeApi(chatId, () => bot.telegram.sendMessage(chatId, lbText, { 
-            parse_mode: 'Markdown',
-            ...finalButtons 
-        }));
-
-        if (useRedis) await redis.del(`session:${userId}`);
-        else sessions.delete(userId);
+        await bot.telegram.sendMessage(chatId, 
+            `🎊 *EXAM COMPLETE!*\n\n👤 Student: *${name}*\n✅ Final Score: *${finalScore}/${quizData.length}*\n\nType /leaderboard to see your rank!`, 
+            { parse_mode: 'Markdown' }
+        );
+        
+        await redis.del(`session:${userId}`);
         return;
     }
 
+    const q = quizData[index];
+    try {
+        const poll = await bot.telegram.sendPoll(chatId, `[Q${index + 1}] ${q.question}`, q.options, {
+            type: 'quiz',
+            correct_option_id: q.correct_index,
+            is_anonymous: false,
+            open_period: 25,
+            explanation: q.explanation || "Nursing Achievers Hub",
+            protect_content: true 
+        });
+
+        // --- THE FAIL-SAFE TIMER ---
+        // If no one answers, this skips to the next question automatically
+        const timer = setTimeout(async () => {
+            const currentSession = await redis.hgetall(`session:${userId}`);
+            if (currentSession && parseInt(currentSession.index) === index) {
+                console.log(`⏱ Auto-skipping Q${index + 1} for ${userId}`);
+                const nextIndex = index + 1;
+                await redis.hset(`session:${userId}`, 'index', nextIndex);
+                bot.telegram.sendMessage(chatId, "⌛ *Time's up!* Moving to next...").catch(() => {});
+                sendQuestion(userId, chatId, nextIndex);
+            }
+        }, 28000); // 28 seconds (poll closes at 25s)
+        
+        timeouts.set(userId, timer);
+
+    } catch (e) {
+        console.error("❌ POLL ERROR:", e.description);
+    }
+}
+
+// --- 4. COMMANDS ---
+
+// Start / Welcome
+bot.start((ctx) => {
+    ctx.reply(`🏥 *Welcome ${ctx.from.first_name}!*\n\nI am the Nursing Achievers Hub assistant. Ready to crack your exams?\n\nCommands:\n/runquiz - Start 100 Qs\n/leaderboard - View Top Scores\n/stop - Quit Quiz`, { parse_mode: 'Markdown' });
+});
+
+// Run Quiz
+bot.command('runquiz', async (ctx) => {
+    const userId = ctx.from.id;
+    const name = ctx.from.first_name;
+
+    console.log(`📩 Request from ${name}`);
+
+    // Subscription Check
+    try {
+        const member = await ctx.telegram.getChatMember(CHANNEL_ID, userId);
+        const active = ['creator', 'administrator', 'member'].includes(member.status);
+        if (!active) {
+            return ctx.reply("⚠️ *JOIN REQUIRED*\nJoin the channel to start.", 
+                Markup.inlineKeyboard([[Markup.button.url('📢 Join Channel', `https://t.me/${CHANNEL_ID.replace('@','')}`)]])
+            );
+        }
+    } catch (e) {
+        console.log("⚠️ Sub-check skipped.");
+    }
+
+    // Initialize Session
+    await redis.del(`session:${userId}`);
+    await redis.hmset(`session:${userId}`, { 
+        index: 0, 
+        score: 0, 
+        chatId: ctx.chat.id, 
+        userName: name 
+    });
+
+    sendQuestion(userId, ctx.chat.id, 0);
+});
+
+// Leaderboard
+bot.command('leaderboard', async (ctx) => {
+    const top = await redis.zrevrange('leaderboard', 0, 9, 'WITHSCORES');
+    if (top.length === 0) return ctx.reply("🏆 Leaderboard is empty!");
+
+    let list = "🏆 *TOP NURSING ACHIEVERS* 🏆\n\n";
+    for (let i = 0; i < top.length; i += 2) {
+        list += `${i/2 + 1}. *${top[i]}*: ${top[i+1]} pts\n`;
+    }
+    ctx.reply(list, { parse_mode: 'Markdown' });
+});
+
+// Stop Quiz
+bot.command('stop', async (ctx) => {
+    const userId = ctx.from.id;
+    if (timeouts.has(userId)) {
+        clearTimeout(timeouts.get(userId));
+        timeouts.delete(userId);
+    }
+    await redis.del(`session:${userId}`);
+    ctx.reply("🛑 Quiz stopped.");
+});
+
+// --- 5. ANSWER HANDLING ---
+bot.on('poll_answer', async (ctx) => {
+    const { user, option_ids } = ctx.pollAnswer;
+    const userId = user.id;
+
+    // Clear the auto-skip timer because they answered!
     if (timeouts.has(userId)) {
         clearTimeout(timeouts.get(userId));
         timeouts.delete(userId);
     }
 
-    const q = quizData[index];
-    const session = await getSession(userId);
+    const session = await redis.hgetall(`session:${userId}`);
+    if (!session.index) return;
 
-    await safeApi(chatId, () => bot.telegram.sendMessage(chatId, `📊 *Question ${index + 1}/${TOTAL_QUESTIONS}*`, { parse_mode: 'Markdown' }));
-    
-    await safeApi(chatId, () => bot.telegram.sendPoll(chatId, q.question, q.options, {
-        type: 'quiz',
-        correct_option_id: q.correct_index,
-        is_anonymous: false,
-        open_period: CONFIG.POLL_DURATION,
-        protect_content: true,
-        explanation: q.explanation || "Nursing concept study required!",
-        explanation_parse_mode: 'Markdown'
-    }));
+    let index = parseInt(session.index);
+    let score = parseInt(session.score);
 
-    // WhatsApp button under every question
-    await safeApi(chatId, () => bot.telegram.sendMessage(chatId, "👇 *Discussion & Notes:*", {
-        parse_mode: 'Markdown',
-        ...Markup.inlineKeyboard([[Markup.button.url('🔗 Join WhatsApp Group', WHATSAPP_URL)]])
-    }));
-
-    await setSession(userId, { ...session, index, chatId: String(chatId) });
-
-    const timer = setTimeout(async () => {
-        const cur = await getSession(userId);
-        if (cur && cur.index === index) {
-            await bot.telegram.sendMessage(chatId, "⏰ *Time's up!* Moving to the next question...");
-            sendQuestion(userId, chatId, index + 1);
-        }
-    }, (CONFIG.POLL_DURATION * 1000) + CONFIG.AUTO_SKIP_BUFFER);
-
-    timeouts.set(userId, timer);
-}
-
-// --- HANDLERS ---
-
-// 🟢 New: File Upload Handler
-bot.on('document', async (ctx) => {
-    const { file_id, file_name } = ctx.message.document;
-
-    // Security check: Only you can upload
-    if (ctx.from.id !== ADMIN_ID) {
-        return ctx.reply("🚫 Unauthorized. Only the admin can upload questions.");
+    // Score update
+    if (option_ids[0] === quizData[index].correct_index) {
+        score++;
     }
 
-    if (file_name === 'questions.json') {
-        try {
-            const link = await ctx.telegram.getFileLink(file_id);
-            const response = await fetch(link.href);
-            const newQuestions = await response.json();
+    index++;
+    await redis.hmset(`session:${userId}`, { index, score });
 
-            if (Array.isArray(newQuestions)) {
-                fs.writeFileSync('questions.json', JSON.stringify(newQuestions, null, 2));
-                loadQuestions();
-                ctx.reply(`✅ Success! Updated questions. Total: ${TOTAL_QUESTIONS}`);
-            }
-        } catch (err) {
-            ctx.reply("🚨 Error: Invalid JSON file format.");
-        }
-    }
+    // Small delay for smooth transition
+    setTimeout(() => sendQuestion(userId, session.chatId, index), 1000);
 });
 
-bot.start((ctx) => ctx.reply("🏥 *Nursing Achievers Hub Quiz Bot Ready!*", 
-    Markup.inlineKeyboard([[Markup.button.url('🔗 Join WhatsApp', WHATSAPP_URL)]])));
+// --- 6. LAUNCH ---
+bot.launch().then(() => console.log("💎 SYSTEM ONLINE - LISTENING..."));
 
-bot.command('runquiz', async (ctx) => {
-    const userId = ctx.from.id;
-    await setSession(userId, { index: 0, score: 0, chatId: String(ctx.chat.id), userName: ctx.from.first_name });
-    await sendQuestion(userId, ctx.chat.id, 0);
-});
-
-bot.command('leaderboard', async (ctx) => {
-    const text = await getLeaderboardText(ctx.from.id);
-    await ctx.reply(text, { parse_mode: 'Markdown' });
-});
-
-bot.on('poll_answer', async (ctx) => {
-    const { user, option_ids } = ctx.update.poll_answer;
-    const userId = user.id;
-    if (timeouts.has(userId)) { clearTimeout(timeouts.get(userId)); timeouts.delete(userId); }
-
-    const session = await getSession(userId);
-    if (!session) return;
-
-    if (option_ids[0] === quizData[session.index].correct_index) {
-        session.score++;
-        if (useRedis) await redis.zadd(CONFIG.LEADERBOARD_KEY, session.score, userId);
-    }
-    
-    session.index++;
-    await setSession(userId, session);
-    setTimeout(() => sendQuestion(userId, session.chatId, session.index), CONFIG.NEXT_QUESTION_DELAY);
-});
-
-// --- LAUNCH ---
-initRedis();
-loadQuestions();
-bot.launch().then(() => console.log("🚀 Bot Live with Upload, Bulb, and WhatsApp Share!"));
+// Graceful stop
+process.once('SIGINT', () => bot.stop('SIGINT'));
+process.once('SIGTERM', () => bot.stop('SIGTERM'));
