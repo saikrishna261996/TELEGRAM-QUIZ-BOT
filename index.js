@@ -1,173 +1,135 @@
-const { Telegraf, Markup } = require('telegraf');
+require('dotenv').config();
+const { Telegraf } = require('telegraf');
 const fs = require('fs');
 const Redis = require('ioredis');
 
 // --- 1. CONFIGURATION ---
-const BOT_TOKEN = '8170920973:AAExkJs1jX7BqrAV2NW2hh6qU9oXpk7AN3o'; 
-const CHANNEL_ID = '@NursingAchieversHub'; 
-const REDIS_URL = 'redis://127.0.0.1:6379';
+const bot = new Telegraf(process.env.BOT_TOKEN);
+const redis = new Redis();
 
-const bot = new Telegraf(BOT_TOKEN);
-const redis = new Redis(REDIS_URL);
-const timeouts = new Map(); // Stores the auto-skip timers
+const ADMIN_ID = 8587028561;
+const NURSING_CHANNEL_ID = -1002317380108; 
+const NURSING_HUB_ID = -1003592372674;     
 
-console.log("🚀 INITIALIZING NURSING ACHIEVERS BOT...");
+let currentQuizIndex = -1;
+let globalTimer = null;
 
 // --- 2. DATA LOAD ---
 let quizData = [];
 try {
-    quizData = JSON.parse(fs.readFileSync('questions.json', 'utf8'));
-    console.log(`✅ SUCCESS: ${quizData.length} questions loaded.`);
+    const rawData = fs.readFileSync('questions.json', 'utf8');
+    quizData = JSON.parse(rawData);
+    console.log(`✅ DATABASE READY: ${quizData.length} questions loaded.`);
 } catch (err) {
-    console.error("❌ ERROR: questions.json not found!");
+    console.error("❌ CRITICAL ERROR: Could not load questions.json!");
     process.exit(1);
 }
 
-// --- 3. THE QUIZ ENGINE ---
-async function sendQuestion(userId, chatId, index) {
-    // End of Quiz Logic
-    if (index >= quizData.length) {
-        const session = await redis.hgetall(`session:${userId}`);
-        const finalScore = session.score || 0;
-        const name = session.userName || "Nursing Student";
-
-        // Save to Leaderboard
-        await redis.zadd('leaderboard', finalScore, name);
-
-        await bot.telegram.sendMessage(chatId, 
-            `🎊 *EXAM COMPLETE!*\n\n👤 Student: *${name}*\n✅ Final Score: *${finalScore}/${quizData.length}*\n\nType /leaderboard to see your rank!`, 
-            { parse_mode: 'Markdown' }
-        );
-        
-        await redis.del(`session:${userId}`);
+// --- 3. THE DUAL-BROADCAST ENGINE (20s QUIZ + SECURITY LOCK) ---
+async function sendNextQuestion() {
+    if (currentQuizIndex >= quizData.length) {
+        const finishMsg = "🏁 *MARATHON FINISHED!*";
+        await bot.telegram.sendMessage(NURSING_CHANNEL_ID, finishMsg, { parse_mode: 'Markdown' });
+        await bot.telegram.sendMessage(NURSING_HUB_ID, finishMsg, { parse_mode: 'Markdown' });
+        currentQuizIndex = -1;
         return;
     }
 
-    const q = quizData[index];
+    const q = quizData[currentQuizIndex];
+
     try {
-        const poll = await bot.telegram.sendPoll(chatId, `[Q${index + 1}] ${q.question}`, q.options, {
+        // STEP A: Send to Channel (Secured)
+        const channelPoll = await bot.telegram.sendPoll(NURSING_CHANNEL_ID, `[Q${currentQuizIndex + 1}/${quizData.length}] ${q.question}`, q.options, {
             type: 'quiz',
             correct_option_id: q.correct_index,
-            is_anonymous: false,
-            open_period: 25,
+            is_anonymous: true, 
             explanation: q.explanation || "Nursing Achievers Hub",
-            protect_content: true 
+            open_period: 20,
+            disable_notification: true,
+            protect_content: true // <--- SECURITY ENABLED
         });
 
-        // --- THE FAIL-SAFE TIMER ---
-        // If no one answers, this skips to the next question automatically
-        const timer = setTimeout(async () => {
-            const currentSession = await redis.hgetall(`session:${userId}`);
-            if (currentSession && parseInt(currentSession.index) === index) {
-                console.log(`⏱ Auto-skipping Q${index + 1} for ${userId}`);
-                const nextIndex = index + 1;
-                await redis.hset(`session:${userId}`, 'index', nextIndex);
-                bot.telegram.sendMessage(chatId, "⌛ *Time's up!* Moving to next...").catch(() => {});
-                sendQuestion(userId, chatId, nextIndex);
-            }
-        }, 28000); // 28 seconds (poll closes at 25s)
-        
-        timeouts.set(userId, timer);
+        await new Promise(resolve => setTimeout(resolve, 500));
 
-    } catch (e) {
-        console.error("❌ POLL ERROR:", e.description);
+        // STEP B: Send to Group (Secured + Leaderboard)
+        const groupPoll = await bot.telegram.sendPoll(NURSING_HUB_ID, `[Q${currentQuizIndex + 1}/${quizData.length}] ${q.question}`, q.options, {
+            type: 'quiz',
+            correct_option_id: q.correct_index,
+            is_anonymous: false, 
+            explanation: q.explanation || "Nursing Achievers Hub",
+            open_period: 20,
+            protect_content: true // <--- SECURITY ENABLED
+        });
+
+        await redis.set(`poll:${groupPoll.poll.id}`, q.correct_index, 'EX', 3600);
+
+        // STEP C: Auto-Stop and Loop
+        globalTimer = setTimeout(async () => {
+            try {
+                await bot.telegram.stopPoll(NURSING_CHANNEL_ID, channelPoll.message_id);
+                await bot.telegram.stopPoll(NURSING_HUB_ID, groupPoll.message_id);
+            } catch (e) { }
+
+            setTimeout(() => {
+                currentQuizIndex++;
+                sendNextQuestion();
+            }, 1000);
+
+        }, 20000); 
+
+    } catch (err) {
+        console.error("Broadcast Error:", err.message);
+        currentQuizIndex++;
+        setTimeout(sendNextQuestion, 2000);
     }
 }
 
-// --- 4. COMMANDS ---
-
-// Start / Welcome
-bot.start((ctx) => {
-    ctx.reply(`🏥 *Welcome ${ctx.from.first_name}!*\n\nI am the Nursing Achievers Hub assistant. Ready to crack your exams?\n\nCommands:\n/runquiz - Start 100 Qs\n/leaderboard - View Top Scores\n/stop - Quit Quiz`, { parse_mode: 'Markdown' });
-});
-
-// Run Quiz
-bot.command('runquiz', async (ctx) => {
-    const userId = ctx.from.id;
-    const name = ctx.from.first_name;
-
-    console.log(`📩 Request from ${name}`);
-
-    // Subscription Check
-    try {
-        const member = await ctx.telegram.getChatMember(CHANNEL_ID, userId);
-        const active = ['creator', 'administrator', 'member'].includes(member.status);
-        if (!active) {
-            return ctx.reply("⚠️ *JOIN REQUIRED*\nJoin the channel to start.", 
-                Markup.inlineKeyboard([[Markup.button.url('📢 Join Channel', `https://t.me/${CHANNEL_ID.replace('@','')}`)]])
-            );
-        }
-    } catch (e) {
-        console.log("⚠️ Sub-check skipped.");
-    }
-
-    // Initialize Session
-    await redis.del(`session:${userId}`);
-    await redis.hmset(`session:${userId}`, { 
-        index: 0, 
-        score: 0, 
-        chatId: ctx.chat.id, 
-        userName: name 
-    });
-
-    sendQuestion(userId, ctx.chat.id, 0);
-});
-
-// Leaderboard
-bot.command('leaderboard', async (ctx) => {
-    const top = await redis.zrevrange('leaderboard', 0, 9, 'WITHSCORES');
-    if (top.length === 0) return ctx.reply("🏆 Leaderboard is empty!");
-
-    let list = "🏆 *TOP NURSING ACHIEVERS* 🏆\n\n";
-    for (let i = 0; i < top.length; i += 2) {
-        list += `${i/2 + 1}. *${top[i]}*: ${top[i+1]} pts\n`;
-    }
-    ctx.reply(list, { parse_mode: 'Markdown' });
-});
-
-// Stop Quiz
-bot.command('stop', async (ctx) => {
-    const userId = ctx.from.id;
-    if (timeouts.has(userId)) {
-        clearTimeout(timeouts.get(userId));
-        timeouts.delete(userId);
-    }
-    await redis.del(`session:${userId}`);
-    ctx.reply("🛑 Quiz stopped.");
-});
-
-// --- 5. ANSWER HANDLING ---
+// --- 4. ATOMIC SCORING ---
 bot.on('poll_answer', async (ctx) => {
-    const { user, option_ids } = ctx.pollAnswer;
-    const userId = user.id;
+    try {
+        const { user, poll_id, option_ids } = ctx.pollAnswer;
+        const correctAnswer = await redis.get(`poll:${poll_id}`);
 
-    // Clear the auto-skip timer because they answered!
-    if (timeouts.has(userId)) {
-        clearTimeout(timeouts.get(userId));
-        timeouts.delete(userId);
+        if (correctAnswer !== null && option_ids[0] === parseInt(correctAnswer)) {
+            await redis.zincrby('nursing_marathon_leaderboard', 1, user.id);
+            const fullName = `${user.first_name} ${user.last_name || ''}`.trim();
+            await redis.hset('user_names', user.id, fullName);
+        }
+    } catch (e) { console.error("Scoring Error:", e.message); }
+});
+
+// --- 5. COMMANDS ---
+bot.command('startmarathon', async (ctx) => {
+    if (ctx.from.id !== ADMIN_ID) return;
+    if (currentQuizIndex !== -1) return ctx.reply("⚠️ Marathon running!");
+    await redis.del('nursing_marathon_leaderboard');
+    await ctx.reply("🚀 *Marathon Started!* (Content Protected 🔒)");
+    currentQuizIndex = 0;
+    sendNextQuestion();
+});
+
+bot.command('stopmarathon', (ctx) => {
+    if (ctx.from.id !== ADMIN_ID) return;
+    if (globalTimer) {
+        clearTimeout(globalTimer);
+        currentQuizIndex = -1;
+        ctx.reply("🛑 Stopped.");
     }
+});
 
-    const session = await redis.hgetall(`session:${userId}`);
-    if (!session.index) return;
-
-    let index = parseInt(session.index);
-    let score = parseInt(session.score);
-
-    // Score update
-    if (option_ids[0] === quizData[index].correct_index) {
-        score++;
+bot.command('leaderboard', async (ctx) => {
+    const top = await redis.zrevrange('nursing_marathon_leaderboard', 0, 19, 'WITHSCORES');
+    if (top.length === 0) return ctx.reply("🏆 No scores yet.");
+    let board = "🏆 *TOP 20 ACHIEVERS* 🏆\n\n";
+    for (let i = 0; i < top.length; i += 2) {
+        const name = await redis.hget('user_names', top[i]) || "Candidate";
+        board += `${(i/2)+1}. *${name}* — ${top[i+1]} pts\n`;
     }
-
-    index++;
-    await redis.hmset(`session:${userId}`, { index, score });
-
-    // Small delay for smooth transition
-    setTimeout(() => sendQuestion(userId, session.chatId, index), 1000);
+    ctx.reply(board, { parse_mode: 'Markdown' });
 });
 
 // --- 6. LAUNCH ---
-bot.launch().then(() => console.log("💎 SYSTEM ONLINE - LISTENING..."));
+bot.launch().then(() => console.log("💎 SECURE PERFORMANCE SYSTEM ONLINE"));
 
-// Graceful stop
 process.once('SIGINT', () => bot.stop('SIGINT'));
-process.once('SIGTERM', () => bot.stop('SIGTERM'));
+process.once('SIGTERM', () => bot.stop('SIGTERM'));  
