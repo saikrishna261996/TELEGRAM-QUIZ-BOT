@@ -2,10 +2,21 @@ require('dotenv').config();
 const { Telegraf } = require('telegraf');
 const fs = require('fs');
 const Redis = require('ioredis');
+const express = require('express'); // 1. Added Express
+
+// --- 0. WEB SERVER FOR RENDER ---
+const app = express();
+app.get('/', (req, res) => res.send('Nursing Achievers Hub Bot is Online! 🚀'));
+const PORT = process.env.PORT || 10000;
+app.listen(PORT, () => {
+    console.log(`✅ Health check server listening on port ${PORT}`);
+});
 
 // --- 1. CONFIGURATION ---
 const bot = new Telegraf(process.env.BOT_TOKEN);
-const redis = new Redis();
+
+// 2. Updated Redis to use environment variable
+const redis = new Redis(process.env.REDIS_URL); 
 
 const ADMIN_ID = 8587028561;
 const NURSING_CHANNEL_ID = -1002317380108; 
@@ -25,7 +36,7 @@ try {
     process.exit(1);
 }
 
-// --- 3. THE DUAL-BROADCAST ENGINE (20s QUIZ + SECURITY LOCK) ---
+// --- 3. THE DUAL-BROADCAST ENGINE ---
 async function sendNextQuestion() {
     if (currentQuizIndex >= quizData.length) {
         const finishMsg = "🏁 *MARATHON FINISHED!*";
@@ -38,7 +49,6 @@ async function sendNextQuestion() {
     const q = quizData[currentQuizIndex];
 
     try {
-        // STEP A: Send to Channel (Secured)
         const channelPoll = await bot.telegram.sendPoll(NURSING_CHANNEL_ID, `[Q${currentQuizIndex + 1}/${quizData.length}] ${q.question}`, q.options, {
             type: 'quiz',
             correct_option_id: q.correct_index,
@@ -46,24 +56,22 @@ async function sendNextQuestion() {
             explanation: q.explanation || "Nursing Achievers Hub",
             open_period: 20,
             disable_notification: true,
-            protect_content: true // <--- SECURITY ENABLED
+            protect_content: true 
         });
 
         await new Promise(resolve => setTimeout(resolve, 500));
 
-        // STEP B: Send to Group (Secured + Leaderboard)
         const groupPoll = await bot.telegram.sendPoll(NURSING_HUB_ID, `[Q${currentQuizIndex + 1}/${quizData.length}] ${q.question}`, q.options, {
             type: 'quiz',
             correct_option_id: q.correct_index,
             is_anonymous: false, 
             explanation: q.explanation || "Nursing Achievers Hub",
             open_period: 20,
-            protect_content: true // <--- SECURITY ENABLED
+            protect_content: true 
         });
 
         await redis.set(`poll:${groupPoll.poll.id}`, q.correct_index, 'EX', 3600);
 
-        // STEP C: Auto-Stop and Loop
         globalTimer = setTimeout(async () => {
             try {
                 await bot.telegram.stopPoll(NURSING_CHANNEL_ID, channelPoll.message_id);
@@ -132,4 +140,4 @@ bot.command('leaderboard', async (ctx) => {
 bot.launch().then(() => console.log("💎 SECURE PERFORMANCE SYSTEM ONLINE"));
 
 process.once('SIGINT', () => bot.stop('SIGINT'));
-process.once('SIGTERM', () => bot.stop('SIGTERM'));  
+process.once('SIGTERM', () => bot.stop('SIGTERM')); 

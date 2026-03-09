@@ -1,18 +1,29 @@
 {
   "name": "telegram-quiz-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Nursing Achievers Hub Quiz Bot",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Krishna",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^17.3.1",
+    "express": "^4.19.2",
     "ioredis": "^5.10.0",
     "node-cron": "^4.2.1",
     "telegraf": "^4.16.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikrishna261996/TELEGRAM-QUIZ-BOT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saikrishna261996/TELEGRAM-QUIZ-BOT/issues"
+  },
+  "homepage": "https://github.com/saikrishna261996/TELEGRAM-QUIZ-BOT#readme"
 }
