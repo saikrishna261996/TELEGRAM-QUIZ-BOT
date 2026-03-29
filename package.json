@@ -1,23 +1,32 @@
 {
   "name": "telegram-quiz-bot",
   "version": "1.0.0",
-  "description": "Nursing Achievers Hub Quiz Bot",
+  "description": "APPSC Group 1-4 Hub Quiz Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "dev": "kill -9 $(lsof -t -i:10000) 2>/dev/null || true && nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "appsc",
+    "telegram-bot",
+    "quiz"
+  ],
   "author": "Krishna",
   "license": "ISC",
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "dotenv": "^17.3.1",
-    "express": "^4.19.2",
-    "ioredis": "^5.10.0",
+    "express": "^4.22.1",
+    "ioredis": "^5.10.1",
     "node-cron": "^4.2.1",
+    "pdf-parse": "^2.4.5",
     "telegraf": "^4.16.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/saikrishna261996/TELEGRAM-QUIZ-BOT.git"
