@@ -1,602 +1,428 @@
 [
   {
-    "question": "Identify this respiratory care device used to warm and humidify inhaled air while filtering out pathogens:",
-    "options": ["Tracheostomy connector", "HME filter", "ET tube connector", "Hemo filter"],
+    "question": "The volume of a solid cylinder is 80,850 $cm^{3}$ and its height is 21 cm. What is the total surface area of the solid cylinder? Use $\\pi=\\frac{22}{7})$",
+    "options": ["12,312 cm2", "12,320 cm2", "12,331 cm2", "12,289 cm2"],
     "correct_index": 1,
-    "explanation": "Heat and Moisture Exchange (HME) filters are used in respiratory care to warm and humidify inhaled air while filtering out particles and pathogens."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Oxytocin is mainly involved in which of the following functions?",
-    "options": ["Motor skills", "Childbirth and lactation", "Growth and mental ability", "None of the above"],
-    "correct_index": 1,
-    "explanation": "Oxytocin plays a crucial role in childbirth by stimulating uterine contractions and in lactation by triggering the milk ejection reflex."
-  },
-  {
-    "question": "Who is considered as the father of sociology?",
-    "options": ["Auguste Comte", "MacIver", "Emile Durkheim", "Kingsley Davis"],
+    "question": "Which amendment act increased the Lok Sabha seats from 525 to 545?",
+    "options": ["Thirty-First Amendment", "Thirty-Fifth Amendment", "Thirty-Ninth Amendment", "Twenty-Seventh Amendment"],
     "correct_index": 0,
-    "explanation": "Auguste Comte is widely recognized as the father of sociology and established the theory of positivism."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "The relation between the fetal presenting part and maternal pelvis is known as?",
-    "options": ["Attitude", "Lie", "Position", "Station"],
+    "question": "Simplify: $\\frac{1.2\\times1.2\\times1.2-0.12\\times0.12\\times0.12}{12\\times12\\times12}$",
+    "options": ["0.00999", "0.0000999", "0.000999", "0.0999"],
     "correct_index": 2,
-    "explanation": "Position is the relationship of the fetal presenting part (e.g., occiput, sacrum) to the quadrants of the maternal pelvis."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Which vaccine can be frozen?",
-    "options": ["BCG", "Polio", "MMR", "DPT/DT"],
+    "question": "Seven people H, I, J, K, O, P and Q are sitting around a circular table facing the center of the table. I sits third to the left of K. J sits second to the left of P. K is an immediate neighbour of both H and J. Q is not an immediate neighbor of I. How many people sit between O and J when counted from the right of O?",
+    "options": ["Four", "Two", "Three", "One"],
     "correct_index": 2,
-    "explanation": "The MMR vaccine can be frozen for storage and remains effective even after freezing."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Which pelvic conjugate is measured from the lower border of the pubic symphysis to the promontory of the sacrum?",
-    "options": ["Obstetrics conjugate", "Diagonal conjugate", "True conjugate", "None of the above"],
-    "correct_index": 1,
-    "explanation": "The diagonal conjugate is the only conjugate measurable clinically via vaginal exam."
-  },
-  {
-    "question": "If a patient's urine output is 250 ml in 24 hours, it is known as:",
-    "options": ["Oliguria", "Polyuria", "Anuria", "Hematuria"],
+    "question": "Who has written the book 'Beyond the Syllabus: The Real-Life Guide for Teenagers Who Want More than Just Marks', published in July 2025?",
+    "options": ["Ankur Warikoo", "Prajakta Koli", "Santanu Bhattacharya", "Amish Tripathi"],
     "correct_index": 0,
-    "explanation": "Oliguria refers to a reduced amount of urine output, typically under 400-500 ml in 24 hours."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Red-colored urine is caused by which anti-tubercular drug?",
-    "options": ["Isoniazid", "Rifampicin", "Streptomycin", "Ethambutol"],
+    "question": "If 'A' stands for '+', 'B' stands for 'x', 'C' stands for '÷' and 'D' stands for '-', what will come in place of the question mark'?' in the following equation? 6B2D14A7C2=?",
+    "options": ["8", "12", "10", "14"],
     "correct_index": 1,
-    "explanation": "Rifampicin is well-known for causing urine, sweat, and tears to turn red or orange."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Visualization of bone occurs in which stage of burn?",
-    "options": ["1st stage", "2nd stage", "3rd stage", "4th stage"],
+    "question": "What determines the amount of water reabsorbed during the formation of urine in human kidneys?",
+    "options": ["The overall physical size and measurable dimensions of the human kidneys", "The specific type of food regularly eaten and normally consumed daily", "The oxygen level present within the circulating blood throughout the body", "The amount of excess water and dissolved waste the human body must remove"],
     "correct_index": 3,
-    "explanation": "4th-degree burns extend through all skin layers, including muscles and bones."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Bullet train in India was run with the help of which country?",
-    "options": ["Japan", "China", "Russia", "USA"],
-    "correct_index": 0,
-    "explanation": "Japan provided the technology (Shinkansen system) for India's first bullet train project."
+    "question": "Select the pair that follows the same pattern as that followed by the two set of pairs given below. Both pairs follow the same pattern. OKN-JFI, GCF-BXA",
+    "options": ["KFH-FBE", "KGJ-FBE", "KGJ-EBD", "KFH-EAD"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "What is the primary action of a mucolytic drug?",
-    "options": ["Decrease swelling", "Decrease secretion", "Increase secretion", "Break down thick mucus"],
+    "question": "When a blood vessel is injured, ________ help(s) to plug the leak by clotting the blood.",
+    "options": ["red blood cells", "plasma", "lymphocytes", "platelets"],
     "correct_index": 3,
-    "explanation": "Mucolytics like acetylcysteine break down thick mucus, promoting easier clearing of the airways."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "The term 'Gossypiboma' means?",
-    "options": ["Tumor in head", "Tumor in abdomen", "Foreign material left inside body during surgery", "Accidental organ damage"],
+    "question": "Who appoints the members of the Union Public Service Commission in India?",
+    "options": ["Prime Minister of India", "Parliament of India", "President of India", "Supreme Court of India"],
     "correct_index": 2,
-    "explanation": "Gossypiboma occurs when surgical sponges or gauze are unintentionally left inside the body after surgery."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Pregnant lady with cord presentation, what is the nursing priority?",
-    "options": ["Give Trendelenburg position", "Give reverse Trendelenburg", "Inform HCP", "Gently push the cord"],
+    "question": "A train travels 1/3 of the total distance at 40 km/hr, 1/4 of the total distance at 30 km/hr and the remaining distance at 60 km/hr. Find the average speed of the train.",
+    "options": ["48 km/hr", "42 km/hr", "50 km/hr", "45 km/hr"],
     "correct_index": 0,
-    "explanation": "The Trendelenburg position (head down) relieves pressure on the umbilical cord, improving fetal blood flow."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "What is the cerebral perfusion pressure (CPP) if BP is 90/60 and ICP is 18?",
-    "options": ["48 mmHg", "65 mmHg", "52 mmHg", "30 mmHg"],
-    "correct_index": 2,
-    "explanation": "MAP = 60 + (90-60)/3 = 70. CPP = MAP - ICP = 70 - 18 = 52 mmHg."
-  },
-  {
-    "question": "Which is the southernmost state of India?",
-    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"],
-    "correct_index": 2,
-    "explanation": "Tamil Nadu is the southernmost state, featuring Kanyakumari as the southern tip of the mainland."
-  },
-  {
-    "question": "What is the 3rd planet from the sun?",
-    "options": ["Venus", "Mars", "Earth", "Jupiter"],
-    "correct_index": 2,
-    "explanation": "Earth is the third planet from the Sun."
-  },
-  {
-    "question": "The Rafale jet comes from which country?",
-    "options": ["France", "Japan", "China", "Russia"],
-    "correct_index": 0,
-    "explanation": "The Rafale is a French multirole fighter jet developed by Dassault Aviation."
-  },
-  {
-    "question": "After removal of an NG tube, it is discarded in which color bag?",
-    "options": ["Yellow", "Red", "Black", "Blue"],
+    "question": "Which of the following is considered the earliest known Marathi literary work?",
+    "options": ["Gathasaptasati", "Lilacharitra", "Jnanesvari", "Dipavamsa"],
     "correct_index": 1,
-    "explanation": "Red bags are used for recyclable medical waste such as catheters and NG tubes."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Which city is known as the 'Electronic City of India'?",
-    "options": ["Delhi", "Chandigarh", "Bangalore", "Indore"],
+    "question": "Sidhu Murmu and Kanhu Murmu were the leaders of which of the following rebellions?",
+    "options": ["Santhal Rebellion", "Jaintia and Garo Rebellion", "Munda Rebellion", "Halba Rebellion"],
+    "correct_index": 0,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Each of the letters in the word JALOPIES are arranged in alphabetical order. How many letters are there in the English alphabetical order between the letter which is fourth from the left and the one which is second from the right in the new letter-cluster thus formed?",
+    "options": ["5", "4", "3", "6"],
+    "correct_index": 0,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "In a laboratory demonstration, a student adds hydrochloric acid to sodium hydrogencarbonate and collects the gas. How can the student confirm it is carbon dioxide?",
+    "options": ["It supports combustion.", "It extinguishes a burning splint.", "It turns limewater milky", "It forms a blue precipitate."],
     "correct_index": 2,
-    "explanation": "Bangalore is known as the Electronic City due to its massive IT industry."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Where is the WHO headquarters situated?",
-    "options": ["Geneva", "Rome", "Washington", "Paris"],
+    "question": "In December 2025, the plummeting AQI led to emergency-level restrictions, called GRAP-4, being implemented in which city of India?",
+    "options": ["Delhi", "Pune", "Chandigarh", "Chennai"],
     "correct_index": 0,
-    "explanation": "The headquarters of the World Health Organization (WHO) is located in Geneva, Switzerland."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Allergy skin tests are done via the intradermal route because of:",
-    "options": ["Slow absorption of drug", "Fast absorption", "ID route is less painful", "Less injury to skin"],
-    "correct_index": 0,
-    "explanation": "Slow absorption allows localized immune cells in the dermis to react, making it ideal for observing hypersensitivity."
-  },
-  {
-    "question": "Which of the following is NOT true about IgM?",
-    "options": ["It is an isotype", "It is the smallest antibody", "It exists as a pentamer", "It is the largest antibody"],
-    "correct_index": 1,
-    "explanation": "IgM is actually the largest antibody isotype and exists as a pentamer."
-  },
-  {
-    "question": "Cidex is another name for which chemical used for sterilization?",
-    "options": ["Ammonium chloride", "Formaldehyde", "Isopropyl chloride", "Glutaraldehyde"],
+    "question": "What is the typical size range of particles in a colloidal solution?",
+    "options": ["Larger than 1 millimeter", "More than 1000 nanometers", "Less than 1 nanometer", "1 to 100 nanometers"],
     "correct_index": 3,
-    "explanation": "Cidex is a brand name for Glutaraldehyde, commonly used for cold sterilization of endoscopes."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "A tall, peaked T-wave on an ECG indicates which condition?",
-    "options": ["Hypokalemia", "Hyperkalemia", "Myocardial Ischemia", "Hypocalcemia"],
-    "correct_index": 1,
-    "explanation": "Tall, peaked T-waves are a hallmark ECG sign of high potassium levels (hyperkalemia)."
-  },
-  {
-    "question": "If your sister is half your age and in 10 years she will be 3/4th your age, what is her present age?",
-    "options": ["5 years", "10 years", "15 years", "20 years"],
-    "correct_index": 0,
-    "explanation": "Let your age be x. Sister is x/2. In 10 years: (x/2)+10 = 3/4(x+10). x=10. Sister is 5."
-  },
-  {
-    "question": "Identify the surgical instrument used to grasp tough tissues like fascia, characterized by a large tooth at the tip:",
-    "options": ["Allis Tissue Forceps", "Kocher's Forceps", "Babcock Forceps", "Artery Forceps"],
-    "correct_index": 1,
-    "explanation": "Kocher's forceps have transverse serrations and a large tooth at the tip to prevent slipping when grasping tough structures."
-  },
-  {
-    "question": "Buildup of keratin in the conjunctiva (Bitot's spots) is a sign of which deficiency?",
-    "options": ["Vitamin B12", "Vitamin A", "Vitamin C", "Vitamin D"],
-    "correct_index": 1,
-    "explanation": "Bitot's spots are a hallmark sign of Vitamin A deficiency."
-  },
-  {
-    "question": "Identify the specialized hospital bed that uses warm air and silicone beads to prevent pressure ulcers:",
-    "options": ["Fowler's Bed", "Air Fluidized Bed", "Low Air Loss Bed", "Standard Hospital Bed"],
-    "correct_index": 1,
-    "explanation": "Air fluidized beds minimize pressure on the skin by creating a fluid-like state for the patient."
-  },
-  {
-    "question": "Which among the following is a primary lymphoid organ?",
-    "options": ["Spleen", "Thymus", "Lymph nodes", "Tonsils"],
-    "correct_index": 1,
-    "explanation": "Primary lymphoid organs, such as the Thymus and Bone Marrow, are where lymphocytes are produced and matured."
-  },
-  {
-    "question": "Identify the surgical position where the head is lower than the feet (15-30 degrees):",
-    "options": ["Lithotomy", "Trendelenburg", "Prone", "Supine"],
-    "correct_index": 1,
-    "explanation": "In the Trendelenburg position, the feet are higher than the head."
-  },
-  {
-    "question": "Identify the cardiac rhythm characterized by an irregularly irregular rhythm and absence of P waves:",
-    "options": ["Atrial Fibrillation", "Ventricular Tachycardia", "Sinus Bradycardia", "First Degree Heart Block"],
-    "correct_index": 0,
-    "explanation": "Atrial fibrillation is characterized by an irregularly irregular rhythm and the absence of distinct P waves."
-  },
-  {
-    "question": "A 'Moon Face' appearance is characteristic of which condition?",
-    "options": ["Addison's Disease", "Cushing's Syndrome", "Hyperthyroidism", "Diabetes Insipidus"],
-    "correct_index": 1,
-    "explanation": "Cushing's syndrome results in fat redistribution leading to a rounded 'moon' face."
-  },
-  {
-    "question": "What does the abbreviation 'PRN' stand for in a medical prescription?",
-    "options": ["Immediately", "As needed", "Twice a day", "After meals"],
-    "correct_index": 1,
-    "explanation": "PRN is derived from the Latin 'pro re nata,' meaning 'as needed'."
-  },
-  {
-    "question": "Identify the legal term for a nurse threatening a patient with a procedure to enforce compliance:",
-    "options": ["Battery", "Assault", "Slander", "Libel"],
-    "correct_index": 1,
-    "explanation": "Assault is an intentional act that creates an apprehension of harmful contact."
-  },
-  {
-    "question": "Which electrolyte imbalance is associated with twitching of facial muscles upon tapping the facial nerve (Chvostek's sign)?",
-    "options": ["Hypokalemia", "Hypocalcemia", "Hypernatremia", "Hypomagnesemia"],
-    "correct_index": 1,
-    "explanation": "Chvostek's sign is a classic indicator of hypocalcemia."
-  },
-  {
-    "question": "Identify the orthopedic device used primarily to immobilize fractures of the femur:",
-    "options": ["Knee Immobilizer", "Thomas Splint", "Cramer Wire Splint", "Bohler-Braun Splint"],
-    "correct_index": 1,
-    "explanation": "The Thomas splint is used to immobilize femur fractures and provide traction."
-  },
-  {
-    "question": "Which organ is primarily affected in a patient with Cirrhosis?",
-    "options": ["Kidneys", "Heart", "Liver", "Lungs"],
+    "question": "A student observes a body moving with constant speed along a circular path. Which of the following best represents the graphical relationship between its speed and time for one complete revolution?",
+    "options": ["A line sloping upwards with time", "A curved line increasing with time", "A horizontal straight line parallel to the time axis", "A sinusoidal curve above the time axis"],
     "correct_index": 2,
-    "explanation": "Cirrhosis is a late-stage liver disease characterized by permanent scarring."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "The 'Rule of Nines' is used to assess:",
-    "options": ["Level of consciousness", "Percentage of body surface area burned", "Cardiac output", "Fetal growth"],
+    "question": "What is the size of the image produced by a concave lens compared to the object?",
+    "options": ["Equal to the focal length", "Smaller than the object", "Same size as the object", "Larger than the object"],
     "correct_index": 1,
-    "explanation": "The Rule of Nines estimates the total body surface area (TBSA) affected by burns."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Identify the suture needle that pierces rather than cuts tissue, ideal for soft organs:",
-    "options": ["Cutting needle", "Reverse cutting needle", "Round bodied needle", "Taper point needle"],
-    "correct_index": 2,
-    "explanation": "Round bodied needles are used for soft tissues like bowel or fascia."
-  },
-  {
-    "question": "Which of the following is a sign of right-sided heart failure?",
-    "options": ["Pulmonary edema", "Jugular venous distention (JVD)", "Dyspnea", "Crackles in lungs"],
-    "correct_index": 1,
-    "explanation": "Right-sided heart failure causes blood to back up into the systemic circulation, leading to JVD."
-  },
-  {
-    "question": "Identify this PPE designed to achieve a very close facial fit and filter airborne particles:",
-    "options": ["Surgical mask", "N95 respirator", "Face shield", "Goggles"],
-    "correct_index": 1,
-    "explanation": "An N95 respirator is designed for efficient filtration of airborne pathogens."
-  },
-  {
-    "question": "What is the normal range for adult intracranial pressure (ICP)?",
-    "options": ["0-5 mmHg", "5-15 mmHg", "20-30 mmHg", "40-50 mmHg"],
-    "correct_index": 1,
-    "explanation": "Normal ICP for a resting adult is generally between 5 and 15 mmHg."
-  },
-  {
-    "question": "Identify the maneuver using abdominal thrusts to clear an upper airway obstruction:",
-    "options": ["Valsalva maneuver", "Leopold's maneuver", "Heimlich maneuver", "Epley maneuver"],
-    "correct_index": 2,
-    "explanation": "The Heimlich maneuver is used during a choking emergency."
-  },
-  {
-    "question": "Which hormone is detected in a urine pregnancy test?",
-    "options": ["Estrogen", "Progesterone", "Human Chorionic Gonadotropin (hCG)", "Luteinizing Hormone (LH)"],
-    "correct_index": 2,
-    "explanation": "hCG is the primary marker for pregnancy detected in urine."
-  },
-  {
-    "question": "Identify the surgical instrument with short, sturdy jaws and a central groove for gripping needles:",
-    "options": ["Artery forceps", "Mosquito forceps", "Needle holder", "Retractor"],
-    "correct_index": 2,
-    "explanation": "Needle holders are specifically designed to grip needles during suturing."
-  },
-  {
-    "question": "In a 10-year-old child, the pulse is typically checked at which site during CPR?",
-    "options": ["Brachial", "Carotid", "Radial", "Femoral"],
-    "correct_index": 1,
-    "explanation": "The carotid artery is the recommended site for checking a pulse in children and adults."
-  },
-  {
-    "question": "The presence of sugar in the urine is called:",
-    "options": ["Proteinuria", "Glycosuria", "Hematuria", "Ketonuria"],
-    "correct_index": 1,
-    "explanation": "Glycosuria is the excretion of glucose into the urine."
-  },
-  {
-    "question": "Identify the high-flow oxygen device featuring color-coded diluter jets:",
-    "options": ["Nasal cannula", "Simple face mask", "Venturi mask", "Non-rebreather mask"],
-    "correct_index": 2,
-    "explanation": "Venturi masks deliver a precise concentration of oxygen."
-  },
-  {
-    "question": "What is the antidote for Heparin overdose?",
-    "options": ["Vitamin K", "Protamine Sulfate", "Naloxone", "Flumazenil"],
-    "correct_index": 1,
-    "explanation": "Protamine sulfate reverses the anticoagulant effects of heparin."
-  },
-  {
-    "question": "Identify the anatomical location of the 'Apical Pulse':",
-    "options": ["2nd intercostal space, right sternal border", "5th intercostal space, midclavicular line", "4th intercostal space, left sternal border", "Neck"],
-    "correct_index": 1,
-    "explanation": "The apical pulse is found at the apex of the heart (5th ICS, MCL)."
-  },
-  {
-    "question": "Identify the equipment used to provide high-flow oxygen with a precise FiO2:",
-    "options": ["Nasal Cannula", "Simple Face Mask", "Venturi Mask", "Non-rebreather Mask"],
-    "correct_index": 2,
-    "explanation": "The Venturi mask is the most accurate device for delivering specific FiO2."
-  },
-  {
-    "question": "A bright red, bumpy 'strawberry tongue' is a classic diagnostic sign of:",
-    "options": ["Scarlet Fever", "Measles", "Chickenpox", "Mumps"],
-    "correct_index": 0,
-    "explanation": "Strawberry tongue is characteristic of Scarlet Fever and Kawasaki disease."
-  },
-  {
-    "question": "Which surgical instrument features a distinctive 'tooth' at the tip to grasp slippery tissue?",
-    "options": ["Allis Forceps", "Kocher's Forceps", "Babcock Forceps", "Kelly Clamp"],
-    "correct_index": 1,
-    "explanation": "Kocher's forceps have a tooth at the tip for a non-slip grip on heavy tissue."
-  },
-  {
-    "question": "Identify the ECG finding characterized by an 'irregularly irregular' rhythm and no P-waves:",
-    "options": ["Atrial Flutter", "Atrial Fibrillation", "Ventricular Tachycardia", "Sinus Arrhythmia"],
-    "correct_index": 1,
-    "explanation": "In Atrial Fibrillation, the atria quiver, resulting in no discernible P-waves."
-  },
-  {
-    "question": "What is the recommended site for an IM injection in an infant under 12 months?",
-    "options": ["Deltoid muscle", "Dorsogluteal muscle", "Vastus lateralis muscle", "Ventrogluteal muscle"],
-    "correct_index": 2,
-    "explanation": "The vastus lateralis is the preferred site for infants."
-  },
-  {
-    "question": "Which position is most appropriate for a patient undergoing a lumbar puncture?",
-    "options": ["Supine", "Prone", "C-shaped lateral recumbent", "Trendelenburg"],
-    "correct_index": 2,
-    "explanation": "A side-lying C-shape position opens the spaces between the vertebrae."
-  },
-  {
-    "question": "Identify the condition where the patient’s hands show a 'swan neck' deformity:",
-    "options": ["Osteoarthritis", "Rheumatoid Arthritis", "Gout", "Carpal Tunnel Syndrome"],
-    "correct_index": 1,
-    "explanation": "Swan neck deformity is a classic sign of chronic Rheumatoid Arthritis."
-  },
-  {
-    "question": "The 'Rule of Nines' assigns what percentage to the head and neck of an adult?",
-    "options": ["4.5%", "9%", "18%", "1%"],
-    "correct_index": 1,
-    "explanation": "The head and neck combined account for 9% of TBSA."
-  },
-  {
-    "question": "Which electrolyte imbalance is suspected when an ECG shows a 'U-wave' following the T-wave?",
-    "options": ["Hyperkalemia", "Hypokalemia", "Hypercalcemia", "Hyponatremia"],
-    "correct_index": 1,
-    "explanation": "A prominent U-wave is a classic ECG marker for hypokalemia."
-  },
-  {
-    "question": "What is the primary purpose of a 'Negative Pressure Room'?",
-    "options": ["To protect immunocompromised patients", "To prevent the spread of airborne infections", "To store sterile supplies", "To perform minor surgeries"],
-    "correct_index": 1,
-    "explanation": "Negative pressure contains airborne pathogens like TB."
-  },
-  {
-    "question": "Which cranial nerve is tested by asking the patient to shrug their shoulders?",
-    "options": ["CN IX", "CN X", "CN XI", "CN XII"],
-    "correct_index": 2,
-    "explanation": "The Spinal Accessory nerve (CN XI) controls the shrugging muscles."
-  },
-  {
-    "question": "A patient’s ABG results show: pH 7.25, PaCO2 55, HCO3 24. This indicates:",
-    "options": ["Respiratory Alkalosis", "Metabolic Acidosis", "Respiratory Acidosis", "Metabolic Alkalosis"],
-    "correct_index": 2,
-    "explanation": "Low pH (<7.35) and high PaCO2 (>45) indicate respiratory acidosis."
-  },
-  {
-    "question": "Which assessment is highest priority for a patient receiving Magnesium Sulfate?",
-    "options": ["Blood pressure", "Deep tendon reflexes", "Body temperature", "Bowel sounds"],
-    "correct_index": 1,
-    "explanation": "Loss of DTRs is an early sign of magnesium toxicity."
-  },
-  {
-    "question": "In the 'ABCs' of emergency care, what does 'C' stand for?",
-    "options": ["Comfort", "Circulation", "Consciousness", "Communication"],
-    "correct_index": 1,
-    "explanation": "ABC stands for Airway, Breathing, and Circulation."
-  },
-  {
-    "question": "Pain in the calf upon dorsiflexion of the foot (Homan's sign) indicates:",
-    "options": ["DVT (Deep Vein Thrombosis)", "Fractured Tibia", "Achilles Tendon Rupture", "Varicose Veins"],
-    "correct_index": 0,
-    "explanation": "Homan's sign was traditionally used to screen for DVT."
-  },
-  {
-    "question": "What is the normal therapeutic range for Digoxin?",
-    "options": ["0.5 to 2.0 ng/mL", "5.0 to 10.0 ng/mL", "0.1 to 0.5 ng/mL", "10 to 20 ng/mL"],
-    "correct_index": 0,
-    "explanation": "The therapeutic range for Digoxin is 0.5 to 2.0 ng/mL."
-  },
-  {
-    "question": "Which maneuver is used to open the airway of a patient with a suspected spinal injury?",
-    "options": ["Head-tilt/chin-lift", "Jaw-thrust maneuver", "Valsalva maneuver", "Leopold maneuver"],
-    "correct_index": 1,
-    "explanation": "The jaw-thrust opens the airway without moving the neck."
-  },
-  {
-    "question": "A 'Moon Face' and 'Buffalo Hump' are associated with:",
-    "options": ["Addison's Disease", "Cushing's Syndrome", "Diabetes Mellitus", "Hypothyroidism"],
-    "correct_index": 1,
-    "explanation": "These result from high cortisol levels in Cushing's Syndrome."
-  },
-  {
-    "question": "Identify the isolation precaution required for a patient with Pulmonary Tuberculosis:",
-    "options": ["Contact Precautions", "Droplet Precautions", "Airborne Precautions", "Standard Precautions"],
-    "correct_index": 2,
-    "explanation": "TB requires Airborne Precautions (N95 mask, negative pressure)."
-  },
-  {
-    "question": "Which of the following is an example of a 'High-Alert Medication'?",
-    "options": ["Amoxicillin", "Insulin", "Multivitamins", "Docusate Sodium"],
-    "correct_index": 1,
-    "explanation": "High-alert medications like Insulin have a high risk of causing harm if errored."
-  },
-  {
-    "question": "What is the primary purpose of using a 'Z-track' method for IM injections?",
-    "options": ["Painless injection", "Prevent medication leaking into subcutaneous tissue", "Reach the bone", "Speed up absorption"],
-    "correct_index": 1,
-    "explanation": "Z-track seals medication in the muscle."
-  },
-  {
-    "question": "In triage, which color tag is assigned to immediate life-saving interventions?",
-    "options": ["Green", "Yellow", "Red", "Black"],
-    "correct_index": 2,
-    "explanation": "Red tags are for 'Immediate' priority."
-  },
-  {
-    "question": "Which vitamin deficiency leads to Xerophthalmia (preventable blindness)?",
-    "options": ["Vitamin B1", "Vitamin C", "Vitamin A", "Vitamin D"],
-    "correct_index": 2,
-    "explanation": "Vitamin A is essential for healthy vision."
-  },
-  {
-    "question": "Identify the medical term for a 'runny nose':",
-    "options": ["Epistaxis", "Rhinorrhea", "Dyspnea", "Hemoptysis"],
-    "correct_index": 1,
-    "explanation": "Rhinorrhea is the medical term for nasal discharge."
-  },
-  {
-    "question": "Which organ is the primary site for drug metabolism?",
-    "options": ["Kidneys", "Liver", "Lungs", "Small Intestine"],
-    "correct_index": 1,
-    "explanation": "The liver is the main organ for biotransformation of drugs."
-  },
-  {
-    "question": "Which is the largest gland in the human body?",
-    "options": ["Pancreas", "Liver", "Thyroid", "Pituitary"],
-    "correct_index": 1,
-    "explanation": "The liver is the largest internal organ and gland."
-  },
-  {
-    "question": "Identify the position used for childbirth where hips/knees are flexed and thighs abducted:",
-    "options": ["Sims' Position", "Lithotomy Position", "Dorsal Recumbent", "Prone Position"],
-    "correct_index": 1,
-    "explanation": "Lithotomy involves stirrups to support legs for pelvic access."
-  },
-  {
-    "question": "A Glasgow Coma Scale (GCS) score of 7 indicates:",
-    "options": ["Minor injury", "Moderate injury", "Severe injury/Coma", "Brain death"],
-    "correct_index": 2,
-    "explanation": "A GCS score of 8 or less defines a coma."
-  },
-  {
-    "question": "Inability to extend the leg at the knee when the hip is flexed (Kernig’s sign) indicates:",
-    "options": ["Brudzinski’s sign", "Kernig’s sign", "Chvostek’s sign", "Trousseau’s sign"],
-    "correct_index": 1,
-    "explanation": "Kernig’s sign is a clinical sign of meningitis."
-  },
-  {
-    "question": "What is the primary purpose of a 'Pulse Oximeter'?",
-    "options": ["Measure BP", "Measure heart rate only", "Measure oxygen saturation", "Measure glucose"],
-    "correct_index": 2,
-    "explanation": "It monitors hemoglobin saturated with oxygen (SpO2)."
-  },
-  {
-    "question": "The 'Gold Standard' for confirming NG tube placement is:",
-    "options": ["Gastric aspiration", "Auscultating air", "X-ray", "Checking pH"],
-    "correct_index": 2,
-    "explanation": "X-ray is the only definitive confirmation method."
-  },
-  {
-    "question": "Identify the clinical condition characterized by 'Rice Water Stools':",
-    "options": ["Typhoid", "Cholera", "Amoebiasis", "Dysentery"],
-    "correct_index": 1,
-    "explanation": "Cholera causes profuse, watery diarrhea resembling rice water."
-  },
-  {
-    "question": "What is the recommended 2-rescuer CPR ratio for an infant?",
-    "options": ["30:2", "15:2", "3:1", "5:1"],
-    "correct_index": 1,
-    "explanation": "2-rescuer CPR in infants uses a 15:2 ratio."
-  },
-  {
-    "question": "Which equipment is used to visualize vocal cords during intubation?",
-    "options": ["Bronchoscope", "Laryngoscope", "Endoscope", "Ophthalmoscope"],
-    "correct_index": 1,
-    "explanation": "A laryngoscope is used to see the glottic opening."
-  },
-  {
-    "question": "Identify the term for 'difficulty in swallowing':",
-    "options": ["Dysphasia", "Dyspnea", "Dysphagia", "Dysuria"],
-    "correct_index": 2,
-    "explanation": "Dysphagia is difficulty swallowing."
-  },
-  {
-    "question": "Which assessment involves tapping skin to assess underlying density?",
-    "options": ["Palpation", "Percussion", "Auscultation", "Inspection"],
-    "correct_index": 1,
-    "explanation": "Percussion helps determine if an area is air or fluid-filled."
-  },
-  {
-    "question": "A patient on Warfarin should have which lab value monitored?",
-    "options": ["aPTT", "PT/INR", "Creatinine", "Platelets"],
-    "correct_index": 1,
-    "explanation": "PT/INR monitors Warfarin effectiveness."
-  },
-  {
-    "question": "What is the 'Rule of Nines' percentage for the anterior trunk?",
-    "options": ["9%", "18%", "4.5%", "1%"],
-    "correct_index": 1,
-    "explanation": "The anterior trunk accounts for 18%."
-  },
-  {
-    "question": "Identify the term for a heart rate below 60 BPM:",
-    "options": ["Tachycardia", "Bradycardia", "Arrhythmia", "Palpitation"],
-    "correct_index": 1,
-    "explanation": "Bradycardia is a slow heart rate."
-  },
-  {
-    "question": "Which insulin is short-acting and can be given IV?",
-    "options": ["Glargine", "NPH", "Regular Insulin", "Lispro"],
-    "correct_index": 2,
-    "explanation": "Regular insulin is the only type typically used for IV."
-  },
-  {
-    "question": "Identify the instrument used to measure intraocular pressure:",
-    "options": ["Sphygmomanometer", "Tonometer", "Otoscope", "Glucometer"],
-    "correct_index": 1,
-    "explanation": "Tonometry measures pressure within the eye."
-  },
-  {
-    "question": "What is the most common site for Bone Marrow Aspiration in an adult?",
-    "options": ["Sternum", "Iliac Crest", "Femur", "Tibia"],
-    "correct_index": 1,
-    "explanation": "The posterior superior iliac crest is the most common site."
-  },
-  {
-    "question": "A 'Positive Trousseau Sign' indicates which electrolyte imbalance?",
-    "options": ["Hyperkalemia", "Hyponatremia", "Hypocalcemia", "Hypermagnesemia"],
-    "correct_index": 2,
-    "explanation": "Trousseau's sign is an indicator of hypocalcemia."
-  },
-  {
-    "question": "Identify the first-line medication for acute anaphylactic reaction:",
-    "options": ["Diphenhydramine", "Epinephrine", "Hydrocortisone", "Albuterol"],
-    "correct_index": 1,
-    "explanation": "Epinephrine is the drug of choice for anaphylaxis."
-  },
-  {
-    "question": "Which nursing process step involves comparing current status with goals?",
-    "options": ["Assessment", "Planning", "Implementation", "Evaluation"],
+    "question": "The Rural Infrastructure Development Fund is maintained by",
+    "options": ["India Infrastructure Trust", "Securities and Exchange Board of India", "Reserve Bank of India", "National Bank for Agriculture and Rural Development"],
     "correct_index": 3,
-    "explanation": "Evaluation determines if goals were met."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Which vitamin is essential for calcium absorption?",
-    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
-    "correct_index": 3,
-    "explanation": "Vitamin D is essential for calcium absorption."
-  },
-  {
-    "question": "Identify the term for 'blood in the urine':",
-    "options": ["Glycosuria", "Proteinuria", "Hematuria", "Pyuria"],
+    "question": "Which of the following shows oxidation?",
+    "options": ["Addition of Hydrogen", "Loss of oxygen", "Addition of oxygen", "Gain of electrons."],
     "correct_index": 2,
-    "explanation": "Hematuria is blood in the urine."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "Which scale assesses risk for developing pressure ulcers?",
-    "options": ["GCS Scale", "Braden Scale", "Apgar Score", "Fall Risk Scale"],
+    "question": "Which of the following is the correct order of the four stages of a typical business cycle?",
+    "options": ["Expansion, Peak, Contraction, Trough", "Peak, Expansion, Trough, Contraction", "Expansion, Contraction, Peak, Trough", "Trough, Expansion, Peak, Contraction"],
+    "correct_index": 0,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "In a certain code language, 'FRUIT' is written as 'HUXLW' and 'GRAPE' is written as 'ITDSG'. How will 'APPLE' be written in that language?",
+    "options": ["CRRNL", "CSSOG", "CRRNH", "CTTMH"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which among the following was the first city in India to be declared as a UNESCO World Heritage City?",
+    "options": ["Ahmedabad", "Jaipur", "Varanasi", "Mumbai"],
+    "correct_index": 0,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "A sum of money at compound interest amounts to ₹672 in 2 years and to ₹714 in 3 years. Find the rate of interest per annum.",
+    "options": ["6.25%", "5.5%", "6%", "5%"],
+    "correct_index": 0,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which part of the human eye controls the amount of light entering the eye by adjusting the size of the pupil?",
+    "options": ["Cornea", "Iris", "Retina", "Lens"],
     "correct_index": 1,
-    "explanation": "The Braden Scale evaluates skin breakdown risk."
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "The currency of Bangladesh is:",
-    "options": ["Rupee", "Dollar", "Pound", "Taka"],
-    "correct_index": 3,
-    "explanation": "The Taka is the official currency of Bangladesh."
+    "question": "Who was the first woman to be elected as the President of the Indian National Congress?",
+    "options": ["Sarojini Naidu", "Annie Besant", "Nellie Sengupta", "Indira Gandhi"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
   },
   {
-    "question": "The subjective emotional response experienced after loss is called:",
-    "options": ["Bereavement", "Mourning", "Compliance", "Grief"],
+    "question": "If 'P @ Q' means 'P is the mother of Q', 'P $ Q' means 'P is the husband of Q', and 'P # Q' means 'P is the sister of Q', which of the following represents 'A is the aunt of C'?",
+    "options": ["A # B @ C", "A @ B # C", "A $ B @ C", "A # B $ C"],
+    "correct_index": 0,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "What is the common name for the compound Calcium Oxychloride (CaOCl2)?",
+    "options": ["Baking Soda", "Washing Soda", "Bleaching Powder", "Plaster of Paris"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "A shopkeeper marks his goods 20% above the cost price and allows a discount of 10% on the marked price. What is his profit percentage?",
+    "options": ["8%", "10%", "12%", "5%"],
+    "correct_index": 0,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which of the following elements has the largest atomic radius?",
+    "options": ["Lithium", "Beryllium", "Boron", "Carbon"],
+    "correct_index": 0,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which of the following elements is a metalloid?",
+    "options": ["Sodium", "Sulfur", "Silicon", "Silver"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "What is the primary function of the hormone Insulin in the human body?",
+    "options": ["To increase blood pressure", "To regulate blood glucose levels", "To stimulate red blood cell production", "To aid in the digestion of fats"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "In the context of Indian History, who was the founder of the Maurya Empire?",
+    "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Chandragupta I"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km/hr?",
+    "options": ["3.6 km/hr", "7.2 km/hr", "8.4 km/hr", "10 km/hr"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which of the following is a non-renewable source of energy?",
+    "options": ["Solar Energy", "Wind Energy", "Natural Gas", "Hydroelectric Power"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "The 'Right to Education' was added as a Fundamental Right in the Indian Constitution by which Amendment?",
+    "options": ["42nd Amendment", "44th Amendment", "86th Amendment", "92nd Amendment"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "If 'FRIDGE' is coded as 'GTLHHK', how is 'KETTLE' coded in that language?",
+    "options": ["LGVWLK", "LHVXMK", "LGUXMH", "LGVXMK"],
     "correct_index": 3,
-    "explanation": "Grief is the internal, personal, and emotional response to death."
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": ["Anemometer", "Barometer", "Hygrometer", "Thermometer"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Find the odd one out: 27, 64, 125, 144, 216",
+    "options": ["27", "125", "144", "216"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which among the following is the largest gland in the human body?",
+    "options": ["Pancreas", "Liver", "Thyroid", "Adrenal"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "In a certain code language, if 'WATER' is written as 'YCVGT', how will 'H2O' be written in that same language?",
+    "options": ["J4Q", "I3P", "J2Q", "K4R"],
+    "correct_index": 0,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Who was the first Governor-General of independent India?",
+    "options": ["Lord Mountbatten", "C. Rajagopalachari", "Rajendra Prasad", "Jawaharlal Nehru"],
+    "correct_index": 0,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "A sum of ₹12,500 amounts to ₹15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
+    "options": ["3%", "4%", "5%", "6%"],
+    "correct_index": 3,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which of the following diseases is caused by the deficiency of Vitamin C?",
+    "options": ["Rickets", "Scurvy", "Beriberi", "Night Blindness"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "The 'Panchayat Raj System' was first adopted by which Indian state?",
+    "options": ["Rajasthan", "Andhra Pradesh", "Madhya Pradesh", "Maharashtra"],
+    "correct_index": 0,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "A mother is twice as old as her son. 20 years ago, the age of the mother was 10 times the age of the son. What is the present age of the mother?",
+    "options": ["38 years", "40 years", "45 years", "50 years"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which gas is known as 'Laughing Gas'?",
+    "options": ["Nitric Oxide", "Nitrogen Dioxide", "Nitrous Oxide", "Nitrogen Pentoxide"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "In which year did the Dandi March take place?",
+    "options": ["1920", "1930", "1942", "1919"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which of the following is a primary objective of the 'Swachh Bharat Abhiyan' launched by the Government of India?",
+    "options": ["To provide digital literacy to rural areas", "To achieve universal sanitation coverage and eliminate open defecation", "To provide free electricity to all households", "To promote the use of electric vehicles"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "In a certain code language, if 'BIRD' is written as 'CJSE', how will 'FISH' be written in that same language?",
+    "options": ["GJTJ", "GITI", "GKTI", "GJTI"],
+    "correct_index": 3,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "options": ["C.V. Raman", "Mother Teresa", "Rabindranath Tagore", "Hargobind Khorana"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "A train 150 m long passes a pole in 15 seconds. What is the speed of the train in km/hr?",
+    "options": ["30 km/hr", "36 km/hr", "40 km/hr", "45 km/hr"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which layer of the Earth's atmosphere contains the Ozone layer?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "The 'Fundamental Duties' were incorporated into the Indian Constitution on the recommendation of which committee?",
+    "options": ["Verma Committee", "Sarkaria Commission", "Swaran Singh Committee", "Balwant Rai Mehta Committee"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "If 'MOUSE' is coded as 'KPUQC', how is 'LIGHT' coded in that language?",
+    "options": ["JKIFV", "JKGIV", "JKIEV", "KKIEV"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which of the following is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correct_index": 3,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "In the Indian Parliament, who presides over the joint sitting of both Houses?",
+    "options": ["The President of India", "The Vice-President of India", "The Prime Minister of India", "The Speaker of the Lok Sabha"],
+    "correct_index": 3,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Find the missing number in the series: 2, 6, 12, 20, 30, ?",
+    "options": ["38", "40", "42", "44"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which of the following is a unit of power?",
+    "options": ["Joule", "Newton", "Watt", "Ampere"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Who was the first Indian woman to win an Olympic medal?",
+    "options": ["Saina Nehwal", "Mary Kom", "Karnam Malleswari", "P.V. Sindhu"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "In the human body, where is the 'Pituitary Gland' located?",
+    "options": ["In the neck", "Above the kidneys", "At the base of the brain", "Near the pancreas"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which among the following is the highest civilian award in India?",
+    "options": ["Padma Vibhushan", "Bharat Ratna", "Param Vir Chakra", "Padma Bhushan"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "If 'SUN' is coded as '27', how is 'MOON' coded in that language?",
+    "options": ["51", "53", "57", "59"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which of the following is a vector quantity?",
+    "options": ["Mass", "Speed", "Distance", "Velocity"],
+    "correct_index": 3,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Who is known as the 'Iron Man of India'?",
+    "options": ["Subhas Chandra Bose", "Sardar Vallabhbhai Patel", "Bhagat Singh", "Lal Bahadur Shastri"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "The 'Kaziranga National Park' is famous for which animal?",
+    "options": ["Bengal Tiger", "One-horned Rhinoceros", "Asiatic Lion", "Snow Leopard"],
+    "correct_index": 1,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Find the next number in the sequence: 5, 11, 23, 47, ?",
+    "options": ["91", "93", "95", "97"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
+  },
+  {
+    "question": "Which of the following is the smallest planet in our solar system?",
+    "options": ["Venus", "Mars", "Mercury", "Neptune"],
+    "correct_index": 2,
+    "explanation": "Based on the official answer key provided in the document."
   }
 ]
