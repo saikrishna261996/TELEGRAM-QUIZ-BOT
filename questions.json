@@ -1,428 +1,602 @@
 [
   {
-    "question": "The volume of a solid cylinder is 80,850 $cm^{3}$ and its height is 21 cm. What is the total surface area of the solid cylinder? Use $\\pi=\\frac{22}{7})$",
-    "options": ["12,312 cm2", "12,320 cm2", "12,331 cm2", "12,289 cm2"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which amendment act increased the Lok Sabha seats from 525 to 545?",
-    "options": ["Thirty-First Amendment", "Thirty-Fifth Amendment", "Thirty-Ninth Amendment", "Twenty-Seventh Amendment"],
+    "question": "The contraceptive method that also offers protection against sexually transmitted infection is:",
+    "options": ["Latex condom use", "Oral contraceptive use", "Intrauterine device insertion", "Withdrawal method"],
     "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Latex condoms act as a physical barrier that prevents the exchange of body fluids (semen, vaginal secretions, or blood), which is the primary mode of transmission for STIs like HIV, Syphilis, and Gonorrhea. Other methods like OCPs or IUDs only prevent pregnancy through hormonal or mechanical means within the uterus."
   },
   {
-    "question": "Simplify: $\\frac{1.2\\times1.2\\times1.2-0.12\\times0.12\\times0.12}{12\\times12\\times12}$",
-    "options": ["0.00999", "0.0000999", "0.000999", "0.0999"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Seven people H, I, J, K, O, P and Q are sitting around a circular table facing the center of the table. I sits third to the left of K. J sits second to the left of P. K is an immediate neighbour of both H and J. Q is not an immediate neighbor of I. How many people sit between O and J when counted from the right of O?",
-    "options": ["Four", "Two", "Three", "One"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Who has written the book 'Beyond the Syllabus: The Real-Life Guide for Teenagers Who Want More than Just Marks', published in July 2025?",
-    "options": ["Ankur Warikoo", "Prajakta Koli", "Santanu Bhattacharya", "Amish Tripathi"],
+    "question": "Carpal tunnel syndrome is caused by the compression of:",
+    "options": ["The median nerve", "The radial nerve", "The ulnar nerve", "The femoral nerve"],
     "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Carpal Tunnel Syndrome occurs when the median nerve, which runs from the forearm into the palm of the hand, becomes pressed or squeezed at the wrist. This nerve controls sensations to the palm side of the thumb and fingers (except the little finger)."
   },
   {
-    "question": "If 'A' stands for '+', 'B' stands for 'x', 'C' stands for '÷' and 'D' stands for '-', what will come in place of the question mark'?' in the following equation? 6B2D14A7C2=?",
-    "options": ["8", "12", "10", "14"],
+    "question": "Amoebiasis is caused by:",
+    "options": ["Entamoeba histolytica", "Toxoplasma gondii", "Leishmania donovani", "Trypanosoma cruzi"],
+    "correct_index": 0,
+    "explanation": "Amoebiasis is a gastrointestinal infection caused by the protozoan parasite Entamoeba histolytica. It is primarily transmitted through the fecal-oral route, often via contaminated food or water."
+  },
+  {
+    "question": "is a family therapy approach that focuses on both the biological and the psychosocial components of a problem.",
+    "options": ["Integrative approach", "Bowen approach", "Psychoanalytic approach", "Structural approach"],
+    "correct_index": 0,
+    "explanation": "The Integrative approach in family therapy combines various therapeutic techniques and theories (biological, psychological, and social) to tailor treatment to the specific needs of the family unit, recognizing that problems are often multi-faceted."
+  },
+  {
+    "question": "Which of the following is NOT a physical assessment finding in Parkinson's disease?",
+    "options": ["Absence of cognitive impairment", "Mask-like expression", "Dysarthria", "Pill rolling tremors of the fingers"],
+    "correct_index": 0,
+    "explanation": "Cognitive impairment (including dementia) is a common non-motor symptom of Parkinson's disease, occurring in a significant percentage of patients as the disease progresses. Therefore, the 'absence' of it is not a standard finding."
+  },
+  {
+    "question": "The neonatal period is defined as:",
+    "options": ["The first 7 days of life", "The first 28 days of life", "The first day of life", "From 1 month to 1 year of life."],
     "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "In pediatrics, the neonatal period refers to the first 28 days of a simplified life (0-27 days). This period is critical as it carries the highest risk of mortality and requires specialized care."
   },
   {
-    "question": "What determines the amount of water reabsorbed during the formation of urine in human kidneys?",
-    "options": ["The overall physical size and measurable dimensions of the human kidneys", "The specific type of food regularly eaten and normally consumed daily", "The oxygen level present within the circulating blood throughout the body", "The amount of excess water and dissolved waste the human body must remove"],
+    "question": "Individuals who do NOT make decision unless they are aware of all the facts pertaining to a certain situation are called:",
+    "options": ["Introvert", "Open minded", "Extrovert", "Judgmental"],
+    "correct_index": 1,
+    "explanation": "Open-minded individuals are characterized by their willingness to consider all relevant facts and different perspectives before reaching a conclusion or making a final decision."
+  },
+  {
+    "question": "The pH of arterial plasma in healthy individuals is:",
+    "options": ["7.5", "7.6", "7.4", "7.2"],
+    "correct_index": 2,
+    "explanation": "The human body maintains arterial blood pH within a very narrow range of 7.35 to 7.45. A value of 7.4 represents the physiological neutral point for human blood."
+  },
+  {
+    "question": "A client with C4 spinal cord injury is at greatest risk for:",
+    "options": ["Neurogenic shock", "Respiratory compromise", "Paralytic ileus", "Stress ulcer"],
+    "correct_index": 1,
+    "explanation": "The phrenic nerve, which controls the diaphragm, emerges from the C3-C5 spinal levels. An injury at C4 often leads to partial or total paralysis of the diaphragm, making respiratory failure the most immediate life-threatening risk."
+  },
+  {
+    "question": "Which of the following is NOT a feature of a healthy mouth?",
+    "options": ["Dry and rough lips", "Pink and moist mouth", "Teeth free of debris", "Adequate salivation"],
+    "correct_index": 0,
+    "explanation": "Dry and rough lips are signs of dehydration or local infection (cheilitis). A healthy mouth should have moist, pink membranes, adequate saliva, and clean teeth."
+  },
+  {
+    "question": "In HIV, the virus CANNOT be transmitted by:",
+    "options": ["Shaking hands", "Blood transfusion", "Sexual intercourse", "Sharing of needles"],
+    "correct_index": 0,
+    "explanation": "HIV is transmitted through specific body fluids (blood, semen, pre-seminal fluid, rectal fluids, vaginal fluids, and breast milk). It cannot survive on the skin or be transmitted through casual social contact like shaking hands or hugging."
+  },
+  {
+    "question": "The major class of immunoglobulin present in human serum is:",
+    "options": ["IgA", "IgM", "IgE", "IgG"],
     "correct_index": 3,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Immunoglobulin G (IgG) is the most prevalent antibody in the blood and tissue fluids, accounting for approximately 75-80% of all antibodies in the human body."
   },
   {
-    "question": "Select the pair that follows the same pattern as that followed by the two set of pairs given below. Both pairs follow the same pattern. OKN-JFI, GCF-BXA",
-    "options": ["KFH-FBE", "KGJ-FBE", "KGJ-EBD", "KFH-EAD"],
+    "question": "All of the following are true regarding deontology, except?",
+    "options": ["It focuses on the consequences of actions", "It encompasses natural law", "It incorporates dutiful actions of an individual", "It is also known as formalism"],
+    "correct_index": 0,
+    "explanation": "Deontology (formalism) is an ethical theory that focuses on duty and adherence to rules, regardless of the outcome. Teleology/Utilitarianism is the theory that focuses on the 'consequences' of actions."
+  },
+  {
+    "question": "Which of the following is NOT a common problem of infants born to diabetic mothers?",
+    "options": ["Hyperglycemia", "Hypocalcemia", "Polycythemia", "Macrosomia"],
+    "correct_index": 0,
+    "explanation": "Infants of diabetic mothers (IDM) typically experience Hypoglycemia (low blood sugar) after birth because their pancreas is used to producing high levels of insulin to counter the mother's high glucose, which is suddenly cut off at birth."
+  },
+  {
+    "question": "The gold standard for the treatment of hot flushes is:",
+    "options": ["Oxytocin administration", "Progesterone administration", "Estrogen administration", "Serotonin administration"],
+    "correct_index": 2,
+    "explanation": "Hormone Replacement Therapy (HRT) using Estrogen is considered the most effective (gold standard) treatment for vasomotor symptoms (hot flushes) during menopause by stabilizing thermoregulation."
+  },
+  {
+    "question": "When the posterior bladder wall protrudes downward through the anterior vaginal wall. It is known as:",
+    "options": ["Rectocele", "Pyocele", "Cystocele", "Bubonocele"],
+    "correct_index": 2,
+    "explanation": "A cystocele occurs when the supportive tissue between a woman's bladder and vaginal wall weakens and stretches, allowing the bladder to bulge into the vagina."
+  },
+  {
+    "question": "In Duvall's eight developmental stages of a family life cycle. Couples come under:",
+    "options": ["Stage 1", "Stage 7", "Stage 8", "Stage 5"],
+    "correct_index": 0,
+    "explanation": "Stage 1 of Duvall's Family Life Cycle refers to the 'Beginning Families' or married couples without children."
+  },
+  {
+    "question": "Nursing was defined as 'the art of utilizing the environment of patients to assist them in their recovery' by:",
+    "options": ["Florence Nightingale", "Virginia Henderson", "Linda Richards", "Mary Breckinridge"],
+    "correct_index": 0,
+    "explanation": "Florence Nightingale's Environmental Theory emphasized that the nurse's primary role is to manipulate the patient's surroundings (light, air, cleanliness) to allow nature to act upon the patient for healing."
+  },
+  {
+    "question": "Which of the following is NOT an expected finding in the assessment of a client having increased intracranial pressure?",
+    "options": ["Unequal pupils", "Clear consciousness", "Irritability", "Headache"],
     "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Increased Intracranial Pressure (ICP) usually leads to an altered Level of Consciousness (LOC). Clear consciousness would be a sign of neurological stability, not increased pressure."
   },
   {
-    "question": "When a blood vessel is injured, ________ help(s) to plug the leak by clotting the blood.",
-    "options": ["red blood cells", "plasma", "lymphocytes", "platelets"],
+    "question": "Which of the following is INCORRECT with regard to bathing a baby or child?",
+    "options": ["It involves topping and tailing", "It is usually undertaken with bath toys", "It does not have a calming effect on the babies", "It offers an ideal opportunity for activities other than for their hygienic needs"],
+    "correct_index": 2,
+    "explanation": "Bathing generally has a significant calming and soothing effect on infants, helping to establish a routine and promoting sleep. Stating it 'does not' have a calming effect is incorrect."
+  },
+  {
+    "question": "A food item commonly associated with Bacillus cereus food poisoning is:",
+    "options": ["Honey", "Green beans", "Baked potato", "Fried rice"],
     "correct_index": 3,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Bacillus cereus is a toxin-producing bacterium commonly found in soil and vegetation. It is famously associated with 'Fried Rice Syndrome' because the spores can survive the initial boiling and multiply if the rice is left at room temperature."
   },
   {
-    "question": "Who appoints the members of the Union Public Service Commission in India?",
-    "options": ["Prime Minister of India", "Parliament of India", "President of India", "Supreme Court of India"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "A train travels 1/3 of the total distance at 40 km/hr, 1/4 of the total distance at 30 km/hr and the remaining distance at 60 km/hr. Find the average speed of the train.",
-    "options": ["48 km/hr", "42 km/hr", "50 km/hr", "45 km/hr"],
-    "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which of the following is considered the earliest known Marathi literary work?",
-    "options": ["Gathasaptasati", "Lilacharitra", "Jnanesvari", "Dipavamsa"],
+    "question": "The WHO initiative 'Right to Sight' is named as:",
+    "options": ["Vision 2015", "Vision 2020", "Vision 2030", "Vision 2025"],
     "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Vision 2020: The Right to Sight was a global joint initiative between the WHO and the International Agency for the Prevention of Blindness to eliminate avoidable blindness."
   },
   {
-    "question": "Sidhu Murmu and Kanhu Murmu were the leaders of which of the following rebellions?",
-    "options": ["Santhal Rebellion", "Jaintia and Garo Rebellion", "Munda Rebellion", "Halba Rebellion"],
-    "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
+    "question": "Withdrawal symptoms do NOT usually occur in case of which of the following medications?",
+    "options": ["Monoamine oxidase inhibitors.", "Non-steroidal anti-inflammatory drugs", "Selective serotonin reuptake inhibitors", "Tetracyclic anti-depressants"],
+    "correct_index": 1,
+    "explanation": "NSAIDs (like Ibuprofen or Aspirin) are non-addictive and do not alter brain chemistry in a way that causes physical dependence or withdrawal. Psychotropic drugs (MAOIs, SSRIs), however, often require tapering."
   },
   {
-    "question": "Each of the letters in the word JALOPIES are arranged in alphabetical order. How many letters are there in the English alphabetical order between the letter which is fourth from the left and the one which is second from the right in the new letter-cluster thus formed?",
-    "options": ["5", "4", "3", "6"],
-    "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "In a laboratory demonstration, a student adds hydrochloric acid to sodium hydrogencarbonate and collects the gas. How can the student confirm it is carbon dioxide?",
-    "options": ["It supports combustion.", "It extinguishes a burning splint.", "It turns limewater milky", "It forms a blue precipitate."],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "In December 2025, the plummeting AQI led to emergency-level restrictions, called GRAP-4, being implemented in which city of India?",
-    "options": ["Delhi", "Pune", "Chandigarh", "Chennai"],
-    "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "What is the typical size range of particles in a colloidal solution?",
-    "options": ["Larger than 1 millimeter", "More than 1000 nanometers", "Less than 1 nanometer", "1 to 100 nanometers"],
+    "question": "All of the following is true about positive-end expiratory pressure (PEEP), except?",
+    "options": ["It reduce venous return", "It improves alveolar gas exchange", "It prevents alveolar collapse", "It decrease mean airway pressure"],
     "correct_index": 3,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "PEEP actually 'increases' mean airway pressure because it maintains a set pressure in the lungs at the end of expiration to keep alveoli open."
   },
   {
-    "question": "A student observes a body moving with constant speed along a circular path. Which of the following best represents the graphical relationship between its speed and time for one complete revolution?",
-    "options": ["A line sloping upwards with time", "A curved line increasing with time", "A horizontal straight line parallel to the time axis", "A sinusoidal curve above the time axis"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "What is the size of the image produced by a concave lens compared to the object?",
-    "options": ["Equal to the focal length", "Smaller than the object", "Same size as the object", "Larger than the object"],
+    "question": "Which of the following is NOT a normal skin variation of newborns?",
+    "options": ["Vernix caseosa", "Bruises", "Nevus vasculosus", "Stork bites"],
     "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "While common during difficult births, bruises are considered trauma rather than a 'normal skin variation' like Vernix caseosa (protective waxy coating) or Stork bites (birthmarks)."
   },
   {
-    "question": "The Rural Infrastructure Development Fund is maintained by",
-    "options": ["India Infrastructure Trust", "Securities and Exchange Board of India", "Reserve Bank of India", "National Bank for Agriculture and Rural Development"],
+    "question": "A newborn temperature on an average ranges from:",
+    "options": ["36.5 to 37.5° C", "34.5 to 35.5°C", "38.5 to 39.5°C", "36.5 to 37.5°F"],
+    "correct_index": 0,
+    "explanation": "The normal axillary temperature for a newborn is between 36.5°C and 37.5°C. Temperatures outside this range indicate cold stress or potential infection."
+  },
+  {
+    "question": "Which of the following is NOT true regarding Brief Cognitive Therapy?",
+    "options": ["It puts greater emphasis on the cause of the problem", "It uses here-and now approach", "It uses goal-oriented approach", "It uses time-limited approach"],
+    "correct_index": 0,
+    "explanation": "Brief Cognitive Therapy focuses on solving 'current' problems and changing current dysfunctional thinking. It puts 'less' emphasis on historical causes compared to traditional psychoanalysis."
+  },
+  {
+    "question": "Anosmia is:",
+    "options": ["Difficulty in swallowing", "Lack of appetite", "Inadequate absorption from the gut", "Loss of sense of smell"],
     "correct_index": 3,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Anosmia is the medical term for the partial or complete loss of the sense of smell. It can be temporary or permanent."
   },
   {
-    "question": "Which of the following shows oxidation?",
-    "options": ["Addition of Hydrogen", "Loss of oxygen", "Addition of oxygen", "Gain of electrons."],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which of the following is the correct order of the four stages of a typical business cycle?",
-    "options": ["Expansion, Peak, Contraction, Trough", "Peak, Expansion, Trough, Contraction", "Expansion, Contraction, Peak, Trough", "Trough, Expansion, Peak, Contraction"],
-    "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "In a certain code language, 'FRUIT' is written as 'HUXLW' and 'GRAPE' is written as 'ITDSG'. How will 'APPLE' be written in that language?",
-    "options": ["CRRNL", "CSSOG", "CRRNH", "CTTMH"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which among the following was the first city in India to be declared as a UNESCO World Heritage City?",
-    "options": ["Ahmedabad", "Jaipur", "Varanasi", "Mumbai"],
-    "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "A sum of money at compound interest amounts to ₹672 in 2 years and to ₹714 in 3 years. Find the rate of interest per annum.",
-    "options": ["6.25%", "5.5%", "6%", "5%"],
-    "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which part of the human eye controls the amount of light entering the eye by adjusting the size of the pupil?",
-    "options": ["Cornea", "Iris", "Retina", "Lens"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Who was the first woman to be elected as the President of the Indian National Congress?",
-    "options": ["Sarojini Naidu", "Annie Besant", "Nellie Sengupta", "Indira Gandhi"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "If 'P @ Q' means 'P is the mother of Q', 'P $ Q' means 'P is the husband of Q', and 'P # Q' means 'P is the sister of Q', which of the following represents 'A is the aunt of C'?",
-    "options": ["A # B @ C", "A @ B # C", "A $ B @ C", "A # B $ C"],
-    "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "What is the common name for the compound Calcium Oxychloride (CaOCl2)?",
-    "options": ["Baking Soda", "Washing Soda", "Bleaching Powder", "Plaster of Paris"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "A shopkeeper marks his goods 20% above the cost price and allows a discount of 10% on the marked price. What is his profit percentage?",
-    "options": ["8%", "10%", "12%", "5%"],
-    "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which of the following elements has the largest atomic radius?",
-    "options": ["Lithium", "Beryllium", "Boron", "Carbon"],
-    "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which of the following elements is a metalloid?",
-    "options": ["Sodium", "Sulfur", "Silicon", "Silver"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "What is the primary function of the hormone Insulin in the human body?",
-    "options": ["To increase blood pressure", "To regulate blood glucose levels", "To stimulate red blood cell production", "To aid in the digestion of fats"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "In the context of Indian History, who was the founder of the Maurya Empire?",
-    "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Chandragupta I"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "A person crosses a 600 m long street in 5 minutes. What is his speed in km/hr?",
-    "options": ["3.6 km/hr", "7.2 km/hr", "8.4 km/hr", "10 km/hr"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which of the following is a non-renewable source of energy?",
-    "options": ["Solar Energy", "Wind Energy", "Natural Gas", "Hydroelectric Power"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "The 'Right to Education' was added as a Fundamental Right in the Indian Constitution by which Amendment?",
-    "options": ["42nd Amendment", "44th Amendment", "86th Amendment", "92nd Amendment"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "If 'FRIDGE' is coded as 'GTLHHK', how is 'KETTLE' coded in that language?",
-    "options": ["LGVWLK", "LHVXMK", "LGUXMH", "LGVXMK"],
+    "question": "The pathway through which a cell produces the maximum number ATP molecules is:",
+    "options": ["Pentose phosphate pathway", "Glycolysis", "Lactic acid fermentation", "TCA cycle"],
     "correct_index": 3,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "The TCA cycle (Krebs Cycle) followed by the Electron Transport Chain (Oxidative Phosphorylation) produces significantly more ATP (approx. 30-32 per glucose) than Glycolysis (2 per glucose)."
   },
   {
-    "question": "Which instrument is used to measure atmospheric pressure?",
-    "options": ["Anemometer", "Barometer", "Hygrometer", "Thermometer"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
+    "question": "Which of the following is NOT a visual aid used in health education?",
+    "options": ["Textbooks", "Posters", "Film strips", "Audio cassettes"],
+    "correct_index": 3,
+    "explanation": "Audio cassettes are an auditory aid, not a visual aid. Textbooks, posters, and film strips all rely on visual perception."
   },
   {
-    "question": "What is the capital city of Australia?",
-    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
+    "question": "The microorganism closely associated with dental caries is:",
+    "options": ["Corynebacterium species", "Urea plasma species", "Candida albicans", "Streptococcus sanguis"],
+    "correct_index": 3,
+    "explanation": "Streptococcus sanguis (and more famously S. mutans) are the primary bacteria that colonize the mouth and ferment dietary sugars into acid, which demineralizes tooth enamel."
   },
   {
-    "question": "Find the odd one out: 27, 64, 125, 144, 216",
-    "options": ["27", "125", "144", "216"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which among the following is the largest gland in the human body?",
-    "options": ["Pancreas", "Liver", "Thyroid", "Adrenal"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "In a certain code language, if 'WATER' is written as 'YCVGT', how will 'H2O' be written in that same language?",
-    "options": ["J4Q", "I3P", "J2Q", "K4R"],
+    "question": "Which of the following is NOT true regarding the birth weight of a newborn?",
+    "options": ["Birth weight less than 5% of normal on the day of birth requires further investigation", "Typical birth weight of newborn is between 2.7 kg and 4.0 kg", "Newborn lose 10% of their birth weight by 3-4 days of age", "Newborn gain the lost birth weight by 10th day of life"],
     "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Birth weight is assessed against standardized growth charts (percentiles) rather than a flat '5% of normal' rule. Losing 10% weight initially and regaining it by day 10 is normal physiological behavior."
   },
   {
-    "question": "Who was the first Governor-General of independent India?",
-    "options": ["Lord Mountbatten", "C. Rajagopalachari", "Rajendra Prasad", "Jawaharlal Nehru"],
+    "question": "The type of pelvis most suited for delivery is:",
+    "options": ["Platypelloid", "Gynecoid", "Anthropoid", "Android"],
+    "correct_index": 1,
+    "explanation": "The Gynecoid pelvis is the most common female pelvic shape and is ideal for vaginal childbirth because it has a rounded brim and generous dimensions."
+  },
+  {
+    "question": "Which of the following CANNOT cause a low pulse oximetry reading in a patient with respiratory distress?",
+    "options": ["Inadequate peripheral circulation", "Edema", "Hyperthermia", "Nail polish"],
+    "correct_index": 2,
+    "explanation": "Hyperthermia (fever) usually causes vasodilation, which may actually improve the signal. Inadequate circulation, edema, and nail polish are classic causes of 'false' low readings."
+  },
+  {
+    "question": "Which of the following is a model based on an individuals relationship to stress the reaction to it and reconstitution factors that are dynamic in nature?",
+    "options": ["Parse's Human Becoming Theory", "Universality Theory", "Roy's Adaptation Model", "Neuman's System Model"],
+    "correct_index": 3,
+    "explanation": "Neuman's Systems Model views the client as an open system that responds to stressors in the environment. It focuses on the stability of the system and the 'lines of defense'."
+  },
+  {
+    "question": "Which of the following is NOT true about sleep?",
+    "options": ["It consists of REM and non-REM sleep", "Sleep cycled are controlled by the suprachiasmatic nucleus", "Most growth hormones are produced during stage 3 and 4 of sleep", "Dreams occur during non-REM sleep"],
+    "correct_index": 3,
+    "explanation": "While some dreaming can occur in NREM, the most vivid and frequent dreams occur during REM (Rapid Eye Movement) sleep."
+  },
+  {
+    "question": "Which of the following will NOT be observed in a client with a right hemispheric stroke?",
+    "options": ["Impulse control difficulty", "Loss of depth perception", "Right hemiplegia", "Lack of awareness"],
+    "correct_index": 2,
+    "explanation": "A right-sided brain injury affects the 'left' side of the body. Therefore, a right hemispheric stroke causes 'Left' hemiplegia, not Right hemiplegia."
+  },
+  {
+    "question": "Which of the following does NOT contribute to the functions of innate immunity?",
+    "options": ["Epithelial layer of the body surface", "Peptide defensing", "Granulocyte", "Mucus from the epithelium of the respiratory tract"],
+    "correct_index": 2,
+    "explanation": "Actually, all options listed are parts of innate immunity. However, in most test contexts, Granulocytes (like Neutrophils) are the cellular component, while the others are barriers or chemical defenses. Based on the provided answer key, it identifies granulocytes as the outlier in this specific function list."
+  },
+  {
+    "question": "Which of the following is NOT true about nursing informatics?",
+    "options": ["It is not a multidisciplinary science practice", "It is specific to nursing and nursing practice", "Graves and Corcoran provided the first definition", "It is not to be equated with the generic term informatics"],
     "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Nursing Informatics is highly multidisciplinary, integrating nursing science, computer science, and information science to manage and communicate data."
   },
   {
-    "question": "A sum of ₹12,500 amounts to ₹15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
-    "options": ["3%", "4%", "5%", "6%"],
-    "correct_index": 3,
-    "explanation": "Based on the official answer key provided in the document."
+    "question": "Small for gestational age and large for gestational age infants have polycythemia because of:",
+    "options": ["Hypocalcemia", "Hypoglycemia", "Hypoxia", "Hypothermia"],
+    "correct_index": 2,
+    "explanation": "Polycythemia (high red blood cell count) occurs as a compensatory mechanism to chronic intrauterine hypoxia (lack of oxygen), as the body tries to carry more oxygen to tissues."
   },
   {
-    "question": "Which of the following diseases is caused by the deficiency of Vitamin C?",
-    "options": ["Rickets", "Scurvy", "Beriberi", "Night Blindness"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "The 'Panchayat Raj System' was first adopted by which Indian state?",
-    "options": ["Rajasthan", "Andhra Pradesh", "Madhya Pradesh", "Maharashtra"],
+    "question": "Ovulation usually occurs in a 28-day cycle on:",
+    "options": ["The 14th day", "The 12th day", "The 16th day", "The 20th day"],
     "correct_index": 0,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "In a standard 28-day menstrual cycle, ovulation occurs 14 days before the next period starts, which lands on Day 14."
   },
   {
-    "question": "A mother is twice as old as her son. 20 years ago, the age of the mother was 10 times the age of the son. What is the present age of the mother?",
-    "options": ["38 years", "40 years", "45 years", "50 years"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which gas is known as 'Laughing Gas'?",
-    "options": ["Nitric Oxide", "Nitrogen Dioxide", "Nitrous Oxide", "Nitrogen Pentoxide"],
+    "question": "Adult basal metabolic rate decreases with an increase in:",
+    "options": ["Muscle mass", "Fever", "Body fat", "Body surface area"],
     "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Body fat is metabolically less active than muscle tissue. Therefore, an increase in body fat percentage relative to muscle mass lowers the overall basal metabolic rate."
   },
   {
-    "question": "In which year did the Dandi March take place?",
-    "options": ["1920", "1930", "1942", "1919"],
+    "question": "Measles is caused by:",
+    "options": ["Nipah virus", "Rubeola virus", "Hendra virus", "Pneumovirus"],
     "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Measles is specifically caused by the Rubeola virus. (Rubella causes German Measles, which is a different disease)."
   },
   {
-    "question": "Which planet is known as the 'Red Planet'?",
-    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which of the following is a primary objective of the 'Swachh Bharat Abhiyan' launched by the Government of India?",
-    "options": ["To provide digital literacy to rural areas", "To achieve universal sanitation coverage and eliminate open defecation", "To provide free electricity to all households", "To promote the use of electric vehicles"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "In a certain code language, if 'BIRD' is written as 'CJSE', how will 'FISH' be written in that same language?",
-    "options": ["GJTJ", "GITI", "GKTI", "GJTI"],
+    "question": "Antibodies are produced by:",
+    "options": ["NK cells", "Neutrophils", "T lymphocytes", "B lymphocytes"],
     "correct_index": 3,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "B lymphocytes, when activated, differentiate into plasma cells, which are the specialized cells that secrete antibodies (immunoglobulins)."
   },
   {
-    "question": "Who was the first Indian to win a Nobel Prize?",
-    "options": ["C.V. Raman", "Mother Teresa", "Rabindranath Tagore", "Hargobind Khorana"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "A train 150 m long passes a pole in 15 seconds. What is the speed of the train in km/hr?",
-    "options": ["30 km/hr", "36 km/hr", "40 km/hr", "45 km/hr"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which layer of the Earth's atmosphere contains the Ozone layer?",
-    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "The 'Fundamental Duties' were incorporated into the Indian Constitution on the recommendation of which committee?",
-    "options": ["Verma Committee", "Sarkaria Commission", "Swaran Singh Committee", "Balwant Rai Mehta Committee"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "If 'MOUSE' is coded as 'KPUQC', how is 'LIGHT' coded in that language?",
-    "options": ["JKIFV", "JKGIV", "JKIEV", "KKIEV"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which of the following is the largest ocean on Earth?",
-    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "question": "Which of the following is INCORRECT about SWOT analysis for decision making?",
+    "options": ["S is for strengths", "W is for weaknesses", "O is for opportunities", "T is for time"],
     "correct_index": 3,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "In SWOT analysis, 'T' stands for 'Threats' (external factors that could cause trouble for the project or organization)."
   },
   {
-    "question": "In the Indian Parliament, who presides over the joint sitting of both Houses?",
-    "options": ["The President of India", "The Vice-President of India", "The Prime Minister of India", "The Speaker of the Lok Sabha"],
+    "question": "The communication in which managers interact with managers, physicians and groups of people in other departments in the organization who are NOT at the same level in the hierarchy as them is called:",
+    "options": ["Vertical communication", "Horizontal communication", "Diagonal communication", "Upward communication"],
+    "correct_index": 2,
+    "explanation": "Diagonal communication occurs when people from different departments and different hierarchical levels communicate with each other."
+  },
+  {
+    "question": "Which of the following is NOT true about mastitis?",
+    "options": ["It is an infection of the connective tissue of the breast", "Ductal ectasia is the most common cause of the non-lactational type", "It can be of lactational or non-lactational type", "It presents with no nipple discharge and cyclical pain"],
     "correct_index": 3,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Mastitis typically presents with acute symptoms like redness, swelling, warmth, and 'fever,' rather than just cyclical pain without discharge."
   },
   {
-    "question": "Find the missing number in the series: 2, 6, 12, 20, 30, ?",
-    "options": ["38", "40", "42", "44"],
+    "question": "Descent of the testes into the scrotum normally occurs:",
+    "options": ["After 7 months of life", "Just after birth", "Before birth", "Before the 5th month of intrauterine life"],
     "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Testicular descent usually occurs during the third trimester of pregnancy (between 28-40 weeks) so that they are in the scrotum at birth."
   },
   {
-    "question": "Which of the following is a unit of power?",
-    "options": ["Joule", "Newton", "Watt", "Ampere"],
+    "question": "The largest synovial joint in the body is:",
+    "options": ["The knee joint", "The shoulder joints", "The ankle joint", "The wrist joints"],
+    "correct_index": 0,
+    "explanation": "The knee joint is the largest and one of the most complex synovial joints in the human body, involving the femur, tibia, and patella."
+  },
+  {
+    "question": "The most common causative agent of rheumatic fever is:",
+    "options": ["Streptococcus pyogenes", "Actinomyces viscosus", "Listeria monocytogenes", "Mycobacterium kansasii"],
+    "correct_index": 0,
+    "explanation": "Rheumatic fever is an autoimmune response that occurs after an untreated infection with Streptococcus pyogenes (Group A Beta-Hemolytic Streptococcus)."
+  },
+  {
+    "question": "The type of assessment that includes data related to a client's biological, cultural, spiritual and social need is called:",
+    "options": ["Behavioral assessment", "Screening assessment", "Comprehensive assessment", "Focused assessment"],
     "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "A comprehensive assessment is a holistic evaluation of the patient's entire health status, covering physical, mental, emotional, and social aspects."
   },
   {
-    "question": "Who was the first Indian woman to win an Olympic medal?",
-    "options": ["Saina Nehwal", "Mary Kom", "Karnam Malleswari", "P.V. Sindhu"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "In the human body, where is the 'Pituitary Gland' located?",
-    "options": ["In the neck", "Above the kidneys", "At the base of the brain", "Near the pancreas"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Which among the following is the highest civilian award in India?",
-    "options": ["Padma Vibhushan", "Bharat Ratna", "Param Vir Chakra", "Padma Bhushan"],
+    "question": "Which of the following is a substance that decrease pain transmission and causes an inflammatory response?",
+    "options": ["Substance P", "Endorphin", "Prostaglandin", "Histamine"],
     "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Endorphins are natural opioid-like chemicals produced by the body that bind to receptors in the brain to 'decrease' the perception of pain. (Note: Prostaglandins usually 'increase' pain transmission)."
   },
   {
-    "question": "If 'SUN' is coded as '27', how is 'MOON' coded in that language?",
-    "options": ["51", "53", "57", "59"],
-    "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
+    "question": "The optimum fluoride concentration in drinking water in India is recommended to be:",
+    "options": ["1-2 ppm", "3-5 ppm", "0.3-0.5 ppm", "0.1-0.2 ppm"],
+    "correct_index": 0,
+    "explanation": "Health guidelines recommend a fluoride level of approx. 1 ppm to prevent dental caries without causing skeletal fluorosis."
   },
   {
-    "question": "Which of the following is a vector quantity?",
-    "options": ["Mass", "Speed", "Distance", "Velocity"],
+    "question": "Foot drop is caused by an injury to:",
+    "options": ["The tibial nerve", "The common peroneal nerve", "The obturator nerve", "The sciatic nerve"],
+    "correct_index": 1,
+    "explanation": "Foot drop is characterized by the inability to lift the front part of the foot (dorsiflexion), which is controlled by the common peroneal nerve."
+  },
+  {
+    "question": "Smallpox was officially declared eradicated by the WHO in:",
+    "options": ["1978", "1977", "1982", "1980"],
     "correct_index": 3,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Following a global vaccination campaign, the World Health Assembly officially declared the world free of smallpox in May 1980."
   },
   {
-    "question": "Who is known as the 'Iron Man of India'?",
-    "options": ["Subhas Chandra Bose", "Sardar Vallabhbhai Patel", "Bhagat Singh", "Lal Bahadur Shastri"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
+    "question": "The two-factor employee theory of motivation was given by:",
+    "options": ["Herberg", "Maslow", "Alderfer", "Vroom"],
+    "correct_index": 0,
+    "explanation": "Frederick Herzberg's theory (also known as Motivation-Hygiene Theory) states that there are certain factors in the workplace that cause job satisfaction while a separate set of factors cause dissatisfaction."
   },
   {
-    "question": "The 'Kaziranga National Park' is famous for which animal?",
-    "options": ["Bengal Tiger", "One-horned Rhinoceros", "Asiatic Lion", "Snow Leopard"],
-    "correct_index": 1,
-    "explanation": "Based on the official answer key provided in the document."
-  },
-  {
-    "question": "Find the next number in the sequence: 5, 11, 23, 47, ?",
-    "options": ["91", "93", "95", "97"],
+    "question": "In healthy individuals, plasma osmolality ranges from:",
+    "options": ["300-310 mOsm/kg of H20", "270-280 mOsm/kg of H20", "280-295 mOsm/kg of H20", "320-325 mOsm/kg of H20"],
     "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Plasma osmolality (the concentration of particles in the blood) is tightly regulated by the body, typically falling between 280 and 295 mOsm/kg."
   },
   {
-    "question": "Which of the following is the smallest planet in our solar system?",
-    "options": ["Venus", "Mars", "Mercury", "Neptune"],
+    "question": "Which of the following is NOT an ethical principle?",
+    "options": ["Autonomy", "Non-maleficence", "Justice", "Non-beneficence"],
+    "correct_index": 3,
+    "explanation": "The four main ethical principles in nursing are Autonomy, Beneficence, Non-maleficence, and Justice. 'Non-beneficence' is not a recognized principle."
+  },
+  {
+    "question": "Who is known as the Father of Scientific Management?",
+    "options": ["Max Weber", "Henri Fayol", "Frederick Winslow Taylor", "Elton Mayo"],
     "correct_index": 2,
-    "explanation": "Based on the official answer key provided in the document."
+    "explanation": "Frederick Winslow Taylor developed the theory of Scientific Management, which focused on improving economic efficiency and labor productivity."
+  },
+  {
+    "question": "Which of the following is not an autoimmune disease?",
+    "options": ["Multiple sclerosis", "Myasthenia gravis", "Dementia", "Amyotrophic lateral sclerosis"],
+    "correct_index": 2,
+    "explanation": "Dementia is a clinical syndrome characterized by cognitive decline (usually due to Alzheimer's or vascular issues), whereas MS and Myasthenia Gravis involve the immune system attacking the body's own tissues."
+  },
+  {
+    "question": "Which of the following is NOT a broad mechanism that mediates efficient movement of DNA between cells?",
+    "options": ["Transduction", "Mutation", "Transformation", "Conjugation"],
+    "correct_index": 1,
+    "explanation": "Transduction, Transformation, and Conjugation are methods of 'Horizontal Gene Transfer' between cells. Mutation is a change 'within' a single cell's DNA, not a mechanism of movement between cells."
+  },
+  {
+    "question": "The level of conversation in which no sharing of oneself occurs is:",
+    "options": ["Level 1: Open conversation", "Level 5: Cliche conversation", "Level 4: Reporting of facts", "Level 2: Spontaneous conversation"],
+    "correct_index": 1,
+    "explanation": "Level 5 (Cliche) is the most superficial level of communication, consisting of standard social pleasantries where no personal information is exchanged."
+  },
+  {
+    "question": "Which of the following is NOT true about premenstrual syndrome?",
+    "options": ["It occurs during the last half of menstrual cycle", "It resolves with the onset of menstruations", "It occurs during the luteal phase", "It resolves with the onset of ovulation"],
+    "correct_index": 3,
+    "explanation": "PMS occurs after ovulation (during the luteal phase) and typically 'resolves' once menstruation begins. It does not resolve with ovulation; that is when it starts."
+  },
+  {
+    "question": "Which of the following theories states that integrated social or cultural factors can cause anxiety?",
+    "options": ["Psychoanalytic theory", "Integrated theory", "Biologic theory", "Cognitive behavioral theory"],
+    "correct_index": 1,
+    "explanation": "Integrated theories of anxiety look at the combination of biological vulnerability, psychological factors, and social/cultural stressors as the cause."
+  },
+  {
+    "question": "The normal newborn hemoglobin level is:",
+    "options": ["17-20 g/dl", "12-14 g/dl", "10-12 g/dl", "20-25 g/dl"],
+    "correct_index": 0,
+    "explanation": "Newborns have higher hemoglobin levels than adults to compensate for the lower oxygen environment in the womb; 17-20 g/dl is a standard range at birth."
+  },
+  {
+    "question": "The type of loss in which the client is aware that a loss will occur is known as:",
+    "options": ["Anticipatory loss", "Observable loss", "Actual loss", "Perceived loss"],
+    "correct_index": 0,
+    "explanation": "Anticipatory loss occurs before the actual loss happens, such as when a family is aware a loved one has a terminal illness."
+  },
+  {
+    "question": "Thyroxine is secreted by:",
+    "options": ["The thyroid gland", "The thymus", "The pituitary gland", "The hypothalamus"],
+    "correct_index": 0,
+    "explanation": "Thyroxine (T4) is the primary hormone produced and secreted into the bloodstream by the thyroid gland."
+  },
+  {
+    "question": "When fully saturated, 1 g of hemoglobin contains:",
+    "options": ["1.39 mL of oxygen", "2.39 mL of oxygen", "3.39 mL of oxygen", "0.39 mL of oxygen"],
+    "correct_index": 0,
+    "explanation": "This is a physiological constant known as Huffner's constant. While theoretically 1.39, in clinical practice, 1.34 mL is often used, but 1.39 is the standard scientific value for pure hemoglobin."
+  },
+  {
+    "question": "The umbilical cord at term contains:",
+    "options": ["Two arteries and two veins", "Two veins and one artery", "Two arteries and one vein", "One artery and one vein"],
+    "correct_index": 2,
+    "explanation": "A normal umbilical cord has three vessels: two small umbilical arteries and one large umbilical vein."
+  },
+  {
+    "question": "Which of the following is NOT true regarding meconium aspiration syndrome?",
+    "options": ["It is common cause of respiratory distress", "It occurs when a newborn inhales particulate meconium mixed with amniotic fluid in utero", "It does not progress to persistent pulmonary hypertension in severe cases", "Chest X-ray shows fluffy infiltrates with areas of atelectasis"],
+    "correct_index": 2,
+    "explanation": "Meconium Aspiration Syndrome 'can' and often does progress to Persistent Pulmonary Hypertension of the Newborn (PPHN) in severe cases due to lung inflammation and vascular resistance."
+  },
+  {
+    "question": "An aged client with diabetes mellitus complaining of a painless peripheral loss of vision is at risk for:",
+    "options": ["Cataract", "Uveitis", "Angle-closure glaucoma", "Open-angle glaucoma"],
+    "correct_index": 3,
+    "explanation": "Open-angle glaucoma is a chronic, painless condition that leads to the gradual loss of peripheral vision, eventually leading to tunnel vision."
+  },
+  {
+    "question": "Which of the following is NOT a triggering factor for seizures and epilepsies?",
+    "options": ["Acute alcohol ingestion", "Exposure to flashing lights", "Hyperventilation", "Decreased physical activity"],
+    "correct_index": 3,
+    "explanation": "Alcohol, flashing lights, and hyperventilation are known triggers. General physical activity is actually healthy; it is 'lack of sleep' or 'stress' that are triggers, not just decreased physical activity."
+  },
+  {
+    "question": "Which hepatitis is often seen as outbreaks in camps and institutions?",
+    "options": ["Hepatitis A", "Hepatitis C", "Hepatitis D", "Hepatitis B"],
+    "correct_index": 0,
+    "explanation": "Hepatitis A is spread via the fecal-oral route. In crowded settings with shared food or water sources (like camps), it can easily cause an outbreak."
+  },
+  {
+    "question": "Which of the following is NOT a value essential for a professional nurse?",
+    "options": ["Human dignity", "Dependence", "Social justice", "Integrity"],
+    "correct_index": 1,
+    "explanation": "Nurses value 'Autonomy' and 'Independence' (or Interdependence). 'Dependence' is not a professional value."
+  },
+  {
+    "question": "In schizophrenia, gradual subtle behavioral changes occur in:",
+    "options": ["The premorbid phase", "The prodromal phase", "The onset phases", "The progressive phase"],
+    "correct_index": 1,
+    "explanation": "The prodromal phase is the period of time leading up to the first psychotic episode where the person begins to socially withdraw or act unusually."
+  },
+  {
+    "question": "Fortification of food with specific nutrients, such as salt with iodine, is an example of:",
+    "options": ["Secondary prevention", "Primary prevention", "Primordial prevention", "Tertiary prevention"],
+    "correct_index": 1,
+    "explanation": "Primary prevention aims to prevent disease or injury before it occurs. Adding iodine to salt prevents the development of goiters."
+  },
+  {
+    "question": "Max Weber is known for the development of the theory of:",
+    "options": ["Tranformational Leadership", "Bureaucratic Management", "Humanistic Management", "Scientific Management"],
+    "correct_index": 1,
+    "explanation": "Max Weber developed the theory of Bureaucracy, which emphasizes a formal system of organization based on hierarchy and clear rules."
+  },
+  {
+    "question": "Which of the following is NOT true about universal precautions in health care system?",
+    "options": ["Reducing level of contact with blood and body fluids", "Maintaining confidentiality of known carriers", "Aiming at reducing cross-infection", "Assuming that all blood and body fluids are safe"],
+    "correct_index": 3,
+    "explanation": "Universal precautions require health workers to assume that 'all' blood and body fluids are 'potentially infectious,' not safe."
+  },
+  {
+    "question": "Which of the following is NOT an adverse effect of morphine?",
+    "options": ["Euphoria", "Respiratory stimulation", "Nausea", "Histamine release"],
+    "correct_index": 1,
+    "explanation": "Morphine causes 'Respiratory Depression' (slowing of breathing), not stimulation. This is its most dangerous potential side effect."
+  },
+  {
+    "question": "Which of the following is NOT a reason for nosocomial infection in ICU patient?",
+    "options": ["Contact with other patients", "Immunocompromised state of patient", "Frequently subjecting to invasive procedures", "Decreased length of stay in ICU"],
+    "correct_index": 3,
+    "explanation": "A 'decreased' length of stay would actually lower the risk of catching a hospital-acquired infection. Longer stays increase the risk."
+  },
+  {
+    "question": "Which of the following is true regarding macular degeneration?",
+    "options": ["It is the central loss of vision", "Wet macular degeneration is more common in this", "Dry macular degeneration is less common in this", "It affects the cornea of the eye"],
+    "correct_index": 0,
+    "explanation": "Macular degeneration affects the macula (part of the retina) and causes a loss of vision in the 'center' of the visual field."
+  },
+  {
+    "question": "Which of the following is a type of pain that is protective, temporary and usually self-limiting and resolves with tissue healing?",
+    "options": ["Acute pain", "Chronic pain", "Nociceptive", "Neuropathic pain"],
+    "correct_index": 0,
+    "explanation": "Acute pain is a short-term physiological response to an injury that acts as a warning signal and disappears once the injury heals."
+  },
+  {
+    "question": "In male individuals, testosterone is normally produced by:",
+    "options": ["The sertoli cells", "The interstitial cells of Leydig", "The vas deferens", "The epididymis"],
+    "correct_index": 1,
+    "explanation": "Leydig cells, located in the connective tissue between the seminiferous tubules in the testes, produce testosterone in response to Luteinizing Hormone (LH)."
+  },
+  {
+    "question": "Which of the following is NOT a nursing intervention to maintain the temperature of a newborn?",
+    "options": ["Dry the newborn immediately after birth", "Wrap the newborn in warmed blankets", "Use a warmed cloth for weighing the unclothed newborn", "Place the newborn near draughts or air vents"],
+    "correct_index": 3,
+    "explanation": "Placing a newborn near draughts or air vents would cause heat loss through 'convection' and should be strictly avoided."
+  },
+  {
+    "question": "Dysmenorrhea is:",
+    "options": ["Painful menstruation", "Increased frequency of menstruation", "increased menses during reproductive period", "The absence of menses during reproductive period"],
+    "correct_index": 0,
+    "explanation": "Dysmenorrhea is the medical term for menstrual cramps or painful periods."
+  },
+  {
+    "question": "Which of the following is NOT a sign of respiratory distress in a newborn?",
+    "options": ["Cyanosis", "Expiratory grunting", "Sternal retractions", "Respiratory rate varying according to the newborns activity"],
+    "correct_index": 3,
+    "explanation": "It is normal for a newborn's respiratory rate to fluctuate with activity. Constant cyanosis, grunting, or retractions are signs of distress."
+  },
+  {
+    "question": "Age-related hearing loss is known as:",
+    "options": ["Otosclerosis", "Otitis media", "Presbycusis", "Presbyopia"],
+    "correct_index": 2,
+    "explanation": "Presbycusis is the gradual loss of hearing that occurs in most individuals as they grow older."
+  },
+  {
+    "question": "Capnography is monitoring the partial pressure of:",
+    "options": ["Carbon monoxide during expiration", "Nitrogen during expiration", "Oxygen during expiration", "Carbon dioxide during expiration"],
+    "correct_index": 3,
+    "explanation": "Capnography provides a real-time measurement of the concentration of carbon dioxide (CO2) in the exhaled breath."
+  },
+  {
+    "question": "Sex ratio is defined as",
+    "options": ["The number of female individuals for every 1000 male individuals", "The number of male individuals for every 1000 female individuals", "The number of female individuals for every 100 male individuals", "The number of male individuals for every 100 female individuals."],
+    "correct_index": 0,
+    "explanation": "In most demographic contexts, including India, sex ratio is expressed as the number of females per 1000 males in a population."
+  },
+  {
+    "question": "Which of the following is a bronchopulmonary disease caused by the inhalation of fibrous residue of sugarcane?",
+    "options": ["Silicosis", "Asbestosis", "Byssinosis", "Bagassosis"],
+    "correct_index": 3,
+    "explanation": "Bagassosis is an occupational lung disease caused by the inhalation of dust from moldy sugar cane residue (bagasse)."
+  },
+  {
+    "question": "Which of the following is NOT a type of vaccine?",
+    "options": ["Killed", "Toxoid", "Steroid", "Live"],
+    "correct_index": 2,
+    "explanation": "Vaccines are biological preparations (Live, Killed, or Toxoids). Steroids are medications used to reduce inflammation and are not vaccines."
+  },
+  {
+    "question": "Which of the following is NOT a common cause for vaginitis?",
+    "options": ["Salmonella", "Trichomonas", "Candida", "Gardnerella"],
+    "correct_index": 0,
+    "explanation": "Salmonella causes food poisoning (enteric fever) and is not a typical cause of vaginal infections. Trichomonas, Candida (yeast), and Gardnerella (bacterial vaginosis) are the common causes."
+  },
+  {
+    "question": "The main arterial stem of the upper limb is:",
+    "options": ["The femoral artery", "The basilar artery", "The carotid artery", "The axillary artery"],
+    "correct_index": 3,
+    "explanation": "The axillary artery is the main artery supplying the shoulder and upper limb."
+  },
+  {
+    "question": "A lack of oxygen in blood is called:",
+    "options": ["Stridor", "Hypoxemia", "Hypercapnia", "Orthopnea"],
+    "correct_index": 1,
+    "explanation": "Hypoxemia refers specifically to a low level of oxygen in the arterial blood."
+  },
+  {
+    "question": "In a laboratory cultures most human pathogens grow best at:",
+    "options": ["30 to 37°C", "15 to 20°C", "38 to 50°C", "20 to 30°C"],
+    "correct_index": 0,
+    "explanation": "Since human body temperature is 37°C, human pathogens (mesophiles) have evolved to grow best at or near this temperature."
+  },
+  {
+    "question": "Which of the following theories stresses the importance of change within organizations?",
+    "options": ["Neoclassical theory", "Classical theory", "System theory", "Chaos theory"],
+    "correct_index": 3,
+    "explanation": "Chaos theory in management suggests that organizations are constantly changing and that small changes can lead to large, unpredictable consequences."
+  },
+  {
+    "question": "Which of the following is an unexpected finding during an otoscopic examination of the ear?",
+    "options": ["Malleus visible behind the tympanic membrane", "Pearl gray tympanic membrane", "Flaky skin in the external canal near the tympanic membrane", "Black cerumen occluding the tympanic membrane"],
+    "correct_index": 3,
+    "explanation": "While cerumen (earwax) is normal, complete occlusion (blockage) that prevents visualization of the eardrum is an unexpected finding that requires intervention."
+  },
+  {
+    "question": "The largest gland in the body is:",
+    "options": ["The pancreas", "The liver", "The kidney", "The spleen"],
+    "correct_index": 1,
+    "explanation": "The liver is the largest gland and the largest internal organ in the human body."
+  },
+  {
+    "question": "The Rural Health Scheme was based on th recommendation of which committee?",
+    "options": ["Srivastav Committee", "Chadha Committee", "Kartar Singh Committee", "Jungalwalla Committee"],
+    "correct_index": 0,
+    "explanation": "The Srivastav Committee (1975) recommended the creation of 'Health Guides' and the Rural Health Scheme to provide basic healthcare to rural populations."
+  },
+  {
+    "question": "An example of type IV hypersensitivity is:",
+    "options": ["Arthus reaction", "Tuberculin-type reaction", "Atopy", "Anaphylactic reaction."],
+    "correct_index": 1,
+    "explanation": "Type IV is a delayed-type hypersensitivity mediated by T cells. The Tuberculin skin test (Mantoux test) is the classic diagnostic example."
   }
 ]
