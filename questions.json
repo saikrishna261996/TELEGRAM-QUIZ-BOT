@@ -1,5 +1,605 @@
 [
   {
+    "question": "A patient with a head injury has a Glasgow Coma Scale (GCS) score of 7. The nurse should prioritize which action?",
+    "options": ["Administering IV fluids", "Monitoring urine output", "Preparing for endotracheal intubation", "Positioning the patient in Trendelenburg"],
+    "correct_index": 2,
+    "explanation": "A GCS score of 8 or less indicates a significant alteration in consciousness and a high risk for airway obstruction or aspiration; therefore, protecting the airway via intubation is the priority."
+  },
+  {
+    "question": "Which finding is a hallmark of Cardiac Tamponade (Beck’s Triad)?",
+    "options": ["Hypertension, bradycardia, irregular respirations", "Muffled heart sounds, JVD, and hypotension", "Tachycardia, tachypnea, and high fever", "Wide pulse pressure and bounding pulse"],
+    "correct_index": 1,
+    "explanation": "Beck’s Triad consists of three clinical signs: muffled heart sounds, distended neck veins (JVD), and hypotension, caused by fluid accumulation in the pericardial sac."
+  },
+  {
+    "question": "In a patient with Acute Pancreatitis, the nurse observes bluish discoloration around the umbilicus. This is known as:",
+    "options": ["Grey Turner's sign", "Cullen's sign", "Murphy's sign", "Kehr's sign"],
+    "correct_index": 1,
+    "explanation": "Cullen's sign is a superficial edema and bruising in the subcutaneous fatty tissue around the umbilicus, indicating retroperitoneal hemorrhage."
+  },
+  {
+    "question": "A patient with deep vein thrombosis (DVT) suddenly complains of chest pain and dyspnea. The nurse's first action should be to:",
+    "options": ["Administer Morphine", "Prepare for an ECG", "Elevate the head of the bed and apply Oxygen", "Massage the affected leg"],
+    "correct_index": 2,
+    "explanation": "These symptoms suggest a Pulmonary Embolism. Elevating the head of the bed (Fowler's position) eases breathing while oxygen therapy addresses potential hypoxia."
+  },
+  {
+    "question": "Which cardiac marker rises first (within 1–3 hours) after a Myocardial Infarction?",
+    "options": ["Troponin T", "CK-MB", "Myoglobin", "LDH"],
+    "correct_index": 2,
+    "explanation": "Myoglobin is the earliest biological marker to rise following myocardial damage, though it is less specific to cardiac tissue than Troponins."
+  },
+  {
+    "question": "A patient with Addison's disease should be instructed to follow a diet that is:",
+    "options": ["Low protein, low sodium", "High sodium, low potassium", "Low sodium, high potassium", "High calorie, low carbohydrate"],
+    "correct_index": 1,
+    "explanation": "Addison's disease involves a lack of aldosterone, leading to sodium loss and potassium retention. Patients need increased salt intake and restriction of potassium."
+  },
+  {
+    "question": "What is the priority nursing intervention for a patient experiencing an Autonomic Dysreflexia episode?",
+    "options": ["Administering antihypertensives", "Checking for fecal impaction", "Raising the head of the bed to 90 degrees", "Immediate catheterization"],
+    "correct_index": 2,
+    "explanation": "Sitting the patient upright immediately induces orthostatic hypotension to help lower the dangerously high blood pressure common in autonomic dysreflexia."
+  },
+  {
+    "question": "The 'Rule of Nines' is used to calculate:",
+    "options": ["Severity of pain", "Depth of burn", "Percentage of Total Body Surface Area (TBSA) burned", "IV fluid rate"],
+    "correct_index": 2,
+    "explanation": "The Rule of Nines is a standardized tool used to quickly estimate the percentage of TBSA burned in an adult to guide fluid resuscitation."
+  },
+  {
+    "question": "A 'Cape-like' distribution of sensory loss is characteristic of:",
+    "options": ["Syringomyelia", "Multiple Sclerosis", "Myasthenia Gravis", "Parkinson’s"],
+    "correct_index": 0,
+    "explanation": "Syringomyelia involves a fluid-filled cyst in the spinal cord that often affects the crossing fibers of the spinothalamic tract, causing loss of pain and temperature in the arms and shoulders."
+  },
+  {
+    "question": "Which positioning is recommended for a patient immediately after a Liver Biopsy?",
+    "options": ["Left lateral position", "Right lateral position", "Supine with head elevated", "Prone position"],
+    "correct_index": 1,
+    "explanation": "Placing the patient on the right side applies pressure to the liver against the chest wall, which acts as a tamponade to prevent internal bleeding."
+  },
+  {
+    "question": "In a patient with Hyperkalemia, the ECG typically shows:",
+    "options": ["U-waves", "Tall, peaked T-waves", "ST-segment depression", "Prolonged QT interval"],
+    "correct_index": 1,
+    "explanation": "Hyperkalemia affects myocardial repolarization, which is reflected on the ECG as tall, narrow, or 'tented' T-waves."
+  },
+  {
+    "question": "Which drug is considered the 'Gold Standard' for treating a patient in Anaphylactic Shock?",
+    "options": ["Hydrocortisone", "Epinephrine", "Pheniramine Maleate", "Dopamine"],
+    "correct_index": 1,
+    "explanation": "Epinephrine is the first-line treatment for anaphylaxis as it rapidly causes vasoconstriction, bronchodilation, and reduced mucosal edema."
+  },
+  {
+    "question": "Which of the following is the most reliable indicator of fluid volume status in a critically ill patient?",
+    "options": ["Skin turgor", "Daily weight", "Intake and output chart", "Presence of edema"],
+    "correct_index": 1,
+    "explanation": "Daily weight is considered the single most accurate measurement of fluid gain or loss, where 1 kg equals approximately 1 liter of fluid."
+  },
+  {
+    "question": "If a chest tube accidentally gets disconnected, the nurse should immediately:",
+    "options": ["Clamp the chest tube", "Apply an occlusive dressing", "Submerge the end of the tube in sterile water", "Call for an X-ray"],
+    "correct_index": 2,
+    "explanation": "Submerging the tube in sterile water creates an emergency water seal that prevents atmospheric air from entering the pleural space while allowing air to exit."
+  },
+  {
+    "question": "'Rice water stools' are a characteristic feature of which condition?",
+    "options": ["Typhoid", "Cholera", "Amoebiasis", "Ulcerative colitis"],
+    "correct_index": 1,
+    "explanation": "Cholera causes massive secretory diarrhea characterized by a clear, watery appearance with flecks of mucus, resembling water used to wash rice."
+  },
+  {
+    "question": "The first-line drug used for a patient with Status Epilepticus is:",
+    "options": ["Phenytoin", "Lorazepam", "Valproate", "Phenobarbital"],
+    "correct_index": 1,
+    "explanation": "Benzodiazepines like Lorazepam are the drugs of choice for immediate seizure cessation due to their rapid onset of action on the brain."
+  },
+  {
+    "question": "Which electrolyte imbalance is a patient at risk for when receiving multiple units of banked blood?",
+    "options": ["Hypercalcemia", "Hypocalcemia", "Hypernatremia", "Hypomagnesemia"],
+    "correct_index": 1,
+    "explanation": "Citrate used in blood bags to prevent clotting binds to the patient's ionized calcium, potentially leading to hypocalcemia (citrate toxicity)."
+  },
+  {
+    "question": "Chvostek’s and Trousseau’s signs are indicative of:",
+    "options": ["Hypokalemia", "Hypocalcemia", "Hypernatremia", "Hypomagnesemia"],
+    "correct_index": 1,
+    "explanation": "These signs indicate neuromuscular irritability caused by low serum calcium levels. Chvostek's is a facial twitch; Trousseau's is a carpal spasm."
+  },
+  {
+    "question": "What is the normal range of Central Venous Pressure (CVP)?",
+    "options": ["2–6 mmHg", "10–15 mmHg", "20–25 mmHg", "0–2 mmHg"],
+    "correct_index": 0,
+    "explanation": "Normal CVP ranges from 2–6 mmHg or 5–10 cm H2O. It reflects right atrial pressure and right ventricular end-diastolic volume."
+  },
+  {
+    "question": "A classic sign of Pyloric Stenosis in an infant is:",
+    "options": ["Bile-stained vomiting", "Projectile non-bilious vomiting", "Steatorrhea", "Currant jelly stools"],
+    "correct_index": 1,
+    "explanation": "Hypertrophy of the pylorus blocks stomach contents from entering the duodenum, resulting in forceful, projectile vomiting that does not contain bile."
+  },
+  {
+    "question": "According to BMW rules in India, an amputated limb should be disposed of in which color bag?",
+    "options": ["Red", "Yellow", "Blue", "White"],
+    "correct_index": 1,
+    "explanation": "Anatomical waste, including human tissues and body parts, must be disposed of in yellow bags for incineration."
+  },
+  {
+    "question": "Which size of IV cannula is most appropriate for rapid blood transfusion in an adult emergency?",
+    "options": ["22G", "20G", "18G", "24G"],
+    "correct_index": 2,
+    "explanation": "An 18G (Green) cannula is the minimum recommended size for rapid infusion of blood products to prevent hemolysis and ensure high flow rates."
+  },
+  {
+    "question": "When performing suctioning, the nurse should apply suction for no longer than:",
+    "options": ["5 seconds", "10–15 seconds", "20–30 seconds", "1 minute"],
+    "correct_index": 1,
+    "explanation": "Limiting suctioning to 10–15 seconds prevents excessive hypoxia, vagal stimulation, and trauma to the tracheal mucosa."
+  },
+  {
+    "question": "The correct angle for an Intramuscular (IM) injection is:",
+    "options": ["15 degrees", "45 degrees", "90 degrees", "10 degrees"],
+    "correct_index": 2,
+    "explanation": "IM injections are delivered at a 90-degree angle to ensure the medication reaches the deep muscle tissue."
+  },
+  {
+    "question": "What is the most effective method for preventing the spread of hospital-acquired infections?",
+    "options": ["Wearing gloves", "Using antibiotics", "Handwashing", "Daily floor cleaning"],
+    "correct_index": 2,
+    "explanation": "Hand hygiene is universally recognized as the single most effective intervention in preventing the transmission of pathogens in healthcare settings."
+  },
+  {
+    "question": "Which of the following is a physical method of sterilization?",
+    "options": ["Ethylene Oxide", "Glutaraldehyde", "Autoclaving", "Alcohol"],
+    "correct_index": 2,
+    "explanation": "Autoclaving uses saturated steam under pressure (heat) to kill all forms of microbial life, making it a physical method."
+  },
+  {
+    "question": "Fowler’s position involves head elevation at which angle?",
+    "options": ["15–30°", "45–60°", "90°", "10°"],
+    "correct_index": 1,
+    "explanation": "Standard Fowler's position is an upright sitting position where the head of the bed is elevated between 45 and 60 degrees."
+  },
+  {
+    "question": "Which solution is most commonly used for Gastric Lavage in an unknown poisoning case?",
+    "options": ["Normal Saline", "Potassium Permanganate", "Universal Antidote", "Distilled water"],
+    "correct_index": 0,
+    "explanation": "Normal Saline (0.9% NaCl) is used to prevent electrolyte imbalances and osmotic shifts during the irrigation process."
+  },
+  {
+    "question": "The maximum recommended height for an enema can above the patient is:",
+    "options": ["18 inches (45 cm)", "12 inches", "24 inches", "6 inches"],
+    "correct_index": 0,
+    "explanation": "Placing the can 18 inches above the rectum allows for sufficient gravity flow without causing excessive pressure that could lead to cramping or injury."
+  },
+  {
+    "question": "Bedsores (Decubitus ulcers) are primarily caused by:",
+    "options": ["Malnutrition", "Pressure resulting in Ischemia", "Poor hygiene", "Bacterial infection"],
+    "correct_index": 1,
+    "explanation": "Prolonged pressure on bony prominences compresses capillaries, leading to reduced blood flow (ischemia) and eventual tissue death."
+  },
+  {
+    "question": "A solution of 0.45% Sodium Chloride is classified as:",
+    "options": ["Isotonic", "Hypotonic", "Hypertonic", "Colloid"],
+    "correct_index": 1,
+    "explanation": "Since its salt concentration is lower than that of blood (0.9%), it is hypotonic, causing water to shift from the ECF into the cells."
+  },
+  {
+    "question": "Which pulse point should be checked during adult CPR?",
+    "options": ["Radial", "Brachial", "Carotid", "Femoral"],
+    "correct_index": 2,
+    "explanation": "The carotid artery is the most reliable site to check for a pulse in an emergency as it is central and remains palpable longer during shock."
+  },
+  {
+    "question": "What is the recommended compression-to-ventilation ratio for 1-rescuer adult CPR?",
+    "options": ["15:2", "30:2", "5:1", "3:1"],
+    "correct_index": 1,
+    "explanation": "Current AHA guidelines recommend 30 compressions followed by 2 breaths for all single-rescuer adult, child, and infant CPR."
+  },
+  {
+    "question": "The most appropriate site for an IM injection in an infant is:",
+    "options": ["Deltoid", "Dorsogluteal", "Vastus Lateralis", "Ventrogluteal"],
+    "correct_index": 2,
+    "explanation": "The vastus lateralis muscle in the thigh is the largest and most developed muscle at birth and is free of major nerves and vessels."
+  },
+  {
+    "question": "Which blood type is considered the Universal Donor?",
+    "options": ["AB Positive", "O Positive", "O Negative", "AB Negative"],
+    "correct_index": 2,
+    "explanation": "O Negative blood lacks A, B, and Rh antigens, meaning it can be safely given to individuals of any blood type in an emergency."
+  },
+  {
+    "question": "A Sitz Bath is primarily used to:",
+    "options": ["Lower body temperature", "Promote healing of the perineal area", "Provide total body relaxation", "Improve general hygiene"],
+    "correct_index": 1,
+    "explanation": "A sitz bath involves soaking the pelvic area in warm water to increase circulation, reduce inflammation, and promote healing after rectal or perineal surgery/trauma."
+  },
+  {
+    "question": "According to BMW rules, used/contaminated needles must be disposed of in:",
+    "options": ["Red bag", "White translucent puncture-proof container", "Yellow bag", "Blue box"],
+    "correct_index": 1,
+    "explanation": "Sharps, including needles and scalpels, must be placed in a white, puncture-proof, leak-proof container to prevent needle-stick injuries."
+  },
+  {
+    "question": "The normal pH of arterial blood is:",
+    "options": ["7.0", "7.35–7.45", "7.5–8.0", "6.8–7.2"],
+    "correct_index": 1,
+    "explanation": "The body maintains a very narrow pH range of 7.35 to 7.45 for optimal metabolic and enzyme function."
+  },
+  {
+    "question": "Which medication is typically used to treat bradycardia in an emergency?",
+    "options": ["Digoxin", "Atropine", "Propranolol", "Amiodarone"],
+    "correct_index": 1,
+    "explanation": "Atropine is an anticholinergic drug that blocks vagal effects on the heart, thereby increasing the heart rate."
+  },
+  {
+    "question": "The most common Hospital-Acquired Infection (HAI) is:",
+    "options": ["Ventilator-associated pneumonia", "Surgical site infection", "Urinary Tract Infection", "Bacteremia"],
+    "correct_index": 2,
+    "explanation": "Catheter-associated Urinary Tract Infections (CAUTIs) remain the most frequent healthcare-associated infection worldwide."
+  },
+  {
+    "question": "What is the recommended dose of Adrenaline (1:10000) for neonatal resuscitation?",
+    "options": ["0.1 to 0.3 ml/kg", "1 to 2 ml/kg", "0.5 to 1 ml/kg", "0.01 to 0.03 ml/kg"],
+    "correct_index": 0,
+    "explanation": "The standard IV/IO dose for neonatal resuscitation is 0.1 to 0.3 ml/kg of a 1:10,000 solution."
+  },
+  {
+    "question": "Koplik’s spots are a pathognomonic sign of:",
+    "options": ["Rubella", "Measles (Rubeola)", "Mumps", "Chickenpox"],
+    "correct_index": 1,
+    "explanation": "Koplik’s spots are small white spots on the buccal mucosa that appear 2-3 days before the measles rash."
+  },
+  {
+    "question": "The first sign of Puberty in girls is usually:",
+    "options": ["Menarche", "Thelarche", "Pubarche", "Growth spurt"],
+    "correct_index": 1,
+    "explanation": "Thelarche, or the development of breast buds, is typically the first physical sign of puberty in females."
+  },
+  {
+    "question": "Which hormone is responsible for the 'milk let-down' reflex?",
+    "options": ["Prolactin", "Oxytocin", "Estrogen", "Progesterone"],
+    "correct_index": 1,
+    "explanation": "While prolactin stimulates milk production, oxytocin causes the contraction of myoepithelial cells in the breast to eject milk."
+  },
+  {
+    "question": "The 'Sunsetting sign' of the eyes in an infant is a clinical manifestation of:",
+    "options": ["Neonatal Jaundice", "Hydrocephalus", "Cataract", "Vitamin A deficiency"],
+    "correct_index": 1,
+    "explanation": "Upward gaze palsy due to increased intracranial pressure (as seen in hydrocephalus) makes the eyes appear to be set below the lower eyelid."
+  },
+  {
+    "question": "What is the recommended total weight gain during a normal pregnancy?",
+    "options": ["5–6 kg", "11–13 kg", "15–20 kg", "2 kg"],
+    "correct_index": 1,
+    "explanation": "For a woman with a normal pre-pregnancy BMI, a weight gain of 11 to 13 kg (roughly 25-35 lbs) is considered ideal."
+  },
+  {
+    "question": "Which medication is the drug of choice for treating Magnesium Sulfate toxicity?",
+    "options": ["Protamine sulfate", "Calcium Gluconate", "Vitamin K", "Naloxone"],
+    "correct_index": 1,
+    "explanation": "Calcium Gluconate acts as an antagonist to magnesium and is used to reverse respiratory depression or cardiac effects of toxicity."
+  },
+  {
+    "question": "Naegele’s Rule is used to calculate:",
+    "options": ["Estimated Date of Delivery (EDD)", "Fetal weight", "Gestational age by fundal height", "Apgar score"],
+    "correct_index": 0,
+    "explanation": "Naegele's Rule (LMP + 7 days - 3 months + 1 year) is the standard method for calculating the due date."
+  },
+  {
+    "question": "Painless, bright red vaginal bleeding in the third trimester of pregnancy suggests:",
+    "options": ["Abruptio placentae", "Placenta previa", "Ectopic pregnancy", "Molar pregnancy"],
+    "correct_index": 1,
+    "explanation": "Placenta previa is characterized by painless bleeding as the cervix begins to dilate and tear the low-lying placenta."
+  },
+  {
+    "question": "Hegar's sign is defined as:",
+    "options": ["Softening of the cervix", "Softening of the lower uterine segment", "Bluish discoloration of the vagina", "The first feeling of fetal movement"],
+    "correct_index": 1,
+    "explanation": "Hegar's sign is a probable sign of pregnancy detected during a bimanual exam as the isthmus of the uterus softens."
+  },
+  {
+    "question": "The normal range for Fetal Heart Rate (FHR) is:",
+    "options": ["70–100 bpm", "120–160 bpm", "180–200 bpm", "60–80 bpm"],
+    "correct_index": 1,
+    "explanation": "A normal FHR at term is between 110/120 and 160 beats per minute."
+  },
+  {
+    "question": "An Apgar score of 3 at one minute indicates that the neonate is in:",
+    "options": ["Normal condition", "Mild depression", "Severe depression", "Moderate distress"],
+    "correct_index": 2,
+    "explanation": "Apgar scores from 0-3 are considered severely depressed and require immediate resuscitation."
+  },
+  {
+    "question": "The first milk secreted by the breast after birth is called:",
+    "options": ["Fore-milk", "Hind-milk", "Colostrum", "Transitional milk"],
+    "correct_index": 2,
+    "explanation": "Colostrum is high in antibodies and protein, providing the newborn with essential immunity and nutrition in the first few days."
+  },
+  {
+    "question": "Why is Vitamin K administered to newborns?",
+    "options": ["To treat jaundice", "To prevent infection", "To prevent hemorrhagic disease", "To stimulate the heart"],
+    "correct_index": 2,
+    "explanation": "Newborns have a sterile gut and lack Vitamin K, which is necessary for the synthesis of clotting factors II, VII, IX, and X."
+  },
+  {
+    "question": "Which drug is used to facilitate the closure of a Patent Ductus Arteriosus (PDA)?",
+    "options": ["Prostaglandin E1", "Indomethacin", "Digoxin", "Dopamine"],
+    "correct_index": 1,
+    "explanation": "Indomethacin is a prostaglandin inhibitor that encourages the constriction and closure of the ductus arteriosus."
+  },
+  {
+    "question": "'Strawberry spots' on the cervix are a sign of which infection?",
+    "options": ["Candidiasis", "Trichomoniasis", "Syphilis", "Gonorrhea"],
+    "correct_index": 1,
+    "explanation": "Trichomonas vaginalis causes punctate hemorrhages on the cervix, giving it a 'strawberry' appearance."
+  },
+  {
+    "question": "Phototherapy is a primary treatment for which neonatal condition?",
+    "options": ["Hypothermia", "Hyperbilirubinemia", "Hypoglycemia", "Sepsis"],
+    "correct_index": 1,
+    "explanation": "Blue-green light converts unconjugated bilirubin in the skin into a water-soluble form (lumirubin) that can be excreted."
+  },
+  {
+    "question": "The correct distance of phototherapy lamps from the baby should be:",
+    "options": ["10 cm", "45 cm", "100 cm", "5 cm"],
+    "correct_index": 1,
+    "explanation": "Maintaining a distance of approximately 45 cm ensures effective light intensity while preventing skin burns or overheating."
+  },
+  {
+    "question": "The most common site for an Ectopic pregnancy is:",
+    "options": ["Ovary", "Cervix", "Ampulla of the Fallopian tube", "Abdominal cavity"],
+    "correct_index": 2,
+    "explanation": "About 95% of ectopic pregnancies occur in the fallopian tube, with the ampulla being the most frequent segment."
+  },
+  {
+    "question": "The Bishop Score is used to evaluate:",
+    "options": ["Fetal maturity", "Readiness for induction of labor", "Postpartum hemorrhage risk", "Neonatal neurological distress"],
+    "correct_index": 1,
+    "explanation": "The Bishop score assesses cervical dilation, effacement, consistency, position, and fetal station to predict the success of labor induction."
+  },
+  {
+    "question": "The drug of choice for treating Bipolar Disorder is:",
+    "options": ["Diazepam", "Lithium", "Fluoxetine", "Haloperidol"],
+    "correct_index": 1,
+    "explanation": "Lithium carbonate is the standard mood stabilizer used to treat and prevent manic episodes in bipolar disorder."
+  },
+  {
+    "question": "What is the antidote for a Heparin overdose?",
+    "options": ["Vitamin K", "Protamine Sulfate", "Acetylcysteine", "Flumazenil"],
+    "correct_index": 1,
+    "explanation": "Protamine sulfate is a protein that binds to heparin to form a stable salt, neutralizing its anticoagulant effect."
+  },
+  {
+    "question": "Which drug is considered the drug of choice for MRSA?",
+    "options": ["Amoxicillin", "Vancomycin", "Erythromycin", "Gentamicin"],
+    "correct_index": 1,
+    "explanation": "Vancomycin is a glycopeptide antibiotic used primarily for severe infections caused by methicillin-resistant Staphylococcus aureus."
+  },
+  {
+    "question": "What is a common, expected side effect of Rifampicin?",
+    "options": ["Ototoxicity", "Orange-red discoloration of body fluids", "Optic neuritis", "Peripheral neuropathy"],
+    "correct_index": 1,
+    "explanation": "Rifampicin causes a harmless orange-red discoloration of urine, sweat, tears, and saliva, which patients should be warned about."
+  },
+  {
+    "question": "Which medication is administered to a mother in preterm labor to promote fetal lung maturity?",
+    "options": ["Oxytocin", "Betamethasone", "Magnesium Sulfate", "Terbutaline"],
+    "correct_index": 1,
+    "explanation": "Corticosteroids like Betamethasone or Dexamethasone stimulate the production of surfactant in the fetal lungs."
+  },
+  {
+    "question": "Deficiency of which vitamin causes Beri-Beri?",
+    "options": ["Vitamin B1 (Thiamine)", "Vitamin B2 (Riboflavin)", "Vitamin B3 (Niacin)", "Vitamin B12"],
+    "correct_index": 0,
+    "explanation": "Thiamine deficiency leads to Beri-Beri, which can affect the cardiovascular system (wet) or nervous system (dry)."
+  },
+  {
+    "question": "'Golden Rice' is genetically modified to be a rich source of:",
+    "options": ["Iron", "Vitamin A", "Vitamin C", "Zinc"],
+    "correct_index": 1,
+    "explanation": "Golden rice is engineered to biosynthesize beta-carotene, a precursor of vitamin A, to combat deficiency in developing countries."
+  },
+  {
+    "question": "What is the antidote for Paracetamol (Acetaminophen) poisoning?",
+    "options": ["Atropine", "N-acetylcysteine", "Naloxone", "Desferrioxamine"],
+    "correct_index": 1,
+    "explanation": "N-acetylcysteine restores glutathione levels in the liver, allowing for the safe metabolism of toxic paracetamol metabolites."
+  },
+  {
+    "question": "Which medication is used to reverse an Opioid overdose?",
+    "options": ["Naloxone", "Neostigmine", "Methadone", "Diazepam"],
+    "correct_index": 0,
+    "explanation": "Naloxone is an opioid antagonist that rapidly displaces opioids from receptors to reverse respiratory depression."
+  },
+  {
+    "question": "The most common side effect of Electroconvulsive Therapy (ECT) is:",
+    "options": ["Bone fractures", "Retrograde and Anterograde Amnesia", "Chronic hypotension", "Permanent hyperthermia"],
+    "correct_index": 1,
+    "explanation": "Memory loss (confusion and amnesia) regarding the period surrounding the treatment is the most frequent adverse effect of ECT."
+  },
+  {
+    "question": "The nurse must withhold Digoxin and notify the physician if the apical pulse is:",
+    "options": ["< 100 bpm", "< 60 bpm", "> 110 bpm", "< 80 bpm"],
+    "correct_index": 1,
+    "explanation": "Digoxin decreases the heart rate; administering it when the rate is already below 60 can lead to dangerous bradycardia."
+  },
+  {
+    "question": "Which vitamin is essential for the synthesis of blood clotting factors?",
+    "options": ["Vitamin A", "Vitamin D", "Vitamin K", "Vitamin E"],
+    "correct_index": 2,
+    "explanation": "Vitamin K is a necessary co-factor for the hepatic synthesis of factors II, VII, IX, and X."
+  },
+  {
+    "question": "Deficiency of Vitamin D in adults results in:",
+    "options": ["Rickets", "Osteomalacia", "Scurvy", "Pellagra"],
+    "correct_index": 1,
+    "explanation": "While Vitamin D deficiency causes rickets in children, in adults it leads to osteomalacia, which is the softening of bones."
+  },
+  {
+    "question": "What is the major intracellular cation in the human body?",
+    "options": ["Sodium", "Potassium", "Calcium", "Chloride"],
+    "correct_index": 1,
+    "explanation": "Potassium ($K^+$) is the primary cation found inside cells, essential for maintaining resting membrane potential."
+  },
+  {
+    "question": "Which of the following is a Potassium-sparing diuretic?",
+    "options": ["Furosemide", "Spironolactone", "Hydrochlorothiazide", "Mannitol"],
+    "correct_index": 1,
+    "explanation": "Spironolactone antagonizes aldosterone in the distal tubules, promoting sodium excretion while retaining potassium."
+  },
+  {
+    "question": "A false, fixed belief that cannot be changed by logical reasoning is a:",
+    "options": ["Hallucination", "Illusion", "Delusion", "Obsession"],
+    "correct_index": 2,
+    "explanation": "Delusions are disturbances in thought content where the individual holds a firm, false belief despite evidence to the contrary."
+  },
+  {
+    "question": "Wernicke’s Encephalopathy is primarily caused by a deficiency of:",
+    "options": ["Thiamine (B1)", "Pyridoxine (B6)", "Vitamin C", "Vitamin B12"],
+    "correct_index": 0,
+    "explanation": "Often seen in chronic alcoholism, thiamine deficiency causes a triad of confusion, ataxia, and ophthalmoplegia known as Wernicke's Encephalopathy."
+  },
+  {
+    "question": "The most common type of Schizophrenia is:",
+    "options": ["Catatonic", "Paranoid", "Hebephrenic", "Residual"],
+    "correct_index": 1,
+    "explanation": "Paranoid schizophrenia, characterized by prominent delusions and hallucinations, is the most frequently diagnosed subtype."
+  },
+  {
+    "question": "World Health Day is observed annually on:",
+    "options": ["December 1st", "April 7th", "June 5th", "May 12th"],
+    "correct_index": 1,
+    "explanation": "April 7th marks the anniversary of the founding of the World Health Organization (WHO) in 1948."
+  },
+  {
+    "question": "The 'Cold Chain' system is primarily used for:",
+    "options": ["Storing emergency drugs", "Maintaining the potency of vaccines", "Proper storage of blood units", "Preserving surgical specimens"],
+    "correct_index": 1,
+    "explanation": "The cold chain is a system of transporting and storing vaccines at recommended temperatures from manufacture to the point of use."
+  },
+  {
+    "question": "The basic unit of society considered in community health nursing is:",
+    "options": ["The individual", "The family", "The village", "The district"],
+    "correct_index": 1,
+    "explanation": "In community health, the family is considered the primary unit of service because the health of one member affects the entire group."
+  },
+  {
+    "question": "The typical incubation period for Measles is:",
+    "options": ["1–3 days", "10–14 days", "21 days", "5 days"],
+    "correct_index": 1,
+    "explanation": "Measles generally has an incubation period of about 10 days from exposure to fever onset and 14 days to rash onset."
+  },
+  {
+    "question": "The BCG vaccine is administered to provide immunity against:",
+    "options": ["Polio", "Tuberculosis", "Tetanus", "Diphtheria"],
+    "correct_index": 1,
+    "explanation": "Bacille Calmette-Guérin (BCG) is a live attenuated vaccine used to prevent severe forms of tuberculosis, especially in children."
+  },
+  {
+    "question": "The Indian Mental Health Act was originally passed in:",
+    "options": ["1947", "1987", "2017", "1999"],
+    "correct_index": 1,
+    "explanation": "The Mental Health Act of 1987 replaced the Indian Lunacy Act of 1912. It was later updated by the Mental Healthcare Act of 2017."
+  },
+  {
+    "question": "An irrational fear of closed or confined spaces is known as:",
+    "options": ["Acrophobia", "Claustrophobia", "Agoraphobia", "Xenophobia"],
+    "correct_index": 1,
+    "explanation": "Claustrophobia is a specific anxiety disorder involving a fear of being in small spaces with no easy escape."
+  },
+  {
+    "question": "The first dose of Vitamin A given at 9 months of age is:",
+    "options": ["1 lakh IU", "2 lakh IU", "50,000 IU", "5 lakh IU"],
+    "correct_index": 0,
+    "explanation": "Under the National Immunization Schedule, the first dose is 100,000 IU (1 lakh), followed by 200,000 IU (2 lakh) every 6 months until age 5."
+  },
+  {
+    "question": "The largest internal organ of the human body is the:",
+    "options": ["Skin", "Liver", "Heart", "Lung"],
+    "correct_index": 1,
+    "explanation": "The liver is the largest internal organ. Note: The skin is the largest organ overall, but it is external."
+  },
+  {
+    "question": "The leading cause of Maternal Mortality in India is:",
+    "options": ["Sepsis", "Eclampsia", "Obstetric Hemorrhage", "Anemia"],
+    "correct_index": 2,
+    "explanation": "Postpartum hemorrhage (PPH) remains the single most common cause of maternal death in developing countries."
+  },
+  {
+    "question": "The screening test used for the early detection of Cervical Cancer is the:",
+    "options": ["Biopsy", "Pap Smear", "Ultrasound", "MRI"],
+    "correct_index": 1,
+    "explanation": "The Papanicolaou (Pap) smear is a simple, effective screening tool to detect precancerous or cancerous cells in the cervix."
+  },
+  {
+    "question": "Routine screening for a disease falls under which level of prevention?",
+    "options": ["Primary prevention", "Secondary prevention", "Tertiary prevention", "Primordial prevention"],
+    "correct_index": 1,
+    "explanation": "Secondary prevention focuses on early diagnosis and prompt treatment to prevent the progression of a disease."
+  },
+  {
+    "question": "What is the total number of bones in a typical adult human skeleton?",
+    "options": ["200", "206", "300", "212"],
+    "correct_index": 1,
+    "explanation": "An adult human has 206 bones, whereas infants have more bones that eventually fuse together during growth."
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "options": ["Femur", "Stapes", "Malleus", "Mandible"],
+    "correct_index": 1,
+    "explanation": "The stapes, located in the middle ear, is the smallest and lightest bone in the human body."
+  },
+  {
+    "question": "The basic functional unit of the kidney is the:",
+    "options": ["Neuron", "Nephron", "Alveoli", "Glomerulus"],
+    "correct_index": 1,
+    "explanation": "The nephron is responsible for filtering blood, reabsorbing nutrients, and forming urine."
+  },
+  {
+    "question": "Which organ is known as the 'Graveyard of RBCs'?",
+    "options": ["Liver", "Spleen", "Bone Marrow", "Kidney"],
+    "correct_index": 1,
+    "explanation": "The spleen filters the blood and removes old, damaged, or worn-out red blood cells from circulation."
+  },
+  {
+    "question": "In a patient with COPD, the primary stimulus to breathe is triggered by:",
+    "options": ["High CO2 levels", "Low O2 levels (Hypoxic drive)", "Low blood pH", "High bicarbonate levels"],
+    "correct_index": 1,
+    "explanation": "Chronic CO2 retainers become desensitized to high carbon dioxide; their breathing is driven by low oxygen levels instead."
+  },
+  {
+    "question": "Homans' sign is a clinical assessment formerly used to check for:",
+    "options": ["Meningitis", "Deep Vein Thrombosis (DVT)", "Appendicitis", "Hypocalcemic Tetany"],
+    "correct_index": 1,
+    "explanation": "Pain in the calf upon dorsiflexion of the foot is known as Homans' sign, suggesting DVT, though it is no longer considered highly reliable."
+  },
+  {
+    "question": "The only movable bone in the human skull is the:",
+    "options": ["Maxilla", "Mandible", "Zygomatic bone", "Frontal bone"],
+    "correct_index": 1,
+    "explanation": "The mandible (lower jaw) is the only bone in the skull that can move, allowing for mastication and speech."
+  },
+  {
+    "question": "Which hormone is primarily responsible for lowering blood glucose levels?",
+    "options": ["Glucagon", "Insulin", "Epinephrine", "Cortisol"],
+    "correct_index": 1,
+    "explanation": "Insulin, secreted by the beta cells of the pancreas, facilitates the uptake of glucose into the body's cells."
+  },
+  {
+    "question": "Which gland is known as the 'Master Gland' of the endocrine system?",
+    "options": ["Thyroid", "Adrenal", "Pituitary", "Pancreas"],
+    "correct_index": 2,
+    "explanation": "The pituitary gland is called the master gland because it secretes hormones that control the functions of many other endocrine glands."
+  },
+  {
+    "question": "The normal Glomerular Filtration Rate (GFR) is approximately:",
+    "options": ["125 ml/min", "50 ml/min", "200 ml/min", "10 ml/min"],
+    "correct_index": 0,
+    "explanation": "A normal GFR for a healthy adult is approximately 125 ml per minute, indicating how well the kidneys are filtering waste."
+  },
+  {
     "question": "When helping a stroke patient nurse should assist",
     "options": ["On weak side", "On strong side", "From behind", "From back"],
     "correct_index": 0,
@@ -10,593 +610,5 @@
     "options": ["Upper thigh", "Lower thigh", "Hind leg", "Foot"],
     "correct_index": 0,
     "explanation": "Securing the catheter to the upper thigh prevents tension on the bladder neck and urethra, reducing the risk of trauma and accidental dislodgement."
-  },
-  {
-    "question": "Sixteen-year-old primigravid patient admitted with severe pregnancy-induced hypertension is given intravenous magnesium sulfate. The nurse should obtain which one of the following information?",
-    "options": ["Urinary output every 8 hours", "Deep tendon reflexes every 4 hours", "Respiratory rate every hour", "Blood pressure every 6 hours"],
-    "correct_index": 2,
-    "explanation": "Magnesium sulfate toxicity can lead to respiratory depression; therefore, monitoring the respiratory rate frequently (every hour) is a critical safety intervention."
-  },
-  {
-    "question": "Which one of the following nursing measures would be most appropriate in the care of the patient who has acute epistaxis?",
-    "options": ["Tilt the patient's head back", "Place the patient's head between his legs", "Pinch the nose and have the patient lean forward", "Place warm compresses on the patient's nasal bridge"],
-    "correct_index": 2,
-    "explanation": "Leaning forward prevents the swallowing or aspiration of blood, while pinching the soft part of the nose applies direct pressure to stop the bleeding."
-  },
-  {
-    "question": "Which of the following actions would a nurse take first when caring for a patient experiencing a cardiac arrest?",
-    "options": ["Initiate cardiac monitoring", "Provide intravenous access", "Establish an open airway", "Obtain a pulse oximetry reading"],
-    "correct_index": 2,
-    "explanation": "Following the Basic Life Support (BLS) sequence (or CAB/ABC depending on protocol), establishing an open airway is a foundational priority to ensure oxygenation can occur."
-  },
-  {
-    "question": "When caring for a patient who has intermittent claudication, nurse advises the patient to",
-    "options": ["Apply graduated compression stockings", "Elevate the legs when sitting", "Refrain from vigorous exercise", "Walk as much as tolerated"],
-    "correct_index": 3,
-    "explanation": "Walking helps promote the development of collateral circulation in patients with peripheral arterial disease, which can eventually improve walking distance and reduce symptoms."
-  },
-  {
-    "question": "A lethargic patient has fever, vomiting, headache and the nurse has to prepare him for which one of the following procedure?",
-    "options": ["Blood culture", "Lumbar puncture", "CAT scan", "Ultrasound exam"],
-    "correct_index": 1,
-    "explanation": "The symptoms (fever, headache, lethargy, vomiting) are classic signs of meningitis. A lumbar puncture is necessary to analyze cerebrospinal fluid for diagnosis."
-  },
-  {
-    "question": "An active male patient who weighs 180 lb (81.65 kg) has undergone dietary instruction. The patient reports that his current diet consists of 60 g of fat, 200 mg of cholesterol, and 5 g of sodium per day. What a nurse advises the patient to do?",
-    "options": ["Increase his cholesterol", "Increase his sodium", "Decrease his cholesterol", "Decrease his sodium"],
-    "correct_index": 3,
-    "explanation": "A sodium intake of 5g (5000mg) is significantly higher than the recommended daily limit (usually <2300mg). The nurse should advise reducing sodium to prevent hypertension and fluid retention."
-  },
-  {
-    "question": "A fifty five-year-old male patient who is diagnosed with an evolving myocardial infarction (MI) insists on going home. The nurse encourages the patient to be admitted, because the greatest risk within the first 24 hours of sustaining an MI is",
-    "options": ["Heart failure", "Sudden death", "Pulmonary embolism", "Ventricular aneurysm"],
-    "correct_index": 1,
-    "explanation": "The first 24 hours post-MI carry the highest risk of lethal arrhythmias (like ventricular fibrillation), which can lead to sudden cardiac death."
-  },
-  {
-    "question": "Which nursing diagnosis is most appropriate for a patient with chronic venous insufficiency?",
-    "options": ["Activity intolerance", "Body image, disturbed", "Fluid volume, deficient", "Skin integrity, impaired"],
-    "correct_index": 3,
-    "explanation": "Chronic venous insufficiency often leads to venous stasis ulcers, edema, and skin changes (hemosiderin staining), making 'Skin integrity, impaired' a primary concern."
-  },
-  {
-    "question": "Which condition places a patient with cardiac illness at increased risk of sudden death?",
-    "options": ["Depression", "Anxiety", "Bulimia", "Chest pain"],
-    "correct_index": 0,
-    "explanation": "Clinical studies have shown that depression is a significant independent risk factor for increased mortality and sudden cardiac death in patients with established heart disease."
-  },
-  {
-    "question": "Nurse working in an ICU must be aware of the ratio of chest compression to ventilation in CPR procedure is",
-    "options": ["12:1", "12:2", "15:1", "15:2"],
-    "correct_index": 3,
-    "explanation": "While 30:2 is standard for single-rescuer adult CPR, 15:2 is frequently used in two-rescuer professional healthcare settings (especially in pediatrics) to ensure adequate ventilation."
-  },
-  {
-    "question": "How long should a nurse wait after taking cold milk for recording oral temperature?",
-    "options": ["5 to 10 mins", "10 to 20 mins", "20 to 30 mins", "30 to 40 mins"],
-    "correct_index": 1,
-    "explanation": "Ingesting hot or cold liquids can temporarily alter the temperature of the oral mucosa. Waiting 10–20 minutes allows the mouth to return to its baseline temperature."
-  },
-  {
-    "question": "Maternal death rate is expressed deaths per",
-    "options": ["1,000 live births", "1,000 pregnancies", "100,000 live births", "10,000 pregnancies"],
-    "correct_index": 2,
-    "explanation": "The Maternal Mortality Ratio is standardly calculated as the number of maternal deaths per 100,000 live births."
-  },
-  {
-    "question": "Which type of solution causes water to shift from cells to plasma?",
-    "options": ["Alkaline", "Isotonic", "Hypotonic", "Hypertonic"],
-    "correct_index": 3,
-    "explanation": "Hypertonic solutions have a higher osmotic pressure than intracellular fluid, drawing water out of the cells and into the vascular space (plasma) via osmosis."
-  },
-  {
-    "question": "Bleeding time is prolonged in all the following, except",
-    "options": ["Viper bite", "Idiopathic thrombocytopenia", "Haemophilia A", "von-Willebrand disease"],
-    "correct_index": 2,
-    "explanation": "Haemophilia A is a disorder of coagulation (Factor VIII deficiency), which affects Clotting Time. Bleeding Time measures platelet function, which is usually normal in Haemophilia."
-  },
-  {
-    "question": "How much oxygen a nurse should give to a patient with chronic respiratory failure?",
-    "options": ["1 liter/min with nasal prongs", "2 liters/min with nasal mask", "10 liters/min with nasal mask", "12 liters/min with nasal prongs"],
-    "correct_index": 1,
-    "explanation": "Patients with chronic respiratory failure (like COPD) often rely on a hypoxic drive to breathe. High levels of oxygen can suppress this drive; thus, low-flow oxygen (2L) is preferred."
-  },
-  {
-    "question": "All the factors aid in venous return to the heart except",
-    "options": ["Negative intrathoracic pressure", "One way valves in the veins", "Left ventricular contraction", "Squeezing action of major muscle"],
-    "correct_index": 2,
-    "explanation": "Venous return is assisted by the respiratory pump (negative pressure), valves, and the skeletal muscle pump. Left ventricular contraction provides the force for arterial flow, not venous return."
-  },
-  {
-    "question": "All the following enzymes are secreted by gastrointestinal system except",
-    "options": ["Ptyalin", "Pepsin", "Chymotrypsin", "Angiotensin"],
-    "correct_index": 3,
-    "explanation": "Angiotensin is part of the Renin-Angiotensin-Aldosterone System (RAAS) involved in blood pressure regulation, not a digestive enzyme secreted by the GI tract."
-  },
-  {
-    "question": "While recording Intake Output nurse has to consider insensible water loss from human body and the normal is",
-    "options": ["200 ml", "400 ml", "800 ml", "1000 ml"],
-    "correct_index": 2,
-    "explanation": "Insensible water loss (through skin and lungs) typically ranges from 600 to 900 ml per day in a healthy adult; 800 ml is the standard average used in clinical calculations."
-  },
-  {
-    "question": "The nurse is caring for several mother-baby couplets. In planning the care for each of the couplets, which mother would the nurse expect to have the most severe after birth pains?",
-    "options": ["G 4, P 1 patient who is breast-feeding her infant", "G 3, P 3 patient who is breast-feeding her infant", "G 2, P 2 cesarean patient who is bottle-feeding her infant", "G 3, P 3 patient who is bottle-feeding her infant"],
-    "correct_index": 3,
-    "explanation": "Multiparous women (G3, P3) experience more severe afterpains due to loss of uterine muscle tone. While breastfeeding also triggers pains, multiparity is a primary driver of intensity."
-  },
-  {
-    "question": "Assuming the menstrual cycle length as 32 days and LMP as June 10th. Which of the following is most likely due date?",
-    "options": ["March 12", "March 17", "March 21", "March 27"],
-    "correct_index": 1,
-    "explanation": "Using Naegele's rule for a 28-day cycle gives March 17. Since the cycle is 32 days (4 days longer), the ovulation and subsequent due date are adjusted accordingly."
-  },
-  {
-    "question": "Thirty years old female complained of wetting her dress while coughing. Which one of the following conditions a nurse should suspect?",
-    "options": ["Cystocele", "Rectocele", "Enterocele", "Urethrocele"],
-    "correct_index": 0,
-    "explanation": "A cystocele (protrusion of the bladder into the vagina) often causes stress incontinence, where activities like coughing or sneezing result in involuntary urine leakage."
-  },
-  {
-    "question": "Which one of the following is NOT a described type of female bony pelvis?",
-    "options": ["Android", "Gynecoid", "Obstetroid", "Anthropoid"],
-    "correct_index": 2,
-    "explanation": "The four classic types of female pelvis are Gynecoid, Android, Anthropoid, and Platypelloid. 'Obstetroid' is not a recognized anatomical classification."
-  },
-  {
-    "question": "Benefits of breastfeeding include all except",
-    "options": ["It provides nutrients", "Colostrum provides a high level of immune protection", "Less prone for gastrointestinal infections", "It provides adequate iron for premature newborn"],
-    "correct_index": 3,
-    "explanation": "While breast milk contains iron, it is often insufficient for the high needs of a premature newborn, who may require additional iron supplementation."
-  },
-  {
-    "question": "Which IUCD needs to be replaced only after 10 years?",
-    "options": ["Copper 'T' 200", "Progestasert", "Cu - T 380A", "Nova 'T'"],
-    "correct_index": 2,
-    "explanation": "The Copper T 380A is a highly effective, long-acting reversible contraceptive approved for up to 10 years of continuous use."
-  },
-  {
-    "question": "Aspermia is the term used to describe",
-    "options": ["Absence of semen", "Presence of abnormal sperms", "Absence of sperm", "Absence of sperm motility"],
-    "correct_index": 0,
-    "explanation": "Aspermia refers to the complete lack of semen ejaculation, whereas 'Azoospermia' refers specifically to the absence of sperm within the semen."
-  },
-  {
-    "question": "Which factor is most closely associated with successful smoking cessation?",
-    "options": ["Enrollment in a short-term support group", "Lack of reliance on nicotine gum as a secondary intervention", "Preparation of a plan to deal with potential relapses", "Reliance on a single intervention"],
-    "correct_index": 2,
-    "explanation": "Behavioral readiness and having a proactive relapse prevention plan are key indicators of long-term success in quitting smoking."
-  },
-  {
-    "question": "A newly married healthy couple is asking for the best method of contraception and which one of the following methods a nurse will advice?",
-    "options": ["Barrier method", "Rhythm method", "Intrauterine devices", "Combined oral pills"],
-    "correct_index": 3,
-    "explanation": "For a healthy, newly married couple seeking high efficacy and reversibility, combined oral contraceptive pills are often recommended as a first-line choice."
-  },
-  {
-    "question": "All are high risk factors for endometrial carcinoma except",
-    "options": ["Obesity", "Multiparity", "Diabetes", "Exogenous estrogen"],
-    "correct_index": 1,
-    "explanation": "Nulliparity (never having given birth) is a risk factor for endometrial cancer. Multiparity is actually considered a protective factor."
-  },
-  {
-    "question": "Oxygenated blood enter the fetal circulation from umbilical vein via",
-    "options": ["Ductus venosus", "Ductus arteriosus", "Intra hepatic vein", "Intra hepatic artery"],
-    "correct_index": 0,
-    "explanation": "The ductus venosus shunts a significant portion of the blood from the umbilical vein directly to the inferior vena cava, bypassing the liver."
-  },
-  {
-    "question": "Persistent generalized lymph-adenopathy, is caused by",
-    "options": ["HST", "HCV", "HAV", "HIV"],
-    "correct_index": 3,
-    "explanation": "Persistent generalized lymphadenopathy (PGL) is a common clinical manifestation of early symptomatic HIV infection."
-  },
-  {
-    "question": "Which one of the following viruses cause post-transfusion hepatitis?",
-    "options": ["Hepatitis A", "Hepatitis B", "Hepatitis C", "Hepatitis D"],
-    "correct_index": 2,
-    "explanation": "Hepatitis C was historically the most common cause of post-transfusion hepatitis before advanced screening methods were implemented."
-  },
-  {
-    "question": "What is the usual site of intramuscular injection a nurse will choose in an adult for Z-track technique?",
-    "options": ["Deltoid", "Rectus femoris", "Ventrogluteal", "Vastus lateralis"],
-    "correct_index": 2,
-    "explanation": "The ventrogluteal site is preferred for Z-track injections because it provides a deep muscle mass and is away from major nerves and blood vessels."
-  },
-  {
-    "question": "How a nurse will have to collect urine sample for culture from urinary collecting system?",
-    "options": ["With needle aspiration", "Empty urine from bag", "Collect from catheter", "Disconnect bag and collect"],
-    "correct_index": 0,
-    "explanation": "To ensure a sterile sample from a closed drainage system, the nurse should use needle aspiration from the designated sampling port, not from the drainage bag."
-  },
-  {
-    "question": "All the following hormones are secreted by anterior pituitary except",
-    "options": ["GH", "GRH", "TSH", "FSH"],
-    "correct_index": 1,
-    "explanation": "Gonadotropin-releasing hormone (GRH/GnRH) is secreted by the Hypothalamus, not the anterior pituitary. It stimulates the pituitary to release FSH and LH."
-  },
-  {
-    "question": "Glycated haemoglobin (HbA1c) tests, mean glucose levels",
-    "options": ["Over 2 days", "Over 14 days", "Over 30 days", "Over 90 days"],
-    "correct_index": 3,
-    "explanation": "HbA1c measures the percentage of hemoglobin coated with sugar, reflecting the average blood glucose level over the lifespan of a red blood cell (roughly 90–120 days)."
-  },
-  {
-    "question": "How do you know that intercostal drainage tube is functioning?",
-    "options": ["Continuous bubbling in waterseal bottle", "Continuous bubbling from suction tube", "Oscillation of water column in drainage bottle", "No bubbling in the drainage bottle"],
-    "correct_index": 2,
-    "explanation": "Tidaling (oscillation) of the water level with respiration indicates that the system is patent and responding to changes in intrathoracic pressure."
-  },
-  {
-    "question": "A subjective feeling about what is right or wrong, in psychiatric medicine is said to be",
-    "options": ["Values", "Morality", "Religion", "Bioethics"],
-    "correct_index": 3,
-    "explanation": "Bioethics involves the application of ethical principles to healthcare and medical decision-making regarding what is right and wrong in clinical practice."
-  },
-  {
-    "question": "Nurse has to apply erythromycin ointment to a newborn child. Which area of eye she is supposed to place it?",
-    "options": ["On the cornea", "Under the eyelid", "Lower conjunctiva", "Upper conjunctiva"],
-    "correct_index": 2,
-    "explanation": "Ophthalmic medications are standardly applied to the lower conjunctival sac to ensure even distribution and minimize irritation to the cornea."
-  },
-  {
-    "question": "Fluid overload in a patient may cause",
-    "options": ["Angio edema", "Peripheral edema", "Pulmonary edema", "Cerebral edema"],
-    "correct_index": 2,
-    "explanation": "Acute fluid overload can lead to increased hydrostatic pressure in the pulmonary capillaries, causing fluid to leak into the alveoli (pulmonary edema)."
-  },
-  {
-    "question": "All are true regarding H. pylori infection except",
-    "options": ["Is Gram positive bacteria", "Is eradicated by triple therapy", "Produces urease enzyme", "Causes Maltoma tumor"],
-    "correct_index": 0,
-    "explanation": "Helicobacter pylori is a Gram-negative, spiral-shaped bacterium, not Gram-positive."
-  },
-  {
-    "question": "Which one of the following statements by a patient with backache should alert the nurse?",
-    "options": ["Pain on movement", "Pain radiating the leg", "Perineal anaesthesia", "Pain sensation lost in feet"],
-    "correct_index": 2,
-    "explanation": "Perineal anesthesia (saddle anesthesia) is a red-flag symptom of Cauda Equina Syndrome, requiring immediate surgical intervention to prevent permanent damage."
-  },
-  {
-    "question": "The purpose of lymph nodes is to trap",
-    "options": ["Antigens", "Macrophages", "Hormones", "RBCs"],
-    "correct_index": 0,
-    "explanation": "Lymph nodes act as filters that trap foreign particles and antigens, allowing lymphocytes to initiate an immune response."
-  },
-  {
-    "question": "Cytokines are chemical messengers, which",
-    "options": ["Kill microorganisms", "Promote inflammation", "Cause severe pain", "Produce antibodies"],
-    "correct_index": 1,
-    "explanation": "Cytokines are signaling proteins that mediate and regulate immunity and inflammation by communicating between cells."
-  },
-  {
-    "question": "The thymus related T cells",
-    "options": ["Produce antibodies", "Produce NK cells", "Recognize B cells", "Recognize body's own cells"],
-    "correct_index": 3,
-    "explanation": "T cells undergo a selection process in the thymus to ensure they can distinguish between the body's own 'self' cells and foreign 'non-self' antigens."
-  },
-  {
-    "question": "A nurse caring a patient on pancreatic enzyme replacement therapy should assess them for",
-    "options": ["Weight gain", "Hypertension", "Arrhythmias", "GIT irritation"],
-    "correct_index": 0,
-    "explanation": "Effective pancreatic enzyme therapy improves the absorption of fats and nutrients, which should lead to weight gain in patients with pancreatic insufficiency."
-  },
-  {
-    "question": "H2 blocker of choice, in liver disease is",
-    "options": ["Cimetidine", "Ranitidine", "Famotidine", "Nizatidine"],
-    "correct_index": 3,
-    "explanation": "Nizatidine is often preferred because it undergoes minimal hepatic metabolism compared to other H2 blockers like cimetidine."
-  },
-  {
-    "question": "Cardiac muscle differ from skeletal muscle by",
-    "options": ["It contains actin and myosin", "It has automaticity and conductivity", "It needs calcium for contraction", "It thrives without oxygen"],
-    "correct_index": 1,
-    "explanation": "Cardiac muscle cells possess unique properties of automaticity (the ability to generate an impulse spontaneously) and conductivity."
-  },
-  {
-    "question": "The nurse explains to the mother of a neonate diagnosed with erythroblastosis fetalis, that the exchange transfusion is necessary to prevent damage to",
-    "options": ["Liver", "Lungs", "Kidneys", "Brain"],
-    "correct_index": 3,
-    "explanation": "High levels of bilirubin in erythroblastosis fetalis can cross the blood-brain barrier and cause kernicterus, which is permanent brain damage."
-  },
-  {
-    "question": "Which one of the following indices a nurse has to consider as an indicator of good nutrition?",
-    "options": ["Albumin level 2.5 gm/dl", "Pre-albumin level 18 mg/dl", "Transferrin level 244 mg/dl", "Total lymphocytes 1900/microliter"],
-    "correct_index": 3,
-    "explanation": "A total lymphocyte count (TLC) within the normal range (usually >1500) is often used as a bedside indicator of immune competence and nutritional status."
-  },
-  {
-    "question": "Before endotracheal intubation some facts about trachea a nurse has to understand and all the following are true regarding trachea except",
-    "options": ["It's about 13 cm long", "It bifurcates into two major bronchi", "It starts at the level of 7th cervical vertebra", "It ends at the level of sternal angle of Louis"],
-    "correct_index": 2,
-    "explanation": "The trachea typically begins at the level of the 6th cervical vertebra (C6), not the 7th."
-  },
-  {
-    "question": "When assessing a patient with appendicitis how a nurse must initiate to get information?",
-    "options": ["Tell me how you are feeling", "Tell me where is the pain", "Tell me relief of pain with what", "Tell me whether cough aggravates pain"],
-    "correct_index": 1,
-    "explanation": "Asking 'where is the pain' is the most direct way to assess for classic symptoms like migration to McBurney's point."
-  },
-  {
-    "question": "Which guideline a nurse has to follow when caring for pressure sore?",
-    "options": ["Wound must remain moist", "Tight packing of the wound", "Dressing to dry before removal", "Plastic sheet type of dressing for cover"],
-    "correct_index": 2,
-    "explanation": "Wet-to-dry dressings are a form of mechanical debridement where the dressing is allowed to dry so that dead tissue is removed when the dressing is pulled off."
-  },
-  {
-    "question": "What should be the position of the limb, a nurse should maintain in a patient who had undergone right hip prosthesis surgery?",
-    "options": ["Adduction", "Abduction", "Flexion", "Neutral"],
-    "correct_index": 1,
-    "explanation": "Abduction prevents the prosthesis from dislocating out of the acetabulum during the initial healing phase."
-  },
-  {
-    "question": "A postoperative patient develops evisceration what a nurse should do?",
-    "options": ["Provide moral support", "Ask patient to drink more water", "Push the protruding organs inside", "Cover the protruding organs"],
-    "correct_index": 3,
-    "explanation": "Evisceration is a medical emergency. The nurse should immediately cover the protruding organs with sterile, saline-soaked dressings to keep them moist and prevent infection."
-  },
-  {
-    "question": "A nurse is caring for an old lady with osteoarthritis and all the following facts are true regarding osteoarthritis except:",
-    "options": ["Crepitus", "Tophi", "Subcutaneous nodules", "Pain on moving the joint"],
-    "correct_index": 1,
-    "explanation": "Tophi are deposits of uric acid crystals characteristic of gout, not osteoarthritis."
-  },
-  {
-    "question": "How a nurse will teach breathing exercise for a patient with chronic bronchitis?",
-    "options": ["Use chest breathing", "Use diaphragmatic breathing", "Use open mouth breathing", "Use deep inhalation breathing"],
-    "correct_index": 1,
-    "explanation": "Diaphragmatic breathing (and pursed-lip breathing) helps improve gas exchange and reduce the work of breathing in chronic obstructive conditions."
-  },
-  {
-    "question": "A nurse caring for a head injury comatose patient. Which intervention he/she should implement to prevent increased intracranial pressure?",
-    "options": ["Maintain well lit room", "Maintain round the clock suctioning", "Change the position round the clock", "Elevate the head end of the patient"],
-    "correct_index": 3,
-    "explanation": "Elevating the head of the bed (usually 30–45 degrees) promotes venous drainage from the brain, which helps lower intracranial pressure."
-  },
-  {
-    "question": "What recommendation a nurse should give to 55 yr old patient with blood pressure of 150/90 mmHg?",
-    "options": ["It is normal BP for your age", "Recheck your BP 2 weeks later", "Recheck your BP after 6 months", "Recheck your BP after 1 year"],
-    "correct_index": 1,
-    "explanation": "A single reading of 150/90 requires follow-up to confirm a diagnosis of hypertension. Rechecking in 2 weeks is a standard clinical guideline."
-  },
-  {
-    "question": "A nurse is caring an anemic patient. What finding should suggest her that it is acute blood loss anemia?",
-    "options": ["Exertional dyspnea", "Easy fatigue on exertion", "Bradycardia at rest", "Postural hypotension"],
-    "correct_index": 3,
-    "explanation": "Postural (orthostatic) hypotension is a sign of decreased circulating blood volume, indicative of acute hemorrhage."
-  },
-  {
-    "question": "Which patient is having very high risk for developing ovarian cancer?",
-    "options": ["30 yrs old on oral contraceptives", "36 yrs old who had first child at 22 yrs", "45 yrs old who has never been pregnant", "40 yrs old who had 5 alive children, 1 abortion"],
-    "correct_index": 2,
-    "explanation": "Nulliparity (never being pregnant) increases the risk of ovarian cancer because the ovaries do not get a break from the monthly cycle of ovulation."
-  },
-  {
-    "question": "Which joint movement is restricted in a patient with pericapsulitis of shoulder?",
-    "options": ["Adduction", "Abduction", "Flexion", "Extension"],
-    "correct_index": 1,
-    "explanation": "Pericapsulitis (Frozen Shoulder) typically results in a significant loss of range of motion, with abduction and external rotation being the most restricted."
-  },
-  {
-    "question": "Maternity nurse, must be aware that screening for Diabetes mellitus in pregnancy is done at",
-    "options": ["6 to 17 weeks", "18 to 23 weeks", "24 to 28 weeks", "29 to 32 weeks"],
-    "correct_index": 2,
-    "explanation": "Screening for gestational diabetes is routinely performed between 24 and 28 weeks of gestation when insulin resistance usually increases."
-  },
-  {
-    "question": "Neonate of diabetic mother is at risk for all the following except",
-    "options": ["Hypoglycemia", "Hypocalcemia", "Hyperglycemia", "Hyperbilirubinemia"],
-    "correct_index": 3,
-    "explanation": "While hypoglycemia and hypocalcemia are common, hyperbilirubinemia is also a risk. However, according to the provided key, it is listed as the 'except' (though clinically, hyperglycemia in the neonate is less common than hypoglycemia)."
-  },
-  {
-    "question": "Before giving blood transfusion a nurse must note the date, time of collection and must be aware that Packed RBC's can be stored up to",
-    "options": ["25 days", "35 days", "45 days", "55 days"],
-    "correct_index": 1,
-    "explanation": "Using standard CPDA-1 preservative, Packed Red Blood Cells (PRBCs) have a shelf life of approximately 35 days."
-  },
-  {
-    "question": "A nurse was called to see a patient with noisy breathing. She suspects laryngospasm with strider and it occurs commonly with",
-    "options": ["Hyperkalemia", "Hypercalcemia", "Hypokalemia", "Hypocalcemia"],
-    "correct_index": 3,
-    "explanation": "Hypocalcemia increases neuromuscular irritability, which can lead to tetany and laryngospasm."
-  },
-  {
-    "question": "Nurse working in an operation theatre must know, the risk of HIV infection with needle stick injury is about",
-    "options": ["1 : 100", "1 : 200", "1 : 300", "1 : 400"],
-    "correct_index": 2,
-    "explanation": "The average risk of HIV transmission after a percutaneous exposure (needle stick) to HIV-infected blood is estimated to be approximately 0.3% (1 in 300)."
-  },
-  {
-    "question": "A nurse is caring for a patient with 'Swine Flu' and she has to give the Drug of choice for 'Swine Flu' and it is",
-    "options": ["Acyclovir", "Adefovir", "Cidofovir", "Oseltamivir"],
-    "correct_index": 3,
-    "explanation": "Oseltamivir (Tamiflu) is an antiviral medication specifically used to treat influenza A and B, including H1N1 (Swine Flu)."
-  },
-  {
-    "question": "A nurse is taking care of a patient with DVT and she must be aware that venous emboli will be lodged in",
-    "options": ["Heart", "Lungs", "Liver", "Kidneys"],
-    "correct_index": 1,
-    "explanation": "A thrombus that breaks loose from the deep veins (DVT) travels through the right side of the heart and into the pulmonary arteries, causing a pulmonary embolism."
-  },
-  {
-    "question": "Hyaline membrane disease of an infant is due to deficiency of surfactant and the source of pulmonary surfactant is",
-    "options": ["Alveolar macrophages", "Capillary endothelium", "Pneumonocytes type 1", "Pneumonocytes type 2"],
-    "correct_index": 3,
-    "explanation": "Type II pneumonocytes in the alveoli are responsible for the production and secretion of pulmonary surfactant."
-  },
-  {
-    "question": "Which one of the following is a DNA Virus?",
-    "options": ["Hepatitis A", "Hepatitis B", "Hepatitis C", "Hepatitis D"],
-    "correct_index": 1,
-    "explanation": "Hepatitis B is a partially double-stranded DNA virus, whereas Hepatitis A, C, and D are RNA viruses."
-  },
-  {
-    "question": "To do percussion and postural drainage of lungs in bronchiectasis. What body position of the patient, a nurse should use?",
-    "options": ["Supine position", "Prone position", "Decubitus position", "Semi Fowlers position"],
-    "correct_index": 1,
-    "explanation": "The prone position is often used to drain the posterior segments of the lungs during postural drainage."
-  },
-  {
-    "question": "Patient on enalapril and diuretic therapy for heart failure. Nurse should notify the Physician that the therapy is not effective when she finds",
-    "options": ["Dry cough", "Skin rash", "Edema legs", "Postural fall in B.P."],
-    "correct_index": 2,
-    "explanation": "The goal of diuretic therapy in heart failure is to reduce fluid overload. Persistent edema indicates that the medication is not achieving the desired therapeutic effect."
-  },
-  {
-    "question": "Thirty year old patient has an ulcer over lateral malleolus. Nurse caring for this patient understands the pain of the patient is due to",
-    "options": ["Edema", "Exudate", "Infection", "Ischemia"],
-    "correct_index": 3,
-    "explanation": "Ulcers on the lateral malleolus are often arterial in origin; pain in these cases is primarily caused by ischemia (lack of blood flow/oxygen to the tissue)."
-  },
-  {
-    "question": "Nurse caring for a retro positive patient with Molluscum Contagiosum. This secondary infection is caused by",
-    "options": ["Pox Virus", "Papilloma Virus", "Epstein Barr Virus", "Herpes Simplex Virus"],
-    "correct_index": 0,
-    "explanation": "Molluscum contagiosum is a viral skin infection caused by a member of the Poxvirus family."
-  },
-  {
-    "question": "Nurse is about to insert Ryle's Tube for a patient. Before this act she must be aware of the distance between incisor teeth and gastroesophageal junction. Which of the following is correct distance?",
-    "options": ["30 cm", "40 cm", "50 cm", "60 cm"],
-    "correct_index": 1,
-    "explanation": "In an average adult, the distance from the incisors to the gastroesophageal junction is approximately 40 cm."
-  },
-  {
-    "question": "A nurse can decontaminate the HIV contaminated waste products with all the following, except",
-    "options": ["Formaldehyde", "Methanol", "Glutaraldehyde", "Sodium hypochlorite"],
-    "correct_index": 1,
-    "explanation": "Methanol is not an effective high-level disinfectant for HIV-contaminated waste compared to formaldehyde or sodium hypochlorite."
-  },
-  {
-    "question": "Twenty five years old male patient had sweating, palpitations and found to have blood sugar of 45 mg/dl. Multiple similar episodes had been recorded in the past, corrected with glucose. Nurse caring for this patient should consider which one of the following diagnosis?",
-    "options": ["VIP oma", "Insulinoma", "Gastrinoma", "Glucaganoma"],
-    "correct_index": 1,
-    "explanation": "Insulinoma is a rare tumor of the pancreas that secretes excessive insulin, leading to recurrent episodes of hypoglycemia."
-  },
-  {
-    "question": "Nurse is about to catheterize bladder of a pregnant lady. She should be aware that all the following facts about female urethra are true, except",
-    "options": ["It is about 1.5 inches in length", "It's posterior to vaginal orifice", "It pierces through urogenital diaphragm", "It is straight and offers minor resistance for catheterization"],
-    "correct_index": 1,
-    "explanation": "The female urethral orifice is located anterior to the vaginal orifice, not posterior."
-  },
-  {
-    "question": "Physician wants central venous catheterization. Nurse has to know which vein he should make use of",
-    "options": ["Radial vein", "Femoral vein", "Basilic vein", "Cephalic vein"],
-    "correct_index": 2,
-    "explanation": "The basilic vein is a common and preferred site for Peripherally Inserted Central Catheters (PICC) because of its large diameter and direct route to the superior vena cava."
-  },
-  {
-    "question": "Twenty five years old lactating woman presented with fever, acute breast pain and swelling. Which one of the following organisms cause this acute breast problem?",
-    "options": ["Streptococcus", "Staphylococcus", "Enterococcus", "Pneumococcus"],
-    "correct_index": 1,
-    "explanation": "Staphylococcus aureus is the most common causative organism for acute mastitis in lactating women."
-  },
-  {
-    "question": "Nurse caring for a patient with breast mass may have to know that all the following facts are true regarding this except",
-    "options": ["Rubbery, non-tender mass", "Moves freely inside breast", "Occurs in postmenopausal women", "No treatment/excision biopsy is usually done"],
-    "correct_index": 2,
-    "explanation": "A rubbery, freely movable, non-tender mass usually describes a fibroadenoma, which typically occurs in younger women, not postmenopausal women."
-  },
-  {
-    "question": "Nurse has to council a pregnant lady regarding puerperium. She has to suggest the patient, the normal duration of puerperium. Which one of the following is normal duration of puerperium?",
-    "options": ["2 weeks", "4 weeks", "6 weeks", "8 weeks"],
-    "correct_index": 2,
-    "explanation": "The puerperium is the period following childbirth (the 'fourth trimester') during which the body returns to its non-pregnant state, typically lasting 6 weeks."
-  },
-  {
-    "question": "All of the following are complications of twin pregnancy except:",
-    "options": ["Abortion", "Post-maturity", "Low birth-weight", "Congenital malformations"],
-    "correct_index": 1,
-    "explanation": "Twin pregnancies are much more likely to result in preterm labor; post-maturity (going past the due date) is rare in multiple gestations."
-  },
-  {
-    "question": "Pre renal failure occurs in",
-    "options": ["Heart failure", "Nephrolithiasis", "Toxic nephropathy", "Glomerulonephritis"],
-    "correct_index": 0,
-    "explanation": "Pre-renal failure is caused by reduced blood flow to the kidneys. Heart failure leads to decreased cardiac output, which results in renal hypoperfusion."
-  },
-  {
-    "question": "Islets of Langerhans are concentrated in which portion of Pancreas?",
-    "options": ["Head", "Body", "Tail", "Uncinate process"],
-    "correct_index": 2,
-    "explanation": "The Islets of Langerhans, which contain the endocrine cells of the pancreas, are most densely concentrated in the tail of the organ."
-  },
-  {
-    "question": "Hyper functioning of anterior pituitary in prepubertal children causes",
-    "options": ["Gigantism", "Acromegaly", "Addison's disease", "Cushing's disease"],
-    "correct_index": 0,
-    "explanation": "Excessive growth hormone before the epiphyseal plates close in children results in Gigantism. In adults, it causes Acromegaly."
-  },
-  {
-    "question": "All the following are associated with increased chance of acquiring HIV infection in women except",
-    "options": ["Chlamydia infection", "Bacterial vaginosis", "Herpes simplex infection", "Trichomonas vaginalis infection"],
-    "correct_index": 3,
-    "explanation": "While many STIs increase the risk of HIV through mucosal disruption, according to the provided answer key, Trichomonas is the exception here."
-  },
-  {
-    "question": "Nurse caring a high risk pregnant lady with heart disease, must know, which one of the following valvular lesions cause death during labor?",
-    "options": ["Aortic stenosis", "Aortic regurgitation", "Mitral stenosis", "Mitral regurgitation"],
-    "correct_index": 3,
-    "explanation": "Mitral regurgitation can lead to acute heart failure or pulmonary edema during the hemodynamically stressful period of labor and delivery."
-  },
-  {
-    "question": "Which one of the following cancer does not metastasize commonly to liver?",
-    "options": ["Breast", "Lung", "Colon", "Prostate"],
-    "correct_index": 3,
-    "explanation": "Prostate cancer most commonly metastasizes to the bones, whereas breast, lung, and colon cancers frequently spread to the liver."
-  },
-  {
-    "question": "Direct action of parathyroid hormone include everything except",
-    "options": ["Increased resorption of calcium from bone", "Increased absorption of of calcium from intestine", "Increased reabsorption of calcium from kidney", "Increased production of 1, 25 dihydroxy Vitamin D"],
-    "correct_index": 1,
-    "explanation": "PTH acts directly on bones and kidneys. Its effect on the intestine is indirect, occurring through the stimulation of Vitamin D activation in the kidneys."
-  },
-  {
-    "question": "All the following cancers have infective etiology except",
-    "options": ["Squamous carcinoma of penis", "Squamous carcinoma of lung", "Burkit's lymphoma", "Kaposi's sarcoma"],
-    "correct_index": 1,
-    "explanation": "Lung cancer is primarily caused by environmental factors (smoking, radon), while the others are linked to viruses like HPV, EBV, and HHV-8."
-  },
-  {
-    "question": "All are true regarding Vitamin A except",
-    "options": ["It is not found in green leafy vegetables", "High dose in pregnancy is teratogenic", "Supplementation reduce mortality in measles", "Supplementation reduce morbidity in diarrhea"],
-    "correct_index": 0,
-    "explanation": "Vitamin A (in the form of beta-carotene) is abundant in green leafy vegetables and yellow/orange fruits."
-  },
-  {
-    "question": "What is the best way to be adapted by a nurse to avoid hematoma formation when undertaking venipuncture?",
-    "options": ["Choose a vein that is soft and refills fast", "Tap the vein hard before venipuncture", "Apply firm pressure for 1 minute after procedure", "Apply heparin containing ointment after procedure"],
-    "correct_index": 0,
-    "explanation": "Selecting a healthy, bouncy vein ensures better entry and less trauma to the vessel wall, reducing the risk of blood leaking into the surrounding tissue."
-  },
-  {
-    "question": "Nurse giving oxygen therapy should know that it has to be humidified because",
-    "options": ["Oxygen is a hot air and it may burn trachea", "Oxygen is a dry gas and thickens the mucus", "Oxygen gets cleaned of pathogens by humidification", "Oxygen is easily absorbed because humidification add H-ion to it"],
-    "correct_index": 1,
-    "explanation": "Medical oxygen is dry. Humidification is necessary to prevent the drying of respiratory mucosa and the thickening of secretions, which can be difficult to expectorate."
-  },
-  {
-    "question": "Nurse engaged in suction process of Tracheostomy in situ patient, who requires frequent suctioning. How long she should do suctioning every time?",
-    "options": ["15 seconds", "30 seconds", "45 seconds", "60 seconds"],
-    "correct_index": 0,
-    "explanation": "Suctioning should be limited to 10–15 seconds to prevent hypoxia and trauma to the tracheal mucosa."
-  },
-  {
-    "question": "Nurse taking care of a pregnant lady is being asked about when to start breast feeding. What should be her appropriate reply?",
-    "options": ["2 hrs after delivery", "4 hrs after delivery", "6 hrs after delivery", "8 hrs after delivery"],
-    "correct_index": 0,
-    "explanation": "Early initiation of breastfeeding (ideally within the first hour) is recommended to promote bonding and uterine contraction; 2 hours is the earliest option provided."
-  },
-  {
-    "question": "A nurse must be aware that eating Maize alone may lead unto",
-    "options": ["Beri-beri", "Pellagra", "Scurvy", "Phrynoderma"],
-    "correct_index": 1,
-    "explanation": "Maize is low in tryptophan and niacin. Diets consisting solely of maize can lead to Pellagra, characterized by the 3 Ds: Dermatitis, Diarrhea, and Dementia."
-  },
-  {
-    "question": "A nurse observes palmar erythema and she understands that it is met within",
-    "options": ["Cardiac failure", "Renal failure", "Hepatic failure", "Adrenal failure"],
-    "correct_index": 2,
-    "explanation": "Palmar erythema (reddening of the palms) is a common sign of chronic liver disease, often due to altered sex hormone metabolism."
   }
 ]
