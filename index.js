@@ -9,7 +9,7 @@ const https = require('https');
 
 // --- WEB SERVER FOR RENDER ---
 const app = express();
-app.get('/', (req, res) => res.send('Nursing Achievers Hub Bot is Online! 🚀'));
+app.get('/', (req, res) => res.send('RNCET Bot is Online! 🚀'));
 const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => console.log(`✅ Health check server listening on port ${PORT}`));
 
@@ -17,8 +17,7 @@ app.listen(PORT, () => console.log(`✅ Health check server listening on port ${
 const bot = new Telegraf(process.env.BOT_TOKEN);
 const redis = new Redis(process.env.REDIS_URL);
 const ADMIN_ID = 8587028561;
-const NURSING_CHANNEL_ID = -1002317380108;
-const NURSING_HUB_ID = -1003592372674;
+const RNCET_GROUP_ID = -1003916093169;
 
 let currentQuizIndex = -1;
 let globalTimer = null;
@@ -53,8 +52,7 @@ async function sendNextQuestion() {
             }
         }
 
-        await bot.telegram.sendMessage(NURSING_CHANNEL_ID, board, { parse_mode: 'Markdown' });
-        await bot.telegram.sendMessage(NURSING_HUB_ID, board, { parse_mode: 'Markdown' });
+        await bot.telegram.sendMessage(RNCET_GROUP_ID, board, { parse_mode: 'Markdown' });
         currentQuizIndex = -1;
         return;
     }
@@ -62,16 +60,9 @@ async function sendNextQuestion() {
     const q = quizData[currentQuizIndex];
 
     try {
-        const explanation = (q.explanation || "Nursing Achievers Hub").substring(0, 200);
+        const explanation = (q.explanation || "RNCET — The Smart Way to Study. The Sure Way to Succeed.").substring(0, 200);
 
-        const channelPoll = await bot.telegram.sendPoll(NURSING_CHANNEL_ID, `[Q${currentQuizIndex + 1}/${quizData.length}] ${q.question}`, q.options, {
-            type: 'quiz', correct_option_id: q.correct_index, is_anonymous: true,
-            explanation, open_period: 30, disable_notification: true, protect_content: true
-        });
-
-        await new Promise(resolve => setTimeout(resolve, 500));
-
-        const groupPoll = await bot.telegram.sendPoll(NURSING_HUB_ID, `[Q${currentQuizIndex + 1}/${quizData.length}] ${q.question}`, q.options, {
+        const groupPoll = await bot.telegram.sendPoll(RNCET_GROUP_ID, `[Q${currentQuizIndex + 1}/${quizData.length}] ${q.question}`, q.options, {
             type: 'quiz', correct_option_id: q.correct_index, is_anonymous: false,
             explanation, open_period: 30, protect_content: true
         });
@@ -80,8 +71,7 @@ async function sendNextQuestion() {
 
         globalTimer = setTimeout(async () => {
             try {
-                await bot.telegram.stopPoll(NURSING_CHANNEL_ID, channelPoll.message_id);
-                await bot.telegram.stopPoll(NURSING_HUB_ID, groupPoll.message_id);
+                await bot.telegram.stopPoll(RNCET_GROUP_ID, groupPoll.message_id);
             } catch (e) { }
             setTimeout(() => { currentQuizIndex++; sendNextQuestion(); }, 1500);
         }, 30000);
@@ -111,7 +101,7 @@ cron.schedule('0 21 * * *', async () => {
     if (currentQuizIndex !== -1) return console.log("⚠️ Skipped: already running.");
     await redis.del('nursing_marathon_leaderboard');
     try {
-        await bot.telegram.sendMessage(NURSING_HUB_ID, "🚀 *NURSING MARATHON STARTING NOW!* 🚀\n100 Questions on the way. Good luck, Achievers!", { parse_mode: 'Markdown' });
+        await bot.telegram.sendMessage(RNCET_GROUP_ID, "🚀 *RNCET MARATHON STARTING NOW!* 🚀\n100 Questions on the way. Good luck, Achievers!", { parse_mode: 'Markdown' });
         currentQuizIndex = 0;
         sendNextQuestion();
     } catch (err) { console.error("Auto-start failed:", err.message); }
