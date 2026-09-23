@@ -97,11 +97,23 @@ bot.on('poll_answer', async (ctx) => {
 
 // --- AUTOMATION (DAILY 9:00 AM IST) ---
 cron.schedule('0 9 * * *', async () => {
-    console.log("⏰ 9:00 AM: Marathon Triggered.");
+    console.log("⏰ 9:00 AM: Morning Marathon Triggered.");
     if (currentQuizIndex !== -1) return console.log("⚠️ Skipped: already running.");
     await redis.del('nursing_marathon_leaderboard');
     try {
         await bot.telegram.sendMessage(RNCET_GROUP_ID, "🌅 *RNCET MORNING MARATHON STARTING NOW!* 🌅\n100 Questions on the way. Good luck, Achievers!", { parse_mode: 'Markdown' });
+        currentQuizIndex = 0;
+        sendNextQuestion();
+    } catch (err) { console.error("Auto-start failed:", err.message); }
+}, { scheduled: true, timezone: "Asia/Kolkata" });
+
+// --- AUTOMATION (DAILY 9:00 PM IST) ---
+cron.schedule('0 21 * * *', async () => {
+    console.log("⏰ 9:00 PM: Evening Marathon Triggered.");
+    if (currentQuizIndex !== -1) return console.log("⚠️ Skipped: already running.");
+    await redis.del('nursing_marathon_leaderboard');
+    try {
+        await bot.telegram.sendMessage(RNCET_GROUP_ID, "🌙 *RNCET EVENING MARATHON STARTING NOW!* 🌙\n100 Questions on the way. Good luck, Achievers!", { parse_mode: 'Markdown' });
         currentQuizIndex = 0;
         sendNextQuestion();
     } catch (err) { console.error("Auto-start failed:", err.message); }
