@@ -117,6 +117,20 @@ bot.command('startmarathon', async (ctx) => {
     sendNextQuestion();
 });
 
+bot.command('startfrom', async (ctx) => {
+    if (ctx.from.id !== ADMIN_ID) return;
+    if (currentQuizIndex !== -1) return ctx.reply("⚠️ Marathon already running! Use /stopmarathon first.");
+    const args = ctx.message.text.split(' ');
+    const startNum = parseInt(args[1]);
+    if (isNaN(startNum) || startNum < 1 || startNum > quizData.length) {
+        return ctx.reply(`⚠️ Please provide a valid question number between 1 and ${quizData.length}.\nUsage: /startfrom 28`);
+    }
+    await redis.del('nursing_marathon_leaderboard');
+    await ctx.reply(`🚀 *Marathon Starting from Q${startNum}!*`, { parse_mode: 'Markdown' });
+    currentQuizIndex = startNum - 1;
+    sendNextQuestion();
+});
+
 bot.command('stopmarathon', (ctx) => {
     if (ctx.from.id !== ADMIN_ID) return;
     if (globalTimer) { clearTimeout(globalTimer); currentQuizIndex = -1; ctx.reply("🛑 Marathon Stopped."); }
