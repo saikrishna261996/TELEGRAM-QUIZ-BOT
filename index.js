@@ -95,13 +95,13 @@ bot.on('poll_answer', async (ctx) => {
     } catch (e) { console.error("Scoring Error:", e.message); }
 });
 
-// --- AUTOMATION (DAILY 9:00 PM IST) ---
-cron.schedule('0 21 * * *', async () => {
-    console.log("⏰ 9:00 PM: Marathon Triggered.");
+// --- AUTOMATION (DAILY 9:00 AM IST) ---
+cron.schedule('0 9 * * *', async () => {
+    console.log("⏰ 9:00 AM: Marathon Triggered.");
     if (currentQuizIndex !== -1) return console.log("⚠️ Skipped: already running.");
     await redis.del('nursing_marathon_leaderboard');
     try {
-        await bot.telegram.sendMessage(RNCET_GROUP_ID, "🚀 *RNCET MARATHON STARTING NOW!* 🚀\n100 Questions on the way. Good luck, Achievers!", { parse_mode: 'Markdown' });
+        await bot.telegram.sendMessage(RNCET_GROUP_ID, "🌅 *RNCET MORNING MARATHON STARTING NOW!* 🌅\n100 Questions on the way. Good luck, Achievers!", { parse_mode: 'Markdown' });
         currentQuizIndex = 0;
         sendNextQuestion();
     } catch (err) { console.error("Auto-start failed:", err.message); }
@@ -219,6 +219,6 @@ bot.on('document', async (ctx) => {
 });
 
 // --- LAUNCH ---
-bot.launch().then(() => console.log("💎 SYSTEM ONLINE & AUTOMATED FOR 9:00 PM IST"));
+bot.launch().then(() => console.log("💎 SYSTEM ONLINE & AUTOMATED FOR 9:00 AM IST"));
 process.once('SIGINT', () => bot.stop('SIGINT'));
 process.once('SIGTERM', () => bot.stop('SIGTERM'));
