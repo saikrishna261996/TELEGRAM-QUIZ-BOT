@@ -1,1102 +1,1102 @@
 [
   {
-    "question": "Next number in series: 7, 9, 13, 21, 37, ?",
+    "question": "Stage of embryo with all identifiable body parts",
     "options": [
-      "(A) 57",
-      "(B) 55",
-      "(C) 69",
-      "(D) 63"
-    ],
-    "correct_index": 3,
-    "explanation": "Based on the series pattern, the correct option is (D)*[cite: 1]."
-  },
-  {
-    "question": "Not a dissolved material in sewage?",
-    "options": [
-      "(A) Nitrate",
-      "(B) Phosphate",
-      "(C) Calcium",
-      "(D) Sand"
-    ],
-    "correct_index": 3,
-    "explanation": "Sand is not a dissolved material in sewage[cite: 1]."
-  },
-  {
-    "question": "Girl walks North 2km, right 6km, etc. Distance?",
-    "options": [
-      "(A) 7km",
-      "(B) 5km",
-      "(C) 3km",
-      "(D) 4km"
-    ],
-    "correct_index": 3,
-    "explanation": "Based on the distance calculation, the answer is (D)*[cite: 1]."
-  },
-  {
-    "question": "Deficiency causing goiter?",
-    "options": [
-      "(A) lodine",
-      "(B) Protein",
-      "(C) Calcium",
-      "(D) Carbohydrate"
+      "(A) Foetus",
+      "(B) Gamete",
+      "(C) Zygote",
+      "(D) Egg"
     ],
     "correct_index": 0,
-    "explanation": "Iodine deficiency causes goiter[cite: 1]."
+    "explanation": "Foetus is the stage of embryo with all identifiable body parts[cite: 1]."
   },
   {
-    "question": "Dandiya is folk dance of?",
+    "question": "Logic: \"All aspirants who study daily for NORCET improve reasoning\"",
     "options": [
-      "(A) Sikkim",
-      "(B) Karnataka",
-      "(C) Gujarat",
-      "(D) Uttar Pradesh"
-    ],
-    "correct_index": 2,
-    "explanation": "Dandiya is a traditional folk dance of Gujarat[cite: 1]."
-  },
-  {
-    "question": "Process of assigning specific duties?",
-    "options": [
-      "(A) Coordination",
-      "(B) Supervision",
-      "(C) Communication",
-      "(D) Delegation"
-    ],
-    "correct_index": 3,
-    "explanation": "Delegation is the process of assigning specific duties[cite: 1]."
-  },
-  {
-    "question": "Telephone wires of the body?",
-    "options": [
-      "(A) Muscles",
-      "(B) Nerves",
-      "(C) Arteries",
-      "(D) Veins"
-    ],
-    "correct_index": 1,
-    "explanation": "Nerves act as the telephone wires of the body[cite: 1]."
-  },
-  {
-    "question": "State with highest National Parks?",
-    "options": [
-      "(A) Tamil Nadu",
-      "(B) Madhya Pradesh",
-      "(C) Tripura",
-      "(D) Punjab"
-    ],
-    "correct_index": 1,
-    "explanation": "Madhya Pradesh has the highest number of National Parks among the choices[cite: 1]."
-  },
-  {
-    "question": "Symbol of Gallium",
-    "options": [
-      "(A) Gl",
-      "(B) Ga",
-      "(C) G",
-      "(D) Gm"
-    ],
-    "correct_index": 1,
-    "explanation": "Ga is the chemical symbol for Gallium[cite: 1]."
-  },
-  {
-    "question": "Stage of personal relationships in groups",
-    "options": [
-      "(A) Performing",
-      "(B) Forming",
-      "(C) Norming",
-      "(D) Storming"
-    ],
-    "correct_index": 2,
-    "explanation": "Norming is a recognized stage of group personal relationship development[cite: 1]."
-  },
-  {
-    "question": "Immediate side effects of ECT",
-    "options": [
-      "(A) Memory loss",
-      "(B) Fractures",
-      "(C) MI",
-      "(D) Brain damage"
-    ],
-    "correct_index": 0,
-    "explanation": "Memory loss is a common immediate side effect of Electroconvulsive Therapy (ECT)[cite: 1]."
-  },
-  {
-    "question": "Real executive of India",
-    "options": [
-      "(A) President",
-      "(B) PM",
-      "(C) Speaker",
-      "(D) President Vice"
-    ],
-    "correct_index": 1,
-    "explanation": "The Prime Minister (PM) is the real executive of India[cite: 1]."
-  },
-  {
-    "question": "HML analysis means",
-    "options": [
-      "(A) Heaping...",
-      "(B) High, Medium, Low",
-      "(C) Hierarchy...",
-      "(D) High Medical..."
-    ],
-    "correct_index": 1,
-    "explanation": "HML stands for High, Medium, Low analysis[cite: 1]."
-  },
-  {
-    "question": "How antipsychotics work?",
-    "options": [
-      "(A) Depress CNS",
-      "(B) Inhibit MAO",
-      "(C) Block dopamine",
-      "(D) Block serotonin"
-    ],
-    "correct_index": 2,
-    "explanation": "Antipsychotics primarily work by blocking dopamine receptors[cite: 1]."
-  },
-  {
-    "question": "Mobitz II is",
-    "options": [
-      "(A) Complete block",
-      "(B) 2nd-degree AV block",
-      "(C) 3rd-degree",
-      "(D) 1st-degree"
-    ],
-    "correct_index": 1,
-    "explanation": "Mobitz II is a type of 2nd-degree AV block[cite: 1]."
-  },
-  {
-    "question": "Maintains osmotic pressure & acid-base",
-    "options": [
-      "(A) Sodium",
-      "(B) Magnesium",
-      "(C) Fluorine",
-      "(D) Zinc"
-    ],
-    "correct_index": 0,
-    "explanation": "Sodium plays a primary role in maintaining osmotic pressure and acid-base balance[cite: 1]."
-  },
-  {
-    "question": "Best position for enema",
-    "options": [
-      "(A) Right lateral",
-      "(B) Lithotomy",
-      "(C) Prone",
-      "(D) Left lateral"
-    ],
-    "correct_index": 3,
-    "explanation": "Left lateral position is the optimal position for administering an enema[cite: 1]."
-  },
-  {
-    "question": "SI unit of electric field strength",
-    "options": [
-      "(A) Henry/C",
-      "(B) Joule/C",
-      "(C) C/N",
-      "(D) Newton/Coulomb"
-    ],
-    "correct_index": 3,
-    "explanation": "Newton/Coulomb is the SI unit of electric field strength[cite: 1]."
-  },
-  {
-    "question": "Time required for satellite revolution",
-    "options": [
-      "(A) Period of force",
-      "(B) Motion",
-      "(C) Momentum",
-      "(D) Revolution"
-    ],
-    "correct_index": 3,
-    "explanation": "Revolution period defines the time required for a satellite revolution[cite: 1]."
-  },
-  {
-    "question": "Department issuing PAN",
-    "options": [
-      "(A) Financial",
-      "(B) Revenue",
-      "(C) Income Tax",
-      "(D) Economic"
-    ],
-    "correct_index": 2,
-    "explanation": "The Income Tax department issues PAN cards[cite: 1]."
-  },
-  {
-    "question": "Fetal blood vessel over internal OS",
-    "options": [
-      "(A) Cord prolapse",
-      "(B) Presentation",
-      "(C) Occult",
-      "(D) Vasa previa"
-    ],
-    "correct_index": 3,
-    "explanation": "Vasa previa involves fetal blood vessels crossing or running near the internal os[cite: 1]."
-  },
-  {
-    "question": "Facial palsy is also called",
-    "options": [
-      "(A) Erb's",
-      "(B) Klumpke's",
-      "(C) Bell's palsy",
-      "(D) Brachial"
-    ],
-    "correct_index": 2,
-    "explanation": "Facial palsy is commonly known as Bell's palsy[cite: 1]."
-  },
-  {
-    "question": "Blaming others for one's failures",
-    "options": [
-      "(A) Repression",
-      "(B) Projection",
-      "(C) Sublimation",
-      "(D) Denial"
-    ],
-    "correct_index": 1,
-    "explanation": "Projection is the defense mechanism involving blaming others for one's own shortcomings or failures[cite: 1]."
-  },
-  {
-    "question": "Projectile vomiting occurs in",
-    "options": [
-      "(A) Duodenal atresia",
-      "(B) Intussusception",
-      "(C) Megacolon",
-      "(D) Pyloric stenosis"
-    ],
-    "correct_index": 3,
-    "explanation": "Projectile vomiting is a hallmark symptom of pyloric stenosis[cite: 1]."
-  },
-  {
-    "question": "MMR expressed per",
-    "options": [
-      "(A) 1,000",
-      "(B) 100",
-      "(C) 10,000",
-      "(D) 100,000 live births"
-    ],
-    "correct_index": 3,
-    "explanation": "Maternal Mortality Ratio (MMR) is expressed per 100,000 live births[cite: 1]."
-  },
-  {
-    "question": "Train and platform problem",
-    "options": [
-      "(A) 484",
-      "(B) 494",
-      "(C) 464",
-      "(D) 474"
-    ],
-    "correct_index": 2,
-    "explanation": "Based on the calculation, the answer is (C)*[cite: 1]."
-  },
-  {
-    "question": "Drug for urinary/genital infections",
-    "options": [
-      "(A) Norfloxacin",
-      "(B) Pefloxacin",
-      "(C) Ofloxacin",
-      "(D) Ciprofloxacin"
-    ],
-    "correct_index": 2,
-    "explanation": "Ofloxacin is indicated for urinary/genital infections in this context[cite: 1]."
-  },
-  {
-    "question": "Lack of oxygen in tissues",
-    "options": [
-      "(A) Anorexia",
-      "(B) Anoxia",
-      "(C) Cyanosis",
-      "(D) Hypoxia"
-    ],
-    "correct_index": 3,
-    "explanation": "Hypoxia refers to the lack of adequate oxygen supply in the tissues[cite: 1]."
-  },
-  {
-    "question": "Ascorbic acid is",
-    "options": [
-      "(A) Vitamin E",
-      "(B) Vitamin C",
-      "(C) Vitamin D",
-      "(D) Vitamin A"
-    ],
-    "correct_index": 1,
-    "explanation": "Ascorbic acid is the chemical name for Vitamin C[cite: 1]."
-  },
-  {
-    "question": "Basis of ABC inventory analysis",
-    "options": [
-      "(A) Criticality",
-      "(B) Annual consumption value",
-      "(C) Procurement",
-      "(D) Cost"
-    ],
-    "correct_index": 1,
-    "explanation": "ABC inventory analysis is based on annual consumption value[cite: 1]."
-  },
-  {
-    "question": "Process of urination",
-    "options": [
-      "(A) Micturition",
-      "(B) Prostate",
-      "(C) Kidney",
-      "(D) Glomerular"
-    ],
-    "correct_index": 0,
-    "explanation": "Micturition is the medical term for the process of urination[cite: 1]."
-  },
-  {
-    "question": "NOT a therapeutic communication",
-    "options": [
-      "(A) Humour",
-      "(B) Informing",
-      "(C) Automatic response",
-      "(D) Reflection"
-    ],
-    "correct_index": 2,
-    "explanation": "Automatic response is a non-therapeutic communication technique[cite: 1]."
-  },
-  {
-    "question": "Condition to NOT give OCPs",
-    "options": [
-      "(A) Vaginal infection",
-      "(B) Asthma",
-      "(C) Hypertension",
-      "(D) Menstrual"
-    ],
-    "correct_index": 2,
-    "explanation": "Hypertension is a contraindication for prescribing oral contraceptive pills (OCPs)[cite: 1]."
-  },
-  {
-    "question": "Primary visual cortex Brodmann area",
-    "options": [
-      "(A) Three",
-      "(B) Seventeen",
-      "(C) Forty-one",
-      "(D) Four"
-    ],
-    "correct_index": 1,
-    "explanation": "Brodmann area 17 corresponds to the primary visual cortex[cite: 1]."
-  },
-  {
-    "question": "CPU profit 15% to 25% price",
-    "options": [
-      "(A) 8725",
-      "(B) 8525",
-      "(C) 8825",
-      "(D) 8625"
-    ],
-    "correct_index": 2,
-    "explanation": "Based on the mathematical problem, the correct answer is (C)*[cite: 1]."
-  },
-  {
-    "question": "Sampling for hard-to-reach frame",
-    "options": [
-      "(A) Quota",
-      "(B) Convenient",
-      "(C) Purposive",
-      "(D) Snowball"
-    ],
-    "correct_index": 3,
-    "explanation": "Snowball sampling is ideal for hard-to-reach populations or frames[cite: 1]."
-  },
-  {
-    "question": "Macromineral for body function",
-    "options": [
-      "(A) Gold",
-      "(B) Silver",
-      "(C) Lead",
-      "(D) Calcium"
-    ],
-    "correct_index": 3,
-    "explanation": "Calcium is an essential macromineral required for body functions[cite: 1]."
-  },
-  {
-    "question": "Major cause of PPH",
-    "options": [
-      "(A) Atonic uterus",
-      "(B) Thrombin",
-      "(C) Pre-eclampsia",
-      "(D) Incoordinate"
-    ],
-    "correct_index": 0,
-    "explanation": "Uterine atony (atonic uterus) is the major cause of postpartum hemorrhage (PPH)[cite: 1]."
-  },
-  {
-    "question": "What is BCG?",
-    "options": [
-      "(A) Toxoid",
-      "(B) Ig",
-      "(C) Live attenuated",
-      "(D) Killed vaccine"
-    ],
-    "correct_index": 2,
-    "explanation": "BCG is a live attenuated vaccine[cite: 1]."
-  },
-  {
-    "question": "Sign convention for mirrors/lenses",
-    "options": [
-      "(A) New Einstein",
-      "(B) New Cartesian",
-      "(C) New Huygens",
-      "(D) New Newton"
-    ],
-    "correct_index": 1,
-    "explanation": "The New Cartesian sign convention is used for mirrors and lenses[cite: 1]."
-  },
-  {
-    "question": "Infectious agent with protein only",
-    "options": [
-      "(A) Virus",
-      "(B) Bacteria",
-      "(C) Prion",
-      "(D) Fungus"
-    ],
-    "correct_index": 2,
-    "explanation": "Prions are infectious agents composed entirely of protein[cite: 1]."
-  },
-  {
-    "question": "Renal threshold for glucose",
-    "options": [
-      "(A) First appears in urine",
-      "(B) Fasting level",
-      "(C) Urine level",
-      "(D) Urea"
-    ],
-    "correct_index": 0,
-    "explanation": "The renal threshold for glucose is the blood concentration level above which glucose first appears in the urine[cite: 1]."
-  },
-  {
-    "question": "First step in nursing process",
-    "options": [
-      "(A) Planning",
-      "(B) Assessment",
-      "(C) Evaluation",
-      "(D) Implementation"
-    ],
-    "correct_index": 1,
-    "explanation": "Assessment is the first step in the nursing process[cite: 1]."
-  },
-  {
-    "question": "Organization for nursing diagnoses",
-    "options": [
-      "(A) WHO",
-      "(B) ICN",
-      "(C) NANDA",
-      "(D) INC"
-    ],
-    "correct_index": 2,
-    "explanation": "NANDA is the organization responsible for nursing diagnoses standardization[cite: 1]."
-  },
-  {
-    "question": "Klinefelter syndrome pattern",
-    "options": [
-      "(A) 45, XO",
-      "(B) 46, XY",
-      "(C) 47, XXY",
-      "(D) 47, XYY"
-    ],
-    "correct_index": 2,
-    "explanation": "Klinefelter syndrome features a 47, XXY chromosomal pattern[cite: 1]."
-  },
-  {
-    "question": "Panchayati Raj recommended by",
-    "options": [
-      "(A) JP Narain",
-      "(B) Simon",
-      "(C) Kaka Kalelkar",
-      "(D) Balwant Rai Mehta"
-    ],
-    "correct_index": 3,
-    "explanation": "The Panchayati Raj system was recommended by the Balwant Rai Mehta committee[cite: 1]."
-  },
-  {
-    "question": "Schick test used for",
-    "options": [
-      "(A) Diphtheria",
-      "(B) Measles",
-      "(C) Rubella",
-      "(D) Mumps"
-    ],
-    "correct_index": 0,
-    "explanation": "The Schick test is used to determine susceptibility to diphtheria[cite: 1]."
-  },
-  {
-    "question": "Last part of small intestine",
-    "options": [
-      "(A) Ileum",
-      "(B) Jejunum",
-      "(C) Duodenum",
-      "(D) Appendix"
-    ],
-    "correct_index": 0,
-    "explanation": "The ileum is the final segment of the small intestine[cite: 1]."
-  },
-  {
-    "question": "Metal liquid at room temp",
-    "options": [
-      "(A) Sodium",
-      "(B) Mercury",
-      "(C) Coal",
-      "(D) Sulphur"
-    ],
-    "correct_index": 1,
-    "explanation": "Mercury is the only metal that is liquid at room temperature[cite: 1]."
-  },
-  {
-    "question": "Pyridoxine is otherwise called",
-    "options": [
-      "(A) Vitamin B1",
-      "(B) B2",
-      "(C) B12",
-      "(D) Vitamin B6"
-    ],
-    "correct_index": 3,
-    "explanation": "Pyridoxine is the alternate name for Vitamin B6[cite: 1]."
-  },
-  {
-    "question": "Optimal head circumference 45 cm age",
-    "options": [
-      "(A) 5 mo",
-      "(B) 7 mo",
-      "(C) 9 mo",
-      "(D) 12 months"
-    ],
-    "correct_index": 2,
-    "explanation": "An average head circumference of 45 cm is typically reached at 9 months of age[cite: 1]."
-  },
-  {
-    "question": "Remainder when divided by 69",
-    "options": [
-      "(A) 38",
-      "(B) 58",
-      "(C) 68",
-      "(D) 48"
-    ],
-    "correct_index": 2,
-    "explanation": "Based on the calculation, the remainder is 68 (Option C)[cite: 1]."
-  },
-  {
-    "question": "Stage of labor placenta delivered",
-    "options": [
-      "(A) First",
-      "(B) Third",
-      "(C) Second",
-      "(D) Fourth"
-    ],
-    "correct_index": 1,
-    "explanation": "The placenta is delivered during the third stage of labor[cite: 1]."
-  },
-  {
-    "question": "Normal IQ level",
-    "options": [
-      "(A) 80-100",
-      "(B) 120+",
-      "(C) 110-120",
-      "(D) 90-110"
-    ],
-    "correct_index": 3,
-    "explanation": "A normal IQ level ranges between 90 and 110[cite: 1]."
-  },
-  {
-    "question": "Down syndrome also known as",
-    "options": [
-      "(A) Trisomy 13",
-      "(B) Trisomy 18",
-      "(C) Trisomy 21",
-      "(D) Monosomy 13"
-    ],
-    "correct_index": 2,
-    "explanation": "Down syndrome is also known as Trisomy 21[cite: 1]."
-  },
-  {
-    "question": "Emergency burn mgmt (first 24h)",
-    "options": [
-      "(A) Plastic surgery",
-      "(B) Fluid resuscitation",
-      "(C) Dressing",
-      "(D) Antibiotic"
-    ],
-    "correct_index": 1,
-    "explanation": "Fluid resuscitation is the primary emergency management focus for major burns in the first 24 hours[cite: 1]."
-  },
-  {
-    "question": "Framework for quality care NOT incl.",
-    "options": [
-      "(A) Critical Thinking",
-      "(B) Standards",
-      "(C) Mission",
-      "(D) Care Guidelines"
-    ],
-    "correct_index": 3,
-    "explanation": "Care Guidelines is the option excluded from the listed standard quality care framework elements[cite: 1]."
-  },
-  {
-    "question": "Wermer's syndrome is",
-    "options": [
-      "(A) MEN I",
-      "(B) MEN II",
-      "(C) MEN IV",
-      "(D) MEN"
-    ],
-    "correct_index": 0,
-    "explanation": "Wermer's syndrome is synonymous with Multiple Endocrine Neoplasia type 1 (MEN I)[cite: 1]."
-  },
-  {
-    "question": "Plants/bacteria food producers",
-    "options": [
-      "(A) Decomposers",
-      "(B) Consumers",
-      "(C) Givers",
-      "(D) Producers"
-    ],
-    "correct_index": 3,
-    "explanation": "Plants and certain bacteria are classified as producers[cite: 1]."
-  },
-  {
-    "question": "Chronic autoimmune joint disease",
-    "options": [
-      "(A) Rheumatoid Arthritis",
-      "(B) Poly-",
-      "(C) Osteo-",
-      "(D) Ankylosing"
-    ],
-    "correct_index": 0,
-    "explanation": "Rheumatoid Arthritis is a chronic autoimmune joint disease[cite: 1]."
-  },
-  {
-    "question": "Immediate step newborn resuscitation",
-    "options": [
-      "(A) Stomach suction",
-      "(B) Clearing airway",
-      "(C) Squeezing chest",
-      "(D) Bicarb"
-    ],
-    "correct_index": 1,
-    "explanation": "Clearing the airway is the immediate step in newborn resuscitation[cite: 1]."
-  },
-  {
-    "question": "High saturated fat diet linked to",
-    "options": [
-      "(A) Kidney",
-      "(B) Cardiac/Heart",
-      "(C) Anorexia",
-      "(D) Bulimia"
-    ],
-    "correct_index": 1,
-    "explanation": "Diets high in saturated fat are strongly linked to cardiac and heart diseases[cite: 1]."
-  },
-  {
-    "question": "Discovered Penicillin",
-    "options": [
-      "(A) Alexander Fleming",
-      "(B) Jenner",
-      "(C) Waksman",
+      "(A) Only I follows",
+      "(B) Only II follows",
+      "(C) Both",
       "(D) None"
     ],
     "correct_index": 0,
-    "explanation": "Alexander Fleming discovered penicillin[cite: 1]."
+    "explanation": "Only I follows based on the given logic statement[cite: 1]."
   },
   {
-    "question": "Girls to boys ratio 49:51; girls needed",
+    "question": "Power of a lens of focal length f",
     "options": [
-      "(A) 88",
-      "(B) 90",
-      "(C) 92",
-      "(D) 86"
+      "(A) P=f/u",
+      "(B) P=f",
+      "(C) P=u/f",
+      "(D) P=1/f"
     ],
-    "correct_index": 1,
-    "explanation": "Based on the ratio calculation, the correct option is (B)[cite: 1]."
+    "correct_index": 3,
+    "explanation": "The power of a lens is defined as the reciprocal of its focal length in meters (P = 1/f)[cite: 1]."
   },
   {
-    "question": "NOT a hospital system indicator",
+    "question": "Bacterial phase with maximum multiplication",
     "options": [
-      "(A) Satisfaction",
-      "(B) PR",
-      "(C) Machinery",
-      "(D) Quality of Care"
+      "(A) Stationary",
+      "(B) Decline",
+      "(C) Lag",
+      "(D) Log"
+    ],
+    "correct_index": 3,
+    "explanation": "The log (exponential) phase is the bacterial growth phase with maximum multiplication[cite: 1]."
+  },
+  {
+    "question": "Area of inquiry in grounded theory approach",
+    "options": [
+      "(A) Social structural process",
+      "(B) Behavior",
+      "(C) Culture",
+      "(D) Lived experiences"
+    ],
+    "correct_index": 0,
+    "explanation": "Grounded theory focuses on social structural processes[cite: 1]."
+  },
+  {
+    "question": "Most important hormone of pineal gland",
+    "options": [
+      "(A) Androgens",
+      "(B) Parathormone",
+      "(C) Melatonin",
+      "(D) Thyroxine"
     ],
     "correct_index": 2,
-    "explanation": "Machinery is not listed as a standard hospital system indicator[cite: 1]."
+    "explanation": "Melatonin is the primary hormone secreted by the pineal gland[cite: 1]."
   },
   {
-    "question": "Two bells ring intervals; seconds?",
+    "question": "What is choanal atresia?",
     "options": [
-      "(A) 4230",
-      "(B) 4030",
-      "(C) 4330",
-      "(D) 4130"
-    ],
-    "correct_index": 0,
-    "explanation": "Based on the time interval calculation, the answer is (A)[cite: 1]."
-  },
-  {
-    "question": "Biodegradable material",
-    "options": [
-      "(A) Wood",
-      "(B) Plastic bag",
-      "(C) Nuclear waste",
-      "(D) Aluminium"
-    ],
-    "correct_index": 0,
-    "explanation": "Wood is a natural, biodegradable material[cite: 1]."
-  },
-  {
-    "question": "Nominal variables also known as",
-    "options": [
-      "(A) Ordinal",
-      "(B) Categorical",
-      "(C) Discrete",
-      "(D) Confounding"
+      "(A) Ear obstruction",
+      "(B) Nasopharynx",
+      "(C) Urethra",
+      "(D) Oropharynx"
     ],
     "correct_index": 1,
-    "explanation": "Nominal variables are also referred to as categorical variables[cite: 1]."
+    "explanation": "Choanal atresia is a congenital condition affecting the back of the nasal passage into the nasopharynx[cite: 1]."
   },
   {
-    "question": "Main characteristic scientific research",
+    "question": "Failure to conceive after one year",
     "options": [
-      "(A) Empirical",
-      "(B) Experimental",
-      "(C) Theoretical",
-      "(D) Historical"
-    ],
-    "correct_index": 0,
-    "explanation": "Being empirical is a primary characteristic of scientific research[cite: 1]."
-  },
-  {
-    "question": "Transmits sound to internal ear",
-    "options": [
-      "(A) Auricle",
-      "(B) Tympanic Membrane",
-      "(C) Vestibule",
-      "(D) Tube"
+      "(A) Normozoospermia",
+      "(B) Infertility",
+      "(C) Azoospermia",
+      "(D) Conception"
     ],
     "correct_index": 1,
-    "explanation": "The tympanic membrane helps transmit sound waves toward the internal ear structures[cite: 1]."
+    "explanation": "Infertility is defined as the failure to conceive after one year of unprotected intercourse[cite: 1]."
   },
   {
-    "question": "Function of the liver",
+    "question": "Nervous tissue units that conduct impulses",
     "options": [
-      "(A) Plasma protein synthesis",
-      "(B) Eliminate carbs",
-      "(C) Bile conc.",
-      "(D) CCK"
-    ],
-    "correct_index": 0,
-    "explanation": "Plasma protein synthesis is a core function of the liver[cite: 1]."
-  },
-  {
-    "question": "Statement/Conclusion Inequality",
-    "options": [
-      "(A) i & ii",
-      "(B) ii & iii",
-      "(C) iii",
-      "(D) All follow"
-    ],
-    "correct_index": 3,
-    "explanation": "Based on the inequality reasoning problem, all follow (Option D)[cite: 1]."
-  },
-  {
-    "question": "Cardinal sign of meningitis",
-    "options": [
-      "(A) Trousseau's",
-      "(B) Kernig's Sign",
-      "(C) Ortolani",
-      "(D) Chvostek's"
-    ],
-    "correct_index": 1,
-    "explanation": "Kernig's sign is a cardinal diagnostic sign of meningitis[cite: 1]."
-  },
-  {
-    "question": "Pong Dam built on which river?",
-    "options": [
-      "(A) Sutlej",
-      "(B) Beas",
-      "(C) Ravi",
-      "(D) Chenab"
-    ],
-    "correct_index": 1,
-    "explanation": "The Pong Dam is built on the Beas river[cite: 1]."
-  },
-  {
-    "question": "Bile salts important for",
-    "options": [
-      "(A) Fat",
-      "(B) Protein",
-      "(C) Carbohydrate",
-      "(D) Iron"
-    ],
-    "correct_index": 0,
-    "explanation": "Bile salts are essential for the digestion and absorption of dietary fat[cite: 1]."
-  },
-  {
-    "question": "Code language: BEACH/FLUID",
-    "options": [
-      "(A) UOLRW",
-      "(B) HNWKF",
-      "(C) GLXOI",
-      "(D) NHWFK"
-    ],
-    "correct_index": 3,
-    "explanation": "Based on the coding logic, the answer is (D)[cite: 1]."
-  },
-  {
-    "question": "Earliest sign of Rickets",
-    "options": [
-      "(A) Groove",
-      "(B) Craniotabes",
-      "(C) Bow Legs",
-      "(D) Rosary"
-    ],
-    "correct_index": 1,
-    "explanation": "Craniotabes is often considered the earliest physical sign of rickets in infants[cite: 1]."
-  },
-  {
-    "question": "Shock due to loss of blood/fluids",
-    "options": [
-      "(A) Hypovolemic",
-      "(B) Neurogenic",
-      "(C) Anaphylactic",
-      "(D) Septic"
-    ],
-    "correct_index": 0,
-    "explanation": "Hypovolemic shock results directly from significant loss of blood or bodily fluids[cite: 1]."
-  },
-  {
-    "question": "Frictional force of fluids",
-    "options": [
-      "(A) Slag",
-      "(B) Effort",
-      "(C) Drag",
-      "(D) Core"
+      "(A) Mucus",
+      "(B) Enzymes",
+      "(C) Neurons",
+      "(D) Nephrons"
     ],
     "correct_index": 2,
-    "explanation": "Drag is the term used for the frictional force exerted by fluids[cite: 1]."
+    "explanation": "Neurons are the structural and functional units of nervous tissue that conduct impulses[cite: 1]."
   },
   {
-    "question": "Memory disorder in older adults",
+    "question": "Substance released during inflammation (platelets)",
     "options": [
-      "(A) Insomnia",
-      "(B) Dystrophy",
-      "(C) Dyspnoea",
-      "(D) Dementia"
+      "(A) Heparin",
+      "(B) Histamine",
+      "(C) Bradykinin",
+      "(D) Serotonin"
     ],
     "correct_index": 3,
-    "explanation": "Dementia is a prominent memory and cognitive disorder affecting older adults[cite: 1]."
+    "explanation": "Serotonin is released by platelets during the inflammatory response[cite: 1]."
   },
   {
-    "question": "Australian Open 2019 Men's title",
+    "question": "Created for administration of big cities",
     "options": [
-      "(A) Nadal",
-      "(B) Federer",
-      "(C) Murray",
-      "(D) Novak Djokovic"
+      "(A) Municipality",
+      "(B) Zonal",
+      "(C) Municipal Corporation",
+      "(D) Panchayat"
+    ],
+    "correct_index": 2,
+    "explanation": "Municipal corporations are established for the administration of big cities[cite: 1]."
+  },
+  {
+    "question": "Location of Montgomery glands",
+    "options": [
+      "(A) Sinus",
+      "(B) Alveoli",
+      "(C) Lactiferous duct",
+      "(D) Base of nipple"
     ],
     "correct_index": 3,
-    "explanation": "Novak Djokovic won the Australian Open 2019 Men's title[cite: 1]."
+    "explanation": "Montgomery glands are sebaceous glands located around the base and areola of the nipple[cite: 1]."
   },
   {
-    "question": "Cause of Anuria",
+    "question": "Muscle injury causing torticollis during delivery",
     "options": [
-      "(A) Appendicitis",
-      "(B) Gastritis",
-      "(C) Pyrexia",
-      "(D) Renal Failure"
+      "(A) Smooth",
+      "(B) Cardiac",
+      "(C) Sternocleidomastoid",
+      "(D) Skeletal"
     ],
-    "correct_index": 3,
-    "explanation": "Renal failure can cause anuria, the failure of the kidneys to produce urine[cite: 1]."
+    "correct_index": 2,
+    "explanation": "Injury to the sternocleidomastoid muscle can cause congenital torticollis[cite: 1]."
   },
   {
-    "question": "Published mental health nursing stds",
+    "question": "Milk ejection hormone",
     "options": [
-      "(A) ANA",
-      "(B) INC",
-      "(C) State Council",
-      "(D) TNAI"
+      "(A) Oxytocin",
+      "(B) Vasopressin",
+      "(C) Progesterone",
+      "(D) Prolactin"
     ],
     "correct_index": 0,
-    "explanation": "The American Nurses Association (ANA) published mental health nursing standards[cite: 1]."
+    "explanation": "Oxytocin is responsible for the milk ejection (let-down) reflex[cite: 1]."
   },
   {
-    "question": "Lothal is located in",
+    "question": "Enterotoxin food poisoning cause",
     "options": [
-      "(A) Gujarat",
+      "(A) Streptococci",
+      "(B) Salmonella",
+      "(C) S. aureus",
+      "(D) Pseudomonas"
+    ],
+    "correct_index": 2,
+    "explanation": "Staphylococcus aureus produces enterotoxins causing food poisoning[cite: 1]."
+  },
+  {
+    "question": "Main functions of hypoglossal nerve",
+    "options": [
+      "(A) Swallowing/speech",
+      "(B) Hearing",
+      "(C) Vision",
+      "(D) Sensation"
+    ],
+    "correct_index": 0,
+    "explanation": "The hypoglossal nerve (CN XII) controls tongue movements necessary for swallowing and speech[cite: 1]."
+  },
+  {
+    "question": "Straight, deep, firm stroking back massage",
+    "options": [
+      "(A) Circular",
+      "(B) Friction",
+      "(C) Kneading",
+      "(D) Effleurage"
+    ],
+    "correct_index": 2,
+    "explanation": "Kneading (or relevant deep stroking technique categorized here) represents this specific massage action[cite: 1]."
+  },
+  {
+    "question": "Cortical area responsible for speech formulation",
+    "options": [
+      "(A) Hypothalamic",
+      "(B) Hippocampus",
+      "(C) Cerebellum",
+      "(D) Broca's"
+    ],
+    "correct_index": 3,
+    "explanation": "Broca's area in the frontal lobe is responsible for speech formulation[cite: 1]."
+  },
+  {
+    "question": "Place where microorganisms thrive and reproduce",
+    "options": [
+      "(A) Portal",
+      "(B) Reservoir",
+      "(C) Exit",
+      "(D) Pathogenicity"
+    ],
+    "correct_index": 1,
+    "explanation": "A reservoir is the natural habitat where microorganisms live, thrive, and reproduce[cite: 1]."
+  },
+  {
+    "question": "Cord inserted into membranes away from edge",
+    "options": [
+      "(A) Velamentous",
+      "(B) Battledore",
+      "(C) Succenturiate",
+      "(D) Circumvallate"
+    ],
+    "correct_index": 0,
+    "explanation": "Velamentous insertion describes the umbilical cord inserting into the membranes away from the placental edge[cite: 1]."
+  },
+  {
+    "question": "Primary granuloma formed in tuberculosis",
+    "options": [
+      "(A) Caseous",
+      "(B) Ghon's Focus",
+      "(C) Goblet Cells",
+      "(D) Reid's Cells"
+    ],
+    "correct_index": 1,
+    "explanation": "Ghon's focus is the primary primary granulomatous lesion formed in tuberculosis[cite: 1]."
+  },
+  {
+    "question": "Condition of firm false beliefs",
+    "options": [
+      "(A) Illusion",
+      "(B) Delirium",
+      "(C) Hallucination",
+      "(D) Delusion"
+    ],
+    "correct_index": 3,
+    "explanation": "A delusion is a fixed, firm false belief not amenable to change in light of conflicting evidence[cite: 1]."
+  },
+  {
+    "question": "Responsible for fight-or-flight reaction",
+    "options": [
+      "(A) Post. hypothalamus",
+      "(B) Adrenal cortex",
+      "(C) Ant.",
+      "(D) Adrenal medulla"
+    ],
+    "correct_index": 3,
+    "explanation": "The adrenal medulla secretes catecholamines mediating the fight-or-flight reaction[cite: 1]."
+  },
+  {
+    "question": "Normal length of a neonate",
+    "options": [
+      "(A) 52 cm",
+      "(B) 49 cm",
+      "(C) 55 cm",
+      "(D) 50 cm"
+    ],
+    "correct_index": 3,
+    "explanation": "The average normal length of a full-term healthy neonate is approximately 50 cm[cite: 1]."
+  },
+  {
+    "question": "Vitamin for prothrombin to thrombin conversion",
+    "options": [
+      "(A) Vitamin B2",
+      "(B) Vitamin A",
+      "(C) Vitamin K",
+      "(D) Vitamin D"
+    ],
+    "correct_index": 2,
+    "explanation": "Vitamin K is essential for the synthesis of clotting factors, facilitating prothrombin conversion[cite: 1]."
+  },
+  {
+    "question": "Precaution before antiserum/antitoxin",
+    "options": [
+      "(A) Blood test",
+      "(B) CSF test",
+      "(C) Sensitivity test",
+      "(D) Urine test"
+    ],
+    "correct_index": 2,
+    "explanation": "A skin sensitivity test is performed before administering horse serum-based antisera to prevent anaphylaxis[cite: 1]."
+  },
+  {
+    "question": "Location of Ukai Dam",
+    "options": [
+      "(A) Punjab",
+      "(B) Manipur",
+      "(C) Gujarat",
+      "(D) Tripura"
+    ],
+    "correct_index": 2,
+    "explanation": "The Ukai Dam is located in the state of Gujarat[cite: 1]."
+  },
+  {
+    "question": "Complete oscillations per unit time",
+    "options": [
+      "(A) Wavelength",
+      "(B) Frequency",
+      "(C) Time period",
+      "(D) Amplitude"
+    ],
+    "correct_index": 1,
+    "explanation": "Frequency is defined as the number of complete oscillations per unit time[cite: 1]."
+  },
+  {
+    "question": "Antigen forming cotton-wool clumps",
+    "options": [
+      "(A) H antigen",
+      "(B) F antigen",
+      "(C) O antigen",
+      "(D) D antigen"
+    ],
+    "correct_index": 0,
+    "explanation": "H antigen reactions typically form loose, fluffy, or cotton-wool-like clumps[cite: 1]."
+  },
+  {
+    "question": "Suggested continuing education in India",
+    "options": [
+      "(A) Kothari",
+      "(B) Mudaliar",
+      "(C) Bhore",
+      "(D) Chadah Committee"
+    ],
+    "correct_index": 2,
+    "explanation": "The Bhore Committee laid foundational health system and continuing education frameworks in India[cite: 1]."
+  },
+  {
+    "question": "Anything that evokes an organism response",
+    "options": [
+      "(A) Incidence",
+      "(B) Stimulus",
+      "(C) Thing",
+      "(D) Situation"
+    ],
+    "correct_index": 1,
+    "explanation": "A stimulus is any detectable change in the environment that evokes a physiological or behavioral response[cite: 1]."
+  },
+  {
+    "question": "Muscle fibers of cervix pulled upwards/merged",
+    "options": [
+      "(A) Retraction ring",
+      "(B) Effacement",
+      "(C) Relaxation",
+      "(D) Separation"
+    ],
+    "correct_index": 1,
+    "explanation": "Cervical effacement involves the shortening and thinning of the cervix as its muscle fibers are pulled upward[cite: 1]."
+  },
+  {
+    "question": "Also called otitis externa",
+    "options": [
+      "(A) Occipital",
+      "(B) Parietal",
+      "(C) Frontal",
+      "(D) Temporal osteomyelitis"
+    ],
+    "correct_index": 3,
+    "explanation": "Associated terminology mapped in clinical contexts includes temporal osteomyelitis patterns related to malignant otitis externa[cite: 1]."
+  },
+  {
+    "question": "Metals producing ringing sounds",
+    "options": [
+      "(A) Ductile",
+      "(B) Lustrous",
+      "(C) Malleable",
+      "(D) Sonorous"
+    ],
+    "correct_index": 3,
+    "explanation": "Sonorous metals produce a deep ringing sound when struck[cite: 1]."
+  },
+  {
+    "question": "Executive actions of Govt. taken in the name of",
+    "options": [
+      "(A) Vice President",
+      "(B) Chief Justice",
+      "(C) PM",
+      "(D) President"
+    ],
+    "correct_index": 3,
+    "explanation": "All executive actions of the Government of India are formally taken in the name of the President[cite: 1]."
+  },
+  {
+    "question": "Location of Fatehpur Sikri",
+    "options": [
+      "(A) Madhya Pradesh",
       "(B) Rajasthan",
-      "(C) Uttar Pradesh",
-      "(D) Punjab"
-    ],
-    "correct_index": 0,
-    "explanation": "The ancient Indus Valley site Lothal is located in Gujarat[cite: 1]."
-  },
-  {
-    "question": "Prevent PE by preventing",
-    "options": [
-      "(A) Heart Disease",
-      "(B) DVT",
-      "(C) COPD",
-      "(D) Diabetes"
-    ],
-    "correct_index": 1,
-    "explanation": "Pulmonary Embolism (PE) is prevented primarily by preventing Deep Vein Thrombosis (DVT)[cite: 1]."
-  },
-  {
-    "question": "Drops/min calculation (1000cc, 8h)",
-    "options": [
-      "(A) 48",
-      "(B) 51",
-      "(C) 42",
-      "(D) 31 gtts/min"
-    ],
-    "correct_index": 2,
-    "explanation": "Based on the infusion rate formula, the answer is 42 gtts/min (Option C)[cite: 1]."
-  },
-  {
-    "question": "Theory developed by a nurse",
-    "options": [
-      "(A) Uncertainty in Illness",
-      "(B) Hierarchy",
-      "(C) Social Cog",
-      "(D) Job Sat"
-    ],
-    "correct_index": 0,
-    "explanation": "The Theory of Uncertainty in Illness was developed by nurse theorist Merle Mishel[cite: 1]."
-  },
-  {
-    "question": "New cases in population",
-    "options": [
-      "(A) Morbidity",
-      "(B) Prevalence",
-      "(C) Incidence",
-      "(D) Point Prevalence"
-    ],
-    "correct_index": 2,
-    "explanation": "Incidence measures the number of new cases in a population over a given time[cite: 1]."
-  },
-  {
-    "question": "Converted into a seed in plants",
-    "options": [
-      "(A) Ovule",
-      "(B) Pollen grains",
-      "(C) Embryo",
-      "(D) Zygote"
-    ],
-    "correct_index": 0,
-    "explanation": "The ovule is converted into a seed after fertilization in plants[cite: 1]."
-  },
-  {
-    "question": "Drug to treat HIV/AIDS",
-    "options": [
-      "(A) Ampicillin",
-      "(B) Dexamethasone",
-      "(C) Streptomycin",
-      "(D) Zidovudine"
+      "(C) Gujarat",
+      "(D) Uttar Pradesh"
     ],
     "correct_index": 3,
-    "explanation": "Zidovudine is an antiretroviral drug used to treat HIV/AIDS[cite: 1]."
+    "explanation": "Fatehpur Sikri is located in the state of Uttar Pradesh[cite: 1]."
   },
   {
-    "question": "Assessment after discharge",
+    "question": "Symbol of element Bromine",
     "options": [
-      "(A) Auditing",
-      "(B) Retrospective",
-      "(C) Concurrent",
-      "(D) Assurance"
-    ],
-    "correct_index": 1,
-    "explanation": "Retrospective assessment or audit takes place after patient discharge[cite: 1]."
-  },
-  {
-    "question": "Where fertilization takes place",
-    "options": [
-      "(A) Infundibulum",
-      "(B) Ovary",
-      "(C) Ampulla",
-      "(D) Isthmus"
+      "(A) Bi",
+      "(B) B",
+      "(C) Br",
+      "(D) Be"
     ],
     "correct_index": 2,
-    "explanation": "Fertilization normally takes place in the ampulla of the fallopian tube[cite: 1]."
+    "explanation": "Br is the chemical symbol for Bromine[cite: 1]."
   },
   {
-    "question": "Splitting in Borderline Personality",
+    "question": "Other name for pancreaticoduodenectomy",
     "options": [
-      "(A) All good/bad",
-      "(B) Two personalities",
-      "(C) Precocious",
-      "(D) Psychotic"
-    ],
-    "correct_index": 0,
-    "explanation": "Splitting in borderline personality disorder manifests as viewing things or people as all good or all bad[cite: 1]."
-  },
-  {
-    "question": "CSSM Programme year",
-    "options": [
-      "(A) 1980",
-      "(B) 1990",
-      "(C) 1992",
-      "(D) 1982"
-    ],
-    "correct_index": 1,
-    "explanation": "The Child Survival and Safe Motherhood (CSSM) programme was launched in 1990[cite: 1]."
-  },
-  {
-    "question": "Times elected President of India",
-    "options": [
-      "(A) Five",
-      "(B) One",
-      "(C) Any number",
-      "(D) Two"
-    ],
-    "correct_index": 2,
-    "explanation": "The President of India can be elected for any number of terms[cite: 1]."
-  },
-  {
-    "question": "Student fail percentage (2450b/1750g)",
-    "options": [
-      "(A) 62.5%",
-      "(B) 63.5%",
-      "(C) 60.5%",
-      "(D) 61.5%"
+      "(A) Billroth II",
+      "(B) Pancreatectomy",
+      "(C) Billroth I",
+      "(D) Whipple Procedure"
     ],
     "correct_index": 3,
-    "explanation": "Based on the percentage calculation, the correct answer is (D)*[cite: 1]."
+    "explanation": "The Whipple procedure is alternatively known as a pancreaticoduodenectomy[cite: 1]."
   },
   {
-    "question": "Emotion etymologically means",
+    "question": "Atoms with same mass but diff atomic numbers",
     "options": [
-      "(A) To express",
-      "(B) To stir up",
-      "(C) To test",
-      "(D) To cry"
+      "(A) Isohyets",
+      "(B) Isotopes",
+      "(C) Isotherms",
+      "(D) Isobars"
     ],
-    "correct_index": 1,
-    "explanation": "Etymologically, emotion means 'to stir up' or agitate[cite: 1]."
+    "correct_index": 3,
+    "explanation": "Isobars are atoms of different chemical elements that have the same mass number but different atomic numbers[cite: 1]."
   },
   {
-    "question": "LBW associated with which sport?",
+    "question": "Fear of closed places",
     "options": [
-      "(A) Football",
+      "(A) Acrophobia",
+      "(B) Hamartophobia",
+      "(C) Gamophobia",
+      "(D) Claustrophobia"
+    ],
+    "correct_index": 3,
+    "explanation": "Claustrophobia is an extreme or irrational fear of confined or closed spaces[cite: 1]."
+  },
+  {
+    "question": "Abnormal ECG finding in myocardial ischemia",
+    "options": [
+      "(A) W-pattern T",
+      "(B) Ectopic",
+      "(C) Horizontal T",
+      "(D) Inverted T wave"
+    ],
+    "correct_index": 3,
+    "explanation": "An inverted T wave is a classic hallmark of myocardial ischemia on an ECG[cite: 1]."
+  },
+  {
+    "question": "Effective pain control for post-op/chronic",
+    "options": [
+      "(A) Transmucosal",
+      "(B) Transdermal",
+      "(C) Parenteral",
+      "(D) None"
+    ],
+    "correct_index": 2,
+    "explanation": "Parenteral administration is widely used for effective rapid pain control in acute post-operative contexts[cite: 1]."
+  },
+  {
+    "question": "Bhore Committee population for one center",
+    "options": [
+      "(A) 20k–30k",
+      "(B) 5k–10k",
+      "(C) 10k–20k",
+      "(D) 30k–40k"
+    ],
+    "correct_index": 0,
+    "explanation": "The Bhore Committee recommended primary health centers for populations around 20,000 to 30,000[cite: 1]."
+  },
+  {
+    "question": "Bhupen Hazarika (Bharat Ratna 2019) field",
+    "options": [
+      "(A) Music",
       "(B) Cricket",
-      "(C) Chess",
-      "(D) Volleyball"
+      "(C) Mountaineering",
+      "(D) Athletics"
+    ],
+    "correct_index": 0,
+    "explanation": "Bhupen Hazarika was a legendary playback singer, musician, and poet awarded the Bharat Ratna in 2019[cite: 1]."
+  },
+  {
+    "question": "Who discovered the virus in biology?",
+    "options": [
+      "(A) Dmitri Ivanovsky",
+      "(B) Jenner",
+      "(C) Robert Koch",
+      "(D) Hooke"
+    ],
+    "correct_index": 0,
+    "explanation": "Dmitri Ivanovsky is credited with the initial discovery of viruses (Tobacco Mosaic Virus)[cite: 1]."
+  },
+  {
+    "question": "Inflammation of the peritoneum",
+    "options": [
+      "(A) Colitis",
+      "(B) Gastritis",
+      "(C) Peritonitis",
+      "(D) Duodenitis"
+    ],
+    "correct_index": 2,
+    "explanation": "Peritonitis is the inflammation of the peritoneum, the thin tissue lining the inner abdomen[cite: 1]."
+  },
+  {
+    "question": "What is pulse deficit?",
+    "options": [
+      "(A) Popliteal/ankle",
+      "(B) Apical/radial",
+      "(C) Brachial/ankle",
+      "(D) Apical/ankle"
     ],
     "correct_index": 1,
-    "explanation": "LBW (Leg Before Wicket) is a term associated with cricket[cite: 1]."
+    "explanation": "Pulse deficit is the difference between the apical pulse rate and the radial pulse rate[cite: 1]."
   },
   {
-    "question": "HIV does NOT spread by",
+    "question": "Nurse-patient ratio for teaching hospitals",
     "options": [
-      "(A) Drugs",
-      "(B) Sexual contact",
-      "(C) Blood",
-      "(D) Shaking hands"
+      "(A) 1:3",
+      "(B) 1:2",
+      "(C) 1:5",
+      "(D) 1:1"
     ],
-    "correct_index": 3,
-    "explanation": "HIV does not spread through casual physical contact like shaking hands[cite: 1]."
+    "correct_index": 0,
+    "explanation": "Standard recommended ratios for intensive care or teaching settings often target higher staffing levels like 1:3[cite: 1]."
   },
   {
-    "question": "CHC population coverage",
+    "question": "River bank of Vijayawada city",
     "options": [
-      "(A) 15k-45k",
-      "(B) 20k-30k",
-      "(C) 3k-5k",
-      "(D) 80,000-120,000"
+      "(A) Gomti",
+      "(B) Sutlej",
+      "(C) Krishna",
+      "(D) Cauvery"
+    ],
+    "correct_index": 2,
+    "explanation": "Vijayawada is situated on the banks of the Krishna River[cite: 1]."
+  },
+  {
+    "question": "Position: head resting on table with pillows",
+    "options": [
+      "(A) Tripod",
+      "(B) Fowler's",
+      "(C) Lithotomy",
+      "(D) Trendelenburg"
+    ],
+    "correct_index": 0,
+    "explanation": "A tripod position allows patients (e.g., in respiratory distress) to lean forward with arms/head resting on a table or pillows[cite: 1]."
+  },
+  {
+    "question": "Arithmetic average of observations",
+    "options": [
+      "(A) Deviation",
+      "(B) Mode",
+      "(C) Mean",
+      "(D) Median"
+    ],
+    "correct_index": 2,
+    "explanation": "The mean represents the standard arithmetic average of a dataset[cite: 1]."
+  },
+  {
+    "question": "Divided by 329, remainder 46; divided by 47?",
+    "options": [
+      "(A) 24",
+      "(B) 32",
+      "(C) 46",
+      "(D) 44"
+    ],
+    "correct_index": 2,
+    "explanation": "Since 329 is a multiple of 47 (47 * 7 = 329), dividing the remainder 46 by 47 gives a remainder of 46[cite: 1]."
+  },
+  {
+    "question": "Mode of inheritance of cystic fibrosis",
+    "options": [
+      "(A) Dominant",
+      "(B) Recessive",
+      "(C) Non-Mendelian",
+      "(D) X-linked"
+    ],
+    "correct_index": 1,
+    "explanation": "Cystic fibrosis is inherited in an autosomal recessive pattern[cite: 1]."
+  },
+  {
+    "question": "Next number in series: 3, 7, 16, 35, 74, ?",
+    "options": [
+      "(A) 153",
+      "(B) 223",
+      "(C) 187",
+      "(D) 147"
+    ],
+    "correct_index": 0,
+    "explanation": "The pattern follows multiplying by 2 and adding an increasing sequence (3*2+1=7, 7*2+2=16, 16*2+3=35, 35*2+4=74, 74*2+5=153)[cite: 1]."
+  },
+  {
+    "question": "Legal age of marriage for girls in India",
+    "options": [
+      "(A) 19",
+      "(B) 20",
+      "(C) 21",
+      "(D) 18 years"
     ],
     "correct_index": 3,
-    "explanation": "A Community Health Centre (CHC) typically covers a population of 80,000 to 120,000[cite: 1]."
+    "explanation": "Historically established statutory minimum age for marriage for females is 18 years[cite: 1]."
+  },
+  {
+    "question": "Largest serous membrane of the body",
+    "options": [
+      "(A) Peritoneum",
+      "(B) Serosa",
+      "(C) Submucosa",
+      "(D) Mucosa"
+    ],
+    "correct_index": 0,
+    "explanation": "The peritoneum is the largest serous membrane in the human body[cite: 1]."
+  },
+  {
+    "question": "Component of in-service education",
+    "options": [
+      "(A) Staff dev.",
+      "(B) Cost",
+      "(C) Manpower",
+      "(D) Standards"
+    ],
+    "correct_index": 2,
+    "explanation": "In-service educational programs factor in institutional manpower planning and development requirements[cite: 1]."
+  },
+  {
+    "question": "Psychoanalysis founder",
+    "options": [
+      "(A) Sigmund Freud",
+      "(B) Carl Jung",
+      "(C) Adler",
+      "(D) Eysenck"
+    ],
+    "correct_index": 0,
+    "explanation": "Sigmund Freud is the founder of psychoanalysis[cite: 1]."
+  },
+  {
+    "question": "NOT a common indication for tracheostomy",
+    "options": [
+      "(A) Obstruction",
+      "(B) Intubation",
+      "(C) Seizure",
+      "(D) Secretion"
+    ],
+    "correct_index": 2,
+    "explanation": "A standalone epileptic seizure is not a primary standard indication for performing a tracheostomy[cite: 1]."
+  },
+  {
+    "question": "Tracheostomy as life-saving measure (urgent)",
+    "options": [
+      "(A) Elective",
+      "(B) Planned",
+      "(C) Emergency",
+      "(D) Lower"
+    ],
+    "correct_index": 2,
+    "explanation": "An emergency tracheostomy is performed as an urgent life-saving procedure for acute upper airway obstruction[cite: 1]."
+  },
+  {
+    "question": "Procedure to eliminate urinary calculi",
+    "options": [
+      "(A) Cystoscopy",
+      "(B) Lithotripsy",
+      "(C) Cystotomy",
+      "(D) Nephrectomy"
+    ],
+    "correct_index": 1,
+    "explanation": "Lithotripsy uses shock waves to break up and eliminate urinary calculi (kidney stones)[cite: 1]."
+  },
+  {
+    "question": "Reflex producing uterine contractions in labor",
+    "options": [
+      "(A) Ferguson",
+      "(B) Chadwick",
+      "(C) Pelvic",
+      "(D) Urge"
+    ],
+    "correct_index": 0,
+    "explanation": "The Ferguson reflex is the neuroendocrine reflex that triggers oxytocin release and uterine contractions during labor[cite: 1]."
+  },
+  {
+    "question": "First phase of wound healing",
+    "options": [
+      "(A) Hemostasis",
+      "(B) Inflammatory",
+      "(C) Proliferative",
+      "(D) Maturation"
+    ],
+    "correct_index": 1,
+    "explanation": "The inflammatory phase (or hemostasis/inflammation depending on classification, with inflammation as the classic primary stage listed) kicks off wound healing[cite: 1]."
+  },
+  {
+    "question": "Common IM site for infants < 1 year",
+    "options": [
+      "(A) Dorsogluteal",
+      "(B) Deltoid",
+      "(C) Vastus lateralis",
+      "(D) Ventrogluteal"
+    ],
+    "correct_index": 2,
+    "explanation": "The vastus lateralis muscle is the preferred intramuscular injection site for infants under one year of age[cite: 1]."
+  },
+  {
+    "question": "Valve between left atrium and left ventricle",
+    "options": [
+      "(A) Tricuspid",
+      "(B) Pulmonary",
+      "(C) Aortic",
+      "(D) Mitral"
+    ],
+    "correct_index": 3,
+    "explanation": "The mitral (bicuspid) valve is located between the left atrium and left ventricle[cite: 1]."
+  },
+  {
+    "question": "Side effect of statin therapy",
+    "options": [
+      "(A) Pancreatitis",
+      "(B) Muscle pain",
+      "(C) Constipation",
+      "(D) Bradycardia"
+    ],
+    "correct_index": 1,
+    "explanation": "Myalgia (muscle pain/weakness) is a known potential side effect of statin therapy[cite: 1]."
+  },
+  {
+    "question": "Common cause of pulmonary tuberculosis",
+    "options": [
+      "(A) M. leprae",
+      "(B) S. pneumoniae",
+      "(C) M. tuberculosis",
+      "(D) S. aureus"
+    ],
+    "correct_index": 2,
+    "explanation": "Mycobacterium tuberculosis is the primary causative organism for pulmonary tuberculosis[cite: 1]."
+  },
+  {
+    "question": "Vitamin deficiency causing night blindness",
+    "options": [
+      "(A) Vit C",
+      "(B) Vit D",
+      "(C) Vit K",
+      "(D) Vit A"
+    ],
+    "correct_index": 3,
+    "explanation": "Vitamin A deficiency leads to nyctalopia, commonly known as night blindness[cite: 1]."
+  },
+  {
+    "question": "Instrument used to measure blood pressure",
+    "options": [
+      "(A) Stethoscope",
+      "(B) Thermometer",
+      "(C) Sphygmomanometer",
+      "(D) Spirometer"
+    ],
+    "correct_index": 2,
+    "explanation": "A sphygmomanometer is used in conjunction with a stethoscope to measure blood pressure[cite: 1]."
+  },
+  {
+    "question": "Ascites in liver cirrhosis develops due to",
+    "options": [
+      "(A) Hyperglycemia",
+      "(B) Oncotic",
+      "(C) Hypertension",
+      "(D) Lymph flow"
+    ],
+    "correct_index": 2,
+    "explanation": "Portal hypertension is a major driving factor in the development of ascites during liver cirrhosis[cite: 1]."
+  },
+  {
+    "question": "Major intracellular cation",
+    "options": [
+      "(A) Sodium",
+      "(B) Calcium",
+      "(C) Chloride",
+      "(D) Potassium"
+    ],
+    "correct_index": 3,
+    "explanation": "Potassium is the primary and major intracellular cation in the human body[cite: 1]."
+  },
+  {
+    "question": "Type of immunity acquired after vaccination",
+    "options": [
+      "(A) Natural pass.",
+      "(B) Artif. pass.",
+      "(C) Artif. active",
+      "(D) Natural active"
+    ],
+    "correct_index": 2,
+    "explanation": "Vaccination induces artificial active immunity by stimulating the body's adaptive immune system[cite: 1]."
+  },
+  {
+    "question": "Cranial nerve for sense of smell",
+    "options": [
+      "(A) Optic",
+      "(B) Facial",
+      "(C) Trigeminal",
+      "(D) Olfactory"
+    ],
+    "correct_index": 3,
+    "explanation": "The olfactory nerve (CN I) is responsible for the special sense of smell[cite: 1]."
+  },
+  {
+    "question": "Microorganism responsible for oral thrush",
+    "options": [
+      "(A) S. pyogenes",
+      "(B) E. coli",
+      "(C) C. albicans",
+      "(D) C. tetani"
+    ],
+    "correct_index": 2,
+    "explanation": "Candida albicans is the fungal organism responsible for oral thrush[cite: 1]."
+  },
+  {
+    "question": "Nephron part responsible for filtration",
+    "options": [
+      "(A) Loop",
+      "(B) Distal tubule",
+      "(C) Duct",
+      "(D) Glomerulus"
+    ],
+    "correct_index": 3,
+    "explanation": "The glomerulus is the capillary tuft within the nephron responsible for blood filtration[cite: 1]."
+  },
+  {
+    "question": "Heart's inability to pump sufficient blood",
+    "options": [
+      "(A) MI",
+      "(B) Angina",
+      "(C) Heart failure",
+      "(D) Tamponade"
+    ],
+    "correct_index": 2,
+    "explanation": "Heart failure is a clinical syndrome characterized by the heart's inability to pump sufficient blood to meet body needs[cite: 1]."
+  },
+  {
+    "question": "Universal donor blood group",
+    "options": [
+      "(A) A negative",
+      "(B) B negative",
+      "(C) AB negative",
+      "(D) O negative"
+    ],
+    "correct_index": 3,
+    "explanation": "O negative blood cells lack major antigens, making it the universal donor type[cite: 1]."
+  },
+  {
+    "question": "Hormone lowering blood glucose level",
+    "options": [
+      "(A) Glucagon",
+      "(B) Cortisol",
+      "(C) Adrenaline",
+      "(D) Insulin"
+    ],
+    "correct_index": 3,
+    "explanation": "Insulin is the primary anabolic hormone that lowers blood glucose levels[cite: 1]."
+  },
+  {
+    "question": "Microorganism causing typhoid fever",
+    "options": [
+      "(A) V. cholerae",
+      "(B) S. dysenteriae",
+      "(C) S. Typhi",
+      "(D) E. coli"
+    ],
+    "correct_index": 2,
+    "explanation": "Salmonella Typhi is the bacterial pathogen responsible for typhoid fever[cite: 1]."
+  },
+  {
+    "question": "Heart chamber with thickest muscular wall",
+    "options": [
+      "(A) Right atrium",
+      "(B) Left atrium",
+      "(C) Right ventricle",
+      "(D) Left ventricle"
+    ],
+    "correct_index": 3,
+    "explanation": "The left ventricle has the thickest muscular wall because it pumps blood against systemic arterial pressure[cite: 1]."
+  },
+  {
+    "question": "Vitamin deficiency causing scurvy",
+    "options": [
+      "(A) Vit B12",
+      "(B) Vit D",
+      "(C) Vit C",
+      "(D) Vit E"
+    ],
+    "correct_index": 2,
+    "explanation": "A deficiency in Vitamin C (ascorbic acid) results in scurvy[cite: 1]."
+  },
+  {
+    "question": "Major extracellular cation",
+    "options": [
+      "(A) Sodium",
+      "(B) Potassium",
+      "(C) Calcium",
+      "(D) Magnesium"
+    ],
+    "correct_index": 0,
+    "explanation": "Sodium is the major extracellular cation regulating fluid balance[cite: 1]."
+  },
+  {
+    "question": "Cranial nerve responsible for vision",
+    "options": [
+      "(A) Olfactory",
+      "(B) Optic",
+      "(C) Oculomotor",
+      "(D) Trochlear"
+    ],
+    "correct_index": 1,
+    "explanation": "The optic nerve (CN II) transmits visual information from the retina to the brain[cite: 1]."
+  },
+  {
+    "question": "Organism commonly causing UTI",
+    "options": [
+      "(A) S. aureus",
+      "(B) P. aeruginosa",
+      "(C) E. coli",
+      "(D) S. pyogenes"
+    ],
+    "correct_index": 2,
+    "explanation": "Escherichia coli is the most common bacterial cause of urinary tract infections[cite: 1]."
+  },
+  {
+    "question": "Brain part regulating body temperature",
+    "options": [
+      "(A) Cerebellum",
+      "(B) Medulla",
+      "(C) Thalamus",
+      "(D) Hypothalamus"
+    ],
+    "correct_index": 3,
+    "explanation": "The hypothalamus acts as the body's core thermostat regulating temperature[cite: 1]."
+  },
+  {
+    "question": "Vessel carrying oxygenated blood to heart",
+    "options": [
+      "(A) Pulmonary artery",
+      "(B) Superior VC",
+      "(C) Pulmonary vein",
+      "(D) Inferior VC"
+    ],
+    "correct_index": 2,
+    "explanation": "The pulmonary veins carry oxygenated blood from the lungs back to the left atrium of the heart[cite: 1]."
+  },
+  {
+    "question": "Vitamin essential for normal blood clotting",
+    "options": [
+      "(A) Vitamin A",
+      "(B) Vitamin C",
+      "(C) Vitamin E",
+      "(D) Vitamin K"
+    ],
+    "correct_index": 3,
+    "explanation": "Vitamin K is vital for synthesizing active blood coagulation factors[cite: 1]."
+  },
+  {
+    "question": "Microorganism responsible for cholera",
+    "options": [
+      "(A) S. Typhi",
+      "(B) S. dysenteriae",
+      "(C) V. cholerae",
+      "(D) E. coli"
+    ],
+    "correct_index": 2,
+    "explanation": "Vibrio cholerae is the bacterium that causes cholera[cite: 1]."
+  },
+  {
+    "question": "Heart chamber receiving oxygenated blood",
+    "options": [
+      "(A) Right atrium",
+      "(B) Right ventricle",
+      "(C) Left ventricle",
+      "(D) Left atrium"
+    ],
+    "correct_index": 3,
+    "explanation": "The left atrium receives freshly oxygenated blood from the pulmonary veins[cite: 1]."
+  },
+  {
+    "question": "Deficiency disease caused by lack of iodine",
+    "options": [
+      "(A) Scurvy",
+      "(B) Rickets",
+      "(C) Beriberi",
+      "(D) Goitre"
+    ],
+    "correct_index": 3,
+    "explanation": "An iodine deficiency leads to enlargement of the thyroid gland, known as goitre[cite: 1]."
+  },
+  {
+    "question": "Drug decreasing slope of phase 0 depol.",
+    "options": [
+      "(A) Digoxin",
+      "(B) Quinidine",
+      "(C) Amiodarone",
+      "(D) Verapamil"
+    ],
+    "correct_index": 1,
+    "explanation": "Class IA antiarrhythmic drugs like quinidine decrease the slope of phase 0 depolarization[cite: 1]."
+  },
+  {
+    "question": "Electrolyte role in nerve transmission/muscle",
+    "options": [
+      "(A) Chloride",
+      "(B) Magnesium",
+      "(C) Potassium",
+      "(D) Phosphate"
+    ],
+    "correct_index": 2,
+    "explanation": "Potassium plays a key role in maintaining resting membrane potentials for nerve transmission and muscle contraction[cite: 1]."
+  },
+  {
+    "question": "Cranial nerve for facial expression muscles",
+    "options": [
+      "(A) Trigeminal",
+      "(B) Optic",
+      "(C) Hypoglossal",
+      "(D) Facial"
+    ],
+    "correct_index": 3,
+    "explanation": "The facial nerve (CN VII) innervates the muscles of facial expression[cite: 1]."
+  },
+  {
+    "question": "Organism commonly causing tetanus",
+    "options": [
+      "(A) C. difficile",
+      "(B) S. aureus",
+      "(C) B. anthracis",
+      "(D) C. tetani"
+    ],
+    "correct_index": 3,
+    "explanation": "Clostridium tetani is the bacterium responsible for causing tetanus[cite: 1]."
+  },
+  {
+    "question": "Disposal of medicine vials/ampoules",
+    "options": [
+      "(A) Blue container",
+      "(B) Yellow bag",
+      "(C) Red bag",
+      "(D) White container"
+    ],
+    "correct_index": 0,
+    "explanation": "Broken glass, vials, and ampoules are typically disposed of in puncture-proof blue containers/boxes under standard biomedical waste management rules[cite: 1]."
+  },
+  {
+    "question": "Label affixed to every bag/container of BMW",
+    "options": [
+      "(A) Biohazard",
+      "(B) Radioactive",
+      "(C) Corrosive",
+      "(D) No label"
+    ],
+    "correct_index": 0,
+    "explanation": "The universal biohazard symbol/label must be affixed to bags and containers of biomedical waste[cite: 1]."
+  },
+  {
+    "question": "Maximum time limit for BMW storage",
+    "options": [
+      "(A) 48 hours",
+      "(B) 12 hours",
+      "(C) 24 hours",
+      "(D) 72 hours"
+    ],
+    "correct_index": 0,
+    "explanation": "Biomedical waste cannot be stored beyond 48 hours without treatment or disposal under standard regulatory frameworks[cite: 1]."
+  },
+  {
+    "question": "Nephron part for selective reabsorption",
+    "options": [
+      "(A) Glomerulus",
+      "(B) Bowman’s",
+      "(C) PCT",
+      "(D) Collecting duct"
+    ],
+    "correct_index": 2,
+    "explanation": "The proximal convoluted tubule (PCT) is the primary site for selective reabsorption in the nephron[cite: 1]."
+  },
+  {
+    "question": "Mgmt of umbilical granuloma in newborns",
+    "options": [
+      "(A) Silver nitrate",
+      "(B) Ligation",
+      "(C) Antibiotics",
+      "(D) Excision"
+    ],
+    "correct_index": 0,
+    "explanation": "Application of silver nitrate is a standard chemical cautery management for umbilical granulomas[cite: 1]."
+  },
+  {
+    "question": "Gold standard research for effectiveness",
+    "options": [
+      "(A) Cross-sectional",
+      "(B) Case-control",
+      "(C) Cohort",
+      "(D) RCT"
+    ],
+    "correct_index": 3,
+    "explanation": "Randomized Controlled Trials (RCTs) are considered the gold standard research design for evaluating intervention effectiveness[cite: 1]."
   }
 ]
