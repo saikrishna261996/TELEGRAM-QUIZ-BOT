@@ -13,6 +13,14 @@ app.get('/', (req, res) => res.send('RNCET Bot is Online! 🚀'));
 const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => console.log(`✅ Health check server listening on port ${PORT}`));
 
+// --- KEEP-ALIVE (ping self every 10 mins to prevent Render sleep) ---
+const RENDER_URL = process.env.RENDER_URL || `https://telegram-quiz-bot-b6k5.onrender.com`;
+cron.schedule('*/10 * * * *', () => {
+    https.get(RENDER_URL, (res) => {
+        console.log(`🏓 Keep-alive ping: ${res.statusCode}`);
+    }).on('error', (e) => console.error('Keep-alive error:', e.message));
+});
+
 // --- CONFIGURATION ---
 const bot = new Telegraf(process.env.BOT_TOKEN);
 const redis = new Redis(process.env.REDIS_URL);
