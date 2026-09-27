@@ -1,1102 +1,1102 @@
 [
   {
-    "question": "The heart lies mainly in which part of the mediastinum?",
+    "question": "The heart’s normal impulse usually begins in the:",
     "options": [
-      "(A) Superior",
-      "(B) Anterior",
-      "(C) Middle",
-      "(D) Posterior"
-    ],
-    "correct_index": 2,
-    "explanation": "The heart and pericardium occupy the middle mediastinum."
-  },
-  {
-    "question": "The heart lies between the:",
-    "options": [
-      "(A) Kidneys",
-      "(B) Lungs",
-      "(C) Lobes of the liver",
-      "(D) Clavicles"
+      "(A) AV node",
+      "(B) SA node",
+      "(C) Bundle of His",
+      "(D) Purkinje fibers"
     ],
     "correct_index": 1,
-    "explanation": "The heart occupies the central thorax between the lungs."
+    "explanation": "The SA node spontaneously generates electrical impulses that set the normal cardiac rhythm."
   },
   {
-    "question": "Most of the heart lies:",
+    "question": "The ability to generate an impulse without an external stimulus is:",
     "options": [
-      "(A) Right of the midline",
-      "(B) Left of the midline",
-      "(C) Entirely behind the sternum",
-      "(D) Below the diaphragm"
+      "(A) Contractility",
+      "(B) Automaticity",
+      "(C) Afterload",
+      "(D) Compliance"
     ],
     "correct_index": 1,
-    "explanation": "Most of the heart lies left of the midline; its apex points leftward."
+    "explanation": "Automaticity is the intrinsic capacity of cardiac pacemaker cells to initiate electrical impulses independently."
   },
   {
-    "question": "The inferior surface of the heart rests primarily on the:",
+    "question": "The AV nodal delay primarily allows time for:",
     "options": [
-      "(A) Diaphragm",
-      "(B) Trachea",
-      "(C) Esophagus",
-      "(D) Sternum"
+      "(A) Atrial filling",
+      "(B) Ventricular filling after atrial contraction",
+      "(C) Coronary artery closure",
+      "(D) Semilunar valve opening"
+    ],
+    "correct_index": 1,
+    "explanation": "The delay at the AV node slows conduction to allow the ventricles adequate time to fill after atrial contraction."
+  },
+  {
+    "question": "If the SA node fails, an AV junctional pacemaker typically fires at approximately:",
+    "options": [
+      "(A) 20–40/min",
+      "(B) 40–60/min",
+      "(C) 80–100/min",
+      "(D) 120–160/min"
+    ],
+    "correct_index": 1,
+    "explanation": "The AV junction serves as a secondary pacemaker with an intrinsic rate of 40–60 beats per minute."
+  },
+  {
+    "question": "Ventricular escape pacemakers generally have a rate closest to:",
+    "options": [
+      "(A) 20–40/min",
+      "(B) 60–100/min",
+      "(C) 100–120/min",
+      "(D) 150–200/min"
     ],
     "correct_index": 0,
-    "explanation": "The inferior surface of the heart rests on the diaphragm. It is also called the diaphragmatic surface."
+    "explanation": "Purkinje system or ventricular escape pacemakers have a slow intrinsic rate of 20–40 beats per minute."
   },
   {
-    "question": "The cardiac apex is formed mainly by the:",
+    "question": "The ECG P wave represents:",
     "options": [
-      "(A) Right atrium",
-      "(B) Right ventricle",
-      "(C) Left atrium",
-      "(D) Left ventricle"
+      "(A) Atrial depolarization",
+      "(B) Atrial repolarization",
+      "(C) Ventricular depolarization",
+      "(D) Ventricular repolarization"
+    ],
+    "correct_index": 0,
+    "explanation": "The P wave represents the electrical wave of atrial depolarization."
+  },
+  {
+    "question": "The QRS complex primarily represents:",
+    "options": [
+      "(A) Atrial depolarization",
+      "(B) Atrial repolarization",
+      "(C) Ventricular depolarization",
+      "(D) Ventricular repolarization"
+    ],
+    "correct_index": 2,
+    "explanation": "The QRS complex represents rapid ventricular depolarization."
+  },
+  {
+    "question": "The T wave represents:",
+    "options": [
+      "(A) SA nodal firing",
+      "(B) Atrial depolarization",
+      "(C) Ventricular depolarization",
+      "(D) Ventricular repolarization"
     ],
     "correct_index": 3,
-    "explanation": "The cardiac apex is formed mainly by the left ventricle."
+    "explanation": "The T wave represents ventricular repolarization."
   },
   {
-    "question": "The cardiac base is formed predominantly by the:",
+    "question": "Atrial repolarization is usually not visible separately because it is:",
     "options": [
-      "(A) Right ventricle",
-      "(B) Left atrium",
-      "(C) Left ventricle",
-      "(D) Pulmonary trunk"
+      "(A) Absent",
+      "(B) Hidden within the QRS complex",
+      "(C) Hidden within the T wave",
+      "(D) Identical to the P wave"
     ],
     "correct_index": 1,
-    "explanation": "The cardiac base is formed predominantly by the left atrium."
+    "explanation": "Atrial repolarization occurs at the same time as ventricular depolarization and is masked by the larger QRS complex."
   },
   {
-    "question": "In a typical adult, the apex is located near the:",
+    "question": "The PR interval is measured from the:",
     "options": [
-      "(A) Right second intercostal space",
-      "(B) Left fifth intercostal space at the midclavicular line",
-      "(C) Left eighth intercostal space",
-      "(D) Xiphoid process"
-    ],
-    "correct_index": 1,
-    "explanation": "In a typical adult, the apex is located near the left fifth intercostal space at the midclavicular line."
-  },
-  {
-    "question": "The anterior, or sternocostal, surface is formed mainly by the:",
-    "options": [
-      "(A) Right ventricle",
-      "(B) Left atrium",
-      "(C) Left ventricle",
-      "(D) Right atrial appendage"
+      "(A) Start of P to start of QRS",
+      "(B) End of P to end of QRS",
+      "(C) Start of QRS to end of T",
+      "(D) Start of T to next P"
     ],
     "correct_index": 0,
-    "explanation": "The anterior (sternocostal) surface is formed mainly by the right ventricle."
+    "explanation": "The PR interval is measured from the onset of the P wave to the beginning of the QRS complex."
   },
   {
-    "question": "The right border of the heart is formed mainly by the:",
+    "question": "The usual adult PR interval is:",
     "options": [
-      "(A) Left atrium",
-      "(B) Right atrium",
-      "(C) Left ventricle",
-      "(D) Pulmonary trunk"
+      "(A) 0.04–0.08 s",
+      "(B) 0.12–0.20 s",
+      "(C) 0.24–0.36 s",
+      "(D) 0.40–0.50 s"
     ],
     "correct_index": 1,
-    "explanation": "The right border of the heart is formed mainly by the right atrium."
+    "explanation": "A normal adult PR interval lasts between 0.12 and 0.20 seconds (3 to 5 small grid squares)."
   },
   {
-    "question": "The left border of the heart is formed mainly by the:",
+    "question": "A normal QRS duration is generally:",
     "options": [
-      "(A) Superior vena cava",
-      "(B) Right atrium",
-      "(C) Left ventricle",
-      "(D) Right ventricle"
-    ],
-    "correct_index": 2,
-    "explanation": "The left border of the heart is formed mainly by the left ventricle."
-  },
-  {
-    "question": "The thick, outermost part of the pericardial sac is the:",
-    "options": [
-      "(A) Epicardium",
-      "(B) Fibrous pericardium",
-      "(C) Endocardium",
-      "(D) Myocardium"
-    ],
-    "correct_index": 1,
-    "explanation": "The fibrous pericardium is the thick, outermost layer of the pericardial sac."
-  },
-  {
-    "question": "The serous pericardial layer directly covering the heart is the:",
-    "options": [
-      "(A) Parietal layer",
-      "(B) Visceral layer",
-      "(C) Fibrous layer",
-      "(D) Endocardial layer"
-    ],
-    "correct_index": 1,
-    "explanation": "The visceral layer of serous pericardium directly covers the heart. It is also called the epicardium."
-  },
-  {
-    "question": "The serous layer lining the inner surface of the fibrous pericardium is the:",
-    "options": [
-      "(A) Visceral layer",
-      "(B) Myocardium",
-      "(C) Parietal layer",
-      "(D) Endocardium"
-    ],
-    "correct_index": 2,
-    "explanation": "The parietal layer of serous pericardium lines the inner surface of the fibrous pericardium."
-  },
-  {
-    "question": "The pericardial cavity lies between the:",
-    "options": [
-      "(A) Fibrous pericardium and sternum",
-      "(B) Parietal and visceral serous layers",
-      "(C) Myocardium and endocardium",
-      "(D) Two atria"
-    ],
-    "correct_index": 1,
-    "explanation": "The pericardial cavity lies between the parietal and visceral serous layers."
-  },
-  {
-    "question": "The normal role of fluid in the pericardial cavity is primarily to:",
-    "options": [
-      "(A) Generate electrical impulses",
-      "(B) Reduce friction during heart movement",
-      "(C) Oxygenate blood",
-      "(D) Close the valves"
-    ],
-    "correct_index": 1,
-    "explanation": "The fluid in the pericardial cavity primarily reduces friction as the heart moves during beating."
-  },
-  {
-    "question": "The outer layer of the heart wall is the:",
-    "options": [
-      "(A) Endocardium",
-      "(B) Myocardium",
-      "(C) Epicardium",
-      "(D) Fibrous pericardium"
-    ],
-    "correct_index": 2,
-    "explanation": "The epicardium is the outer layer of the heart wall (visceral serous pericardium)."
-  },
-  {
-    "question": "The muscular layer responsible for cardiac contraction is the:",
-    "options": [
-      "(A) Endocardium",
-      "(B) Myocardium",
-      "(C) Epicardium",
-      "(D) Parietal pericardium"
-    ],
-    "correct_index": 1,
-    "explanation": "The myocardium is the thick muscular middle layer of the heart wall responsible for contraction."
-  },
-  {
-    "question": "The inner lining of the heart chambers is the:",
-    "options": [
-      "(A) Epicardium",
-      "(B) Myocardium",
-      "(C) Endocardium",
-      "(D) Fibrous pericardium"
-    ],
-    "correct_index": 2,
-    "explanation": "The endocardium lines the interior of the heart chambers."
-  },
-  {
-    "question": "Which ventricle normally has the thicker myocardial wall?",
-    "options": [
-      "(A) Right",
-      "(B) Left",
-      "(C) Both are identical",
-      "(D) Neither has myocardium"
-    ],
-    "correct_index": 1,
-    "explanation": "The left ventricle has the thicker myocardial wall because it pumps blood into the high-resistance systemic circulation."
-  },
-  {
-    "question": "The coronary sulcus marks the external boundary between the:",
-    "options": [
-      "(A) Two atria",
-      "(B) Two ventricles",
-      "(C) Atria and ventricles",
-      "(D) Aorta and pulmonary trunk"
-    ],
-    "correct_index": 2,
-    "explanation": "The coronary sulcus (atrioventricular groove) marks the external boundary between the atria and the ventricles."
-  },
-  {
-    "question": "The chamber receiving blood from the superior and inferior venae cavae is the:",
-    "options": [
-      "(A) Left atrium",
-      "(B) Right atrium",
-      "(C) Right ventricle",
-      "(D) Left ventricle"
-    ],
-    "correct_index": 1,
-    "explanation": "The right atrium receives deoxygenated systemic venous blood from the superior and inferior venae cavae."
-  },
-  {
-    "question": "The chamber receiving blood from the pulmonary veins is the:",
-    "options": [
-      "(A) Right atrium",
-      "(B) Right ventricle",
-      "(C) Left atrium",
-      "(D) Left ventricle"
-    ],
-    "correct_index": 2,
-    "explanation": "The left atrium receives oxygenated blood returning from the lungs via the pulmonary veins."
-  },
-  {
-    "question": "Which chamber pumps blood into the pulmonary trunk?",
-    "options": [
-      "(A) Right atrium",
-      "(B) Right ventricle",
-      "(C) Left atrium",
-      "(D) Left ventricle"
-    ],
-    "correct_index": 1,
-    "explanation": "The right ventricle pumps deoxygenated blood into the pulmonary trunk toward the lungs."
-  },
-  {
-    "question": "Which chamber pumps blood into the aorta?",
-    "options": [
-      "(A) Right atrium",
-      "(B) Right ventricle",
-      "(C) Left atrium",
-      "(D) Left ventricle"
-    ],
-    "correct_index": 3,
-    "explanation": "The left ventricle pumps oxygenated blood into the aorta for systemic circulation."
-  },
-  {
-    "question": "The wall separating the atria is the:",
-    "options": [
-      "(A) Interventricular septum",
-      "(B) Interatrial septum",
-      "(C) Coronary sulcus",
-      "(D) Moderator band"
-    ],
-    "correct_index": 1,
-    "explanation": "The interatrial septum separates the right and left atria."
-  },
-  {
-    "question": "The wall separating the ventricles is the:",
-    "options": [
-      "(A) Interatrial septum",
-      "(B) Interventricular septum",
-      "(C) Fossa ovalis",
-      "(D) Crista terminalis"
-    ],
-    "correct_index": 1,
-    "explanation": "The interventricular septum separates the right and left ventricles."
-  },
-  {
-    "question": "The fossa ovalis is visible in the adult:",
-    "options": [
-      "(A) Right atrium",
-      "(B) Left ventricle",
-      "(C) Aorta",
-      "(D) Pulmonary trunk"
+      "(A) Less than 0.12 s",
+      "(B) 0.20–0.30 s",
+      "(C) 0.30–0.40 s",
+      "(D) More than 0.40 s"
     ],
     "correct_index": 0,
-    "explanation": "The fossa ovalis is found in the right atrium. It is the remnant of the fetal foramen ovale."
+    "explanation": "A normal QRS complex duration is less than 0.12 seconds (typically 0.06 to 0.10 s)."
   },
   {
-    "question": "The coronary sinus opens into the:",
+    "question": "The QT interval includes ventricular:",
     "options": [
-      "(A) Left atrium",
-      "(B) Right atrium",
-      "(C) Right ventricle",
-      "(D) Pulmonary trunk"
+      "(A) Filling only",
+      "(B) Depolarization and repolarization",
+      "(C) Repolarization only",
+      "(D) Atrial contraction only"
     ],
     "correct_index": 1,
-    "explanation": "The coronary sinus drains venous blood from the myocardium and opens into the right atrium."
+    "explanation": "The QT interval represents total ventricular electrical systole, including both depolarization and repolarization."
   },
   {
-    "question": "The pectinate muscles are especially prominent in the:",
+    "question": "The QT interval is commonly corrected for:",
     "options": [
-      "(A) Left ventricular apex",
-      "(B) Right atrium and atrial appendages",
-      "(C) Aortic wall",
-      "(D) Interventricular septum"
+      "(A) Body weight",
+      "(B) Heart rate",
+      "(C) Respiratory rate",
+      "(D) Blood glucose"
     ],
     "correct_index": 1,
-    "explanation": "Pectinate muscles are comb-like muscular ridges especially prominent in the right atrium and both atrial appendages."
+    "explanation": "The QT interval shortens at faster heart rates, so it is corrected for heart rate to produce the QTc."
   },
   {
-    "question": "The smooth posterior part of the right atrium receiving the venae cavae is the:",
+    "question": "At the standard ECG paper speed of 25 mm/s, one small square represents:",
     "options": [
-      "(A) Sinus venarum",
-      "(B) Infundibulum",
-      "(C) Aortic vestibule",
-      "(D) Trabecula septomarginalis"
-    ],
-    "correct_index": 0,
-    "explanation": "The sinus venarum (sinus venosus) is the smooth posterior part of the right atrium that receives the venae cavae."
-  },
-  {
-    "question": "The ridge separating smooth and rough regions inside the right atrium is the:",
-    "options": [
-      "(A) Coronary sulcus",
-      "(B) Crista terminalis",
-      "(C) Fossa ovalis",
-      "(D) Papillary muscle"
+      "(A) 0.01 s",
+      "(B) 0.04 s",
+      "(C) 0.20 s",
+      "(D) 1 s"
     ],
     "correct_index": 1,
-    "explanation": "The crista terminalis is a muscular ridge that separates the smooth sinus venarum from the rough trabeculated region of the right atrium."
+    "explanation": "At 25 mm/s paper speed, each 1 mm small square equals 0.04 seconds."
   },
   {
-    "question": "The muscular ridges lining much of the ventricular interior are called:",
+    "question": "At 25 mm/s, one large ECG square represents:",
     "options": [
-      "(A) Pectinate muscles",
-      "(B) Trabeculae carneae",
-      "(C) Chordae tendineae",
-      "(D) Semilunar cusps"
-    ],
-    "correct_index": 1,
-    "explanation": "Trabeculae carneae are the irregular muscular ridges and columns that line the interior of the ventricles."
-  },
-  {
-    "question": "The smooth outflow region of the right ventricle leading to the pulmonary valve is the:",
-    "options": [
-      "(A) Aortic vestibule",
-      "(B) Infundibulum",
-      "(C) Sinus venarum",
-      "(D) Coronary sinus"
-    ],
-    "correct_index": 1,
-    "explanation": "The infundibulum (conus arteriosus) is the smooth outflow region of the right ventricle leading to the pulmonary valve."
-  },
-  {
-    "question": "The smooth outflow region of the left ventricle leading to the aortic valve is the:",
-    "options": [
-      "(A) Aortic vestibule",
-      "(B) Infundibulum",
-      "(C) Fossa ovalis",
-      "(D) Right atrial appendage"
-    ],
-    "correct_index": 0,
-    "explanation": "The aortic vestibule is the smooth outflow region of the left ventricle leading to the aortic valve."
-  },
-  {
-    "question": "The moderator band is a characteristic structure of the:",
-    "options": [
-      "(A) Left atrium",
-      "(B) Right atrium",
-      "(C) Right ventricle",
-      "(D) Left ventricle"
+      "(A) 0.04 s",
+      "(B) 0.10 s",
+      "(C) 0.20 s",
+      "(D) 0.50 s"
     ],
     "correct_index": 2,
-    "explanation": "The moderator band (septomarginal trabecula) is a characteristic muscular structure found in the right ventricle."
+    "explanation": "At 25 mm/s, one large square (5 small squares) equals 0.20 seconds."
   },
   {
-    "question": "Papillary muscles are attached to atrioventricular valve leaflets by:",
+    "question": "A regular rhythm with five large squares between successive R waves has a rate of approximately:",
     "options": [
-      "(A) Coronary arteries",
-      "(B) Chordae tendineae",
-      "(C) Pulmonary veins",
-      "(D) Semilunar cusps"
+      "(A) 50/min",
+      "(B) 60/min",
+      "(C) 75/min",
+      "(D) 100/min"
     ],
     "correct_index": 1,
-    "explanation": "Papillary muscles connect to the leaflets of the atrioventricular valves via chordae tendineae (tendinous cords)."
+    "explanation": "Heart rate = 300 ÷ (number of large squares) = 300 ÷ 5 = 60 beats/min."
   },
   {
-    "question": "The main function of the chordae tendineae is to:",
+    "question": "A regular rhythm with four large squares between R waves has a rate of approximately:",
     "options": [
-      "(A) Open the semilunar valves",
-      "(B) Prevent atrioventricular valve leaflet prolapse during ventricular contraction",
-      "(C) Carry oxygen to myocardium",
-      "(D) Separate the atria"
+      "(A) 60/min",
+      "(B) 75/min",
+      "(C) 100/min",
+      "(D) 120/min"
     ],
     "correct_index": 1,
-    "explanation": "The chordae tendineae anchor the AV valve leaflets, preventing them from prolapsing back into the atria during ventricular contraction."
+    "explanation": "Heart rate = 300 ÷ 4 = 75 beats/min."
   },
   {
-    "question": "Which chamber has the thickest wall?",
+    "question": "Rapid impulse spread throughout ventricular muscle is facilitated by the:",
     "options": [
-      "(A) Right atrium",
-      "(B) Left atrium",
-      "(C) Right ventricle",
-      "(D) Left ventricle"
-    ],
-    "correct_index": 3,
-    "explanation": "The left ventricle has the thickest wall of all four chambers, as it must generate enough pressure to drive blood through the systemic circulation."
-  },
-  {
-    "question": "Which chamber forms most of the posterior cardiac surface?",
-    "options": [
-      "(A) Right ventricle",
-      "(B) Left atrium",
-      "(C) Right atrium",
-      "(D) Left ventricle"
-    ],
-    "correct_index": 1,
-    "explanation": "The left atrium forms most of the posterior (base) surface of the heart."
-  },
-  {
-    "question": "The right atrial appendage is also called the right:",
-    "options": [
-      "(A) Auricle",
-      "(B) Sinus",
-      "(C) Ventricle",
-      "(D) Cusp"
-    ],
-    "correct_index": 0,
-    "explanation": "The right atrial appendage is also called the right auricle."
-  },
-  {
-    "question": "The valve between the right atrium and right ventricle is the:",
-    "options": [
-      "(A) Mitral",
-      "(B) Tricuspid",
-      "(C) Aortic",
-      "(D) Pulmonary"
-    ],
-    "correct_index": 1,
-    "explanation": "The tricuspid valve is the atrioventricular valve located between the right atrium and right ventricle."
-  },
-  {
-    "question": "The valve between the left atrium and left ventricle is the:",
-    "options": [
-      "(A) Pulmonary",
-      "(B) Tricuspid",
-      "(C) Mitral",
-      "(D) Aortic"
-    ],
-    "correct_index": 2,
-    "explanation": "The mitral valve is the atrioventricular valve located between the left atrium and left ventricle."
-  },
-  {
-    "question": "The valve between the right ventricle and pulmonary trunk is the:",
-    "options": [
-      "(A) Tricuspid",
-      "(B) Pulmonary",
-      "(C) Mitral",
-      "(D) Aortic"
-    ],
-    "correct_index": 1,
-    "explanation": "The pulmonary valve is the semilunar valve located between the right ventricle and the pulmonary trunk."
-  },
-  {
-    "question": "The valve between the left ventricle and aorta is the:",
-    "options": [
-      "(A) Aortic",
-      "(B) Pulmonary",
-      "(C) Mitral",
-      "(D) Tricuspid"
-    ],
-    "correct_index": 0,
-    "explanation": "The aortic valve is the semilunar valve located between the left ventricle and the aorta."
-  },
-  {
-    "question": "Another name for the mitral valve is the:",
-    "options": [
-      "(A) Bicuspid valve",
-      "(B) Tricuspid valve",
-      "(C) Pulmonary valve",
-      "(D) Eustachian valve"
-    ],
-    "correct_index": 0,
-    "explanation": "The mitral valve is also called the bicuspid valve because it normally has two leaflets (cusps)."
-  },
-  {
-    "question": "Which pair consists of the atrioventricular valves?",
-    "options": [
-      "(A) Aortic and pulmonary",
-      "(B) Mitral and tricuspid",
-      "(C) Mitral and aortic",
-      "(D) Tricuspid and pulmonary"
-    ],
-    "correct_index": 1,
-    "explanation": "The mitral and tricuspid valves are the two atrioventricular valves, guarding the openings between the atria and ventricles."
-  },
-  {
-    "question": "Which pair consists of the semilunar valves?",
-    "options": [
-      "(A) Mitral and tricuspid",
-      "(B) Aortic and pulmonary",
-      "(C) Mitral and pulmonary",
-      "(D) Tricuspid and aortic"
-    ],
-    "correct_index": 1,
-    "explanation": "The aortic and pulmonary valves are the two semilunar valves, each having three half-moon-shaped cusps."
-  },
-  {
-    "question": "Chordae tendineae are normally associated with the:",
-    "options": [
-      "(A) Aortic valve only",
-      "(B) Pulmonary valve only",
-      "(C) Atrioventricular valves",
-      "(D) All four valves"
-    ],
-    "correct_index": 2,
-    "explanation": "Chordae tendineae are associated only with the atrioventricular valves (mitral and tricuspid), tethering their leaflets to papillary muscles."
-  },
-  {
-    "question": "Which valve prevents backflow from the aorta into the left ventricle?",
-    "options": [
-      "(A) Pulmonary",
-      "(B) Mitral",
-      "(C) Tricuspid",
-      "(D) Aortic"
-    ],
-    "correct_index": 3,
-    "explanation": "The aortic valve closes during ventricular relaxation to prevent blood from flowing back from the aorta into the left ventricle."
-  },
-  {
-    "question": "Which valve prevents backflow from the pulmonary trunk into the right ventricle?",
-    "options": [
-      "(A) Pulmonary",
-      "(B) Mitral",
-      "(C) Tricuspid",
-      "(D) Aortic"
-    ],
-    "correct_index": 0,
-    "explanation": "The pulmonary valve closes to prevent backflow from the pulmonary trunk into the right ventricle during ventricular relaxation."
-  },
-  {
-    "question": "Blood passes from the right atrium to the right ventricle through the:",
-    "options": [
-      "(A) Mitral valve",
-      "(B) Tricuspid valve",
-      "(C) Aortic valve",
-      "(D) Pulmonary valve"
-    ],
-    "correct_index": 1,
-    "explanation": "Blood flows from the right atrium into the right ventricle through the tricuspid (right atrioventricular) valve."
-  },
-  {
-    "question": "Blood passes from the left atrium to the left ventricle through the:",
-    "options": [
-      "(A) Pulmonary valve",
-      "(B) Tricuspid valve",
-      "(C) Mitral valve",
-      "(D) Aortic valve"
-    ],
-    "correct_index": 2,
-    "explanation": "Blood flows from the left atrium into the left ventricle through the mitral (bicuspid/left atrioventricular) valve."
-  },
-  {
-    "question": "After leaving the right ventricle, blood next enters the:",
-    "options": [
-      "(A) Aorta",
-      "(B) Pulmonary trunk",
-      "(C) Left atrium",
-      "(D) Superior vena cava"
-    ],
-    "correct_index": 1,
-    "explanation": "Blood ejected from the right ventricle enters the pulmonary trunk and is then directed to the lungs via the pulmonary arteries."
-  },
-  {
-    "question": "After leaving the left ventricle, blood next enters the:",
-    "options": [
-      "(A) Aorta",
-      "(B) Pulmonary trunk",
+      "(A) AV valves",
+      "(B) Purkinje system",
       "(C) Coronary sinus",
-      "(D) Inferior vena cava"
+      "(D) Pericardial cavity"
     ],
-    "correct_index": 0,
-    "explanation": "Blood ejected from the left ventricle enters the aorta for distribution to the systemic circulation."
+    "correct_index": 1,
+    "explanation": "The specialized Purkinje conduction system rapidly distributes electrical impulses throughout the ventricular myocardium."
   },
   {
-    "question": "Oxygenated blood returning from the lungs enters the heart through the:",
+    "question": "The plateau of the ventricular myocyte action potential is sustained substantially by inward:",
     "options": [
-      "(A) Pulmonary arteries",
-      "(B) Pulmonary veins",
+      "(A) Calcium current",
+      "(B) Chloride current",
+      "(C) Potassium current alone",
+      "(D) Sodium–glucose transport"
+    ],
+    "correct_index": 0,
+    "explanation": "Inward calcium current through L-type channels sustains the plateau phase (Phase 2) of cardiac myocytes."
+  },
+  {
+    "question": "Systole refers to the period of cardiac:",
+    "options": [
+      "(A) Contraction",
+      "(B) Complete electrical silence",
+      "(C) Passive diffusion",
+      "(D) Valve formation"
+    ],
+    "correct_index": 0,
+    "explanation": "Systole is the phase of the cardiac cycle when heart muscle contracts to pump blood."
+  },
+  {
+    "question": "Ventricular diastole is the period primarily associated with ventricular:",
+    "options": [
+      "(A) Ejection",
+      "(B) Relaxation and filling",
+      "(C) Isovolumetric contraction",
+      "(D) Aortic valve opening"
+    ],
+    "correct_index": 1,
+    "explanation": "Ventricular diastole is the period during which ventricular muscle relaxes and blood fills the chambers."
+  },
+  {
+    "question": "The first heart sound, S1, is primarily caused by closure of the:",
+    "options": [
+      "(A) Aortic and pulmonary valves",
+      "(B) Mitral and tricuspid valves",
+      "(C) Pulmonary veins",
+      "(D) Coronary arteries"
+    ],
+    "correct_index": 1,
+    "explanation": "S1 is caused by the closure of the atrioventricular (mitral and tricuspid) valves at the onset of ventricular systole."
+  },
+  {
+    "question": "The second heart sound, S2, is primarily caused by closure of the:",
+    "options": [
+      "(A) AV valves",
+      "(B) Aortic and pulmonary valves",
+      "(C) Venae cavae",
+      "(D) Pulmonary veins"
+    ],
+    "correct_index": 1,
+    "explanation": "S2 is caused by the closure of the semilunar (aortic and pulmonary) valves at the onset of ventricular diastole."
+  },
+  {
+    "question": "S1 marks the beginning of ventricular:",
+    "options": [
+      "(A) Systole",
+      "(B) Rapid filling",
+      "(C) Diastasis",
+      "(D) Atrial systole"
+    ],
+    "correct_index": 0,
+    "explanation": "Closure of the AV valves (S1) marks the start of ventricular contraction (systole)."
+  },
+  {
+    "question": "S2 marks the beginning of ventricular:",
+    "options": [
+      "(A) Ejection",
+      "(B) Diastole",
+      "(C) Atrial depolarization",
+      "(D) Isovolumetric contraction"
+    ],
+    "correct_index": 1,
+    "explanation": "Closure of the semilunar valves (S2) marks the end of ejection and start of ventricular relaxation (diastole)."
+  },
+  {
+    "question": "During isovolumetric contraction:",
+    "options": [
+      "(A) All four valves are closed",
+      "(B) All four valves are open",
+      "(C) Only AV valves are open",
+      "(D) Only semilunar valves are open"
+    ],
+    "correct_index": 0,
+    "explanation": "During isovolumetric contraction, the AV valves have closed but semilunar valves have not yet opened, so all four valves remain closed."
+  },
+  {
+    "question": "During isovolumetric relaxation:",
+    "options": [
+      "(A) All four valves are closed",
+      "(B) All four valves are open",
+      "(C) Only AV valves are open",
+      "(D) Only semilunar valves are open"
+    ],
+    "correct_index": 0,
+    "explanation": "During isovolumetric relaxation, the semilunar valves have closed and AV valves have not yet opened, keeping all four valves closed."
+  },
+  {
+    "question": "The aortic valve opens when left ventricular pressure:",
+    "options": [
+      "(A) Falls below left atrial pressure",
+      "(B) Exceeds aortic pressure",
+      "(C) Equals right atrial pressure",
+      "(D) Falls below aortic pressure"
+    ],
+    "correct_index": 1,
+    "explanation": "The aortic valve opens once left ventricular pressure exceeds the pressure in the aorta."
+  },
+  {
+    "question": "The mitral valve opens when left ventricular pressure falls below:",
+    "options": [
+      "(A) Aortic pressure",
+      "(B) Pulmonary arterial pressure",
+      "(C) Left atrial pressure",
+      "(D) Right ventricular pressure"
+    ],
+    "correct_index": 2,
+    "explanation": "The mitral valve opens when left ventricular pressure drops below left atrial pressure during early diastole."
+  },
+  {
+    "question": "Ventricular ejection occurs while the:",
+    "options": [
+      "(A) AV valves are open",
+      "(B) Semilunar valves are open",
+      "(C) All valves are closed",
+      "(D) Pulmonary veins are closed"
+    ],
+    "correct_index": 1,
+    "explanation": "Blood is ejected from the ventricles into the great arteries while the semilunar valves are open."
+  },
+  {
+    "question": "Most ventricular filling normally occurs during:",
+    "options": [
+      "(A) Passive filling in diastole",
+      "(B) Atrial systole alone",
+      "(C) Isovolumetric contraction",
+      "(D) Ventricular ejection"
+    ],
+    "correct_index": 0,
+    "explanation": "About 70–80% of ventricular filling happens passively during early and mid-diastole."
+  },
+  {
+    "question": "Atrial contraction normally contributes most directly to:",
+    "options": [
+      "(A) The final portion of ventricular filling",
+      "(B) Closing the aortic valve",
+      "(C) Opening the pulmonary valve",
+      "(D) Coronary arterial branching"
+    ],
+    "correct_index": 0,
+    "explanation": "Atrial systole adds the final 20–30% of blood to the ventricles at the end of diastole."
+  },
+  {
+    "question": "End-diastolic volume is the blood volume in a ventricle:",
+    "options": [
+      "(A) Just before contraction",
+      "(B) Just after ejection",
+      "(C) During the T wave only",
+      "(D) Before atrial filling begins"
+    ],
+    "correct_index": 0,
+    "explanation": "End-diastolic volume (EDV) is the amount of blood in a ventricle at the end of filling, right before contraction begins."
+  },
+  {
+    "question": "End-systolic volume is the blood remaining in a ventricle:",
+    "options": [
+      "(A) Just before filling",
+      "(B) After ejection",
+      "(C) Before atrial contraction",
+      "(D) At the start of the P wave"
+    ],
+    "correct_index": 1,
+    "explanation": "End-systolic volume (ESV) is the residual blood volume remaining in a ventricle after ejection finishes."
+  },
+  {
+    "question": "Stroke volume equals:",
+    "options": [
+      "(A) EDV + ESV",
+      "(B) EDV − ESV",
+      "(C) ESV − EDV",
+      "(D) Heart rate × EDV"
+    ],
+    "correct_index": 1,
+    "explanation": "Stroke volume (SV) is the volume of blood pumped per beat: SV = EDV − ESV."
+  },
+  {
+    "question": "If EDV is 120 mL and ESV is 50 mL, stroke volume is:",
+    "options": [
+      "(A) 50 mL",
+      "(B) 70 mL",
+      "(C) 120 mL",
+      "(D) 170 mL"
+    ],
+    "correct_index": 1,
+    "explanation": "Stroke volume = EDV − ESV = 120 mL − 50 mL = 70 mL."
+  },
+  {
+    "question": "The dicrotic notch on an aortic pressure tracing is associated with:",
+    "options": [
+      "(A) Mitral valve opening",
+      "(B) Aortic valve closure",
+      "(C) Tricuspid valve opening",
+      "(D) Atrial depolarization"
+    ],
+    "correct_index": 1,
+    "explanation": "The dicrotic notch is a slight pressure rise caused by backflow against the aortic valve as it closes."
+  },
+  {
+    "question": "An S3 heart sound, when present, occurs during:",
+    "options": [
+      "(A) Early rapid ventricular filling",
+      "(B) Isovolumetric contraction",
+      "(C) Ventricular ejection",
+      "(D) Atrial systole"
+    ],
+    "correct_index": 0,
+    "explanation": "S3 is a low-frequency sound occurring in early diastole during rapid passive ventricular filling."
+  },
+  {
+    "question": "An S4 heart sound is associated with:",
+    "options": [
+      "(A) Atrial contraction against a poorly compliant ventricle",
+      "(B) Aortic valve closure",
+      "(C) Rapid early filling",
+      "(D) Pulmonary valve opening"
+    ],
+    "correct_index": 0,
+    "explanation": "S4 occurs in late diastole when atrial contraction forces blood into a stiff or hypertrophic ventricle."
+  },
+  {
+    "question": "Cardiac output equals:",
+    "options": [
+      "(A) HR × SV",
+      "(B) HR ÷ SV",
+      "(C) EDV + ESV",
+      "(D) BP × pulse pressure"
+    ],
+    "correct_index": 0,
+    "explanation": "Cardiac Output (CO) is the volume of blood pumped per minute: CO = Heart Rate (HR) × Stroke Volume (SV)."
+  },
+  {
+    "question": "At 70 beats/min and 70 mL/beat, cardiac output is:",
+    "options": [
+      "(A) 0.49 L/min",
+      "(B) 4.9 L/min",
+      "(C) 7.0 L/min",
+      "(D) 49 L/min"
+    ],
+    "correct_index": 1,
+    "explanation": "CO = 70 bpm × 70 mL = 4,900 mL/min = 4.9 L/min."
+  },
+  {
+    "question": "A patient has a cardiac output of 5.4 L/min and a heart rate of 90/min. Stroke volume is:",
+    "options": [
+      "(A) 40 mL",
+      "(B) 60 mL",
+      "(C) 90 mL",
+      "(D) 150 mL"
+    ],
+    "correct_index": 1,
+    "explanation": "SV = CO ÷ HR = 5,400 mL/min ÷ 90 bpm = 60 mL."
+  },
+  {
+    "question": "Ejection fraction is calculated as:",
+    "options": [
+      "(A) ESV ÷ EDV × 100",
+      "(B) SV ÷ EDV × 100",
+      "(C) HR ÷ SV × 100",
+      "(D) EDV ÷ SV × 100"
+    ],
+    "correct_index": 1,
+    "explanation": "Ejection Fraction (EF) measures the fraction of end-diastolic volume ejected: EF = (SV ÷ EDV) × 100."
+  },
+  {
+    "question": "If EDV is 120 mL and SV is 72 mL, ejection fraction is:",
+    "options": [
+      "(A) 40%",
+      "(B) 50%",
+      "(C) 60%",
+      "(D) 72%"
+    ],
+    "correct_index": 2,
+    "explanation": "EF = (72 ÷ 120) × 100 = 60%."
+  },
+  {
+    "question": "Preload is most closely related to myocardial fiber stretch:",
+    "options": [
+      "(A) At the end of diastole",
+      "(B) After ejection",
+      "(C) During isovolumetric relaxation only",
+      "(D) When all blood vessels constrict"
+    ],
+    "correct_index": 0,
+    "explanation": "Preload represents the initial stretching of cardiac myocytes at the end of diastole prior to contraction."
+  },
+  {
+    "question": "A sudden increase in venous return usually increases:",
+    "options": [
+      "(A) Ventricular preload",
+      "(B) Aortic valve area",
+      "(C) Arterial oxygen content",
+      "(D) AV nodal delay"
+    ],
+    "correct_index": 0,
+    "explanation": "Increased venous return increases the volume of blood entering the ventricles, thereby increasing preload."
+  },
+  {
+    "question": "The Frank–Starling mechanism describes an increase in stroke volume with an increase in:",
+    "options": [
+      "(A) Ventricular filling, within physiological limits",
+      "(B) Afterload alone",
+      "(C) Coronary resistance",
+      "(D) Pericardial friction"
+    ],
+    "correct_index": 0,
+    "explanation": "The Frank–Starling law states that greater ventricular filling (preload) stretches myocytes, increasing contractility and stroke volume."
+  },
+  {
+    "question": "Afterload is the load the ventricle must overcome to:",
+    "options": [
+      "(A) Fill during diastole",
+      "(B) Eject blood",
+      "(C) Generate an SA nodal impulse",
+      "(D) Receive pulmonary veins"
+    ],
+    "correct_index": 1,
+    "explanation": "Afterload is the pressure against which the ventricles must pump to eject blood into the aorta or pulmonary trunk."
+  },
+  {
+    "question": "A marked rise in systemic arterial pressure usually increases left ventricular:",
+    "options": [
+      "(A) Preload only",
+      "(B) Afterload",
+      "(C) Automaticity only",
+      "(D) Compliance"
+    ],
+    "correct_index": 1,
+    "explanation": "Systemic hypertension creates higher resistance against left ventricular ejection, increasing afterload."
+  },
+  {
+    "question": "If other factors are unchanged, a substantial increase in afterload tends to:",
+    "options": [
+      "(A) Increase stroke volume",
+      "(B) Reduce stroke volume",
+      "(C) Eliminate ESV",
+      "(D) Stop atrial filling"
+    ],
+    "correct_index": 1,
+    "explanation": "Increased afterload opposes ventricular ejection, leading to a reduced stroke volume if contractility does not increase."
+  },
+  {
+    "question": "Contractility describes the myocardium’s ability to generate force at a given:",
+    "options": [
+      "(A) Preload and afterload",
+      "(B) Respiratory rate only",
+      "(C) Serum sodium only",
+      "(D) Body temperature only"
+    ],
+    "correct_index": 0,
+    "explanation": "Contractility (inotropy) is the intrinsic force of contraction independent of initial muscle length (preload) and resistance (afterload)."
+  },
+  {
+    "question": "Increased sympathetic stimulation commonly increases ventricular:",
+    "options": [
+      "(A) Contractility",
+      "(B) Pericardial thickness",
+      "(C) Valve leaflet number",
+      "(D) Coronary sinus diameter alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Sympathetic nerves release norepinephrine, activating beta-1 receptors to boost myocardial contractility."
+  },
+  {
+    "question": "Positive inotropy means increased:",
+    "options": [
+      "(A) Heart rate",
+      "(B) Force of contraction",
+      "(C) Conduction delay",
+      "(D) Vascular resistance"
+    ],
+    "correct_index": 1,
+    "explanation": "Inotropy refers to contractile force; positive inotropy means an increased force of contraction."
+  },
+  {
+    "question": "Positive chronotropy means increased:",
+    "options": [
+      "(A) Heart rate",
+      "(B) Stroke volume only",
+      "(C) Contractile force only",
+      "(D) Venous compliance"
+    ],
+    "correct_index": 0,
+    "explanation": "Chronotropy refers to timing and frequency; positive chronotropy means an increased heart rate."
+  },
+  {
+    "question": "Positive dromotropy refers to increased:",
+    "options": [
+      "(A) AV conduction speed",
+      "(B) Ventricular filling volume",
+      "(C) Arterial resistance",
+      "(D) Aortic elasticity"
+    ],
+    "correct_index": 0,
+    "explanation": "Dromotropy refers to electrical conduction velocity, particularly through the AV node."
+  },
+  {
+    "question": "A fall in circulating volume generally reduces venous return and therefore:",
+    "options": [
+      "(A) Preload",
+      "(B) Valve number",
+      "(C) SA node location",
+      "(D) QRS amplitude in every case"
+    ],
+    "correct_index": 0,
+    "explanation": "Hypovolemia lowers blood volume entering the heart, directly reducing ventricular preload."
+  },
+  {
+    "question": "Very rapid heart rates can reduce cardiac output because they shorten:",
+    "options": [
+      "(A) Diastolic filling time",
+      "(B) Aortic length",
+      "(C) Valve leaflets",
+      "(D) Ventricular repolarization to zero"
+    ],
+    "correct_index": 0,
+    "explanation": "Extreme tachycardia drastically reduces the diastolic period, cutting down ventricular filling time and stroke volume."
+  },
+  {
+    "question": "The cardiac index is cardiac output divided by:",
+    "options": [
+      "(A) Heart rate",
+      "(B) Body surface area",
+      "(C) Stroke volume",
+      "(D) Diastolic pressure"
+    ],
+    "correct_index": 1,
+    "explanation": "Cardiac Index (CI) relates cardiac output to body size: CI = Cardiac Output ÷ Body Surface Area (BSA)."
+  },
+  {
+    "question": "A cardiac output of 5.0 L/min with body surface area 2.0 m² gives a cardiac index of:",
+    "options": [
+      "(A) 1.0",
+      "(B) 2.5",
+      "(C) 5.0",
+      "(D) 10.0 L/min/m²"
+    ],
+    "correct_index": 1,
+    "explanation": "Cardiac Index = 5.0 ÷ 2.0 = 2.5 L/min/m²."
+  },
+  {
+    "question": "Pulse pressure equals:",
+    "options": [
+      "(A) SBP − DBP",
+      "(B) SBP + DBP",
+      "(C) DBP ÷ SBP",
+      "(D) HR × SV"
+    ],
+    "correct_index": 0,
+    "explanation": "Pulse pressure is calculated as Systolic Blood Pressure minus Diastolic Blood Pressure."
+  },
+  {
+    "question": "At a BP of 120/80 mmHg, pulse pressure is:",
+    "options": [
+      "(A) 20",
+      "(B) 40",
+      "(C) 80",
+      "(D) 100 mmHg"
+    ],
+    "correct_index": 1,
+    "explanation": "Pulse pressure = 120 − 80 = 40 mmHg."
+  },
+  {
+    "question": "At a normal resting heart rate, an approximate mean arterial pressure is:",
+    "options": [
+      "(A) DBP + ⅓ pulse pressure",
+      "(B) SBP + pulse pressure",
+      "(C) SBP − DBP/3",
+      "(D) HR × DBP"
+    ],
+    "correct_index": 0,
+    "explanation": "MAP is approximated as DBP + 1/3(Systolic BP − Diastolic BP) because diastole accounts for about two-thirds of the cardiac cycle."
+  },
+  {
+    "question": "Using that approximation, MAP for 120/80 mmHg is closest to:",
+    "options": [
+      "(A) 67",
+      "(B) 80",
+      "(C) 93",
+      "(D) 120 mmHg"
+    ],
+    "correct_index": 2,
+    "explanation": "MAP = 80 + (40 ÷ 3) = 80 + 13.3 = 93.3 mmHg."
+  },
+  {
+    "question": "The principal vessels that regulate peripheral resistance are the:",
+    "options": [
+      "(A) Aorta",
+      "(B) Arterioles",
+      "(C) Large veins",
+      "(D) Pulmonary veins"
+    ],
+    "correct_index": 1,
+    "explanation": "Arterioles have smooth muscle walls that adjust diameter, serving as the main resistance vessels in circulation."
+  },
+  {
+    "question": "Arteriolar vasoconstriction generally causes resistance to:",
+    "options": [
+      "(A) Decrease",
+      "(B) Increase",
+      "(C) Become zero",
+      "(D) Equal venous pressure"
+    ],
+    "correct_index": 1,
+    "explanation": "Narrows the lumen of arterioles increases vascular resistance to blood flow."
+  },
+  {
+    "question": "If vessel radius decreases, resistance rises sharply because resistance varies approximately with:",
+    "options": [
+      "(A) Radius²",
+      "(B) Inverse radius⁴",
+      "(C) Radius alone",
+      "(D) Vessel length alone"
+    ],
+    "correct_index": 1,
+    "explanation": "According to Poiseuille's law, resistance is inversely proportional to the 4th power of radius (1/r⁴)."
+  },
+  {
+    "question": "The greatest total cross-sectional area in systemic circulation is found in the:",
+    "options": [
+      "(A) Aorta",
+      "(B) Capillaries",
       "(C) Venae cavae",
       "(D) Coronary sinus"
     ],
     "correct_index": 1,
-    "explanation": "Oxygenated blood returning from the lungs travels through the pulmonary veins into the left atrium."
+    "explanation": "The cumulative cross-sectional area of billions of capillaries is far greater than any other vessel type."
   },
   {
-    "question": "Deoxygenated systemic venous blood enters the heart through the:",
+    "question": "Blood velocity is generally lowest in the:",
     "options": [
-      "(A) Pulmonary veins",
-      "(B) Aorta",
-      "(C) Superior and inferior venae cavae",
-      "(D) Left coronary artery"
+      "(A) Aorta",
+      "(B) Capillaries",
+      "(C) Pulmonary trunk",
+      "(D) Venae cavae"
+    ],
+    "correct_index": 1,
+    "explanation": "Velocity of flow is inversely proportional to total cross-sectional area, making flow slowest in capillaries to allow substance exchange."
+  },
+  {
+    "question": "Exchange of gases and nutrients with tissues occurs primarily at the:",
+    "options": [
+      "(A) Arteries",
+      "(B) Arterioles",
+      "(C) Capillaries",
+      "(D) Large veins"
     ],
     "correct_index": 2,
-    "explanation": "Deoxygenated systemic venous blood returns to the right atrium via the superior and inferior venae cavae."
+    "explanation": "Capillaries have single-layer endothelial walls that allow rapid diffusion of gases, nutrients, and waste."
   },
   {
-    "question": "Which sequence correctly traces blood from the right ventricle to the left atrium?",
+    "question": "The vessels serving as the major blood-volume reservoir are the:",
     "options": [
-      "(A) Aorta → body → vena cava",
-      "(B) Pulmonary trunk → lungs → pulmonary veins",
-      "(C) Pulmonary veins → lungs → aorta",
-      "(D) Coronary sinus → lungs → aorta"
+      "(A) Arteries",
+      "(B) Arterioles",
+      "(C) Capillaries",
+      "(D) Veins"
+    ],
+    "correct_index": 3,
+    "explanation": "Veins are thin-walled, compliant capacitance vessels that hold ~60–65% of total blood volume at rest."
+  },
+  {
+    "question": "The carotid sinus and aortic arch contain receptors that sense arterial:",
+    "options": [
+      "(A) Glucose",
+      "(B) Stretch",
+      "(C) Hemoglobin type",
+      "(D) Body temperature exclusively"
     ],
     "correct_index": 1,
-    "explanation": "From the right ventricle, blood flows: pulmonary trunk → pulmonary arteries → lungs (gas exchange) → pulmonary veins → left atrium."
+    "explanation": "Baroreceptors in the carotid sinus and aortic arch are mechanoreceptors that sense vascular stretch from arterial pressure."
   },
   {
-    "question": "Which vessel carries blood away from the heart toward the lungs?",
+    "question": "An acute rise in arterial BP increases baroreceptor firing and usually produces:",
     "options": [
-      "(A) Pulmonary artery",
-      "(B) Pulmonary vein",
-      "(C) Inferior vena cava",
-      "(D) Coronary sinus"
+      "(A) Reflex slowing of heart rate",
+      "(B) Reflex tachycardia",
+      "(C) No autonomic response",
+      "(D) Immediate cessation of breathing"
     ],
     "correct_index": 0,
-    "explanation": "The pulmonary artery carries deoxygenated blood away from the right side of the heart toward the lungs."
+    "explanation": "High pressure stretches baroreceptors, triggering parasympathetic stimulation (vagal) to slow the heart rate."
   },
   {
-    "question": "Which vessel carries oxygenated blood but is classified as a vein?",
+    "question": "Standing suddenly can transiently reduce venous return because blood:",
     "options": [
-      "(A) Pulmonary vein",
-      "(B) Pulmonary artery",
-      "(C) Aorta",
-      "(D) Right coronary artery"
+      "(A) Moves toward dependent leg veins",
+      "(B) Moves directly into coronary arteries",
+      "(C) Leaves the body",
+      "(D) Enters the pulmonary veins"
     ],
     "correct_index": 0,
-    "explanation": "The pulmonary vein carries oxygenated blood from the lungs to the left atrium. Veins are defined by flow toward the heart, regardless of oxygen content."
+    "explanation": "Gravity causes venous pooling in the legs upon standing, briefly reducing venous return to the heart."
   },
   {
-    "question": "Which vessel usually carries deoxygenated blood but is classified as an artery?",
+    "question": "A normal immediate compensatory response to a fall in BP on standing is increased:",
     "options": [
-      "(A) Pulmonary artery",
-      "(B) Pulmonary vein",
-      "(C) Superior vena cava",
-      "(D) Coronary sinus"
-    ],
-    "correct_index": 0,
-    "explanation": "The pulmonary artery carries deoxygenated blood from the right ventricle to the lungs. Arteries carry blood away from the heart, regardless of oxygen content."
-  },
-  {
-    "question": "The superior vena cava drains blood primarily from the:",
-    "options": [
-      "(A) Lower limbs",
-      "(B) Upper body",
-      "(C) Lungs",
-      "(D) Left ventricle"
+      "(A) Parasympathetic outflow to the SA node",
+      "(B) Sympathetic activity",
+      "(C) Atrial septal flow",
+      "(D) Pericardial fluid secretion"
     ],
     "correct_index": 1,
-    "explanation": "The superior vena cava drains venous blood from the head, neck, upper limbs, and thorax (upper body)."
+    "explanation": "The baroreceptor reflex triggers sympathetic activation to increase heart rate and vasoconstriction upon standing."
   },
   {
-    "question": "The inferior vena cava drains blood primarily from the:",
+    "question": "Increased parasympathetic activity through the vagus nerve primarily:",
     "options": [
-      "(A) Lower body",
-      "(B) Lungs",
-      "(C) Coronary arteries",
-      "(D) Left atrium"
+      "(A) Slows SA nodal firing",
+      "(B) Strengthens ventricular contraction markedly",
+      "(C) Raises systemic vascular resistance directly",
+      "(D) Opens the aortic valve"
     ],
     "correct_index": 0,
-    "explanation": "The inferior vena cava drains venous blood from the abdomen, pelvis, and lower limbs (lower body)."
+    "explanation": "Parasympathetic vagal fibers release acetylcholine onto the SA node, slowing its firing rate."
   },
   {
-    "question": "The pulmonary trunk divides into the:",
+    "question": "Sympathetic stimulation of the heart tends to increase:",
     "options": [
-      "(A) Coronary arteries",
-      "(B) Right and left pulmonary arteries",
-      "(C) Pulmonary veins",
-      "(D) Brachiocephalic arteries"
-    ],
-    "correct_index": 1,
-    "explanation": "The pulmonary trunk divides into the right and left pulmonary arteries, which carry blood to the respective lungs."
-  },
-  {
-    "question": "The pulmonary veins normally enter the:",
-    "options": [
-      "(A) Right atrium",
-      "(B) Right ventricle",
-      "(C) Left atrium",
-      "(D) Left ventricle"
-    ],
-    "correct_index": 2,
-    "explanation": "The pulmonary veins return oxygenated blood from the lungs to the left atrium."
-  },
-  {
-    "question": "How many pulmonary veins usually enter the left atrium?",
-    "options": [
-      "(A) One",
-      "(B) Two",
-      "(C) Four",
-      "(D) Six"
-    ],
-    "correct_index": 2,
-    "explanation": "Typically four pulmonary veins (two from each lung) enter the left atrium, although anatomical variations occur."
-  },
-  {
-    "question": "The coronary arteries arise from the:",
-    "options": [
-      "(A) Pulmonary trunk",
-      "(B) Ascending aorta",
-      "(C) Coronary sinus",
-      "(D) Superior vena cava"
-    ],
-    "correct_index": 1,
-    "explanation": "The left and right coronary arteries arise from the aortic sinuses of the ascending aorta, just above the aortic valve."
-  },
-  {
-    "question": "The left main coronary artery commonly divides into the:",
-    "options": [
-      "(A) LAD and circumflex arteries",
-      "(B) Right marginal and posterior descending arteries",
-      "(C) Two pulmonary arteries",
-      "(D) Great and middle cardiac veins"
+      "(A) Heart rate and contractility",
+      "(B) PR interval in every case",
+      "(C) Valve thickness",
+      "(D) Pericardial volume"
     ],
     "correct_index": 0,
-    "explanation": "The left main (left main stem) coronary artery typically bifurcates into the left anterior descending (LAD) artery and the circumflex artery."
+    "explanation": "Sympathetic activity increases both chronotropy (heart rate) and inotropy (contractile force)."
   },
   {
-    "question": "LAD stands for:",
-    "options": [
-      "(A) Left atrial duct",
-      "(B) Left anterior descending artery",
-      "(C) Lateral aortic division",
-      "(D) Left atrioventricular duct"
-    ],
-    "correct_index": 1,
-    "explanation": "LAD stands for Left Anterior Descending artery, a major branch of the left main coronary artery."
-  },
-  {
-    "question": "The LAD runs mainly in the:",
-    "options": [
-      "(A) Coronary sinus",
-      "(B) Anterior interventricular groove",
-      "(C) Right atrial wall",
-      "(D) Pulmonary trunk"
-    ],
-    "correct_index": 1,
-    "explanation": "The LAD artery runs in the anterior interventricular groove (sulcus) on the front of the heart."
-  },
-  {
-    "question": "The circumflex artery travels mainly in the:",
-    "options": [
-      "(A) Left atrioventricular groove",
-      "(B) Anterior interventricular groove",
-      "(C) Interatrial septum",
-      "(D) Pulmonary trunk"
-    ],
-    "correct_index": 0,
-    "explanation": "The circumflex artery travels in the left atrioventricular (coronary) groove, supplying the left atrium and posterior left ventricle."
-  },
-  {
-    "question": "The right coronary artery runs mainly in the:",
-    "options": [
-      "(A) Right atrioventricular groove",
-      "(B) Anterior interventricular groove",
-      "(C) Left ventricular cavity",
-      "(D) Pulmonary vein"
-    ],
-    "correct_index": 0,
-    "explanation": "The right coronary artery runs mainly in the right atrioventricular groove, supplying the right atrium, right ventricle, and the SA and AV nodes."
-  },
-  {
-    "question": "Coronary dominance is usually defined by which artery gives rise to the:",
-    "options": [
-      "(A) Left main artery",
-      "(B) Posterior descending artery",
-      "(C) Pulmonary artery",
-      "(D) Aortic arch"
-    ],
-    "correct_index": 1,
-    "explanation": "Coronary dominance is defined by which coronary artery (right or left) gives rise to the posterior descending (posterior interventricular) artery."
-  },
-  {
-    "question": "In right-dominant coronary circulation, the posterior descending artery arises from the:",
-    "options": [
-      "(A) Right coronary artery",
-      "(B) Left main artery",
-      "(C) LAD",
-      "(D) Pulmonary artery"
-    ],
-    "correct_index": 0,
-    "explanation": "In right-dominant coronary circulation (the most common pattern), the posterior descending artery arises from the right coronary artery."
-  },
-  {
-    "question": "The coronary sinus drains primarily into the:",
+    "question": "In the systemic circuit, blood flows from the left ventricle to tissues and returns to the:",
     "options": [
       "(A) Left atrium",
       "(B) Right atrium",
-      "(C) Pulmonary trunk",
-      "(D) Aorta"
-    ],
-    "correct_index": 1,
-    "explanation": "The coronary sinus, which collects most of the venous blood from the myocardium, drains into the right atrium."
-  },
-  {
-    "question": "The great cardiac vein commonly accompanies the:",
-    "options": [
-      "(A) LAD",
-      "(B) Right marginal artery",
-      "(C) Pulmonary trunk",
-      "(D) Superior vena cava"
-    ],
-    "correct_index": 0,
-    "explanation": "The great cardiac vein ascends in the anterior interventricular groove alongside the LAD artery."
-  },
-  {
-    "question": "The middle cardiac vein runs chiefly in the:",
-    "options": [
-      "(A) Anterior interventricular groove",
-      "(B) Posterior interventricular groove",
-      "(C) Right atrial appendage",
-      "(D) Aortic sinus"
-    ],
-    "correct_index": 1,
-    "explanation": "The middle cardiac vein runs in the posterior interventricular groove alongside the posterior descending artery."
-  },
-  {
-    "question": "The main function of coronary arteries is to supply blood to the:",
-    "options": [
-      "(A) Lung alveoli",
-      "(B) Heart muscle",
-      "(C) Pericardial cavity",
-      "(D) Venous valves of the legs"
-    ],
-    "correct_index": 1,
-    "explanation": "The coronary arteries supply oxygenated blood to the myocardium (heart muscle)."
-  },
-  {
-    "question": "The aortic arch normally gives rise first to the:",
-    "options": [
-      "(A) Left subclavian artery",
-      "(B) Left common carotid artery",
-      "(C) Brachiocephalic trunk",
-      "(D) Right coronary artery"
-    ],
-    "correct_index": 2,
-    "explanation": "The aortic arch gives off three branches: the brachiocephalic trunk (first), the left common carotid artery, and the left subclavian artery."
-  },
-  {
-    "question": "Which structure carries most venous blood from the myocardium into the right atrium?",
-    "options": [
-      "(A) Coronary sinus",
-      "(B) Pulmonary vein",
-      "(C) Left main coronary artery",
-      "(D) Aortic arch"
-    ],
-    "correct_index": 0,
-    "explanation": "The coronary sinus is the main venous collector from the myocardium, draining into the right atrium."
-  },
-  {
-    "question": "The coronary artery openings are located in the:",
-    "options": [
-      "(A) Right atrium",
-      "(B) Aortic sinuses",
-      "(C) Pulmonary veins",
-      "(D) Inferior vena cava"
-    ],
-    "correct_index": 1,
-    "explanation": "The ostia (openings) of the right and left coronary arteries are located in the right and left aortic sinuses (sinuses of Valsalva), just above the aortic valve."
-  },
-  {
-    "question": "The sinoatrial node is normally located in the:",
-    "options": [
-      "(A) Left ventricular apex",
-      "(B) Right atrium near the superior vena cava",
-      "(C) Pulmonary trunk",
-      "(D) Interventricular septum near the apex"
-    ],
-    "correct_index": 1,
-    "explanation": "The sinoatrial (SA) node, the primary pacemaker of the heart, is located in the wall of the right atrium near the opening of the superior vena cava."
-  },
-  {
-    "question": "The atrioventricular node is located in the:",
-    "options": [
-      "(A) Lower part of the interatrial septal region of the right atrium",
-      "(B) Left ventricular free wall",
-      "(C) Aortic arch",
-      "(D) Pulmonary vein"
-    ],
-    "correct_index": 0,
-    "explanation": "The atrioventricular (AV) node is located in the lower interatrial septal region of the right atrium, near the opening of the coronary sinus."
-  },
-  {
-    "question": "The atrioventricular bundle is also called the:",
-    "options": [
-      "(A) Bundle of His",
-      "(B) Coronary sinus",
-      "(C) Moderator band",
-      "(D) Fossa ovalis"
-    ],
-    "correct_index": 0,
-    "explanation": "The atrioventricular bundle is also called the bundle of His (after Wilhelm His Jr.), which conducts impulses from the AV node to the bundle branches."
-  },
-  {
-    "question": "The bundle branches travel toward the ventricles along the:",
-    "options": [
-      "(A) Interatrial septum",
-      "(B) Interventricular septum",
-      "(C) Aortic arch",
-      "(D) Coronary sinus"
-    ],
-    "correct_index": 1,
-    "explanation": "The right and left bundle branches descend along the interventricular septum toward the ventricular apex."
-  },
-  {
-    "question": "The specialized fibers distributing impulses through ventricular myocardium are:",
-    "options": [
-      "(A) Chordae tendineae",
-      "(B) Purkinje fibers",
-      "(C) Pectinate muscles",
-      "(D) Semilunar cusps"
-    ],
-    "correct_index": 1,
-    "explanation": "Purkinje fibers are specialized conduction fibers that rapidly distribute electrical impulses throughout the ventricular myocardium, triggering coordinated contraction."
-  },
-  {
-    "question": "Which structure in the right ventricle can carry part of the right bundle branch toward the anterior papillary muscle?",
-    "options": [
-      "(A) Moderator band",
-      "(B) Fossa ovalis",
-      "(C) Coronary sinus",
-      "(D) Mitral annulus"
-    ],
-    "correct_index": 0,
-    "explanation": "The moderator band (septomarginal trabecula) carries part of the right bundle branch of the conduction system to the anterior papillary muscle of the right ventricle."
-  },
-  {
-    "question": "In fetal circulation, the foramen ovale connects the:",
-    "options": [
-      "(A) Pulmonary trunk and aorta",
-      "(B) Right and left atria",
-      "(C) Two ventricles",
-      "(D) Umbilical vein and inferior vena cava"
-    ],
-    "correct_index": 1,
-    "explanation": "The foramen ovale is an opening in the interatrial septum that allows blood to pass directly from the right atrium to the left atrium in the fetus, bypassing the lungs."
-  },
-  {
-    "question": "The adult remnant of the foramen ovale is the:",
-    "options": [
-      "(A) Ligamentum arteriosum",
-      "(B) Fossa ovalis",
-      "(C) Coronary sinus",
-      "(D) Crista terminalis"
-    ],
-    "correct_index": 1,
-    "explanation": "After birth, the foramen ovale closes and leaves a depression in the interatrial septum called the fossa ovalis."
-  },
-  {
-    "question": "In fetal circulation, the ductus arteriosus connects the:",
-    "options": [
-      "(A) Pulmonary trunk and aorta",
-      "(B) Right and left atria",
-      "(C) Two venae cavae",
-      "(D) Umbilical vein and portal vein"
-    ],
-    "correct_index": 0,
-    "explanation": "The ductus arteriosus is a fetal shunt that connects the pulmonary trunk to the aorta, diverting blood away from the uninflated lungs."
-  },
-  {
-    "question": "The adult remnant of the ductus arteriosus is the:",
-    "options": [
-      "(A) Fossa ovalis",
-      "(B) Ligamentum arteriosum",
-      "(C) Ligamentum venosum",
-      "(D) Coronary ligament"
-    ],
-    "correct_index": 1,
-    "explanation": "After birth, the ductus arteriosus closes and becomes the fibrous ligamentum arteriosum, connecting the pulmonary trunk to the aortic arch."
-  },
-  {
-    "question": "The fetal ductus venosus allows blood to pass from the umbilical vein toward the:",
-    "options": [
-      "(A) Inferior vena cava",
-      "(B) Pulmonary artery",
-      "(C) Left atrium",
-      "(D) Coronary sinus"
-    ],
-    "correct_index": 0,
-    "explanation": "The ductus venosus shunts oxygenated blood from the umbilical vein directly to the inferior vena cava, bypassing most of the hepatic circulation."
-  },
-  {
-    "question": "The adult remnant of the ductus venosus is the:",
-    "options": [
-      "(A) Ligamentum arteriosum",
-      "(B) Ligamentum venosum",
-      "(C) Fossa ovalis",
-      "(D) Round ligament of the uterus"
-    ],
-    "correct_index": 1,
-    "explanation": "After birth, the ductus venosus closes and becomes the ligamentum venosum, a fibrous cord on the posterior surface of the liver."
-  },
-  {
-    "question": "Oxygenated blood from the placenta reaches the fetus primarily through the:",
-    "options": [
-      "(A) Umbilical arteries",
-      "(B) Umbilical vein",
-      "(C) Pulmonary veins",
-      "(D) Superior vena cava"
-    ],
-    "correct_index": 1,
-    "explanation": "Oxygenated, nutrient-rich blood from the placenta travels to the fetus through the single umbilical vein."
-  },
-  {
-    "question": "Blood travels from the fetus toward the placenta through the:",
-    "options": [
-      "(A) Umbilical arteries",
-      "(B) Umbilical vein",
-      "(C) Pulmonary veins",
-      "(D) Coronary arteries"
-    ],
-    "correct_index": 0,
-    "explanation": "Deoxygenated, waste-laden blood travels from the fetus to the placenta through the two umbilical arteries."
-  },
-  {
-    "question": "Which fetal opening permits blood to bypass the pulmonary circulation by moving directly between atria?",
-    "options": [
-      "(A) Ductus venosus",
-      "(B) Foramen ovale",
-      "(C) Coronary sinus",
-      "(D) Aortic valve"
-    ],
-    "correct_index": 1,
-    "explanation": "The foramen ovale is an interatrial opening that allows blood to pass directly from the right atrium to the left atrium, bypassing the non-functional fetal lungs."
-  },
-  {
-    "question": "Which fetal vessel diverts blood from the pulmonary trunk toward the aorta?",
-    "options": [
-      "(A) Ductus arteriosus",
-      "(B) Ductus venosus",
-      "(C) Pulmonary vein",
-      "(D) Umbilical vein"
-    ],
-    "correct_index": 0,
-    "explanation": "The ductus arteriosus diverts blood from the pulmonary trunk directly into the descending aorta, bypassing the high-resistance pulmonary circulation of the fetus."
-  },
-  {
-    "question": "A probe placed through the adult fossa ovalis would cross which partition?",
-    "options": [
-      "(A) Interventricular septum",
-      "(B) Interatrial septum",
-      "(C) Aortic valve",
-      "(D) Pulmonary valve"
-    ],
-    "correct_index": 1,
-    "explanation": "The fossa ovalis is a depression in the interatrial septum; a probe placed through it crosses from the right atrium to the left atrium via the interatrial septum."
-  },
-  {
-    "question": "A defect specifically in the wall between the two ventricles involves the:",
-    "options": [
-      "(A) Interatrial septum",
-      "(B) Interventricular septum",
-      "(C) Coronary sulcus",
-      "(D) Aortic arch"
-    ],
-    "correct_index": 1,
-    "explanation": "A ventricular septal defect (VSD) is a hole in the interventricular septum, the wall that separates the two ventricles."
-  },
-  {
-    "question": "A defect specifically in the wall between the two atria involves the:",
-    "options": [
-      "(A) Interatrial septum",
-      "(B) Interventricular septum",
-      "(C) Moderator band",
+      "(C) Right ventricle",
       "(D) Pulmonary trunk"
     ],
-    "correct_index": 0,
-    "explanation": "An atrial septal defect (ASD) is an abnormal opening in the interatrial septum, the wall that separates the two atria."
+    "correct_index": 1,
+    "explanation": "Systemic circulation delivers oxygenated blood from the left ventricle and returns deoxygenated blood to the right atrium."
   },
   {
-    "question": "Which sequence lists the normal anatomical conduction pathway?",
+    "question": "In the pulmonary circuit, blood flows from the right ventricle through the lungs and returns to the:",
     "options": [
-      "(A) AV node → SA node → Purkinje fibers → bundle branches",
-      "(B) SA node → AV node → bundle of His → bundle branches → Purkinje fibers",
-      "(C) Purkinje fibers → SA node → AV node → bundle of His",
-      "(D) SA node → pulmonary valve → AV node → Purkinje fibers"
+      "(A) Right atrium",
+      "(B) Left atrium",
+      "(C) Aorta",
+      "(D) Coronary sinus"
     ],
     "correct_index": 1,
-    "explanation": "The normal cardiac conduction pathway is: SA node → AV node → bundle of His (AV bundle) → right and left bundle branches → Purkinje fibers → ventricular myocardium."
+    "explanation": "Pulmonary circulation sends deoxygenated blood from the right ventricle to the lungs and returns oxygenated blood to the left atrium."
+  },
+  {
+    "question": "In a stable adult circulation, right- and left-ventricular outputs averaged over time are:",
+    "options": [
+      "(A) Approximately equal",
+      "(B) Always in a 1:2 ratio",
+      "(C) Unrelated",
+      "(D) Zero at rest"
+    ],
+    "correct_index": 0,
+    "explanation": "Because systemic and pulmonary circuits are in series, output from both ventricles must be equal on average."
+  },
+  {
+    "question": "Most left ventricular coronary perfusion occurs during:",
+    "options": [
+      "(A) Diastole",
+      "(B) Peak systolic ejection",
+      "(C) Isovolumetric contraction only",
+      "(D) Atrial depolarization only"
+    ],
+    "correct_index": 0,
+    "explanation": "Systolic muscle contraction compresses left coronary vessels, so most perfusion happens during diastolic relaxation."
+  },
+  {
+    "question": "Severe tachycardia can impair coronary perfusion mainly by shortening:",
+    "options": [
+      "(A) Diastole",
+      "(B) The aorta",
+      "(C) Systolic pressure",
+      "(D) The P wave"
+    ],
+    "correct_index": 0,
+    "explanation": "Fast heart rates shorten diastole more than systole, limiting the time available for coronary arterial blood flow."
+  },
+  {
+    "question": "Myocardial oxygen demand rises when heart rate and contractility:",
+    "options": [
+      "(A) Increase",
+      "(B) Both decrease",
+      "(C) Remain unchanged",
+      "(D) Become unrelated"
+    ],
+    "correct_index": 0,
+    "explanation": "Higher heart rate and stronger contraction increase cardiac work, boosting myocardial oxygen requirement."
+  },
+  {
+    "question": "During dynamic exercise, cardiac output generally:",
+    "options": [
+      "(A) Falls to zero",
+      "(B) Increases",
+      "(C) Remains fixed",
+      "(D) Equals stroke volume"
+    ],
+    "correct_index": 1,
+    "explanation": "To meet skeletal muscle oxygen demands during exercise, cardiac output increases significantly."
+  },
+  {
+    "question": "During exercise, blood flow is redistributed preferentially toward:",
+    "options": [
+      "(A) Active skeletal muscle",
+      "(B) Inactive fat only",
+      "(C) The pericardial cavity",
+      "(D) Heart valves"
+    ],
+    "correct_index": 0,
+    "explanation": "Sympathetic activity and local metabolic vasodilation redirect blood flow primarily to active skeletal muscles."
+  },
+  {
+    "question": "The muscle pump increases venous return when:",
+    "options": [
+      "(A) Skeletal muscles contract around veins",
+      "(B) Aortic valves close",
+      "(C) Capillaries constrict",
+      "(D) The SA node stops"
+    ],
+    "correct_index": 0,
+    "explanation": "Contracting skeletal muscles compress adjacent deep veins, propelling blood toward the heart past one-way venous valves."
+  },
+  {
+    "question": "Inspiration normally assists venous return to the right heart partly by lowering:",
+    "options": [
+      "(A) Intrathoracic pressure",
+      "(B) Blood oxygen saturation to zero",
+      "(C) Aortic diameter",
+      "(D) Ventricular contractility"
+    ],
+    "correct_index": 0,
+    "explanation": "Inspiration creates negative intrathoracic pressure, sucking venous blood into the thoracic venae cavae and right atrium."
+  },
+  {
+    "question": "If HR is 80/min and SV is 65 mL, cardiac output is:",
+    "options": [
+      "(A) 4.2 L/min",
+      "(B) 5.2 L/min",
+      "(C) 6.5 L/min",
+      "(D) 8.0 L/min"
+    ],
+    "correct_index": 1,
+    "explanation": "CO = 80 bpm × 65 mL = 5,200 mL/min = 5.2 L/min."
+  },
+  {
+    "question": "If EDV is 140 mL and ESV is 56 mL, EF is:",
+    "options": [
+      "(A) 40%",
+      "(B) 50%",
+      "(C) 60%",
+      "(D) 84%"
+    ],
+    "correct_index": 2,
+    "explanation": "SV = 140 − 56 = 84 mL. EF = (84 ÷ 140) × 100 = 60%."
+  },
+  {
+    "question": "If stroke volume remains constant while HR rises from 60 to 90/min, cardiac output:",
+    "options": [
+      "(A) Rises by 50%",
+      "(B) Falls by 50%",
+      "(C) Remains identical",
+      "(D) Doubles"
+    ],
+    "correct_index": 0,
+    "explanation": "CO is proportional to HR when SV is constant. HR ratio 90/60 = 1.5, representing a 50% increase."
+  },
+  {
+    "question": "A BP of 100/60 mmHg has an approximate MAP of:",
+    "options": [
+      "(A) 60",
+      "(B) 73",
+      "(C) 90",
+      "(D) 100 mmHg"
+    ],
+    "correct_index": 1,
+    "explanation": "MAP = DBP + 1/3(Pulse Pressure) = 60 + 1/3(40) = 60 + 13.3 ≈ 73 mmHg."
+  },
+  {
+    "question": "At standard ECG paper speed, an R–R interval of 0.8 seconds corresponds to approximately:",
+    "options": [
+      "(A) 50/min",
+      "(B) 60/min",
+      "(C) 75/min",
+      "(D) 100/min"
+    ],
+    "correct_index": 2,
+    "explanation": "Heart rate = 60 ÷ 0.8 = 75 beats per minute."
+  },
+  {
+    "question": "At 25 mm/s, eight large squares between R waves indicate approximately:",
+    "options": [
+      "(A) 37.5/min",
+      "(B) 60/min",
+      "(C) 75/min",
+      "(D) 150/min"
+    ],
+    "correct_index": 0,
+    "explanation": "Heart rate = 300 ÷ 8 = 37.5 beats per minute."
+  },
+  {
+    "question": "A patient’s EDV remains 120 mL, but ESV falls from 60 to 40 mL. Stroke volume:",
+    "options": [
+      "(A) Falls by 20 mL",
+      "(B) Rises by 20 mL",
+      "(C) Is unchanged",
+      "(D) Becomes 40 mL"
+    ],
+    "correct_index": 1,
+    "explanation": "Initial SV = 120 − 60 = 60 mL. New SV = 120 − 40 = 80 mL. Stroke volume increases by 20 mL."
+  },
+  {
+    "question": "If EDV increases while ESV remains constant, stroke volume:",
+    "options": [
+      "(A) Increases",
+      "(B) Decreases",
+      "(C) Becomes zero",
+      "(D) Cannot be calculated"
+    ],
+    "correct_index": 0,
+    "explanation": "Since SV = EDV − ESV, increasing EDV with constant ESV increases stroke volume."
+  },
+  {
+    "question": "A marked loss of blood volume first tends to decrease:",
+    "options": [
+      "(A) Venous return and preload",
+      "(B) Aortic valve number",
+      "(C) Ventricular conduction velocity to zero",
+      "(D) Coronary artery origins"
+    ],
+    "correct_index": 0,
+    "explanation": "Acute blood loss decreases circulating volume, reducing venous return and end-diastolic filling (preload)."
+  },
+  {
+    "question": "The immediate fall in stroke volume after acute hemorrhage is explained partly by reduced:",
+    "options": [
+      "(A) End-diastolic filling",
+      "(B) Endocardial thickness",
+      "(C) Pulmonary vein number",
+      "(D) Valve cusp count"
+    ],
+    "correct_index": 0,
+    "explanation": "Lower venous return decreases end-diastolic filling (EDV), reducing stroke volume via the Frank-Starling mechanism."
+  },
+  {
+    "question": "Atrial contraction becomes particularly important for ventricular filling when the ventricle is:",
+    "options": [
+      "(A) Stiff and less compliant",
+      "(B) Absent",
+      "(C) Connected directly to the aorta",
+      "(D) Completely empty of muscle"
+    ],
+    "correct_index": 0,
+    "explanation": "In non-compliant or stiff ventricles, passive filling is impaired, making atrial contraction ('atrial kick') essential for adequate filling."
+  },
+  {
+    "question": "Compared with the left ventricle, the right ventricle normally ejects against a:",
+    "options": [
+      "(A) Lower-pressure circuit",
+      "(B) Higher-pressure circuit",
+      "(C) Circuit with no resistance",
+      "(D) Closed pulmonary valve throughout systole"
+    ],
+    "correct_index": 0,
+    "explanation": "The right ventricle pumps blood into the pulmonary circulation, which operates at much lower resistance and pressure than the systemic circulation."
+  },
+  {
+    "question": "Which combination is most likely to increase cardiac output during moderate exercise?",
+    "options": [
+      "(A) Increased HR and increased SV",
+      "(B) Decreased HR and decreased SV",
+      "(C) Increased afterload with zero venous return",
+      "(D) Complete AV block and no escape rhythm"
+    ],
+    "correct_index": 0,
+    "explanation": "During moderate exercise, sympathetic outflow increases both heart rate and stroke volume to elevate cardiac output."
   }
 ]
