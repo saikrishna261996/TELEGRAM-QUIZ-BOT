@@ -1,1102 +1,1102 @@
 [
   {
-    "question": "The heart’s normal impulse usually begins in the:",
+    "question": "An atrial septal defect is an opening in the:",
     "options": [
-      "(A) AV node",
-      "(B) SA node",
-      "(C) Bundle of His",
-      "(D) Purkinje fibers"
+      "(A) Interventricular septum",
+      "(B) Interatrial septum",
+      "(C) Ductus arteriosus",
+      "(D) Aortic valve"
     ],
     "correct_index": 1,
-    "explanation": "The SA node spontaneously generates electrical impulses that set the normal cardiac rhythm."
+    "explanation": "It connects the two atria."
   },
   {
-    "question": "The ability to generate an impulse without an external stimulus is:",
+    "question": "The usual initial direction of flow across an isolated ASD after birth is:",
     "options": [
-      "(A) Contractility",
-      "(B) Automaticity",
-      "(C) Afterload",
-      "(D) Compliance"
+      "(A) Right to left",
+      "(B) Left to right",
+      "(C) Aorta to pulmonary artery",
+      "(D) RV to LV"
     ],
     "correct_index": 1,
-    "explanation": "Automaticity is the intrinsic capacity of cardiac pacemaker cells to initiate electrical impulses independently."
+    "explanation": "Left to right flow occurs due to higher pressure and compliance in the left atrium compared to the right atrium."
   },
   {
-    "question": "The AV nodal delay primarily allows time for:",
+    "question": "An untreated, significant ASD primarily causes volume overload of the:",
     "options": [
-      "(A) Atrial filling",
-      "(B) Ventricular filling after atrial contraction",
-      "(C) Coronary artery closure",
-      "(D) Semilunar valve opening"
+      "(A) LA and LV",
+      "(B) RA and RV",
+      "(C) LV alone",
+      "(D) Aorta"
     ],
     "correct_index": 1,
-    "explanation": "The delay at the AV node slows conduction to allow the ventricles adequate time to fill after atrial contraction."
+    "explanation": "The extra blood shunted from the left atrium enters the right atrium and right ventricle, causing volume overload of both right-sided chambers."
   },
   {
-    "question": "If the SA node fails, an AV junctional pacemaker typically fires at approximately:",
+    "question": "Pulmonary blood flow in a significant left-to-right ASD is generally:",
     "options": [
-      "(A) 20–40/min",
-      "(B) 40–60/min",
-      "(C) 80–100/min",
-      "(D) 120–160/min"
+      "(A) Decreased",
+      "(B) Increased",
+      "(C) Absent",
+      "(D) Unrelated to shunt size"
     ],
     "correct_index": 1,
-    "explanation": "The AV junction serves as a secondary pacemaker with an intrinsic rate of 40–60 beats per minute."
+    "explanation": "Left-to-right shunting increases the volume of blood delivered through the right heart to the pulmonary vasculature."
   },
   {
-    "question": "Ventricular escape pacemakers generally have a rate closest to:",
+    "question": "The most common anatomical type of ASD is:",
     "options": [
-      "(A) 20–40/min",
-      "(B) 60–100/min",
-      "(C) 100–120/min",
-      "(D) 150–200/min"
+      "(A) Ostium secundum",
+      "(B) Ostium primum",
+      "(C) Sinus venosus",
+      "(D) Coronary sinus type"
     ],
     "correct_index": 0,
-    "explanation": "Purkinje system or ventricular escape pacemakers have a slow intrinsic rate of 20–40 beats per minute."
+    "explanation": "Ostium secundum ASD accounts for approximately 70% to 80% of all atrial septal defects."
   },
   {
-    "question": "The ECG P wave represents:",
+    "question": "An ostium secundum ASD is located chiefly in the region of the:",
     "options": [
-      "(A) Atrial depolarization",
-      "(B) Atrial repolarization",
-      "(C) Ventricular depolarization",
-      "(D) Ventricular repolarization"
-    ],
-    "correct_index": 0,
-    "explanation": "The P wave represents the electrical wave of atrial depolarization."
-  },
-  {
-    "question": "The QRS complex primarily represents:",
-    "options": [
-      "(A) Atrial depolarization",
-      "(B) Atrial repolarization",
-      "(C) Ventricular depolarization",
-      "(D) Ventricular repolarization"
-    ],
-    "correct_index": 2,
-    "explanation": "The QRS complex represents rapid ventricular depolarization."
-  },
-  {
-    "question": "The T wave represents:",
-    "options": [
-      "(A) SA nodal firing",
-      "(B) Atrial depolarization",
-      "(C) Ventricular depolarization",
-      "(D) Ventricular repolarization"
-    ],
-    "correct_index": 3,
-    "explanation": "The T wave represents ventricular repolarization."
-  },
-  {
-    "question": "Atrial repolarization is usually not visible separately because it is:",
-    "options": [
-      "(A) Absent",
-      "(B) Hidden within the QRS complex",
-      "(C) Hidden within the T wave",
-      "(D) Identical to the P wave"
+      "(A) Membranous ventricular septum",
+      "(B) Fossa ovalis",
+      "(C) Aortic arch",
+      "(D) Pulmonary valve"
     ],
     "correct_index": 1,
-    "explanation": "Atrial repolarization occurs at the same time as ventricular depolarization and is masked by the larger QRS complex."
+    "explanation": "Secundum defects involve the central portion of the interatrial septum at the fossa ovalis."
   },
   {
-    "question": "The PR interval is measured from the:",
+    "question": "An ostium primum ASD is located in the:",
     "options": [
-      "(A) Start of P to start of QRS",
-      "(B) End of P to end of QRS",
-      "(C) Start of QRS to end of T",
-      "(D) Start of T to next P"
-    ],
-    "correct_index": 0,
-    "explanation": "The PR interval is measured from the onset of the P wave to the beginning of the QRS complex."
-  },
-  {
-    "question": "The usual adult PR interval is:",
-    "options": [
-      "(A) 0.04–0.08 s",
-      "(B) 0.12–0.20 s",
-      "(C) 0.24–0.36 s",
-      "(D) 0.40–0.50 s"
-    ],
-    "correct_index": 1,
-    "explanation": "A normal adult PR interval lasts between 0.12 and 0.20 seconds (3 to 5 small grid squares)."
-  },
-  {
-    "question": "A normal QRS duration is generally:",
-    "options": [
-      "(A) Less than 0.12 s",
-      "(B) 0.20–0.30 s",
-      "(C) 0.30–0.40 s",
-      "(D) More than 0.40 s"
-    ],
-    "correct_index": 0,
-    "explanation": "A normal QRS complex duration is less than 0.12 seconds (typically 0.06 to 0.10 s)."
-  },
-  {
-    "question": "The QT interval includes ventricular:",
-    "options": [
-      "(A) Filling only",
-      "(B) Depolarization and repolarization",
-      "(C) Repolarization only",
-      "(D) Atrial contraction only"
-    ],
-    "correct_index": 1,
-    "explanation": "The QT interval represents total ventricular electrical systole, including both depolarization and repolarization."
-  },
-  {
-    "question": "The QT interval is commonly corrected for:",
-    "options": [
-      "(A) Body weight",
-      "(B) Heart rate",
-      "(C) Respiratory rate",
-      "(D) Blood glucose"
-    ],
-    "correct_index": 1,
-    "explanation": "The QT interval shortens at faster heart rates, so it is corrected for heart rate to produce the QTc."
-  },
-  {
-    "question": "At the standard ECG paper speed of 25 mm/s, one small square represents:",
-    "options": [
-      "(A) 0.01 s",
-      "(B) 0.04 s",
-      "(C) 0.20 s",
-      "(D) 1 s"
-    ],
-    "correct_index": 1,
-    "explanation": "At 25 mm/s paper speed, each 1 mm small square equals 0.04 seconds."
-  },
-  {
-    "question": "At 25 mm/s, one large ECG square represents:",
-    "options": [
-      "(A) 0.04 s",
-      "(B) 0.10 s",
-      "(C) 0.20 s",
-      "(D) 0.50 s"
-    ],
-    "correct_index": 2,
-    "explanation": "At 25 mm/s, one large square (5 small squares) equals 0.20 seconds."
-  },
-  {
-    "question": "A regular rhythm with five large squares between successive R waves has a rate of approximately:",
-    "options": [
-      "(A) 50/min",
-      "(B) 60/min",
-      "(C) 75/min",
-      "(D) 100/min"
-    ],
-    "correct_index": 1,
-    "explanation": "Heart rate = 300 ÷ (number of large squares) = 300 ÷ 5 = 60 beats/min."
-  },
-  {
-    "question": "A regular rhythm with four large squares between R waves has a rate of approximately:",
-    "options": [
-      "(A) 60/min",
-      "(B) 75/min",
-      "(C) 100/min",
-      "(D) 120/min"
-    ],
-    "correct_index": 1,
-    "explanation": "Heart rate = 300 ÷ 4 = 75 beats/min."
-  },
-  {
-    "question": "Rapid impulse spread throughout ventricular muscle is facilitated by the:",
-    "options": [
-      "(A) AV valves",
-      "(B) Purkinje system",
-      "(C) Coronary sinus",
-      "(D) Pericardial cavity"
-    ],
-    "correct_index": 1,
-    "explanation": "The specialized Purkinje conduction system rapidly distributes electrical impulses throughout the ventricular myocardium."
-  },
-  {
-    "question": "The plateau of the ventricular myocyte action potential is sustained substantially by inward:",
-    "options": [
-      "(A) Calcium current",
-      "(B) Chloride current",
-      "(C) Potassium current alone",
-      "(D) Sodium–glucose transport"
-    ],
-    "correct_index": 0,
-    "explanation": "Inward calcium current through L-type channels sustains the plateau phase (Phase 2) of cardiac myocytes."
-  },
-  {
-    "question": "Systole refers to the period of cardiac:",
-    "options": [
-      "(A) Contraction",
-      "(B) Complete electrical silence",
-      "(C) Passive diffusion",
-      "(D) Valve formation"
-    ],
-    "correct_index": 0,
-    "explanation": "Systole is the phase of the cardiac cycle when heart muscle contracts to pump blood."
-  },
-  {
-    "question": "Ventricular diastole is the period primarily associated with ventricular:",
-    "options": [
-      "(A) Ejection",
-      "(B) Relaxation and filling",
-      "(C) Isovolumetric contraction",
-      "(D) Aortic valve opening"
-    ],
-    "correct_index": 1,
-    "explanation": "Ventricular diastole is the period during which ventricular muscle relaxes and blood fills the chambers."
-  },
-  {
-    "question": "The first heart sound, S1, is primarily caused by closure of the:",
-    "options": [
-      "(A) Aortic and pulmonary valves",
-      "(B) Mitral and tricuspid valves",
-      "(C) Pulmonary veins",
-      "(D) Coronary arteries"
-    ],
-    "correct_index": 1,
-    "explanation": "S1 is caused by the closure of the atrioventricular (mitral and tricuspid) valves at the onset of ventricular systole."
-  },
-  {
-    "question": "The second heart sound, S2, is primarily caused by closure of the:",
-    "options": [
-      "(A) AV valves",
-      "(B) Aortic and pulmonary valves",
-      "(C) Venae cavae",
-      "(D) Pulmonary veins"
-    ],
-    "correct_index": 1,
-    "explanation": "S2 is caused by the closure of the semilunar (aortic and pulmonary) valves at the onset of ventricular diastole."
-  },
-  {
-    "question": "S1 marks the beginning of ventricular:",
-    "options": [
-      "(A) Systole",
-      "(B) Rapid filling",
-      "(C) Diastasis",
-      "(D) Atrial systole"
-    ],
-    "correct_index": 0,
-    "explanation": "Closure of the AV valves (S1) marks the start of ventricular contraction (systole)."
-  },
-  {
-    "question": "S2 marks the beginning of ventricular:",
-    "options": [
-      "(A) Ejection",
-      "(B) Diastole",
-      "(C) Atrial depolarization",
-      "(D) Isovolumetric contraction"
-    ],
-    "correct_index": 1,
-    "explanation": "Closure of the semilunar valves (S2) marks the end of ejection and start of ventricular relaxation (diastole)."
-  },
-  {
-    "question": "During isovolumetric contraction:",
-    "options": [
-      "(A) All four valves are closed",
-      "(B) All four valves are open",
-      "(C) Only AV valves are open",
-      "(D) Only semilunar valves are open"
-    ],
-    "correct_index": 0,
-    "explanation": "During isovolumetric contraction, the AV valves have closed but semilunar valves have not yet opened, so all four valves remain closed."
-  },
-  {
-    "question": "During isovolumetric relaxation:",
-    "options": [
-      "(A) All four valves are closed",
-      "(B) All four valves are open",
-      "(C) Only AV valves are open",
-      "(D) Only semilunar valves are open"
-    ],
-    "correct_index": 0,
-    "explanation": "During isovolumetric relaxation, the semilunar valves have closed and AV valves have not yet opened, keeping all four valves closed."
-  },
-  {
-    "question": "The aortic valve opens when left ventricular pressure:",
-    "options": [
-      "(A) Falls below left atrial pressure",
-      "(B) Exceeds aortic pressure",
-      "(C) Equals right atrial pressure",
-      "(D) Falls below aortic pressure"
-    ],
-    "correct_index": 1,
-    "explanation": "The aortic valve opens once left ventricular pressure exceeds the pressure in the aorta."
-  },
-  {
-    "question": "The mitral valve opens when left ventricular pressure falls below:",
-    "options": [
-      "(A) Aortic pressure",
-      "(B) Pulmonary arterial pressure",
-      "(C) Left atrial pressure",
-      "(D) Right ventricular pressure"
-    ],
-    "correct_index": 2,
-    "explanation": "The mitral valve opens when left ventricular pressure drops below left atrial pressure during early diastole."
-  },
-  {
-    "question": "Ventricular ejection occurs while the:",
-    "options": [
-      "(A) AV valves are open",
-      "(B) Semilunar valves are open",
-      "(C) All valves are closed",
-      "(D) Pulmonary veins are closed"
-    ],
-    "correct_index": 1,
-    "explanation": "Blood is ejected from the ventricles into the great arteries while the semilunar valves are open."
-  },
-  {
-    "question": "Most ventricular filling normally occurs during:",
-    "options": [
-      "(A) Passive filling in diastole",
-      "(B) Atrial systole alone",
-      "(C) Isovolumetric contraction",
-      "(D) Ventricular ejection"
-    ],
-    "correct_index": 0,
-    "explanation": "About 70–80% of ventricular filling happens passively during early and mid-diastole."
-  },
-  {
-    "question": "Atrial contraction normally contributes most directly to:",
-    "options": [
-      "(A) The final portion of ventricular filling",
-      "(B) Closing the aortic valve",
-      "(C) Opening the pulmonary valve",
-      "(D) Coronary arterial branching"
-    ],
-    "correct_index": 0,
-    "explanation": "Atrial systole adds the final 20–30% of blood to the ventricles at the end of diastole."
-  },
-  {
-    "question": "End-diastolic volume is the blood volume in a ventricle:",
-    "options": [
-      "(A) Just before contraction",
-      "(B) Just after ejection",
-      "(C) During the T wave only",
-      "(D) Before atrial filling begins"
-    ],
-    "correct_index": 0,
-    "explanation": "End-diastolic volume (EDV) is the amount of blood in a ventricle at the end of filling, right before contraction begins."
-  },
-  {
-    "question": "End-systolic volume is the blood remaining in a ventricle:",
-    "options": [
-      "(A) Just before filling",
-      "(B) After ejection",
-      "(C) Before atrial contraction",
-      "(D) At the start of the P wave"
-    ],
-    "correct_index": 1,
-    "explanation": "End-systolic volume (ESV) is the residual blood volume remaining in a ventricle after ejection finishes."
-  },
-  {
-    "question": "Stroke volume equals:",
-    "options": [
-      "(A) EDV + ESV",
-      "(B) EDV − ESV",
-      "(C) ESV − EDV",
-      "(D) Heart rate × EDV"
-    ],
-    "correct_index": 1,
-    "explanation": "Stroke volume (SV) is the volume of blood pumped per beat: SV = EDV − ESV."
-  },
-  {
-    "question": "If EDV is 120 mL and ESV is 50 mL, stroke volume is:",
-    "options": [
-      "(A) 50 mL",
-      "(B) 70 mL",
-      "(C) 120 mL",
-      "(D) 170 mL"
-    ],
-    "correct_index": 1,
-    "explanation": "Stroke volume = EDV − ESV = 120 mL − 50 mL = 70 mL."
-  },
-  {
-    "question": "The dicrotic notch on an aortic pressure tracing is associated with:",
-    "options": [
-      "(A) Mitral valve opening",
-      "(B) Aortic valve closure",
-      "(C) Tricuspid valve opening",
-      "(D) Atrial depolarization"
-    ],
-    "correct_index": 1,
-    "explanation": "The dicrotic notch is a slight pressure rise caused by backflow against the aortic valve as it closes."
-  },
-  {
-    "question": "An S3 heart sound, when present, occurs during:",
-    "options": [
-      "(A) Early rapid ventricular filling",
-      "(B) Isovolumetric contraction",
-      "(C) Ventricular ejection",
-      "(D) Atrial systole"
-    ],
-    "correct_index": 0,
-    "explanation": "S3 is a low-frequency sound occurring in early diastole during rapid passive ventricular filling."
-  },
-  {
-    "question": "An S4 heart sound is associated with:",
-    "options": [
-      "(A) Atrial contraction against a poorly compliant ventricle",
-      "(B) Aortic valve closure",
-      "(C) Rapid early filling",
-      "(D) Pulmonary valve opening"
-    ],
-    "correct_index": 0,
-    "explanation": "S4 occurs in late diastole when atrial contraction forces blood into a stiff or hypertrophic ventricle."
-  },
-  {
-    "question": "Cardiac output equals:",
-    "options": [
-      "(A) HR × SV",
-      "(B) HR ÷ SV",
-      "(C) EDV + ESV",
-      "(D) BP × pulse pressure"
-    ],
-    "correct_index": 0,
-    "explanation": "Cardiac Output (CO) is the volume of blood pumped per minute: CO = Heart Rate (HR) × Stroke Volume (SV)."
-  },
-  {
-    "question": "At 70 beats/min and 70 mL/beat, cardiac output is:",
-    "options": [
-      "(A) 0.49 L/min",
-      "(B) 4.9 L/min",
-      "(C) 7.0 L/min",
-      "(D) 49 L/min"
-    ],
-    "correct_index": 1,
-    "explanation": "CO = 70 bpm × 70 mL = 4,900 mL/min = 4.9 L/min."
-  },
-  {
-    "question": "A patient has a cardiac output of 5.4 L/min and a heart rate of 90/min. Stroke volume is:",
-    "options": [
-      "(A) 40 mL",
-      "(B) 60 mL",
-      "(C) 90 mL",
-      "(D) 150 mL"
-    ],
-    "correct_index": 1,
-    "explanation": "SV = CO ÷ HR = 5,400 mL/min ÷ 90 bpm = 60 mL."
-  },
-  {
-    "question": "Ejection fraction is calculated as:",
-    "options": [
-      "(A) ESV ÷ EDV × 100",
-      "(B) SV ÷ EDV × 100",
-      "(C) HR ÷ SV × 100",
-      "(D) EDV ÷ SV × 100"
-    ],
-    "correct_index": 1,
-    "explanation": "Ejection Fraction (EF) measures the fraction of end-diastolic volume ejected: EF = (SV ÷ EDV) × 100."
-  },
-  {
-    "question": "If EDV is 120 mL and SV is 72 mL, ejection fraction is:",
-    "options": [
-      "(A) 40%",
-      "(B) 50%",
-      "(C) 60%",
-      "(D) 72%"
-    ],
-    "correct_index": 2,
-    "explanation": "EF = (72 ÷ 120) × 100 = 60%."
-  },
-  {
-    "question": "Preload is most closely related to myocardial fiber stretch:",
-    "options": [
-      "(A) At the end of diastole",
-      "(B) After ejection",
-      "(C) During isovolumetric relaxation only",
-      "(D) When all blood vessels constrict"
-    ],
-    "correct_index": 0,
-    "explanation": "Preload represents the initial stretching of cardiac myocytes at the end of diastole prior to contraction."
-  },
-  {
-    "question": "A sudden increase in venous return usually increases:",
-    "options": [
-      "(A) Ventricular preload",
-      "(B) Aortic valve area",
-      "(C) Arterial oxygen content",
-      "(D) AV nodal delay"
-    ],
-    "correct_index": 0,
-    "explanation": "Increased venous return increases the volume of blood entering the ventricles, thereby increasing preload."
-  },
-  {
-    "question": "The Frank–Starling mechanism describes an increase in stroke volume with an increase in:",
-    "options": [
-      "(A) Ventricular filling, within physiological limits",
-      "(B) Afterload alone",
-      "(C) Coronary resistance",
-      "(D) Pericardial friction"
-    ],
-    "correct_index": 0,
-    "explanation": "The Frank–Starling law states that greater ventricular filling (preload) stretches myocytes, increasing contractility and stroke volume."
-  },
-  {
-    "question": "Afterload is the load the ventricle must overcome to:",
-    "options": [
-      "(A) Fill during diastole",
-      "(B) Eject blood",
-      "(C) Generate an SA nodal impulse",
-      "(D) Receive pulmonary veins"
-    ],
-    "correct_index": 1,
-    "explanation": "Afterload is the pressure against which the ventricles must pump to eject blood into the aorta or pulmonary trunk."
-  },
-  {
-    "question": "A marked rise in systemic arterial pressure usually increases left ventricular:",
-    "options": [
-      "(A) Preload only",
-      "(B) Afterload",
-      "(C) Automaticity only",
-      "(D) Compliance"
-    ],
-    "correct_index": 1,
-    "explanation": "Systemic hypertension creates higher resistance against left ventricular ejection, increasing afterload."
-  },
-  {
-    "question": "If other factors are unchanged, a substantial increase in afterload tends to:",
-    "options": [
-      "(A) Increase stroke volume",
-      "(B) Reduce stroke volume",
-      "(C) Eliminate ESV",
-      "(D) Stop atrial filling"
-    ],
-    "correct_index": 1,
-    "explanation": "Increased afterload opposes ventricular ejection, leading to a reduced stroke volume if contractility does not increase."
-  },
-  {
-    "question": "Contractility describes the myocardium’s ability to generate force at a given:",
-    "options": [
-      "(A) Preload and afterload",
-      "(B) Respiratory rate only",
-      "(C) Serum sodium only",
-      "(D) Body temperature only"
-    ],
-    "correct_index": 0,
-    "explanation": "Contractility (inotropy) is the intrinsic force of contraction independent of initial muscle length (preload) and resistance (afterload)."
-  },
-  {
-    "question": "Increased sympathetic stimulation commonly increases ventricular:",
-    "options": [
-      "(A) Contractility",
-      "(B) Pericardial thickness",
-      "(C) Valve leaflet number",
-      "(D) Coronary sinus diameter alone"
-    ],
-    "correct_index": 0,
-    "explanation": "Sympathetic nerves release norepinephrine, activating beta-1 receptors to boost myocardial contractility."
-  },
-  {
-    "question": "Positive inotropy means increased:",
-    "options": [
-      "(A) Heart rate",
-      "(B) Force of contraction",
-      "(C) Conduction delay",
-      "(D) Vascular resistance"
-    ],
-    "correct_index": 1,
-    "explanation": "Inotropy refers to contractile force; positive inotropy means an increased force of contraction."
-  },
-  {
-    "question": "Positive chronotropy means increased:",
-    "options": [
-      "(A) Heart rate",
-      "(B) Stroke volume only",
-      "(C) Contractile force only",
-      "(D) Venous compliance"
-    ],
-    "correct_index": 0,
-    "explanation": "Chronotropy refers to timing and frequency; positive chronotropy means an increased heart rate."
-  },
-  {
-    "question": "Positive dromotropy refers to increased:",
-    "options": [
-      "(A) AV conduction speed",
-      "(B) Ventricular filling volume",
-      "(C) Arterial resistance",
-      "(D) Aortic elasticity"
-    ],
-    "correct_index": 0,
-    "explanation": "Dromotropy refers to electrical conduction velocity, particularly through the AV node."
-  },
-  {
-    "question": "A fall in circulating volume generally reduces venous return and therefore:",
-    "options": [
-      "(A) Preload",
-      "(B) Valve number",
-      "(C) SA node location",
-      "(D) QRS amplitude in every case"
-    ],
-    "correct_index": 0,
-    "explanation": "Hypovolemia lowers blood volume entering the heart, directly reducing ventricular preload."
-  },
-  {
-    "question": "Very rapid heart rates can reduce cardiac output because they shorten:",
-    "options": [
-      "(A) Diastolic filling time",
-      "(B) Aortic length",
-      "(C) Valve leaflets",
-      "(D) Ventricular repolarization to zero"
-    ],
-    "correct_index": 0,
-    "explanation": "Extreme tachycardia drastically reduces the diastolic period, cutting down ventricular filling time and stroke volume."
-  },
-  {
-    "question": "The cardiac index is cardiac output divided by:",
-    "options": [
-      "(A) Heart rate",
-      "(B) Body surface area",
-      "(C) Stroke volume",
-      "(D) Diastolic pressure"
-    ],
-    "correct_index": 1,
-    "explanation": "Cardiac Index (CI) relates cardiac output to body size: CI = Cardiac Output ÷ Body Surface Area (BSA)."
-  },
-  {
-    "question": "A cardiac output of 5.0 L/min with body surface area 2.0 m² gives a cardiac index of:",
-    "options": [
-      "(A) 1.0",
-      "(B) 2.5",
-      "(C) 5.0",
-      "(D) 10.0 L/min/m²"
-    ],
-    "correct_index": 1,
-    "explanation": "Cardiac Index = 5.0 ÷ 2.0 = 2.5 L/min/m²."
-  },
-  {
-    "question": "Pulse pressure equals:",
-    "options": [
-      "(A) SBP − DBP",
-      "(B) SBP + DBP",
-      "(C) DBP ÷ SBP",
-      "(D) HR × SV"
-    ],
-    "correct_index": 0,
-    "explanation": "Pulse pressure is calculated as Systolic Blood Pressure minus Diastolic Blood Pressure."
-  },
-  {
-    "question": "At a BP of 120/80 mmHg, pulse pressure is:",
-    "options": [
-      "(A) 20",
-      "(B) 40",
-      "(C) 80",
-      "(D) 100 mmHg"
-    ],
-    "correct_index": 1,
-    "explanation": "Pulse pressure = 120 − 80 = 40 mmHg."
-  },
-  {
-    "question": "At a normal resting heart rate, an approximate mean arterial pressure is:",
-    "options": [
-      "(A) DBP + ⅓ pulse pressure",
-      "(B) SBP + pulse pressure",
-      "(C) SBP − DBP/3",
-      "(D) HR × DBP"
-    ],
-    "correct_index": 0,
-    "explanation": "MAP is approximated as DBP + 1/3(Systolic BP − Diastolic BP) because diastole accounts for about two-thirds of the cardiac cycle."
-  },
-  {
-    "question": "Using that approximation, MAP for 120/80 mmHg is closest to:",
-    "options": [
-      "(A) 67",
-      "(B) 80",
-      "(C) 93",
-      "(D) 120 mmHg"
-    ],
-    "correct_index": 2,
-    "explanation": "MAP = 80 + (40 ÷ 3) = 80 + 13.3 = 93.3 mmHg."
-  },
-  {
-    "question": "The principal vessels that regulate peripheral resistance are the:",
-    "options": [
-      "(A) Aorta",
-      "(B) Arterioles",
-      "(C) Large veins",
-      "(D) Pulmonary veins"
-    ],
-    "correct_index": 1,
-    "explanation": "Arterioles have smooth muscle walls that adjust diameter, serving as the main resistance vessels in circulation."
-  },
-  {
-    "question": "Arteriolar vasoconstriction generally causes resistance to:",
-    "options": [
-      "(A) Decrease",
-      "(B) Increase",
-      "(C) Become zero",
-      "(D) Equal venous pressure"
-    ],
-    "correct_index": 1,
-    "explanation": "Narrows the lumen of arterioles increases vascular resistance to blood flow."
-  },
-  {
-    "question": "If vessel radius decreases, resistance rises sharply because resistance varies approximately with:",
-    "options": [
-      "(A) Radius²",
-      "(B) Inverse radius⁴",
-      "(C) Radius alone",
-      "(D) Vessel length alone"
-    ],
-    "correct_index": 1,
-    "explanation": "According to Poiseuille's law, resistance is inversely proportional to the 4th power of radius (1/r⁴)."
-  },
-  {
-    "question": "The greatest total cross-sectional area in systemic circulation is found in the:",
-    "options": [
-      "(A) Aorta",
-      "(B) Capillaries",
-      "(C) Venae cavae",
-      "(D) Coronary sinus"
-    ],
-    "correct_index": 1,
-    "explanation": "The cumulative cross-sectional area of billions of capillaries is far greater than any other vessel type."
-  },
-  {
-    "question": "Blood velocity is generally lowest in the:",
-    "options": [
-      "(A) Aorta",
-      "(B) Capillaries",
-      "(C) Pulmonary trunk",
-      "(D) Venae cavae"
-    ],
-    "correct_index": 1,
-    "explanation": "Velocity of flow is inversely proportional to total cross-sectional area, making flow slowest in capillaries to allow substance exchange."
-  },
-  {
-    "question": "Exchange of gases and nutrients with tissues occurs primarily at the:",
-    "options": [
-      "(A) Arteries",
-      "(B) Arterioles",
-      "(C) Capillaries",
-      "(D) Large veins"
-    ],
-    "correct_index": 2,
-    "explanation": "Capillaries have single-layer endothelial walls that allow rapid diffusion of gases, nutrients, and waste."
-  },
-  {
-    "question": "The vessels serving as the major blood-volume reservoir are the:",
-    "options": [
-      "(A) Arteries",
-      "(B) Arterioles",
-      "(C) Capillaries",
-      "(D) Veins"
-    ],
-    "correct_index": 3,
-    "explanation": "Veins are thin-walled, compliant capacitance vessels that hold ~60–65% of total blood volume at rest."
-  },
-  {
-    "question": "The carotid sinus and aortic arch contain receptors that sense arterial:",
-    "options": [
-      "(A) Glucose",
-      "(B) Stretch",
-      "(C) Hemoglobin type",
-      "(D) Body temperature exclusively"
-    ],
-    "correct_index": 1,
-    "explanation": "Baroreceptors in the carotid sinus and aortic arch are mechanoreceptors that sense vascular stretch from arterial pressure."
-  },
-  {
-    "question": "An acute rise in arterial BP increases baroreceptor firing and usually produces:",
-    "options": [
-      "(A) Reflex slowing of heart rate",
-      "(B) Reflex tachycardia",
-      "(C) No autonomic response",
-      "(D) Immediate cessation of breathing"
-    ],
-    "correct_index": 0,
-    "explanation": "High pressure stretches baroreceptors, triggering parasympathetic stimulation (vagal) to slow the heart rate."
-  },
-  {
-    "question": "Standing suddenly can transiently reduce venous return because blood:",
-    "options": [
-      "(A) Moves toward dependent leg veins",
-      "(B) Moves directly into coronary arteries",
-      "(C) Leaves the body",
-      "(D) Enters the pulmonary veins"
-    ],
-    "correct_index": 0,
-    "explanation": "Gravity causes venous pooling in the legs upon standing, briefly reducing venous return to the heart."
-  },
-  {
-    "question": "A normal immediate compensatory response to a fall in BP on standing is increased:",
-    "options": [
-      "(A) Parasympathetic outflow to the SA node",
-      "(B) Sympathetic activity",
-      "(C) Atrial septal flow",
-      "(D) Pericardial fluid secretion"
-    ],
-    "correct_index": 1,
-    "explanation": "The baroreceptor reflex triggers sympathetic activation to increase heart rate and vasoconstriction upon standing."
-  },
-  {
-    "question": "Increased parasympathetic activity through the vagus nerve primarily:",
-    "options": [
-      "(A) Slows SA nodal firing",
-      "(B) Strengthens ventricular contraction markedly",
-      "(C) Raises systemic vascular resistance directly",
-      "(D) Opens the aortic valve"
-    ],
-    "correct_index": 0,
-    "explanation": "Parasympathetic vagal fibers release acetylcholine onto the SA node, slowing its firing rate."
-  },
-  {
-    "question": "Sympathetic stimulation of the heart tends to increase:",
-    "options": [
-      "(A) Heart rate and contractility",
-      "(B) PR interval in every case",
-      "(C) Valve thickness",
-      "(D) Pericardial volume"
-    ],
-    "correct_index": 0,
-    "explanation": "Sympathetic activity increases both chronotropy (heart rate) and inotropy (contractile force)."
-  },
-  {
-    "question": "In the systemic circuit, blood flows from the left ventricle to tissues and returns to the:",
-    "options": [
-      "(A) Left atrium",
-      "(B) Right atrium",
-      "(C) Right ventricle",
+      "(A) Upper posterior atrial septum",
+      "(B) Lower atrial septum near the AV valves",
+      "(C) Ventricular apex",
       "(D) Pulmonary trunk"
     ],
     "correct_index": 1,
-    "explanation": "Systemic circulation delivers oxygenated blood from the left ventricle and returns deoxygenated blood to the right atrium."
+    "explanation": "Ostium primum defects are positioned low in the interatrial septum, adjacent to the atrioventricular valves."
   },
   {
-    "question": "In the pulmonary circuit, blood flows from the right ventricle through the lungs and returns to the:",
+    "question": "Ostium primum ASD is considered part of the spectrum of:",
     "options": [
-      "(A) Right atrium",
-      "(B) Left atrium",
-      "(C) Aorta",
-      "(D) Coronary sinus"
+      "(A) Atrioventricular septal defect",
+      "(B) Tetralogy of Fallot",
+      "(C) Transposition of great arteries",
+      "(D) Coarctation"
+    ],
+    "correct_index": 0,
+    "explanation": "Primum ASDs are endocardial cushion defects and represent a partial form of an atrioventricular septal defect (AVSD)."
+  },
+  {
+    "question": "A sinus venosus ASD commonly lies near the entrance of the:",
+    "options": [
+      "(A) Aorta",
+      "(B) Superior or inferior vena cava",
+      "(C) Coronary arteries",
+      "(D) Pulmonary trunk"
     ],
     "correct_index": 1,
-    "explanation": "Pulmonary circulation sends deoxygenated blood from the right ventricle to the lungs and returns oxygenated blood to the left atrium."
+    "explanation": "Sinus venosus defects are situated near the junction of the right atrium with either the superior or inferior vena cava."
   },
   {
-    "question": "In a stable adult circulation, right- and left-ventricular outputs averaged over time are:",
+    "question": "A superior sinus venosus ASD is often associated with:",
     "options": [
-      "(A) Approximately equal",
-      "(B) Always in a 1:2 ratio",
-      "(C) Unrelated",
-      "(D) Zero at rest"
+      "(A) Anomalous right pulmonary venous drainage",
+      "(B) Aortic coarctation in every case",
+      "(C) Pulmonary atresia",
+      "(D) Absent tricuspid valve"
     ],
     "correct_index": 0,
-    "explanation": "Because systemic and pulmonary circuits are in series, output from both ventricles must be equal on average."
+    "explanation": "Superior sinus venosus defects frequently coexist with partial anomalous pulmonary venous return (PAPVR) of the right upper pulmonary vein."
   },
   {
-    "question": "Most left ventricular coronary perfusion occurs during:",
+    "question": "The hemodynamic effect of an ASD depends more on its:",
     "options": [
-      "(A) Diastole",
-      "(B) Peak systolic ejection",
-      "(C) Isovolumetric contraction only",
-      "(D) Atrial depolarization only"
-    ],
-    "correct_index": 0,
-    "explanation": "Systolic muscle contraction compresses left coronary vessels, so most perfusion happens during diastolic relaxation."
-  },
-  {
-    "question": "Severe tachycardia can impair coronary perfusion mainly by shortening:",
-    "options": [
-      "(A) Diastole",
-      "(B) The aorta",
-      "(C) Systolic pressure",
-      "(D) The P wave"
-    ],
-    "correct_index": 0,
-    "explanation": "Fast heart rates shorten diastole more than systole, limiting the time available for coronary arterial blood flow."
-  },
-  {
-    "question": "Myocardial oxygen demand rises when heart rate and contractility:",
-    "options": [
-      "(A) Increase",
-      "(B) Both decrease",
-      "(C) Remain unchanged",
-      "(D) Become unrelated"
-    ],
-    "correct_index": 0,
-    "explanation": "Higher heart rate and stronger contraction increase cardiac work, boosting myocardial oxygen requirement."
-  },
-  {
-    "question": "During dynamic exercise, cardiac output generally:",
-    "options": [
-      "(A) Falls to zero",
-      "(B) Increases",
-      "(C) Remains fixed",
-      "(D) Equals stroke volume"
+      "(A) Name alone",
+      "(B) Resulting shunt and right-heart volume load",
+      "(C) Color on echocardiography",
+      "(D) Patient's height alone"
     ],
     "correct_index": 1,
-    "explanation": "To meet skeletal muscle oxygen demands during exercise, cardiac output increases significantly."
+    "explanation": "The clinical impact depends primarily on the magnitude of the left-to-right shunt and the degree of right ventricular volume overload."
   },
   {
-    "question": "During exercise, blood flow is redistributed preferentially toward:",
+    "question": "In an uncomplicated left-to-right ASD, oxygenated blood passes from the:",
     "options": [
-      "(A) Active skeletal muscle",
-      "(B) Inactive fat only",
-      "(C) The pericardial cavity",
-      "(D) Heart valves"
+      "(A) LA to RA",
+      "(B) RA to LA",
+      "(C) RV to LV",
+      "(D) Aorta to pulmonary trunk"
     ],
     "correct_index": 0,
-    "explanation": "Sympathetic activity and local metabolic vasodilation redirect blood flow primarily to active skeletal muscles."
+    "explanation": "Oxygenated blood from the left atrium crosses the defect into the unoxygenated right atrium."
   },
   {
-    "question": "The muscle pump increases venous return when:",
+    "question": "The chamber receiving additional blood directly through the usual ASD shunt is the:",
     "options": [
-      "(A) Skeletal muscles contract around veins",
-      "(B) Aortic valves close",
-      "(C) Capillaries constrict",
-      "(D) The SA node stops"
+      "(A) RA",
+      "(B) RV",
+      "(C) LA",
+      "(D) LV"
     ],
     "correct_index": 0,
-    "explanation": "Contracting skeletal muscles compress adjacent deep veins, propelling blood toward the heart past one-way venous valves."
+    "explanation": "The right atrium directly receives the extra volume from the left atrium via the atrial septal defect."
   },
   {
-    "question": "Inspiration normally assists venous return to the right heart partly by lowering:",
+    "question": "The right ventricle receives the extra shunted volume through the:",
     "options": [
-      "(A) Intrathoracic pressure",
-      "(B) Blood oxygen saturation to zero",
-      "(C) Aortic diameter",
-      "(D) Ventricular contractility"
-    ],
-    "correct_index": 0,
-    "explanation": "Inspiration creates negative intrathoracic pressure, sucking venous blood into the thoracic venae cavae and right atrium."
-  },
-  {
-    "question": "If HR is 80/min and SV is 65 mL, cardiac output is:",
-    "options": [
-      "(A) 4.2 L/min",
-      "(B) 5.2 L/min",
-      "(C) 6.5 L/min",
-      "(D) 8.0 L/min"
+      "(A) Aortic valve",
+      "(B) Tricuspid valve",
+      "(C) Mitral valve",
+      "(D) Pulmonary veins"
     ],
     "correct_index": 1,
-    "explanation": "CO = 80 bpm × 65 mL = 5,200 mL/min = 5.2 L/min."
+    "explanation": "Blood flows from the right atrium across the tricuspid valve into the right ventricle."
   },
   {
-    "question": "If EDV is 140 mL and ESV is 56 mL, EF is:",
+    "question": "A large chronic left-to-right ASD may eventually raise:",
     "options": [
-      "(A) 40%",
-      "(B) 50%",
-      "(C) 60%",
-      "(D) 84%"
+      "(A) Pulmonary vascular resistance",
+      "(B) Aortic valve cusp number",
+      "(C) Systemic venous oxygen extraction to zero",
+      "(D) LV wall thickness in every child"
+    ],
+    "correct_index": 0,
+    "explanation": "Chronically elevated pulmonary blood flow can lead to remodeling of pulmonary arterioles and elevated pulmonary vascular resistance."
+  },
+  {
+    "question": "Severe, longstanding pulmonary vascular disease can cause the ASD shunt to become:",
+    "options": [
+      "(A) Right to left or bidirectional",
+      "(B) Permanently left to right in every case",
+      "(C) Aorta to pulmonary artery",
+      "(D) LV to RV"
+    ],
+    "correct_index": 0,
+    "explanation": "When right-sided pressures exceed left-sided pressures, the shunt reverses to right-to-left or bidirectional flow."
+  },
+  {
+    "question": "Cyanosis developing after reversal of a longstanding ASD shunt suggests:",
+    "options": [
+      "(A) Eisenmenger physiology",
+      "(B) An uncomplicated small ASD",
+      "(C) Normal fetal circulation",
+      "(D) Isolated mitral prolapse"
+    ],
+    "correct_index": 0,
+    "explanation": "Eisenmenger physiology refers to severe pulmonary arterial hypertension secondary to a left-to-right shunt causing shunt reversal and central cyanosis."
+  },
+  {
+    "question": "In a typical child with an uncomplicated ASD, cardiac pressures may remain:",
+    "options": [
+      "(A) Generally near normal despite increased right-heart volume",
+      "(B) Equal to systemic pressure in the RA",
+      "(C) Zero in the RV",
+      "(D) Higher in the RA than the aorta"
+    ],
+    "correct_index": 0,
+    "explanation": "Because the right heart is highly compliant, cardiac pressures often remain normal or near-normal despite handling extra volume."
+  },
+  {
+    "question": "A patent foramen ovale differs from a true ASD because a PFO is usually a:",
+    "options": [
+      "(A) Flap-like potential opening",
+      "(B) Ventricular septal hole",
+      "(C) Persistent ductus arteriosus",
+      "(D) Missing pulmonary valve"
+    ],
+    "correct_index": 0,
+    "explanation": "A PFO is an incomplete anatomic closure of a valvular flap rather than a deficiency of septal tissue."
+  },
+  {
+    "question": "Which measurement compares pulmonary with systemic blood flow?",
+    "options": [
+      "(A) EF",
+      "(B) Qp:Qs",
+      "(C) QTc",
+      "(D) PR interval"
+    ],
+    "correct_index": 1,
+    "explanation": "Qp:Qs is the ratio of pulmonary blood flow (Qp) to systemic blood flow (Qs); a ratio > 1 indicates a left-to-right shunt."
+  },
+  {
+    "question": "A child with a small ASD is most likely to be:",
+    "options": [
+      "(A) Profoundly cyanotic",
+      "(B) Asymptomatic",
+      "(C) In cardiogenic shock",
+      "(D) Severely hypertensive"
+    ],
+    "correct_index": 1,
+    "explanation": "Small ASDs cause minimal hemodynamic change and are usually completely asymptomatic."
+  },
+  {
+    "question": "The classic second-heart-sound finding in ASD is:",
+    "options": [
+      "(A) Fixed, wide splitting of S2",
+      "(B) Absent S1",
+      "(C) Opening snap",
+      "(D) Single loud S2 in every patient"
+    ],
+    "correct_index": 0,
+    "explanation": "Wide, fixed splitting of S2 occurs because right ventricular overload delays pulmonary valve closure regardless of respiration."
+  },
+  {
+    "question": "“Fixed” splitting means that the separation of A2 and P2 changes little with:",
+    "options": [
+      "(A) Respiration",
+      "(B) Body weight",
+      "(C) Feeding",
+      "(D) Age"
+    ],
+    "correct_index": 0,
+    "explanation": "Respiratory variation in S2 splitting is minimal or absent in significant ASD."
+  },
+  {
+    "question": "The usual systolic murmur of an uncomplicated ASD is heard best at the:",
+    "options": [
+      "(A) Upper left sternal border",
+      "(B) Cardiac apex",
+      "(C) Right lower sternal border",
+      "(D) Back below the scapula"
+    ],
+    "correct_index": 0,
+    "explanation": "The pulmonary flow systolic murmur is best appreciated at the upper left sternal border (second intercostal space)."
+  },
+  {
+    "question": "The typical systolic murmur of ASD is mainly due to increased flow across the:",
+    "options": [
+      "(A) Pulmonary valve",
+      "(B) Mitral valve",
+      "(C) ASD itself",
+      "(D) Aortic arch"
+    ],
+    "correct_index": 0,
+    "explanation": "Flow across the ASD itself is non-turbulent; the systolic murmur is produced by high blood volume crossing the normal pulmonary valve."
+  },
+  {
+    "question": "A low-pitched diastolic murmur at the lower sternal border in a large ASD can reflect increased flow across the:",
+    "options": [
+      "(A) Tricuspid valve",
+      "(B) Aortic valve",
+      "(C) Mitral valve",
+      "(D) Pulmonary veins"
+    ],
+    "correct_index": 0,
+    "explanation": "A large left-to-right shunt creates relative tricuspid stenosis due to high blood volume crossing the tricuspid valve in mid-diastole."
+  },
+  {
+    "question": "An older patient with a significant ASD may first report:",
+    "options": [
+      "(A) Exertional fatigue",
+      "(B) Sudden neonatal cyanosis in every case",
+      "(C) Severe leg pain only",
+      "(D) Persistent hypoglycemia"
+    ],
+    "correct_index": 0,
+    "explanation": "Exertional dyspnea and fatigue are common initial symptoms in adolescents and adults with unrepaired ASD."
+  },
+  {
+    "question": "Dyspnea with activity in an adult with unrepaired ASD is:",
+    "options": [
+      "(A) A possible symptom",
+      "(B) Proof of a small harmless shunt",
+      "(C) Diagnostic without imaging",
+      "(D) Caused only by anemia"
+    ],
+    "correct_index": 0,
+    "explanation": "Exertional dyspnea is a recognized symptom caused by progressive pulmonary overcirculation or right heart burden."
+  },
+  {
+    "question": "In an infant with a larger shunt, which history deserves attention?",
+    "options": [
+      "(A) Tiring during feeds",
+      "(B) Increased hair growth",
+      "(C) Excessive urination alone",
+      "(D) Hearing loss alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Diaphoresis or tiring during feeding is an early sign of pediatric heart failure or significant hemodynamic workload."
+  },
+  {
+    "question": "Slow weight gain in a child with a significant ASD should prompt assessment of:",
+    "options": [
+      "(A) Feeding tolerance and cardiopulmonary symptoms",
+      "(B) Hair color",
+      "(C) Shoe size",
+      "(D) Pupillary distance"
+    ],
+    "correct_index": 0,
+    "explanation": "Failure to thrive or poor weight gain indicates possible heart failure or increased metabolic work of breathing."
+  },
+  {
+    "question": "A palpable parasternal lift in significant ASD suggests increased activity or enlargement of the:",
+    "options": [
+      "(A) Right ventricle",
+      "(B) Left atrium only",
+      "(C) Aortic arch",
+      "(D) Coronary sinus only"
+    ],
+    "correct_index": 0,
+    "explanation": "A parasternal heave or lift reflects right ventricular enlargement or hyperdynamic impulse against the chest wall."
+  },
+  {
+    "question": "Palpitations in an adult with longstanding ASD may reflect:",
+    "options": [
+      "(A) An atrial arrhythmia",
+      "(B) Normal coronary anatomy only",
+      "(C) Closure of the pulmonary valve",
+      "(D) Disappearance of the shunt"
+    ],
+    "correct_index": 0,
+    "explanation": "Chronic atrial stretch and dilation in ASD predispose patients to atrial flutter and fibrillation."
+  },
+  {
+    "question": "Which rhythm problem may occur with longstanding ASD?",
+    "options": [
+      "(A) Atrial fibrillation",
+      "(B) Ventricular fibrillation in every child",
+      "(C) Complete AV block in every patient",
+      "(D) Sinus arrest in every patient"
+    ],
+    "correct_index": 0,
+    "explanation": "Atrial stretch commonly triggers supraventricular tachyarrhythmias, particularly atrial fibrillation and atrial flutter."
+  },
+  {
+    "question": "A venous clot crossing an ASD into systemic circulation is a:",
+    "options": [
+      "(A) Paradoxical embolus",
+      "(B) Pulmonary embolus by definition",
+      "(C) Coronary shunt",
+      "(D) Normal fetal event"
+    ],
+    "correct_index": 0,
+    "explanation": "A paradoxical embolus occurs when a venous thrombus passes through an interatrial communication directly into systemic arteries."
+  },
+  {
+    "question": "A new focal neurological deficit in a patient with an ASD requires urgent evaluation for:",
+    "options": [
+      "(A) Stroke",
+      "(B) Normal shunt flow",
+      "(C) Benign respiratory variation",
+      "(D) Spontaneous closure"
+    ],
+    "correct_index": 0,
+    "explanation": "Focal neurological deficits point to acute ischemic stroke, potentially from paradoxical thromboembolism."
+  },
+  {
+    "question": "An untreated large ASD can cause long-term injury to the:",
+    "options": [
+      "(A) Pulmonary vasculature",
+      "(B) Lens of the eye exclusively",
+      "(C) Thyroid cartilage",
+      "(D) Pericardial sac in every patient"
+    ],
+    "correct_index": 0,
+    "explanation": "Prolonged high blood flow leads to vascular remodeling, smooth muscle hypertrophy, and pulmonary arterial hypertension."
+  },
+  {
+    "question": "Peripheral edema in an adult with longstanding ASD raises concern for:",
+    "options": [
+      "(A) Right-sided heart failure",
+      "(B) Normal childhood physiology",
+      "(C) Immediate spontaneous closure",
+      "(D) Isolated left atrial contraction"
+    ],
+    "correct_index": 0,
+    "explanation": "Peripheral edema, hepatomegaly, and elevated JVP reflect right heart decompensation from chronic volume overload."
+  },
+  {
+    "question": "Which finding is least typical of an uncomplicated small ASD in infancy?",
+    "options": [
+      "(A) No symptoms",
+      "(B) Incidental murmur",
+      "(C) Severe persistent central cyanosis",
+      "(D) Normal feeding"
     ],
     "correct_index": 2,
-    "explanation": "SV = 140 − 56 = 84 mL. EF = (84 ÷ 140) × 100 = 60%."
+    "explanation": "Central cyanosis occurs in right-to-left shunts and is absent in an uncomplicated, acyanotic left-to-right ASD."
   },
   {
-    "question": "If stroke volume remains constant while HR rises from 60 to 90/min, cardiac output:",
+    "question": "A large ASD may remain undetected until adulthood chiefly because:",
     "options": [
-      "(A) Rises by 50%",
-      "(B) Falls by 50%",
-      "(C) Remains identical",
-      "(D) Doubles"
+      "(A) Childhood symptoms can be minimal",
+      "(B) Echocardiography cannot show an ASD",
+      "(C) Every ASD closes by age one",
+      "(D) The right heart receives no extra blood"
     ],
     "correct_index": 0,
-    "explanation": "CO is proportional to HR when SV is constant. HR ratio 90/60 = 1.5, representing a 50% increase."
+    "explanation": "Children tolerate right heart volume overload well, allowing significant ASDs to stay symptom-free for decades."
   },
   {
-    "question": "A BP of 100/60 mmHg has an approximate MAP of:",
+    "question": "Which change most strongly suggests progression beyond an uncomplicated left-to-right shunt?",
     "options": [
-      "(A) 60",
-      "(B) 73",
-      "(C) 90",
-      "(D) 100 mmHg"
+      "(A) New resting cyanosis",
+      "(B) Normal oxygenation",
+      "(C) Good feeding",
+      "(D) A soft flow murmur alone"
     ],
-    "correct_index": 1,
-    "explanation": "MAP = DBP + 1/3(Pulse Pressure) = 60 + 1/3(40) = 60 + 13.3 ≈ 73 mmHg."
+    "correct_index": 0,
+    "explanation": "Resting cyanosis implies shunt reversal due to advanced pulmonary vascular obstructive disease."
   },
   {
-    "question": "At standard ECG paper speed, an R–R interval of 0.8 seconds corresponds to approximately:",
+    "question": "The primary test used to confirm an ASD after birth is:",
     "options": [
-      "(A) 50/min",
-      "(B) 60/min",
-      "(C) 75/min",
-      "(D) 100/min"
+      "(A) Echocardiography",
+      "(B) Blood glucose",
+      "(C) Spirometry alone",
+      "(D) Urinalysis"
+    ],
+    "correct_index": 0,
+    "explanation": "Transthoracic echocardiography is the definitive non-invasive diagnostic modality for ASD identification."
+  },
+  {
+    "question": "Color Doppler echocardiography is especially useful for showing:",
+    "options": [
+      "(A) Flow across the atrial septum",
+      "(B) Serum calcium",
+      "(C) Coronary plaque composition",
+      "(D) Hemoglobin concentration"
+    ],
+    "correct_index": 0,
+    "explanation": "Color Doppler visualizes the direction, jet size, and velocity of interatrial blood flow."
+  },
+  {
+    "question": "An echocardiographic sign of a significant chronic ASD shunt is:",
+    "options": [
+      "(A) RV volume enlargement",
+      "(B) Absence of the aorta",
+      "(C) LV cavity obliteration in every case",
+      "(D) A closed tricuspid valve throughout diastole"
+    ],
+    "correct_index": 0,
+    "explanation": "Increased blood volume causes right atrial and right ventricular dilatation, recognizable on echocardiogram."
+  },
+  {
+    "question": "Before considering device closure, imaging must assess the defect's:",
+    "options": [
+      "(A) Location and surrounding septal rims",
+      "(B) Patient's hair color",
+      "(C) Rib count",
+      "(D) Platelet shape alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Adequate tissue rims (superior, inferior, anterior, posterior) are essential to anchor an occluder device."
+  },
+  {
+    "question": "An ASD with unexplained right-heart enlargement but an unclear transthoracic image may require:",
+    "options": [
+      "(A) Additional cardiac imaging",
+      "(B) No further assessment",
+      "(C) Bone scan only",
+      "(D) Routine abdominal X-ray"
+    ],
+    "correct_index": 0,
+    "explanation": "Advanced modalities like transesophageal echo (TEE) or cardiac MRI are needed if transthoracic views are non-diagnostic."
+  },
+  {
+    "question": "Transesophageal echocardiography can provide a more detailed view of the:",
+    "options": [
+      "(A) Interatrial septum",
+      "(B) Kidney cortex",
+      "(C) Femoral nerve",
+      "(D) Lung alveoli"
+    ],
+    "correct_index": 0,
+    "explanation": "TEE places the transducer directly behind the left atrium, giving clear high-resolution views of atrial septal structure."
+  },
+  {
+    "question": "Which ECG pattern may occur with significant ASD and right-heart loading?",
+    "options": [
+      "(A) Right axis deviation",
+      "(B) Persistent ST elevation in all leads",
+      "(C) Complete electrical silence",
+      "(D) Delta wave in every patient"
+    ],
+    "correct_index": 0,
+    "explanation": "Right ventricular volume overload shifts the mean QRS axis to the right."
+  },
+  {
+    "question": "An rSR′ pattern in V1 in a patient with ASD may indicate:",
+    "options": [
+      "(A) Right ventricular conduction delay",
+      "(B) Complete absence of ventricular depolarization",
+      "(C) Acute aortic dissection",
+      "(D) Diagnostic proof of Eisenmenger syndrome"
+    ],
+    "correct_index": 0,
+    "explanation": "Incomplete right bundle branch block (rSR' pattern in lead V1) reflects right ventricular conduction delay from hypertrophy or dilation."
+  },
+  {
+    "question": "A chest radiograph with a significant ASD may show increased:",
+    "options": [
+      "(A) Pulmonary vascular markings",
+      "(B) Bowel gas only",
+      "(C) Bone density",
+      "(D) Air under the diaphragm"
+    ],
+    "correct_index": 0,
+    "explanation": "Increased pulmonary blood flow manifests as pulmonary plethora (prominent pulmonary vascular markings) on CXR."
+  },
+  {
+    "question": "Enlargement of which structures may appear on chest radiography with a large ASD?",
+    "options": [
+      "(A) RA and RV",
+      "(B) LA only",
+      "(C) LV only",
+      "(D) Descending aorta only"
+    ],
+    "correct_index": 0,
+    "explanation": "Cardiomegaly with prominent right atrial border and enlarged right ventricle is characteristic on plain radiographs."
+  },
+  {
+    "question": "A prominent main pulmonary artery segment on chest radiography can support:",
+    "options": [
+      "(A) Increased pulmonary blood flow",
+      "(B) Complete absence of pulmonary circulation",
+      "(C) Normal septal anatomy by itself",
+      "(D) Systemic venous obstruction only"
+    ],
+    "correct_index": 0,
+    "explanation": "High volume flow through the pulmonary circulation leads to post-capillary/arterial dilation of the pulmonary trunk."
+  },
+  {
+    "question": "An echocardiogram should assess not only the hole but also:",
+    "options": [
+      "(A) Right-heart size and pulmonary pressures",
+      "(B) Hair texture",
+      "(C) Liver biopsy findings in every patient",
+      "(D) Visual acuity"
+    ],
+    "correct_index": 0,
+    "explanation": "Comprehensive echo evaluation measures right ventricular dimensions and estimates pulmonary arterial systolic pressure."
+  },
+  {
+    "question": "A Qp:Qs of 2:1 means estimated pulmonary flow is:",
+    "options": [
+      "(A) Half systemic flow",
+      "(B) Equal to systemic flow",
+      "(C) Twice systemic flow",
+      "(D) Four times systemic flow"
     ],
     "correct_index": 2,
-    "explanation": "Heart rate = 60 ÷ 0.8 = 75 beats per minute."
+    "explanation": "A ratio of 2:1 directly indicates that pulmonary perfusion volume is double that of systemic flow."
   },
   {
-    "question": "At 25 mm/s, eight large squares between R waves indicate approximately:",
+    "question": "A Qp:Qs of approximately 1:1 indicates:",
     "options": [
-      "(A) 37.5/min",
-      "(B) 60/min",
-      "(C) 75/min",
-      "(D) 150/min"
+      "(A) Roughly equal pulmonary and systemic flows",
+      "(B) A large left-to-right shunt in every case",
+      "(C) No systemic circulation",
+      "(D) Mandatory device closure"
     ],
     "correct_index": 0,
-    "explanation": "Heart rate = 300 ÷ 8 = 37.5 beats per minute."
+    "explanation": "A 1:1 Qp:Qs ratio signifies balanced flows without a hemodynamically significant shunt."
   },
   {
-    "question": "A patient’s EDV remains 120 mL, but ESV falls from 60 to 40 mL. Stroke volume:",
+    "question": "When sinus venosus ASD is suspected, imaging should carefully evaluate:",
     "options": [
-      "(A) Falls by 20 mL",
-      "(B) Rises by 20 mL",
-      "(C) Is unchanged",
-      "(D) Becomes 40 mL"
-    ],
-    "correct_index": 1,
-    "explanation": "Initial SV = 120 − 60 = 60 mL. New SV = 120 − 40 = 80 mL. Stroke volume increases by 20 mL."
-  },
-  {
-    "question": "If EDV increases while ESV remains constant, stroke volume:",
-    "options": [
-      "(A) Increases",
-      "(B) Decreases",
-      "(C) Becomes zero",
-      "(D) Cannot be calculated"
+      "(A) Pulmonary venous connections",
+      "(B) Carotid plaque only",
+      "(C) Aortic valve calcification only",
+      "(D) Coronary stents"
     ],
     "correct_index": 0,
-    "explanation": "Since SV = EDV − ESV, increasing EDV with constant ESV increases stroke volume."
+    "explanation": "Sinus venosus defects are frequently associated with anomalous connection of the right pulmonary veins."
   },
   {
-    "question": "A marked loss of blood volume first tends to decrease:",
+    "question": "Prenatal ultrasound may detect ASD, but detection depends partly on defect:",
     "options": [
-      "(A) Venous return and preload",
-      "(B) Aortic valve number",
-      "(C) Ventricular conduction velocity to zero",
-      "(D) Coronary artery origins"
+      "(A) Size and location",
+      "(B) Infant's future weight",
+      "(C) Postnatal ECG speed",
+      "(D) Maternal pulse pressure alone"
     ],
     "correct_index": 0,
-    "explanation": "Acute blood loss decreases circulating volume, reducing venous return and end-diastolic filling (preload)."
+    "explanation": "Fetal ASD diagnosis is challenging due to the presence of the normal foramen ovale and depends heavily on defect size and position."
   },
   {
-    "question": "The immediate fall in stroke volume after acute hemorrhage is explained partly by reduced:",
+    "question": "A murmur alone is insufficient to confirm ASD because it:",
     "options": [
-      "(A) End-diastolic filling",
-      "(B) Endocardial thickness",
-      "(C) Pulmonary vein number",
-      "(D) Valve cusp count"
+      "(A) Requires anatomical confirmation by imaging",
+      "(B) Always identifies the exact ASD type",
+      "(C) Proves pulmonary hypertension",
+      "(D) Determines device size"
     ],
     "correct_index": 0,
-    "explanation": "Lower venous return decreases end-diastolic filling (EDV), reducing stroke volume via the Frank-Starling mechanism."
+    "explanation": "Auscultation cannot differentiate defect types or establish structural details; definitive imaging like echocardiography is mandatory."
   },
   {
-    "question": "Atrial contraction becomes particularly important for ventricular filling when the ventricle is:",
+    "question": "Cardiac catheterization is most likely to be needed when:",
     "options": [
-      "(A) Stiff and less compliant",
-      "(B) Absent",
-      "(C) Connected directly to the aorta",
-      "(D) Completely empty of muscle"
+      "(A) Transcatheter closure is planned or invasive hemodynamics are required",
+      "(B) Every small ASD is first detected",
+      "(C) An ECG is normal",
+      "(D) The patient is asymptomatic with a tiny shunt"
     ],
     "correct_index": 0,
-    "explanation": "In non-compliant or stiff ventricles, passive filling is impaired, making atrial contraction ('atrial kick') essential for adequate filling."
+    "explanation": "Diagnostic catheterization is reserved for device placement or measuring exact pulmonary vascular resistance in complex or pulmonary hypertensive patients."
   },
   {
-    "question": "Compared with the left ventricle, the right ventricle normally ejects against a:",
+    "question": "In an adult with ASD and suspected pulmonary vascular disease, a key preclosure issue is:",
     "options": [
-      "(A) Lower-pressure circuit",
-      "(B) Higher-pressure circuit",
-      "(C) Circuit with no resistance",
-      "(D) Closed pulmonary valve throughout systole"
+      "(A) Pulmonary vascular resistance",
+      "(B) Hair color",
+      "(C) Tonsil size",
+      "(D) PR interval alone"
     ],
     "correct_index": 0,
-    "explanation": "The right ventricle pumps blood into the pulmonary circulation, which operates at much lower resistance and pressure than the systemic circulation."
+    "explanation": "Fixing an ASD in the setting of irreversibly high pulmonary vascular resistance can cause acute right ventricular failure."
   },
   {
-    "question": "Which combination is most likely to increase cardiac output during moderate exercise?",
+    "question": "A new irregular pulse in an adult with unrepaired ASD should prompt:",
     "options": [
-      "(A) Increased HR and increased SV",
-      "(B) Decreased HR and decreased SV",
-      "(C) Increased afterload with zero venous return",
-      "(D) Complete AV block and no escape rhythm"
+      "(A) Rhythm assessment, such as ECG",
+      "(B) Immediate assumption of normal sinus rhythm",
+      "(C) Elimination of follow-up",
+      "(D) Routine hearing test only"
     ],
     "correct_index": 0,
-    "explanation": "During moderate exercise, sympathetic outflow increases both heart rate and stroke volume to elevate cardiac output."
+    "explanation": "Irregular heartbeats raise concern for atrial fibrillation or flutter, requiring immediate electrophysiologic diagnostic testing."
+  },
+  {
+    "question": "An asymptomatic child with a small, hemodynamically insignificant ASD most commonly needs:",
+    "options": [
+      "(A) Observation and follow-up",
+      "(B) Emergency surgery",
+      "(C) Thrombolysis",
+      "(D) Immediate valve replacement"
+    ],
+    "correct_index": 0,
+    "explanation": "Small defects with normal right-heart dimensions do not require closure and are monitored conservatively."
+  },
+  {
+    "question": "A moderate-to-large ASD causing RV volume overload generally warrants consideration of:",
+    "options": [
+      "(A) Closure",
+      "(B) Lifelong bed rest alone",
+      "(C) Antibiotics to shrink the opening",
+      "(D) Coronary bypass"
+    ],
+    "correct_index": 0,
+    "explanation": "Right ventricular volume overload is a primary indication for elective closure to prevent late cardiac failure or pulmonary vascular disease."
+  },
+  {
+    "question": "Which ASD type is most commonly suitable for transcatheter device closure when its rims are adequate?",
+    "options": [
+      "(A) Ostium secundum",
+      "(B) Ostium primum",
+      "(C) Sinus venosus",
+      "(D) Every ASD regardless of anatomy"
+    ],
+    "correct_index": 0,
+    "explanation": "Secundum ASDs have surrounding tissue rims suitable for percutaneous transcatheter occluder deployment."
+  },
+  {
+    "question": "An ostium primum ASD generally requires:",
+    "options": [
+      "(A) Surgical repair",
+      "(B) Routine catheter device closure",
+      "(C) No anatomical assessment",
+      "(D) Pulmonary valve replacement alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Primum defects involve low septal tissue and adjacent AV valve structures, necessitating open surgical reconstruction."
+  },
+  {
+    "question": "Sinus venosus ASD with anomalous pulmonary venous drainage is usually managed with:",
+    "options": [
+      "(A) Surgical correction",
+      "(B) Medication that closes the defect",
+      "(C) Isolated coronary stenting",
+      "(D) Routine device closure without venous assessment"
+    ],
+    "correct_index": 0,
+    "explanation": "Surgical repair is necessary to baffle anomalous pulmonary venous return to the left atrium while closing the defect."
+  },
+  {
+    "question": "Before secundum ASD device closure, adequate septal tissue around the hole matters because it helps:",
+    "options": [
+      "(A) Support stable device placement",
+      "(B) Increase the murmur",
+      "(C) Raise pulmonary pressure",
+      "(D) Create a second defect"
+    ],
+    "correct_index": 0,
+    "explanation": "Adequate anatomical rims prevent device displacement, embolization, or erosion into adjacent structures."
+  },
+  {
+    "question": "The usual catheter route for ASD device closure involves access through a:",
+    "options": [
+      "(A) Vein",
+      "(B) Bronchus",
+      "(C) Ureter",
+      "(D) Coronary artery"
+    ],
+    "correct_index": 0,
+    "explanation": "Transcatheter repair is routinely performed percutaneously through the femoral vein into the inferior vena cava and right atrium."
+  },
+  {
+    "question": "The purpose of an ASD occluder device is to:",
+    "options": [
+      "(A) Seal the interatrial opening",
+      "(B) Replace the mitral valve",
+      "(C) Pace the SA node",
+      "(D) Dilate the aorta"
+    ],
+    "correct_index": 0,
+    "explanation": "The device physically clamps both sides of the atrial septum to permanently seal the shunt."
+  },
+  {
+    "question": "Surgical ASD repair may close the opening with:",
+    "options": [
+      "(A) Sutures or a patch",
+      "(B) A coronary stent only",
+      "(C) A mechanical pulmonary valve in every case",
+      "(D) An external chest binder"
+    ],
+    "correct_index": 0,
+    "explanation": "Surgeons close small defects with primary suture repair and larger defects using pericardial or synthetic patches."
+  },
+  {
+    "question": "Which statement about medication is correct?",
+    "options": [
+      "(A) Medication can treat symptoms but does not close the ASD",
+      "(B) A diuretic permanently seals the septum",
+      "(C) Antibiotics grow septal tissue",
+      "(D) Aspirin closes all ASDs"
+    ],
+    "correct_index": 0,
+    "explanation": "Pharmacotherapy (e.g., diuretics) manages fluid overload or arrhythmia symptoms but cannot close structural cardiac tissue deficits."
+  },
+  {
+    "question": "Small centrally located atrial communications in early childhood may:",
+    "options": [
+      "(A) Close spontaneously",
+      "(B) Always enlarge",
+      "(C) Always cause cyanosis",
+      "(D) Require emergency catheterization"
+    ],
+    "correct_index": 0,
+    "explanation": "Small secundum ASDs (< 5-6 mm) identified in infancy frequently undergo spontaneous size reduction or complete closure."
+  },
+  {
+    "question": "Which ASD types are not expected to close spontaneously?",
+    "options": [
+      "(A) Ostium primum and sinus venosus",
+      "(B) Every small secundum defect",
+      "(C) Every stretched PFO",
+      "(D) All atrial communications"
+    ],
+    "correct_index": 0,
+    "explanation": "Primum and sinus venosus defects represent structural tissue deficits that never spontaneously resolve."
+  },
+  {
+    "question": "An otherwise well child with a significant ASD is often scheduled for elective closure in:",
+    "options": [
+      "(A) Early childhood",
+      "(B) The first hour of life in every case",
+      "(C) Late adulthood only",
+      "(D) No circumstances"
+    ],
+    "correct_index": 0,
+    "explanation": "Elective repair is typically performed between 2 and 5 years of age before schooling and before long-term right ventricular remodeling occurs."
+  },
+  {
+    "question": "The strongest reason to close a significant ASD before long-term complications develop is to reduce:",
+    "options": [
+      "(A) Right-heart volume overload and excess pulmonary flow",
+      "(B) The number of pulmonary veins",
+      "(C) Left ventricular valve leaflets",
+      "(D) Normal systemic venous return"
+    ],
+    "correct_index": 0,
+    "explanation": "Closure prevents chronic right ventricular fatigue, pulmonary arterial hypertension, and atrial arrhythmogenesis."
+  },
+  {
+    "question": "Severe pulmonary vascular disease with a right-to-left shunt requires specialist assessment because:",
+    "options": [
+      "(A) Closing the opening may be harmful",
+      "(B) Every defect can be closed safely without testing",
+      "(C) Shunt direction cannot change",
+      "(D) A device cures pulmonary vascular disease"
+    ],
+    "correct_index": 0,
+    "explanation": "In Eisenmenger syndrome, the defect acts as a safety valve for high right-sided pressures; closing it can lead to acute fatal right ventricular failure."
+  },
+  {
+    "question": "An adult with ASD and pulmonary hypertension should have closure decisions made using:",
+    "options": [
+      "(A) Congenital-heart expertise and hemodynamic assessment",
+      "(B) Murmur intensity alone",
+      "(C) Age alone",
+      "(D) Chest radiograph alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Multidisciplinary adult congenital heart disease (ACHD) teams must evaluate pulmonary vascular resistance before recommending closure."
+  },
+  {
+    "question": "After successful ASD closure, follow-up echocardiography can assess:",
+    "options": [
+      "(A) Residual shunt and right-heart response",
+      "(B) Dental caries exclusively",
+      "(C) Bone age only",
+      "(D) ABO group"
+    ],
+    "correct_index": 0,
+    "explanation": "Post-procedure echocardiography evaluates device stability, absence of residual shunts, and regression of right ventricular enlargement."
+  },
+  {
+    "question": "Routine infective-endocarditis antibiotic prophylaxis is generally not indicated for:",
+    "options": [
+      "(A) An uncomplicated unrepaired ASD",
+      "(B) Every prosthetic valve",
+      "(C) A prior episode of infective endocarditis",
+      "(D) All high-risk congenital lesions"
+    ],
+    "correct_index": 0,
+    "explanation": "Unrepaired, uncomplicated ASD carries a low risk of endocarditis, so routine antibiotic prophylaxis is not recommended."
+  },
+  {
+    "question": "Following ASD repair with prosthetic material or a device, endocarditis prophylaxis for relevant dental procedures is generally considered during the first:",
+    "options": [
+      "(A) 24 hours",
+      "(B) 1 week",
+      "(C) 6 months",
+      "(D) 10 years in every case"
+    ],
+    "correct_index": 2,
+    "explanation": "Prophylaxis is recommended for 6 months after device insertion or patch repair to allow complete endothelialization of foreign material."
+  },
+  {
+    "question": "A patient with a residual defect adjacent to an ASD patch needs assessment for:",
+    "options": [
+      "(A) Ongoing endocarditis prophylaxis eligibility",
+      "(B) Automatic discharge from cardiac care",
+      "(C) Mandatory repeat surgery that day",
+      "(D) Permanent oxygen in every case"
+    ],
+    "correct_index": 0,
+    "explanation": "Residual defects next to prosthetic patches cause turbulent flow and maintain lifelong risk for infective endocarditis, warranting ongoing prophylaxis."
+  },
+  {
+    "question": "Before ASD closure, the most useful baseline nursing assessment includes:",
+    "options": [
+      "(A) Vital signs, oxygenation, rhythm, and perfusion",
+      "(B) Hair length only",
+      "(C) Shoe size only",
+      "(D) Visual acuity only"
+    ],
+    "correct_index": 0,
+    "explanation": "Establishing baseline cardiopulmonary parameters is essential to detect post-procedure clinical status changes."
+  },
+  {
+    "question": "For an infant with a significant ASD who tires during feeding, the nurse should particularly monitor:",
+    "options": [
+      "(A) Intake and weight trend",
+      "(B) Eye color",
+      "(C) Tooth eruption",
+      "(D) Hand dominance"
+    ],
+    "correct_index": 0,
+    "explanation": "Tiring during feeds leads to poor caloric intake; serial weight checks track nutritional progress and heart failure control."
+  },
+  {
+    "question": "Which report from a parent warrants assessment for worsening functional status?",
+    "options": [
+      "(A) \"My child now stops frequently while playing to catch a breath.\"",
+      "(B) \"My child likes a new game.\"",
+      "(C) \"My child sleeps at night.\"",
+      "(D) \"My child asks questions.\""
+    ],
+    "correct_index": 0,
+    "explanation": "New onset of exertional fatigue or stopping during play indicates progressive hemodynamic compromise or heart failure."
+  },
+  {
+    "question": "A previously pink patient with ASD develops new central cyanosis. The nurse's priority is to:",
+    "options": [
+      "(A) Assess oxygenation and promptly escalate",
+      "(B) Document it as expected in every ASD",
+      "(C) Encourage vigorous exercise",
+      "(D) Delay assessment until routine follow-up"
+    ],
+    "correct_index": 0,
+    "explanation": "New cyanosis signals right-to-left shunt reversal or severe hypoxemia, requiring immediate emergency evaluation."
+  },
+  {
+    "question": "New one-sided weakness in a patient with ASD requires:",
+    "options": [
+      "(A) Emergency stroke response",
+      "(B) Routine weight check",
+      "(C) Oral fluids and observation alone",
+      "(D) Reassurance that it is normal"
+    ],
+    "correct_index": 0,
+    "explanation": "Sudden neurological deficits point to paradoxical cerebral embolism through the ASD and demand emergency stroke protocol activation."
+  },
+  {
+    "question": "After femoral venous catheter closure, the nurse should check the access site for:",
+    "options": [
+      "(A) Bleeding or expanding swelling",
+      "(B) Hair growth",
+      "(C) Bowel sounds exclusively",
+      "(D) Skin pigmentation only"
+    ],
+    "correct_index": 0,
+    "explanation": "Frequent inspection of the groin site is vital to identify hematomas, pseudoaneurysms, or vascular access bleeding."
+  },
+  {
+    "question": "After a femoral catheter procedure, comparing distal pulses and limb warmth helps identify:",
+    "options": [
+      "(A) Impaired limb perfusion",
+      "(B) ASD size",
+      "(C) Pulmonary valve cusp number",
+      "(D) Atrial septal tissue rims"
+    ],
+    "correct_index": 0,
+    "explanation": "Neurovascular checks assess for acute arterial occlusion or venous thrombosis secondary to sheath access."
+  },
+  {
+    "question": "A rapidly enlarging groin swelling after catheter closure requires:",
+    "options": [
+      "(A) Immediate assessment and escalation",
+      "(B) Routine discharge",
+      "(C) Vigorous massage",
+      "(D) Ambulation without evaluation"
+    ],
+    "correct_index": 0,
+    "explanation": "Rapidly expanding mass suggests active arterial/venous access site bleeding or pseudoaneurysm formation."
+  },
+  {
+    "question": "Following device closure, a new sustained irregular rhythm should prompt:",
+    "options": [
+      "(A) ECG and clinical evaluation",
+      "(B) Automatic assumption of normal recovery",
+      "(C) Removal of all monitors",
+      "(D) No documentation"
+    ],
+    "correct_index": 0,
+    "explanation": "Irregular rhythms after device deployment may indicate atrial irritation, AV block, or device displacement."
+  },
+  {
+    "question": "Which finding after ASD closure requires prompt evaluation for possible device or hemodynamic complication?",
+    "options": [
+      "(A) New chest pain with dyspnea",
+      "(B) Mild thirst alone",
+      "(C) Hunger at lunchtime",
+      "(D) Quiet rest"
+    ],
+    "correct_index": 0,
+    "explanation": "Chest pain and shortness of breath can herald pericardial effusion, cardiac erosion, device dislodgement, or pulmonary embolus."
+  },
+  {
+    "question": "Immediately after open surgical ASD repair, a key priority is monitoring:",
+    "options": [
+      "(A) Hemodynamics, rhythm, oxygenation, and chest-tube drainage as applicable",
+      "(B) School grades",
+      "(C) Shoe size",
+      "(D) Dental eruption only"
+    ],
+    "correct_index": 0,
+    "explanation": "Postoperative cardiac surgery care focuses on hemorheology, blood pressure stability, arrhythmia detection, and chest tube loss."
+  },
+  {
+    "question": "An unexpectedly large increase in chest-tube drainage after surgical repair should lead to:",
+    "options": [
+      "(A) Prompt escalation for possible bleeding",
+      "(B) Clamping without an order",
+      "(C) Routine discharge",
+      "(D) Ignoring vital signs"
+    ],
+    "correct_index": 0,
+    "explanation": "Sudden or excessive sanguinous chest tube output flags active postoperative hemorrhage requiring urgent surgical intervention."
+  },
+  {
+    "question": "A falling blood pressure with poor perfusion after ASD surgery calls for:",
+    "options": [
+      "(A) Immediate reassessment and escalation",
+      "(B) Delaying assessment until the next shift",
+      "(C) Oral feeding first",
+      "(D) Ambulation first"
+    ],
+    "correct_index": 0,
+    "explanation": "Hypotension and poor systemic perfusion indicate low cardiac output syndrome, hypovolemia, or cardiac tamponade."
+  },
+  {
+    "question": "An important family teaching point after successful ASD closure is:",
+    "options": [
+      "(A) Keep the prescribed cardiology follow-up",
+      "(B) No further evaluation is ever needed",
+      "(C) Stop all prescribed medicines immediately",
+      "(D) Every activity is permanently prohibited"
+    ],
+    "correct_index": 0,
+    "explanation": "Routine cardiology follow-up ensures proper healing, checks device positioning, and tracks long-term right heart remodeling."
+  },
+  {
+    "question": "After catheter or surgical closure, temporary activity restrictions should be based on:",
+    "options": [
+      "(A) The treating team's procedure-specific instructions",
+      "(B) An identical rule for every child",
+      "(C) Social-media advice",
+      "(D) Murmur loudness alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Post-procedure activity modifications depend on patient specifics, vascular access integrity, and closure modality."
+  },
+  {
+    "question": "Teaching for a child with an uncomplicated small ASD should emphasize that:",
+    "options": [
+      "(A) Follow-up monitors the defect and right-heart effects",
+      "(B) Severe cyanosis is inevitable",
+      "(C) Medication always closes it",
+      "(D) Exercise is permanently forbidden"
+    ],
+    "correct_index": 0,
+    "explanation": "Families should understand that longitudinal check-ups track hemodynamic trends and defect stability over time."
+  },
+  {
+    "question": "Which statement by a parent shows correct understanding?",
+    "options": [
+      "(A) \"An echocardiogram can show the defect and its effect on the right heart.\"",
+      "(B) \"An ECG alone measures the hole exactly.\"",
+      "(C) \"A chest X-ray always proves its type.\"",
+      "(D) \"A murmur rules out other conditions.\""
+    ],
+    "correct_index": 0,
+    "explanation": "Echocardiography provides direct anatomical visualization of septal gaps and quantifies right-sided volumetric load."
+  },
+  {
+    "question": "A parent asks whether a diuretic will permanently close the ASD. The best response is:",
+    "options": [
+      "(A) \"It may help symptoms, but it will not repair the opening.\"",
+      "(B) \"Yes, every ASD closes with diuretics.\"",
+      "(C) \"It replaces the need for all follow-up.\"",
+      "(D) \"It changes the ASD into a VSD.\""
+    ],
+    "correct_index": 0,
+    "explanation": "Diuretics manage fluid balance and workload symptoms, but definitive repair requires structural closure."
+  },
+  {
+    "question": "For a patient with a repaired ASD who develops new palpitations years later, the best advice is:",
+    "options": [
+      "(A) Seek cardiac evaluation",
+      "(B) Ignore symptoms because repair eliminates all future risk",
+      "(C) Take an unprescribed antiarrhythmic",
+      "(D) Stop physical activity permanently without assessment"
+    ],
+    "correct_index": 0,
+    "explanation": "Late atrial arrhythmias can emerge post-closure due to pre-existing atrial fibrosis or incisional scars."
+  },
+  {
+    "question": "Which handover best communicates the status of a child after ASD device closure?",
+    "options": [
+      "(A) Rhythm, vital signs, oxygenation, access site, distal perfusion, and ordered restrictions",
+      "(B) Only the child's name",
+      "(C) Only the device brand",
+      "(D) Only the preprocedure murmur grade"
+    ],
+    "correct_index": 0,
+    "explanation": "A complete nursing handoff includes vital signs, heart rhythm, vascular insertion site, peripheral perfusion, and active activity limits."
   }
 ]
