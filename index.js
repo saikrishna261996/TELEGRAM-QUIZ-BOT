@@ -34,22 +34,16 @@ let globalTimer = null;
 let quizData = [];
 
 function loadQuizData(filename = 'questions_morning.json') {
-    let targetFile = filename;
-    if (!fs.existsSync(targetFile)) {
-        if (fs.existsSync('questions.json')) {
-            console.log(`⚠️ ${targetFile} not found. Falling back to questions.json`);
-            targetFile = 'questions.json';
-        } else {
-            console.error(`❌ CRITICAL ERROR: Could not find ${targetFile} or questions.json!`);
-            return false;
-        }
+    if (!fs.existsSync(filename)) {
+        console.error(`❌ CRITICAL ERROR: Could not find ${filename}!`);
+        return false;
     }
     try {
-        quizData = JSON.parse(fs.readFileSync(targetFile, 'utf8'));
-        console.log(`✅ DATABASE READY: ${quizData.length} questions loaded from ${targetFile}.`);
+        quizData = JSON.parse(fs.readFileSync(filename, 'utf8'));
+        console.log(`✅ DATABASE READY: ${quizData.length} questions loaded from ${filename}.`);
         return true;
     } catch (err) {
-        console.error(`❌ ERROR loading ${targetFile}:`, err.message);
+        console.error(`❌ ERROR loading ${filename}:`, err.message);
         return false;
     }
 }
@@ -247,12 +241,15 @@ bot.on('document', async (ctx) => {
 
         if (newQuestions.length === 0) return ctx.reply("❌ No valid questions extracted from this PDF.");
 
-        if (fs.existsSync('questions.json')) fs.copyFileSync('questions.json', `questions_backup_${Date.now()}.json`);
-        fs.writeFileSync('questions.json', JSON.stringify(newQuestions, null, 2));
+        const caption = (ctx.message.caption || '').toLowerCase();
+        const targetFile = caption.includes('evening') ? 'questions_evening.json' : 'questions_morning.json';
+
+        if (fs.existsSync(targetFile)) fs.copyFileSync(targetFile, `${targetFile}_backup_${Date.now()}.json`);
+        fs.writeFileSync(targetFile, JSON.stringify(newQuestions, null, 2));
         quizData = newQuestions;
 
         await ctx.reply(
-            `🎉 *SUCCESS!*\n\n✅ ${newQuestions.length} questions saved\n💾 Previous questions backed up\n🔄 Ready for next marathon!\n\n` +
+            `🎉 *SUCCESS!*\n\n✅ ${newQuestions.length} questions saved to *${targetFile}*\n💾 Previous questions backed up\n🔄 Ready for next marathon!\n\n` +
             `*Sample:* ${newQuestions[0].question}\n*Answer:* ${newQuestions[0].options[newQuestions[0].correct_index]}`,
             { parse_mode: 'Markdown' }
         );
