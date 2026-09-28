@@ -30,17 +30,32 @@ const RNCET_GROUP_ID = -1003916093169;
 let currentQuizIndex = -1;
 let globalTimer = null;
 
-// --- DATA LOAD ---
+// --- DATA LOAD HELPER ---
 let quizData = [];
-try {
-    quizData = JSON.parse(fs.readFileSync('questions.json', 'utf8'));
-    console.log(`✅ DATABASE READY: ${quizData.length} questions loaded.`);
-} catch (err) {
-    console.error("❌ CRITICAL ERROR: Could not load questions.json!");
-    process.exit(1);
+
+function loadQuizData(filename = 'questions_morning.json') {
+    let targetFile = filename;
+    if (!fs.existsSync(targetFile)) {
+        if (fs.existsSync('questions.json')) {
+            console.log(`⚠️ ${targetFile} not found. Falling back to questions.json`);
+            targetFile = 'questions.json';
+        } else {
+            console.error(`❌ CRITICAL ERROR: Could not find ${targetFile} or questions.json!`);
+            return false;
+        }
+    }
+    try {
+        quizData = JSON.parse(fs.readFileSync(targetFile, 'utf8'));
+        console.log(`✅ DATABASE READY: ${quizData.length} questions loaded from ${targetFile}.`);
+        return true;
+    } catch (err) {
+        console.error(`❌ ERROR loading ${targetFile}:`, err.message);
+        return false;
+    }
 }
 
-
+// Initial load on startup
+loadQuizData('questions_morning.json');
 
 // --- DUAL-BROADCAST ENGINE ---
 async function sendNextQuestion() {
@@ -107,6 +122,7 @@ bot.on('poll_answer', async (ctx) => {
 cron.schedule('0 9 * * *', async () => {
     console.log("⏰ 9:00 AM: Morning Marathon Triggered.");
     if (currentQuizIndex !== -1) return console.log("⚠️ Skipped: already running.");
+    if (!loadQuizData('questions_morning.json')) return;
     await redis.del('nursing_marathon_leaderboard');
     try {
         await bot.telegram.sendMessage(RNCET_GROUP_ID, "🌅 *RNCET MORNING MARATHON STARTING NOW!* 🌅\n100 Questions on the way. Good luck, Achievers!", { parse_mode: 'Markdown' });
@@ -119,6 +135,7 @@ cron.schedule('0 9 * * *', async () => {
 cron.schedule('0 21 * * *', async () => {
     console.log("⏰ 9:00 PM: Evening Marathon Triggered.");
     if (currentQuizIndex !== -1) return console.log("⚠️ Skipped: already running.");
+    if (!loadQuizData('questions_evening.json')) return;
     await redis.del('nursing_marathon_leaderboard');
     try {
         await bot.telegram.sendMessage(RNCET_GROUP_ID, "🌙 *RNCET EVENING MARATHON STARTING NOW!* 🌙\n100 Questions on the way. Good luck, Achievers!", { parse_mode: 'Markdown' });
@@ -131,8 +148,12 @@ cron.schedule('0 21 * * *', async () => {
 bot.command('startmarathon', async (ctx) => {
     if (ctx.from.id !== ADMIN_ID) return;
     if (currentQuizIndex !== -1) return ctx.reply("⚠️ Marathon already running!");
+    const args = ctx.message.text.split(' ');
+    const session = (args[1] && args[1].toLowerCase() === 'evening') ? 'evening' : 'morning';
+    const targetFile = `questions_${session}.json`;
+    if (!loadQuizData(targetFile)) return ctx.reply(`❌ Failed to load ${targetFile}!`);
     await redis.del('nursing_marathon_leaderboard');
-    await ctx.reply("🚀 *Marathon Started Manually!*", { parse_mode: 'Markdown' });
+    await ctx.reply(`🚀 *${session.toUpperCase()} Marathon Started Manually!* (${quizData.length} Qs)`, { parse_mode: 'Markdown' });
     currentQuizIndex = 0;
     sendNextQuestion();
 });
@@ -142,11 +163,14 @@ bot.command('startfrom', async (ctx) => {
     if (currentQuizIndex !== -1) return ctx.reply("⚠️ Marathon already running! Use /stopmarathon first.");
     const args = ctx.message.text.split(' ');
     const startNum = parseInt(args[1]);
+    const session = (args[2] && args[2].toLowerCase() === 'evening') ? 'evening' : 'morning';
+    const targetFile = `questions_${session}.json`;
+    if (!loadQuizData(targetFile)) return ctx.reply(`❌ Failed to load ${targetFile}!`);
     if (isNaN(startNum) || startNum < 1 || startNum > quizData.length) {
-        return ctx.reply(`⚠️ Please provide a valid question number between 1 and ${quizData.length}.\nUsage: /startfrom 28`);
+        return ctx.reply(`⚠️ Please provide a valid question number between 1 and ${quizData.length}.\nUsage: /startfrom 28 [morning|evening]`);
     }
     await redis.del('nursing_marathon_leaderboard');
-    await ctx.reply(`🚀 *Marathon Starting from Q${startNum}!*`, { parse_mode: 'Markdown' });
+    await ctx.reply(`🚀 *${session.toUpperCase()} Marathon Starting from Q${startNum}!*`, { parse_mode: 'Markdown' });
     currentQuizIndex = startNum - 1;
     sendNextQuestion();
 });
