@@ -1,1102 +1,1102 @@
 [
   {
-    "question": "A patient in cardiogenic shock has pH 7.24, PaCO₂ 38 mm Hg, and HCO₃⁻ 16 mmol/L. What is the primary disorder?",
+    "question": "A patient with right ventricular failure has swelling of both legs. Which change most directly explains the edema?",
     "options": [
-      "(A) Respiratory acidosis",
-      "(B) Metabolic acidosis",
-      "(C) Respiratory alkalosis",
-      "(D) Metabolic alkalosis"
-    ],
-    "correct_index": 1,
-    "explanation": "B — Metabolic acidosis."
-  },
-  {
-    "question": "A hypotensive post-MI patient has metabolic acidosis and rising lactate. What should the nurse assess first?",
-    "options": [
-      "(A) Tissue perfusion",
-      "(B) Hearing",
-      "(C) Bowel pattern",
-      "(D) Skin pigmentation"
+      "(A) Increased systemic venous pressure",
+      "(B) Reduced pulmonary venous pressure",
+      "(C) Increased coronary blood flow",
+      "(D) Reduced aortic valve area"
     ],
     "correct_index": 0,
-    "explanation": "A — Tissue perfusion."
+    "explanation": "A. Right ventricular failure raises systemic venous pressure, promoting fluid movement into tissues."
   },
   {
-    "question": "An anxious patient with palpitations has pH 7.49, PaCO₂ 29, and HCO₃⁻ 23. Which disorder is present?",
+    "question": "A patient with left ventricular failure develops crackles. Where is pressure rising first to produce this finding?",
     "options": [
-      "(A) Respiratory alkalosis",
-      "(B) Metabolic acidosis",
-      "(C) Respiratory acidosis",
-      "(D) Metabolic alkalosis"
+      "(A) Pulmonary veins and capillaries",
+      "(B) Systemic veins of the legs",
+      "(C) Inferior vena cava only",
+      "(D) Coronary sinus only"
     ],
     "correct_index": 0,
-    "explanation": "A — Respiratory alkalosis."
+    "explanation": "A. Elevated left-sided filling pressure backs up into the pulmonary circulation."
   },
   {
-    "question": "A patient with acute pulmonary edema tires and hypoventilates. ABG: pH 7.25, PaCO₂ 62, HCO₃⁻ 26. What is the primary problem?",
+    "question": "A patient has severe aortic regurgitation. During which phase does blood leak from the aorta into the left ventricle?",
     "options": [
-      "(A) Metabolic alkalosis",
-      "(B) Respiratory acidosis",
-      "(C) Metabolic acidosis",
-      "(D) Respiratory alkalosis"
-    ],
-    "correct_index": 1,
-    "explanation": "B — Respiratory acidosis."
-  },
-  {
-    "question": "A patient taking high-dose loop diuretics has pH 7.49, PaCO₂ 45, HCO₃⁻ 33. What is the primary disorder?",
-    "options": [
-      "(A) Metabolic alkalosis",
-      "(B) Respiratory alkalosis",
-      "(C) Respiratory acidosis",
-      "(D) Metabolic acidosis"
+      "(A) Ventricular diastole",
+      "(B) Ventricular systole",
+      "(C) Atrial systole only",
+      "(D) Isovolumetric contraction only"
     ],
     "correct_index": 0,
-    "explanation": "A — Metabolic alkalosis."
+    "explanation": "A. The aortic valve should be closed during ventricular diastole."
   },
   {
-    "question": "A patient with septic shock and endocarditis has pH 7.19, PaCO₂ 28, HCO₃⁻ 11. What best explains the low PaCO₂?",
+    "question": "A patient’s ventricular rate rises to 190/min and blood pressure falls. Which physiological change contributes to the fall in stroke volume?",
     "options": [
-      "(A) Respiratory compensation",
-      "(B) Primary respiratory acidosis",
-      "(C) Laboratory error in every case",
-      "(D) No ventilation"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Respiratory compensation."
-  },
-  {
-    "question": "A patient’s pH is 7.40, PaCO₂ 20, and HCO₃⁻ 12 after prolonged illness. What should the nurse recognize?",
-    "options": [
-      "(A) Mixed acid–base disorder may be present",
-      "(B) Values are all normal",
-      "(C) Isolated metabolic alkalosis",
-      "(D) Isolated respiratory acidosis"
-    ],
-    "correct_index": 0,
-    "explanation": "A — A mixed disorder may be present."
-  },
-  {
-    "question": "A patient with severe heart failure has PaO₂ 55 mm Hg on room air. Which finding is demonstrated?",
-    "options": [
-      "(A) Hypoxemia",
-      "(B) Hyperkalemia",
-      "(C) Hypercapnia",
-      "(D) Metabolic alkalosis"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Hypoxemia."
-  },
-  {
-    "question": "A patient on supplemental oxygen has worsening work of breathing despite a normal pulse-oximeter reading. What does an ABG add?",
-    "options": [
-      "(A) PaCO₂ and acid–base assessment",
-      "(B) Coronary anatomy",
-      "(C) Valve area",
-      "(D) INR"
-    ],
-    "correct_index": 0,
-    "explanation": "A — PaCO₂ and acid–base assessment."
-  },
-  {
-    "question": "A patient has a normal SpO₂ but suspected carbon monoxide exposure and chest pain. Which test provides essential additional information?",
-    "options": [
-      "(A) Co-oximetry",
-      "(B) Standard pulse oximetry alone",
-      "(C) ABI",
-      "(D) Echocardiography alone"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Co-oximetry."
-  },
-  {
-    "question": "An ABG is ordered after a major change in ventilator settings. What should the nurse document with the sample?",
-    "options": [
-      "(A) Oxygen and ventilator settings at collection",
-      "(B) Only patient height",
-      "(C) Only breakfast intake",
-      "(D) Only room number"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Settings at collection."
-  },
-  {
-    "question": "A patient’s ABG sample contains a visible air bubble. What should the nurse do according to sampling protocol?",
-    "options": [
-      "(A) Remove the bubble promptly and handle correctly",
-      "(B) Shake vigorously with air",
-      "(C) Leave it open",
-      "(D) Add room air deliberately"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Remove the bubble promptly."
-  },
-  {
-    "question": "An ABG syringe is drawn from an arterial line while a saline flush is running. What is the concern?",
-    "options": [
-      "(A) Sample dilution",
-      "(B) Improved accuracy",
-      "(C) Guaranteed hyperkalemia",
-      "(D) No effect on results"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Sample dilution."
-  },
-  {
-    "question": "A patient on anticoagulation needs radial arterial puncture. What is particularly important afterward?",
-    "options": [
-      "(A) Adequate pressure and bleeding assessment",
-      "(B) Immediate massage",
-      "(C) No site check",
-      "(D) Tight tourniquet left in place"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Pressure and bleeding assessment."
-  },
-  {
-    "question": "Before radial arterial sampling, the hand is pale and cool with poor perfusion. What should the nurse do?",
-    "options": [
-      "(A) Stop and seek assessment of a safer site/approach",
-      "(B) Puncture repeatedly",
-      "(C) Ignore perfusion",
-      "(D) Apply heat directly"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Seek assessment before puncture."
-  },
-  {
-    "question": "After radial puncture, the patient reports increasing hand numbness and pain. What is the first action?",
-    "options": [
-      "(A) Assess distal circulation urgently",
-      "(B) Reassure without assessment",
-      "(C) Repeat puncture",
-      "(D) Encourage forceful gripping only"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Assess distal circulation."
-  },
-  {
-    "question": "A patient has a pulsatile, expanding swelling after arterial puncture. What complication is concerning?",
-    "options": [
-      "(A) Arterial hematoma or pseudoaneurysm",
-      "(B) Normal venous refill",
-      "(C) Stable angina",
-      "(D) Expected heart sound"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Arterial hematoma or pseudoaneurysm."
-  },
-  {
-    "question": "An ABG specimen is unlabeled at the bedside. What should the nurse do?",
-    "options": [
-      "(A) Follow identification policy; do not guess its source",
-      "(B) Label it with another patient’s name",
-      "(C) Send it without identification",
-      "(D) Guess from syringe color"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Follow identification policy."
-  },
-  {
-    "question": "A patient with pulmonary edema has pH 7.31, PaCO₂ 52, and PaO₂ 49. What is the immediate priority?",
-    "options": [
-      "(A) Support ventilation and oxygenation",
-      "(B) Complete discharge paperwork",
-      "(C) Encourage ambulation",
-      "(D) Give food"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Support ventilation and oxygenation."
-  },
-  {
-    "question": "A shocked patient’s lactate increases despite treatment. What does the trend prompt?",
-    "options": [
-      "(A) Reassessment of perfusion and cause",
-      "(B) Routine discharge",
-      "(C) Removal of monitoring",
-      "(D) Exercise testing"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Reassessment of perfusion and cause."
-  },
-  {
-    "question": "A patient with low cardiac output has cold limbs and metabolic acidosis. Which mechanism produces the acidosis?",
-    "options": [
-      "(A) Inadequate tissue oxygen delivery and lactate generation",
-      "(B) Excess coronary flow",
+      "(A) Shortened ventricular filling time",
+      "(B) Longer diastolic filling time",
       "(C) Increased valve area",
-      "(D) Low serum chloride alone"
+      "(D) Increased circulating hemoglobin"
     ],
     "correct_index": 0,
-    "explanation": "A — Inadequate tissue oxygen delivery."
+    "explanation": "A. Marked tachycardia reduces the time available for ventricular filling."
   },
   {
-    "question": "A patient with vomiting and diuretic use has metabolic alkalosis. Which electrolyte should the nurse closely review?",
+    "question": "A patient with a proximal LAD obstruction develops a new conduction defect involving the bundle branches. Which structure’s blood supply may have been affected?",
     "options": [
-      "(A) Potassium",
-      "(B) Iron only",
-      "(C) Phosphate only",
-      "(D) Hemoglobin only"
+      "(A) Interventricular septum",
+      "(B) Left atrial appendage only",
+      "(C) Inferior vena cava",
+      "(D) Pericardial cavity"
     ],
     "correct_index": 0,
-    "explanation": "A — Potassium."
+    "explanation": "A. The LAD supplies much of the anterior interventricular septum, which contains conduction pathways."
   },
   {
-    "question": "A patient with severe hypokalemia and alkalosis develops ectopy. What is the nursing priority?",
+    "question": "During assessment, the nurse notes an irregularly irregular pulse. Which action best establishes the underlying rhythm?",
     "options": [
-      "(A) ECG monitoring and ordered electrolyte correction",
-      "(B) Extra diuretic",
-      "(C) Exercise",
-      "(D) No reassessment"
+      "(A) Obtain a 12-lead ECG",
+      "(B) Estimate rhythm from blood pressure alone",
+      "(C) Order a chest radiograph as the sole test",
+      "(D) Count respirations for five seconds"
     ],
     "correct_index": 0,
-    "explanation": "A — Monitor and correct as ordered."
+    "explanation": "A. An ECG identifies atrial activity, QRS pattern, and rhythm."
   },
   {
-    "question": "A patient with metabolic acidosis has potassium 6.4 mmol/L and ECG changes. Which issue is immediately dangerous?",
+    "question": "A patient with suspected heart failure has an elevated jugular venous pressure. What does this bedside finding most directly reflect?",
     "options": [
-      "(A) Hyperkalemia-related arrhythmia",
-      "(B) Low cholesterol",
-      "(C) Mild anemia",
-      "(D) Stable BP"
+      "(A) Elevated right atrial pressure",
+      "(B) Left ventricular ejection fraction",
+      "(C) Coronary artery diameter",
+      "(D) Aortic oxygen saturation"
     ],
     "correct_index": 0,
-    "explanation": "A — Hyperkalemia-related arrhythmia."
+    "explanation": "A. Jugular venous pressure provides a clinical estimate of right atrial pressure."
   },
   {
-    "question": "A patient with pH 7.53, PaCO₂ 27, HCO₃⁻ 22 is breathing rapidly with chest pain. What should the nurse avoid assuming?",
+    "question": "A patient with a narrow pulse pressure, cool skin, and reduced urine output is deteriorating. Which concern should guide the nurse’s immediate assessment?",
     "options": [
-      "(A) That anxiety alone explains the respiratory alkalosis",
-      "(B) That respiratory rate matters",
-      "(C) That oxygenation needs assessment",
-      "(D) That pain warrants evaluation"
+      "(A) Reduced forward cardiac output",
+      "(B) Improved tissue perfusion",
+      "(C) Isolated dietary sodium excess",
+      "(D) Normal exercise response"
     ],
     "correct_index": 0,
-    "explanation": "A — Avoid assuming anxiety alone."
+    "explanation": "A. These findings can indicate inadequate systemic perfusion."
   },
   {
-    "question": "A patient with suspected PE has low PaCO₂ from tachypnea. Does this result alone confirm PE?",
+    "question": "A patient has a prominent apical impulse displaced laterally and downward. Which condition may explain it?",
     "options": [
-      "(A) No",
-      "(B) Yes",
-      "(C) Only if sodium is low",
-      "(D) Only if pulse is normal"
+      "(A) Left ventricular enlargement",
+      "(B) Isolated right atrial enlargement",
+      "(C) Small pericardial effusion",
+      "(D) Pulmonary vein stenosis alone"
     ],
     "correct_index": 0,
-    "explanation": "A — No."
+    "explanation": "A. Left ventricular enlargement can displace the point of maximal impulse."
   },
   {
-    "question": "A patient with advanced HF has low PaO₂ and pulmonary edema. Which assessment best evaluates immediate response to oxygen support?",
+    "question": "A patient’s blood pressure falls from 128/76 to 88/50 mm Hg after standing, with dizziness. What should the nurse do first?",
     "options": [
-      "(A) Respiratory effort, SpO₂, and clinical status",
-      "(B) Shoe size",
-      "(C) Hearing",
-      "(D) Last bowel movement"
+      "(A) Help the patient sit or lie down safely",
+      "(B) Ask the patient to keep standing",
+      "(C) Give a vasodilator",
+      "(D) Leave to obtain a weighing scale"
     ],
     "correct_index": 0,
-    "explanation": "A — Respiratory and clinical response."
+    "explanation": "A. Preventing a fall and restoring a safe position take priority."
   },
   {
-    "question": "A ventilated patient’s PaCO₂ rises markedly after sedation and respiratory rate falls. What mechanism is likely?",
+    "question": "A patient’s apical pulse is 118/min, but the radial pulse is 94/min. What is the pulse deficit?",
     "options": [
-      "(A) Alveolar hypoventilation",
-      "(B) Excess ventilation",
-      "(C) Metabolic alkalosis alone",
-      "(D) Increased renal excretion of CO₂"
+      "(A) 12/min",
+      "(B) 24/min",
+      "(C) 94/min",
+      "(D) 212/min"
     ],
-    "correct_index": 0,
-    "explanation": "A — Alveolar hypoventilation."
+    "correct_index": 1,
+    "explanation": "B. The deficit is 118 − 94 = 24/min."
   },
   {
-    "question": "A patient with acute respiratory alkalosis has tingling and light-headedness. What should the nurse do first?",
+    "question": "A patient with severe mitral stenosis becomes breathless when lying flat. Which mechanism best explains this symptom?",
     "options": [
-      "(A) Assess breathing and the underlying cause",
-      "(B) Give a sedative without assessment",
-      "(C) Ignore chest pain",
-      "(D) Stop monitoring"
+      "(A) Elevated left atrial and pulmonary venous pressure",
+      "(B) Reduced systemic venous pressure",
+      "(C) Direct obstruction of the aorta",
+      "(D) Increased pulmonary valve area"
     ],
     "correct_index": 0,
-    "explanation": "A — Assess breathing and cause."
+    "explanation": "A. Mitral obstruction raises pressure behind the valve, producing pulmonary congestion."
   },
   {
-    "question": "A patient’s ABG reads pH 7.28, PaCO₂ 25, HCO₃⁻ 12. What is the primary disturbance?",
+    "question": "A patient with angina reports that pain previously occurred only after climbing stairs but now begins at rest. Which finding is most important?",
     "options": [
-      "(A) Metabolic acidosis",
-      "(B) Metabolic alkalosis",
-      "(C) Respiratory acidosis",
-      "(D) Respiratory alkalosis"
+      "(A) A changing, unstable symptom pattern",
+      "(B) The patient’s preferred exercise time",
+      "(C) Whether the patient owns stairs",
+      "(D) The patient’s shoe size"
     ],
     "correct_index": 0,
-    "explanation": "A — Metabolic acidosis."
+    "explanation": "A. New pain at rest raises concern for acute coronary syndrome."
   },
   {
-    "question": "A patient’s ABG reads pH 7.51, PaCO₂ 47, HCO₃⁻ 36. What is the primary disturbance?",
+    "question": "A nurse hears a new harsh systolic murmur after an MI. What is the best initial response?",
     "options": [
-      "(A) Metabolic alkalosis",
-      "(B) Respiratory alkalosis",
-      "(C) Metabolic acidosis",
-      "(D) Respiratory acidosis"
+      "(A) Promptly assess perfusion and report the new finding",
+      "(B) Assume the murmur was present for years",
+      "(C) Encourage vigorous walking",
+      "(D) Stop cardiac monitoring"
     ],
     "correct_index": 0,
-    "explanation": "A — Metabolic alkalosis."
+    "explanation": "A. A new murmur after MI may signal an acute mechanical complication."
   },
   {
-    "question": "A patient’s ABG reads pH 7.29, PaCO₂ 58, HCO₃⁻ 27. What is the primary disturbance?",
+    "question": "A patient with chest pain has a normal oxygen saturation but is diaphoretic and hypotensive. What should the nurse conclude?",
     "options": [
-      "(A) Respiratory acidosis",
-      "(B) Respiratory alkalosis",
-      "(C) Metabolic acidosis",
-      "(D) Metabolic alkalosis"
+      "(A) Normal saturation does not exclude a serious cardiac event",
+      "(B) Normal saturation excludes shock",
+      "(C) Oxygen saturation diagnoses the coronary artery involved",
+      "(D) Hypotension is harmless if saturation is normal"
     ],
     "correct_index": 0,
-    "explanation": "A — Respiratory acidosis."
+    "explanation": "A. Oxygenation and circulatory perfusion are different assessments."
   },
   {
-    "question": "A patient’s ABG reads pH 7.47, PaCO₂ 30, HCO₃⁻ 21. What is the primary disturbance?",
+    "question": "A patient has chest pain and ST elevation in V1–V4. Which region is most likely affected?",
     "options": [
-      "(A) Respiratory alkalosis",
-      "(B) Respiratory acidosis",
-      "(C) Metabolic alkalosis",
-      "(D) Metabolic acidosis"
+      "(A) Anterior wall",
+      "(B) Inferior wall",
+      "(C) Isolated right atrium",
+      "(D) Posterior wall only"
     ],
     "correct_index": 0,
-    "explanation": "A — Respiratory alkalosis."
+    "explanation": "A. V1–V4 are anterior and septal precordial leads."
   },
   {
-    "question": "A patient with pH 7.20 and severe hypotension is waiting for routine lab review. What should the nurse do?",
-    "options": [
-      "(A) Escalate the critical result and assess perfusion",
-      "(B) Wait until morning",
-      "(C) Offer a meal",
-      "(D) Remove ECG leads"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Escalate and assess perfusion."
-  },
-  {
-    "question": "During CPR, an ABG is drawn from an arterial catheter. Which fact is essential when interpreting it?",
-    "options": [
-      "(A) Arrest physiology and sampling time",
-      "(B) Patient’s height only",
-      "(C) Shoe size",
-      "(D) Family history alone"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Arrest physiology and sampling time."
-  },
-  {
-    "question": "A patient has an arterial line for repeated ABGs. Which nursing action reduces infection risk?",
-    "options": [
-      "(A) Maintain aseptic access and a closed system",
-      "(B) Leave ports uncapped",
-      "(C) Disconnect repeatedly without need",
-      "(D) Use the line for routine medication infusion"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Maintain aseptic access and a closed system."
-  },
-  {
-    "question": "An arterial pressure line is mistakenly connected to a medication infusion. What should the nurse do?",
-    "options": [
-      "(A) Stop the unsafe connection and follow emergency device protocol",
-      "(B) Continue infusion",
-      "(C) Assume it is venous",
-      "(D) Ignore alarms"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Stop the unsafe connection."
-  },
-  {
-    "question": "After arterial puncture, bleeding persists despite initial pressure. What should the nurse do?",
-    "options": [
-      "(A) Continue appropriate compression and escalate",
-      "(B) Cover without checking",
-      "(C) Ask the patient to walk",
-      "(D) Massage the site"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Continue compression and escalate."
-  },
-  {
-    "question": "A patient’s ABG is drawn immediately after oxygen delivery is changed. Why should timing be recorded?",
-    "options": [
-      "(A) Results depend on oxygen exposure and equilibration",
-      "(B) Time never matters",
-      "(C) It determines blood group",
-      "(D) It replaces clinical assessment"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Timing affects interpretation."
-  },
-  {
-    "question": "A patient has pH 7.34, PaCO₂ 60, HCO₃⁻ 32 after chronic respiratory disease. Which primary problem is likely?",
-    "options": [
-      "(A) Respiratory acidosis with metabolic compensation",
-      "(B) Metabolic acidosis",
-      "(C) Respiratory alkalosis",
-      "(D) Pure metabolic alkalosis"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Respiratory acidosis with compensation."
-  },
-  {
-    "question": "A patient has pH 7.36, PaCO₂ 28, HCO₃⁻ 16 with chronic metabolic disease. What primary disorder is likely?",
-    "options": [
-      "(A) Metabolic acidosis with respiratory compensation",
-      "(B) Respiratory acidosis",
-      "(C) Metabolic alkalosis",
-      "(D) Normal acid–base status"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Metabolic acidosis with compensation."
-  },
-  {
-    "question": "A patient in shock has PaO₂ within the reference range on oxygen but low BP and elevated lactate. What remains possible?",
-    "options": [
-      "(A) Inadequate tissue oxygen delivery",
-      "(B) Normal tissue perfusion guaranteed",
-      "(C) No cardiac dysfunction",
-      "(D) No metabolic acidosis"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Inadequate tissue oxygen delivery."
-  },
-  {
-    "question": "A patient asks whether pulse oximetry measures PaCO₂. Which response is correct?",
-    "options": [
-      "(A) No; ABG or appropriate CO₂ monitoring assesses ventilation",
-      "(B) Yes, directly",
-      "(C) Only if SpO₂ is 100%",
-      "(D) Only during sleep"
-    ],
-    "correct_index": 0,
-    "explanation": "A — No."
-  },
-  {
-    "question": "A patient with HF has worsening dyspnea despite stable SpO₂. Which change may reveal ventilatory fatigue?",
-    "options": [
-      "(A) Rising PaCO₂ with falling pH",
-      "(B) Falling potassium alone",
-      "(C) Lower INR",
-      "(D) Normal hemoglobin"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Rising PaCO₂ with falling pH."
-  },
-  {
-    "question": "A patient’s arterial sample was accidentally taken from a venous line. What is the correct response?",
-    "options": [
-      "(A) Identify it as venous and obtain a true arterial specimen if required",
-      "(B) Label it arterial anyway",
-      "(C) Average it with SpO₂",
-      "(D) Guess PaO₂"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Identify correctly and recollect if needed."
-  },
-  {
-    "question": "A patient receiving heparin has radial ABG sampling. What should the nurse check afterward?",
-    "options": [
-      "(A) Bleeding and hand perfusion",
-      "(B) Only temperature",
-      "(C) Only appetite",
-      "(D) Only lung sounds"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Bleeding and hand perfusion."
-  },
-  {
-    "question": "A patient with cardiogenic shock receives treatment; lactate falls and urine output improves. What do these trends suggest?",
-    "options": [
-      "(A) Improving perfusion",
-      "(B) Worsening shock",
-      "(C) New tamponade",
-      "(D) Guaranteed normal EF"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Improving perfusion."
-  },
-  {
-    "question": "A patient with pH 7.18, HCO₃⁻ 10, and high lactate has severe LV failure. What should treatment target first?",
-    "options": [
-      "(A) The underlying inadequate perfusion",
-      "(B) The printed pH alone",
-      "(C) Hair color",
-      "(D) Only dietary fiber"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Underlying inadequate perfusion."
-  },
-  {
-    "question": "An ABG sample is delayed in transport. What should the nurse do?",
-    "options": [
-      "(A) Follow laboratory handling requirements and report delay",
-      "(B) Assume the result is always valid",
-      "(C) Add air",
-      "(D) Leave uncapped"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Follow handling requirements."
-  },
-  {
-    "question": "An arterial puncture is planned in an arm with an AV fistula for dialysis. What is the safest action?",
-    "options": [
-      "(A) Avoid that arm and seek an alternative per policy",
-      "(B) Puncture the fistula",
-      "(C) Apply a tourniquet across it",
-      "(D) Ignore the access"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Avoid the fistula arm."
-  },
-  {
-    "question": "A patient with severe aortic stenosis develops respiratory distress; ABG shows hypoxemia. Which finding still needs immediate assessment beyond ABG?",
-    "options": [
-      "(A) BP and signs of low output",
-      "(B) Hair growth",
-      "(C) Vision test",
-      "(D) Bowel frequency"
-    ],
-    "correct_index": 0,
-    "explanation": "A — BP and low-output signs."
-  },
-  {
-    "question": "A patient’s PaCO₂ is 70 mm Hg and pH is 7.20 after opioid administration. What should the nurse assess first?",
-    "options": [
-      "(A) Airway and ventilation",
-      "(B) Daily weight",
-      "(C) Stool color",
-      "(D) Diet preference"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Airway and ventilation."
-  },
-  {
-    "question": "A patient with acute MI is tachypneic. ABG shows low PaCO₂ but normal PaO₂. Does the ABG exclude MI?",
-    "options": [
-      "(A) No",
-      "(B) Yes",
-      "(C) Only in women",
-      "(D) Only in older adults"
-    ],
-    "correct_index": 0,
-    "explanation": "A — No."
-  },
-  {
-    "question": "A patient has pH 7.48, HCO₃⁻ 34, and K⁺ 2.9 after diuresis. Which monitoring is important?",
-    "options": [
-      "(A) ECG for arrhythmia",
-      "(B) Hearing only",
-      "(C) Vision only",
-      "(D) Stool testing only"
-    ],
-    "correct_index": 0,
-    "explanation": "A — ECG monitoring."
-  },
-  {
-    "question": "A patient with an arterial catheter has a damped waveform but appears well perfused. What should the nurse do?",
-    "options": [
-      "(A) Assess patient and line setup before acting on the number",
-      "(B) Treat a possible artifact blindly",
-      "(C) Disconnect monitoring",
-      "(D) Give medication without BP check"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Assess patient and setup."
-  },
-  {
-    "question": "An arterial transducer is below the reference level. How may displayed BP be affected?",
-    "options": [
-      "(A) Falsely high",
-      "(B) Falsely low",
-      "(C) Unchanged under all conditions",
-      "(D) Converted to venous pressure"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Falsely high."
-  },
-  {
-    "question": "The transducer is raised above the reference level. How may displayed BP be affected?",
-    "options": [
-      "(A) Falsely low",
-      "(B) Falsely high",
-      "(C) Unchanged",
-      "(D) Converted to PaCO₂"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Falsely low."
-  },
-  {
-    "question": "A patient’s ABG is urgently needed during decompensation. Which action should accompany sampling?",
-    "options": [
-      "(A) Ongoing clinical stabilization",
-      "(B) Delay all support until result",
-      "(C) Remove oxygen",
-      "(D) Stop ECG monitoring"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Continue stabilization."
-  },
-  {
-    "question": "A cardiac patient has pH 7.31, PaCO₂ 30, HCO₃⁻ 15, and lactate 6 mmol/L. Which mechanism is most plausible?",
-    "options": [
-      "(A) Lactic metabolic acidosis with respiratory compensation",
-      "(B) Isolated respiratory acidosis",
-      "(C) Isolated metabolic alkalosis",
-      "(D) Normal acid–base state"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Lactic metabolic acidosis with compensation."
-  },
-  {
-    "question": "A patient’s ABG improves after treatment, but mental status worsens. What should the nurse do?",
-    "options": [
-      "(A) Reassess the patient and escalate despite the improved ABG",
-      "(B) Ignore symptoms",
-      "(C) Discharge",
-      "(D) Stop vital signs"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Reassess the patient."
-  },
-  {
-    "question": "A telemetry alarm shows a flat line, but the patient is awake. What should the nurse check first?",
-    "options": [
-      "(A) Patient and lead connection",
-      "(B) Begin CPR",
-      "(C) Defibrillate",
-      "(D) Give epinephrine"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Patient and lead connection."
-  },
-  {
-    "question": "A monitor labels a moving patient’s tracing “VT,” but a regular pulse is palpable. What should the nurse do?",
-    "options": [
-      "(A) Assess patient and obtain a reliable tracing",
-      "(B) Shock immediately",
-      "(C) Ignore all alarms",
-      "(D) Diagnose VF"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Assess patient and tracing."
-  },
-  {
-    "question": "ECG shows no distinct P waves and irregularly irregular R–R intervals. Which rhythm is likely?",
-    "options": [
-      "(A) AF",
-      "(B) Sinus rhythm",
-      "(C) Complete block",
-      "(D) Monomorphic VT"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Atrial fibrillation."
-  },
-  {
-    "question": "ECG shows sawtooth atrial waves with a ventricular rate near 150/min. Which rhythm is likely?",
-    "options": [
-      "(A) Atrial flutter with 2:1 conduction",
-      "(B) Asystole",
-      "(C) Sinus rhythm",
-      "(D) Complete block"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Atrial flutter with 2:1 conduction."
-  },
-  {
-    "question": "A patient has a regular narrow-complex rhythm at 180/min, normal BP, and mild palpitations. What should the nurse assess before treatment?",
-    "options": [
-      "(A) Stability and 12-lead ECG",
-      "(B) Only diet",
-      "(C) Only weight",
-      "(D) Only temperature"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Stability and ECG."
-  },
-  {
-    "question": "The same patient becomes confused with BP 70/40. Which intervention should be prepared?",
-    "options": [
-      "(A) Synchronized cardioversion",
-      "(B) Routine discharge",
-      "(C) Exercise test",
-      "(D) Oral iron"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Synchronized cardioversion."
-  },
-  {
-    "question": "ECG shows regular wide-complex tachycardia; the patient is pulseless. What is the priority?",
-    "options": [
-      "(A) CPR and defibrillation",
-      "(B) Oral beta blocker",
-      "(C) Vagal maneuver",
-      "(D) Outpatient Holter"
-    ],
-    "correct_index": 0,
-    "explanation": "A — CPR and defibrillation."
-  },
-  {
-    "question": "A patient has polymorphic VT with QT prolongation. Which reversible factor should be checked?",
-    "options": [
-      "(A) Potassium and magnesium",
-      "(B) Hair color",
-      "(C) Blood group",
-      "(D) Vision"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Potassium and magnesium."
-  },
-  {
-    "question": "A patient’s PR interval progressively lengthens before a QRS is dropped. What rhythm is shown?",
-    "options": [
-      "(A) Mobitz I",
-      "(B) Mobitz II",
-      "(C) Complete block",
-      "(D) AF"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Mobitz I."
-  },
-  {
-    "question": "P waves intermittently fail to conduct without progressive PR lengthening. Which rhythm is concerning?",
-    "options": [
-      "(A) Mobitz II",
-      "(B) Sinus arrhythmia",
-      "(C) AF",
-      "(D) Sinus tachycardia"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Mobitz II."
-  },
-  {
-    "question": "ECG shows P waves unrelated to QRS complexes and rate 34/min. What should the nurse assess immediately?",
-    "options": [
-      "(A) Perfusion and symptoms",
-      "(B) Diet order",
-      "(C) Hearing",
-      "(D) Height"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Perfusion and symptoms."
-  },
-  {
-    "question": "A patient taking digoxin has a new slow irregular rhythm and nausea. What should the nurse do?",
-    "options": [
-      "(A) Withhold next dose pending urgent assessment",
-      "(B) Double dose",
-      "(C) Ignore ECG",
-      "(D) Encourage exercise"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Withhold and assess."
-  },
-  {
-    "question": "A patient with potassium 6.8 mmol/L has widening QRS complexes. What is the priority?",
-    "options": [
-      "(A) Urgent hyperkalemia response",
-      "(B) Potassium supplement",
-      "(C) Routine follow-up",
-      "(D) Exercise test"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Urgent hyperkalemia response."
-  },
-  {
-    "question": "A patient on a diuretic has flattened T waves and prominent U waves. Which electrolyte disturbance fits?",
-    "options": [
-      "(A) Hypokalemia",
-      "(B) Hyperkalemia",
-      "(C) Hypercalcemia only",
-      "(D) Hypernatremia only"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Hypokalemia."
-  },
-  {
-    "question": "A patient has new ST elevation in II, III, aVF with ischemic pain. What should the nurse activate?",
-    "options": [
-      "(A) STEMI response",
-      "(B) Routine outpatient review",
-      "(C) Exercise test",
-      "(D) Discharge"
-    ],
-    "correct_index": 0,
-    "explanation": "A — STEMI response."
-  },
-  {
-    "question": "A hypotensive inferior-MI patient has clear lungs and raised JVP. Which extra lead can assess RV involvement?",
-    "options": [
-      "(A) V4R",
-      "(B) V8 only",
-      "(C) aVL only",
-      "(D) Lead I only"
-    ],
-    "correct_index": 0,
-    "explanation": "A — V4R."
-  },
-  {
-    "question": "ST elevation in V1–V4 suggests injury in which territory?",
-    "options": [
-      "(A) Anterior/septal",
-      "(B) Inferior",
-      "(C) Right atrial only",
-      "(D) Posterior only"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Anterior/septal."
-  },
-  {
-    "question": "Horizontal ST depression in V1–V3 with tall R waves suggests posterior MI. Which leads may be added?",
+    "question": "A patient with suspected posterior MI has horizontal ST depression in V1–V3 and tall R waves. Which additional leads may help demonstrate posterior ST elevation?",
     "options": [
       "(A) V7–V9",
-      "(B) Limb leads removed",
-      "(C) V4R alone",
-      "(D) None"
+      "(B) V1–V2 repeated on the right arm",
+      "(C) aVR alone",
+      "(D) Limb leads removed from the ECG"
     ],
     "correct_index": 0,
-    "explanation": "A — V7–V9."
+    "explanation": "A. Posterior leads V7–V9 can reveal posterior-wall ST elevation."
   },
   {
-    "question": "A patient has diffuse ST elevation, PR depression, and positional pleuritic pain. Which diagnosis fits?",
+    "question": "A patient with an inferior MI becomes hypotensive after nitrates. Which additional ECG leads are useful when right ventricular infarction is suspected?",
     "options": [
-      "(A) Acute pericarditis",
-      "(B) Inferior STEMI necessarily",
-      "(C) Aortic stenosis",
-      "(D) Stable angina"
+      "(A) Right-sided precordial leads, particularly V4R",
+      "(B) Posterior leads alone",
+      "(C) Limb leads placed on the abdomen",
+      "(D) No additional leads can help"
     ],
     "correct_index": 0,
-    "explanation": "A — Acute pericarditis."
+    "explanation": "A. Right-sided leads can identify right ventricular involvement."
   },
   {
-    "question": "A pacemaker spike is visible without a following QRS complex. What is the issue?",
+    "question": "Telemetry shows a wide QRS, absent visible P waves, and a regular rate of 175/min. The patient is awake. What is the safest initial interpretation?",
     "options": [
-      "(A) Failure to capture",
-      "(B) Normal pacing",
-      "(C) AF",
+      "(A) Treat as possible ventricular tachycardia while assessing stability",
+      "(B) Assume sinus tachycardia",
+      "(C) Diagnose atrial fibrillation with certainty",
+      "(D) Ignore the tracing"
+    ],
+    "correct_index": 0,
+    "explanation": "A. A regular wide-complex tachycardia should be approached cautiously as possible VT."
+  },
+  {
+    "question": "A patient with chronic kidney disease has potassium 6.8 mmol/L and a widening QRS. Which prescribed intervention addresses immediate myocardial membrane instability?",
+    "options": [
+      "(A) Intravenous calcium",
+      "(B) Oral iron",
+      "(C) IV furosemide as the only immediate treatment",
+      "(D) Aspirin"
+    ],
+    "correct_index": 0,
+    "explanation": "A. IV calcium stabilizes the cardiac membrane while other measures lower potassium."
+  },
+  {
+    "question": "A patient taking a loop diuretic has potassium 2.7 mmol/L, prominent U waves, and palpitations. Which nursing action is best?",
+    "options": [
+      "(A) Initiate cardiac monitoring and report the result for replacement orders",
+      "(B) Give an extra loop-diuretic dose",
+      "(C) Encourage strenuous exercise",
+      "(D) Withhold all assessment"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Severe hypokalemia increases arrhythmia risk and needs monitored correction."
+  },
+  {
+    "question": "A patient’s ECG shows progressive PR prolongation followed by a dropped QRS complex. Which rhythm is present?",
+    "options": [
+      "(A) Second-degree AV block, Mobitz type I",
+      "(B) Complete heart block",
+      "(C) Atrial fibrillation",
       "(D) Ventricular fibrillation"
     ],
     "correct_index": 0,
-    "explanation": "A — Failure to capture."
+    "explanation": "A. Progressive PR lengthening before a nonconducted P wave characterizes Mobitz I."
   },
   {
-    "question": "A pacemaker fires despite intrinsic QRS complexes. Which malfunction should be investigated?",
+    "question": "A patient’s ECG has constant PR intervals in conducted beats with intermittent nonconducted P waves. The patient feels faint. Which rhythm is concerning?",
     "options": [
-      "(A) Failure to sense",
-      "(B) Appropriate demand pacing",
-      "(C) Stable sinus rhythm",
-      "(D) Normal artifact"
+      "(A) Mobitz type II AV block",
+      "(B) Sinus arrhythmia",
+      "(C) First-degree AV block only",
+      "(D) Atrial flutter with 1:1 conduction"
     ],
     "correct_index": 0,
-    "explanation": "A — Failure to sense."
+    "explanation": "A. Mobitz II can progress to complete block and requires prompt assessment."
   },
   {
-    "question": "A patient’s ICD delivers three shocks in ten minutes. What is the first nursing priority?",
-    "options": [
-      "(A) Assess rhythm and hemodynamic status",
-      "(B) Send home",
-      "(C) Stop monitoring",
-      "(D) Assume battery failure"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Assess rhythm and hemodynamics."
-  },
-  {
-    "question": "Before synchronized cardioversion, synchronization markers are absent. What should the team do?",
-    "options": [
-      "(A) Restore synchronization before planned shock",
-      "(B) Continue regardless",
-      "(C) Remove ECG leads",
-      "(D) Give oral iron"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Restore synchronization."
-  },
-  {
-    "question": "A pulseless patient has a chaotic, disorganized waveform with no identifiable QRS complexes. Which rhythm is likely?",
-    "options": [
-      "(A) VF",
-      "(B) Sinus tachycardia",
-      "(C) AF with pulse",
-      "(D) First-degree block"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Ventricular fibrillation."
-  },
-  {
-    "question": "A patient has organized electrical activity on ECG but no central pulse. What is the rhythm category?",
-    "options": [
-      "(A) PEA",
-      "(B) Stable sinus rhythm",
-      "(C) VF",
-      "(D) SVT with pulse"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Pulseless electrical activity."
-  },
-  {
-    "question": "A patient receiving a QT-prolonging drug has a markedly prolonged QTc. What should the nurse review?",
-    "options": [
-      "(A) Drug list and electrolytes",
-      "(B) Shoe size",
-      "(C) Hair color",
-      "(D) ABO group"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Drugs and electrolytes."
-  },
-  {
-    "question": "A patient’s QRS is wide after new bundle-branch block. What is the underlying ECG event?",
-    "options": [
-      "(A) Altered ventricular depolarization",
-      "(B) Atrial repolarization measured directly",
-      "(C) Valve opening",
-      "(D) Coronary filling"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Altered ventricular depolarization."
-  },
-  {
-    "question": "A patient has new ischemic chest pain and ST depression. What is the best action?",
-    "options": [
-      "(A) Prompt ACS assessment and serial evaluation",
-      "(B) Ignore without ST elevation",
-      "(C) Exercise immediately",
-      "(D) Stop ECG monitoring"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Prompt ACS assessment."
-  },
-  {
-    "question": "A patient’s rate is 45/min but BP and mentation are normal. What guides intervention?",
-    "options": [
-      "(A) Symptoms and perfusion, not rate alone",
-      "(B) Rate alone always requires pacing",
-      "(C) Troponin alone",
-      "(D) Patient’s height"
-    ],
-    "correct_index": 0,
-    "explanation": "A — Symptoms and perfusion."
-  },
-  {
-    "question": "A patient with AF at 150/min has pulmonary edema and hypotension. What rhythm treatment is urgent?",
+    "question": "An unstable patient has a regular narrow-complex tachycardia and a systolic pressure of 68 mm Hg. What should the nurse prepare for?",
     "options": [
       "(A) Synchronized cardioversion",
-      "(B) Elective review",
-      "(C) Vagal maneuver alone",
+      "(B) Elective treadmill testing",
+      "(C) Routine discharge",
+      "(D) Oral antacid therapy"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Hemodynamic instability with tachycardia and a pulse calls for urgent synchronized cardioversion."
+  },
+  {
+    "question": "A patient’s ECG shows ST depression during exertion that resolves with rest. What does this most strongly suggest in the appropriate clinical setting?",
+    "options": [
+      "(A) Transient myocardial ischemia",
+      "(B) Permanent complete heart block",
+      "(C) Pericardial tamponade",
+      "(D) A normal response in every patient"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Transient ST depression may reflect demand-related subendocardial ischemia."
+  },
+  {
+    "question": "A patient presents one hour after chest-pain onset. The first high-sensitivity troponin is below the assay threshold. Which plan is most appropriate?",
+    "options": [
+      "(A) Continue the indicated serial ECG and troponin pathway",
+      "(B) Rule out MI from this result alone",
+      "(C) Start exercise testing immediately during pain",
+      "(D) Discharge without clinical review"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Very early presentation may require serial testing and clinical interpretation."
+  },
+  {
+    "question": "A dyspneic patient has an elevated BNP, reduced ejection fraction, and pulmonary congestion. What does BNP reflect?",
+    "options": [
+      "(A) Myocardial wall stress",
+      "(B) The exact location of a coronary plaque",
+      "(C) The blood’s potassium concentration",
+      "(D) The number of valve leaflets"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Natriuretic peptides rise in response to cardiac wall stretch, though results require clinical interpretation."
+  },
+  {
+    "question": "An echocardiogram shows an ejection fraction of 32% and global left ventricular hypokinesis. Which problem is demonstrated?",
+    "options": [
+      "(A) Reduced systolic function",
+      "(B) Normal systolic function",
+      "(C) Isolated right atrial rupture",
+      "(D) Pulmonary artery embolism confirmed"
+    ],
+    "correct_index": 0,
+    "explanation": "A. A low EF with global hypokinesis indicates reduced left ventricular systolic function."
+  },
+  {
+    "question": "A patient with suspected endocarditis has a negative transthoracic echo, but suspicion remains high because of persistent bacteremia and a prosthetic valve. Which study is likely to provide better valve detail?",
+    "options": [
+      "(A) Transesophageal echocardiography",
+      "(B) Plain abdominal radiograph",
+      "(C) Spirometry",
+      "(D) Bone scan"
+    ],
+    "correct_index": 0,
+    "explanation": "A. TEE can better evaluate prosthetic valves and some endocardial lesions."
+  },
+  {
+    "question": "A patient with acute chest and back pain has suspected aortic dissection and is stable enough for imaging. Which test commonly provides rapid anatomical assessment?",
+    "options": [
+      "(A) CT angiography of the aorta",
+      "(B) Routine noncontrast chest radiograph alone",
+      "(C) Exercise ECG",
+      "(D) Coronary calcium score"
+    ],
+    "correct_index": 0,
+    "explanation": "A. CT angiography can identify the dissection and its extent."
+  },
+  {
+    "question": "A stable patient has complex congenital heart disease. The team needs detailed ventricular volumes and flow assessment without ionizing radiation. Which test may be particularly useful?",
+    "options": [
+      "(A) Cardiac MRI",
+      "(B) Plain ECG alone",
+      "(C) Single troponin level",
+      "(D) Pulse palpation alone"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Cardiac MRI can assess anatomy, ventricular function, and flow in congenital disease."
+  },
+  {
+    "question": "A patient with unexplained cardiomyopathy undergoes cardiac MRI. Which MRI technique may help identify myocardial scar or fibrosis?",
+    "options": [
+      "(A) Late gadolinium enhancement",
+      "(B) Routine pulse oximetry",
+      "(C) Ankle-brachial index",
+      "(D) Exercise blood pressure alone"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Late gadolinium enhancement characterizes patterns of myocardial injury and fibrosis."
+  },
+  {
+    "question": "A patient scheduled for CT coronary angiography has an irregular, rapid heart rate. Why might this affect the test?",
+    "options": [
+      "(A) Motion can impair coronary image quality",
+      "(B) Coronary CT does not create images",
+      "(C) Heart rate has no effect on cardiac imaging",
+      "(D) CT measures only lung volume"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Cardiac motion can reduce CT image quality; preparation follows the imaging protocol."
+  },
+  {
+    "question": "A patient with chest pain asks whether a normal chest radiograph rules out MI. What is the best answer?",
+    "options": [
+      "(A) No; ECG, biomarkers, and clinical assessment address MI",
+      "(B) Yes; all MIs appear on chest radiography",
+      "(C) Yes, if the heart shadow is normal",
+      "(D) Only if a murmur is absent"
+    ],
+    "correct_index": 0,
+    "explanation": "A. A chest radiograph may help assess other problems but does not rule out MI."
+  },
+  {
+    "question": "A patient has syncope only once every few weeks; the in-hospital ECG is normal. Which investigation may capture an intermittent arrhythmia?",
+    "options": [
+      "(A) Longer-duration ambulatory rhythm monitoring",
+      "(B) A single temperature reading",
+      "(C) Urine ketone testing",
+      "(D) Visual acuity testing"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Extended monitoring improves the chance of recording an infrequent episode."
+  },
+  {
+    "question": "Before coronary angiography (CAG), a patient reports a previous severe reaction to iodinated contrast. What should the nurse do first?",
+    "options": [
+      "(A) Alert the procedural team before contrast is administered",
+      "(B) Ignore the history",
+      "(C) Give contrast to test the reaction",
+      "(D) Cancel all imaging independently"
+    ],
+    "correct_index": 0,
+    "explanation": "A. The team must evaluate the reaction history and plan safely."
+  },
+  {
+    "question": "A patient with diabetes is preparing for contrast-based CAG. Which preprocedure results are particularly important for medication and contrast planning?",
+    "options": [
+      "(A) Current kidney function and medication list",
+      "(B) Shoe size and dominant hand",
+      "(C) Hair color and visual acuity",
+      "(D) Childhood immunization date alone"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Renal function and medicines influence procedural planning."
+  },
+  {
+    "question": "During CAG, contrast outlines a critical coronary narrowing. Which procedure may be performed during the same session to open the artery?",
+    "options": [
+      "(A) Percutaneous coronary intervention",
+      "(B) Pericardiocentesis",
+      "(C) Thoracentesis",
+      "(D) Lumbar puncture"
+    ],
+    "correct_index": 0,
+    "explanation": "A. PCI may use balloon dilation and often stenting to treat a suitable lesion."
+  },
+  {
+    "question": "Immediately after femoral CAG, a patient develops a rapidly enlarging groin swelling. What is the nurse’s first action?",
+    "options": [
+      "(A) Apply pressure according to access-site protocol and summon help",
+      "(B) Ask the patient to walk",
+      "(C) Ignore it if the dressing looks dry",
+      "(D) Remove all monitoring"
+    ],
+    "correct_index": 0,
+    "explanation": "A. An enlarging hematoma suggests access-site bleeding."
+  },
+  {
+    "question": "After femoral catheterization, a patient develops hypotension and flank pain without visible groin bleeding. What complication should be suspected?",
+    "options": [
+      "(A) Retroperitoneal hemorrhage",
+      "(B) Normal contrast sensation",
+      "(C) Stable angina",
+      "(D) Mild incision itching"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Bleeding can track into the retroperitoneal space and be concealed externally."
+  },
+  {
+    "question": "After radial artery catheterization, a patient’s fingers become cool and pale. Which action is most appropriate?",
+    "options": [
+      "(A) Assess distal hand perfusion and urgently notify the procedural team",
+      "(B) Tighten the compression band without assessment",
+      "(C) Ask the patient to return next week",
+      "(D) Encourage forceful gripping only"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Distal ischemia requires prompt assessment."
+  },
+  {
+    "question": "A patient develops sudden chest pain and new ST elevation shortly after coronary stent placement. What is the priority concern?",
+    "options": [
+      "(A) Acute stent thrombosis or vessel closure",
+      "(B) Normal postprocedure recovery",
+      "(C) Stable chronic angina",
+      "(D) An expected contrast aftereffect"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Recurrent ischemia soon after PCI requires emergency evaluation."
+  },
+  {
+    "question": "A patient asks why both aspirin and a P2Y12 inhibitor were prescribed after ACS treated with PCI. Which response is best?",
+    "options": [
+      "(A) They inhibit platelets through different mechanisms to reduce thrombotic events",
+      "(B) One drug treats only constipation",
+      "(C) They replace all follow-up care",
+      "(D) They dissolve the implanted stent"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Dual antiplatelet therapy reduces ischemic complications when indicated."
+  },
+  {
+    "question": "A patient undergoing right-heart catheterization asks what it measures. Which response is most accurate?",
+    "options": [
+      "(A) Right-sided and pulmonary artery pressures and related hemodynamic data",
+      "(B) Coronary artery calcium only",
+      "(C) Brain electrical activity",
+      "(D) Bone marrow pressure"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Right-heart catheterization directly assesses several circulatory pressures and cardiac output."
+  },
+  {
+    "question": "During pulmonary artery catheter insertion, the monitor shows frequent ventricular ectopic beats. What should the nurse do first?",
+    "options": [
+      "(A) Notify the operator and closely assess rhythm and perfusion",
+      "(B) Advance the catheter independently",
+      "(C) Turn off the ECG",
+      "(D) Ask the patient to exercise"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Catheter passage through the right ventricle can provoke arrhythmias."
+  },
+  {
+    "question": "A patient with severe symptomatic aortic stenosis is being assessed for transcatheter aortic valve replacement (TAVR). Which result is essential to procedural planning?",
+    "options": [
+      "(A) Valve and vascular anatomy on appropriate imaging",
+      "(B) Shoe size alone",
+      "(C) Resting temperature alone",
+      "(D) Blood group as the only assessment"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Imaging helps the valve team assess dimensions, access routes, and suitability."
+  },
+  {
+    "question": "After TAVR, a patient develops a new slow rhythm and dizziness. Which complication should be assessed?",
+    "options": [
+      "(A) New AV conduction block",
+      "(B) Normal expected hunger",
+      "(C) Isolated peripheral neuropathy",
+      "(D) Gastric reflux alone"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Valve implantation can affect nearby conduction tissue."
+  },
+  {
+    "question": "A patient after electrophysiology study and catheter ablation reports sudden chest discomfort, hypotension, and distended neck veins. Which complication needs urgent consideration?",
+    "options": [
+      "(A) Pericardial tamponade",
+      "(B) Uncomplicated recovery",
+      "(C) Stable hypertension",
+      "(D) Simple muscle fatigue"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Cardiac perforation and tamponade are uncommon but serious procedural complications."
+  },
+  {
+    "question": "Before a transesophageal echocardiogram, a patient reports a known esophageal stricture. What should the nurse do?",
+    "options": [
+      "(A) Inform the procedural clinician before probe insertion",
+      "(B) Conceal the history",
+      "(C) Ask the patient to eat a meal",
+      "(D) Remove the IV line"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Esophageal disease may affect procedural safety."
+  },
+  {
+    "question": "After a sedated transesophageal echocardiogram, the patient requests water while the throat remains numb. What should the nurse do?",
+    "options": [
+      "(A) Wait until swallowing and protective reflexes have returned",
+      "(B) Give water immediately",
+      "(C) Give solid food instead",
+      "(D) Encourage the patient to lie flat while drinking"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Sedation and topical anesthesia may temporarily increase aspiration risk."
+  },
+  {
+    "question": "A patient with chest pain has a systolic blood pressure of 76 mm Hg. Nitroglycerin is prescribed as needed. What should the nurse do?",
+    "options": [
+      "(A) Hold it and promptly report the hypotension",
+      "(B) Give two doses together",
+      "(C) Give it without reassessment",
+      "(D) Substitute sildenafil"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Nitrates can worsen marked hypotension."
+  },
+  {
+    "question": "A patient with ACS has a documented history of true aspirin-induced anaphylaxis. What is the appropriate nursing response to an aspirin order?",
+    "options": [
+      "(A) Withhold it and urgently clarify the antiplatelet plan",
+      "(B) Give it with food",
+      "(C) Give half the prescribed dose",
+      "(D) Ignore the allergy documentation"
+    ],
+    "correct_index": 0,
+    "explanation": "A. A serious allergy requires an alternative treatment decision by the team."
+  },
+  {
+    "question": "A patient with heart failure takes an ACE inhibitor. New lip and tongue swelling develops. What is the priority?",
+    "options": [
+      "(A) Activate emergency airway assessment",
+      "(B) Give the next dose with water",
+      "(C) Wait until the next clinic appointment",
+      "(D) Offer a cough lozenge"
+    ],
+    "correct_index": 0,
+    "explanation": "A. ACE-inhibitor angioedema can threaten the airway."
+  },
+  {
+    "question": "A patient takes an ACE inhibitor this morning. A new order starts sacubitril/valsartan this evening. What should the nurse do?",
+    "options": [
+      "(A) Clarify the order because an ACE-inhibitor washout is required",
+      "(B) Administer both together",
+      "(C) Double the ACE inhibitor",
+      "(D) Replace both with aspirin"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Overlap increases angioedema risk."
+  },
+  {
+    "question": "A patient taking spironolactone has a potassium level of 5.9 mmol/L. Which order should the nurse question?",
+    "options": [
+      "(A) Potassium chloride supplement",
+      "(B) ECG monitoring",
+      "(C) Repeat electrolyte assessment",
+      "(D) Clinical review of medicines"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Spironolactone retains potassium; supplementation may worsen hyperkalemia."
+  },
+  {
+    "question": "A patient receiving IV furosemide has increasing weakness and ventricular ectopy. What should the nurse review first?",
+    "options": [
+      "(A) Potassium and magnesium results",
+      "(B) Shoe size",
+      "(C) Vaccination history",
+      "(D) Eye color"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Loop diuretics can lower potassium and magnesium, increasing arrhythmia risk."
+  },
+  {
+    "question": "A patient with chronic kidney disease taking digoxin reports nausea and visual changes. Which action is best?",
+    "options": [
+      "(A) Withhold the next dose pending prompt pulse, electrolyte, renal, and toxicity assessment",
+      "(B) Give a double dose",
+      "(C) Assume the symptoms are unrelated",
+      "(D) Administer potassium without checking its level"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Renal impairment increases the risk of digoxin accumulation and toxicity."
+  },
+  {
+    "question": "A patient taking warfarin presents with black stools and dizziness. What should the nurse prioritize?",
+    "options": [
+      "(A) Assess bleeding and hemodynamic status and seek urgent review",
+      "(B) Give an extra warfarin dose",
+      "(C) Encourage vigorous exercise",
+      "(D) Delay reporting until the next INR clinic visit"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Melena and dizziness may indicate significant bleeding."
+  },
+  {
+    "question": "A patient receiving heparin develops a marked platelet fall and new limb pain on day six. Which condition should be considered?",
+    "options": [
+      "(A) Heparin-induced thrombocytopenia with thrombosis",
+      "(B) An expected response requiring no action",
+      "(C) Digoxin toxicity",
+      "(D) Aortic stenosis"
+    ],
+    "correct_index": 0,
+    "explanation": "A. HIT can cause thrombosis despite a low platelet count."
+  },
+  {
+    "question": "A patient on apixaban falls and strikes their head but has no external wound. What is the best action?",
+    "options": [
+      "(A) Arrange prompt evaluation for possible intracranial bleeding",
+      "(B) Assume no bleeding is possible",
+      "(C) Give an extra dose",
+      "(D) Encourage the patient to sleep without assessment"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Intracranial bleeding may be concealed."
+  },
+  {
+    "question": "A patient prescribed metoprolol has a heart rate of 38/min and feels faint. What should the nurse do?",
+    "options": [
+      "(A) Hold the scheduled dose and urgently assess and report the symptoms",
+      "(B) Give a double dose",
+      "(C) Ignore the symptoms",
+      "(D) Ask the patient to run in place"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Symptomatic bradycardia requires assessment before another rate-slowing dose."
+  },
+  {
+    "question": "A patient receiving IV amiodarone develops new hypotension. What should the nurse do first?",
+    "options": [
+      "(A) Assess perfusion and review the infusion urgently with the team",
+      "(B) Increase the rate automatically",
+      "(C) Remove blood-pressure monitoring",
+      "(D) Give an oral diuretic without an order"
+    ],
+    "correct_index": 0,
+    "explanation": "A. IV amiodarone can contribute to hypotension."
+  },
+  {
+    "question": "A patient receiving a QT-prolonging medicine has a prolonged QT interval and potassium of 3.0 mmol/L. Which action reduces a modifiable risk for torsades?",
+    "options": [
+      "(A) Report and correct hypokalemia as prescribed",
+      "(B) Give another QT-prolonging drug",
+      "(C) Ignore the ECG",
+      "(D) Restrict all ECG monitoring"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Low potassium increases the risk of drug-associated ventricular arrhythmias."
+  },
+  {
+    "question": "A patient receiving IV potassium complains of burning, and the infusion site is swollen. What should the nurse do?",
+    "options": [
+      "(A) Stop the infusion and assess the site",
+      "(B) Increase the infusion rate",
+      "(C) Give the potassium as a rapid IV push",
+      "(D) Ignore the complaint"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Possible infiltration requires immediate assessment; IV potassium must never be given as an undiluted rapid push."
+  },
+  {
+    "question": "A patient taking a statin has severe muscle pain and dark urine. What should the nurse do?",
+    "options": [
+      "(A) Report the findings promptly for evaluation of muscle injury",
+      "(B) Recommend taking twice the dose",
+      "(C) Ignore the urine color",
+      "(D) Stop all other cardiac medicines independently"
+    ],
+    "correct_index": 0,
+    "explanation": "A. These findings may indicate serious muscle injury."
+  },
+  {
+    "question": "A patient with acute pulmonary edema is sitting upright, gasping, and coughing pink frothy sputum. What is the first nursing priority?",
+    "options": [
+      "(A) Support airway and breathing and summon urgent help",
+      "(B) Complete a dietary history",
+      "(C) Place the patient flat",
+      "(D) Schedule a routine outpatient visit"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Severe respiratory compromise requires immediate intervention."
+  },
+  {
+    "question": "A patient has fever, a new murmur, and persistent bacteremia. Infective endocarditis is suspected. What should be obtained before antibiotics when feasible and without delaying necessary emergency treatment?",
+    "options": [
+      "(A) Appropriate blood cultures",
+      "(B) A treadmill exercise test",
+      "(C) An ankle-brachial index",
+      "(D) A coronary calcium score"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Cultures help identify the organism and guide therapy."
+  },
+  {
+    "question": "A patient receiving treatment for endocarditis suddenly develops weakness on one side and difficulty speaking. What should the nurse do first?",
+    "options": [
+      "(A) Activate urgent stroke assessment",
+      "(B) Wait for the next antibiotic dose",
+      "(C) Give food and water",
+      "(D) Encourage ambulation"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Endocarditis can cause cerebral embolic or hemorrhagic complications."
+  },
+  {
+    "question": "A patient with pericarditis has a growing effusion. Which new finding is most concerning for tamponade?",
+    "options": [
+      "(A) Hypotension with rising jugular venous pressure",
+      "(B) Improved appetite",
+      "(C) Stable heart rate and blood pressure",
+      "(D) Decreasing breathlessness"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Tamponade restricts cardiac filling and can cause shock."
+  },
+  {
+    "question": "A patient with myocarditis develops frequent ventricular ectopy and a falling blood pressure. Which plan is most appropriate?",
+    "options": [
+      "(A) Continuous monitoring and urgent evaluation of perfusion",
+      "(B) Immediate return to competitive sport",
+      "(C) Discharge without follow-up",
+      "(D) Remove cardiac monitoring"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Myocarditis can cause dangerous arrhythmias and pump failure."
+  },
+  {
+    "question": "A patient with severe symptomatic aortic stenosis reports new exertional syncope. What should the nurse do?",
+    "options": [
+      "(A) Escalate promptly for valve-team assessment",
+      "(B) Encourage unsupervised endurance exercise",
+      "(C) Assume the symptom is unrelated to the valve",
+      "(D) Give a large vasodilator dose without checking blood pressure"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Syncope is a serious symptom in severe aortic stenosis."
+  },
+  {
+    "question": "A patient with mitral stenosis develops atrial fibrillation. Which complication is the team particularly trying to prevent with an appropriate anticoagulation plan?",
+    "options": [
+      "(A) Cardioembolic stroke",
+      "(B) Pneumothorax",
+      "(C) Appendicitis",
+      "(D) Pulmonary valve rupture"
+    ],
+    "correct_index": 0,
+    "explanation": "A. AF and left atrial stasis increase embolic risk."
+  },
+  {
+    "question": "A patient with hypertrophic cardiomyopathy faints during exercise. What should the nurse do first?",
+    "options": [
+      "(A) Stop activity, assess ABCs and perfusion, and seek urgent help",
+      "(B) Ask the patient to continue exercising",
+      "(C) Give a diuretic without assessment",
+      "(D) Arrange only a routine dental review"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Exertional syncope requires immediate assessment."
+  },
+  {
+    "question": "A patient with severe pulmonary hypertension develops right-sided chest discomfort, syncope, and hypotension. Which problem is most concerning?",
+    "options": [
+      "(A) Right ventricular decompensation",
+      "(B) Isolated mild ankle sprain",
+      "(C) Uncomplicated stable hypertension",
+      "(D) Normal exercise adaptation"
+    ],
+    "correct_index": 0,
+    "explanation": "A. The right ventricle can fail when pulmonary vascular resistance is high."
+  },
+  {
+    "question": "A patient has sudden tearing chest pain, a pulse difference between arms, and new neurologic symptoms. What diagnosis requires immediate consideration?",
+    "options": [
+      "(A) Acute aortic dissection",
+      "(B) Stable angina",
+      "(C) Costochondritis",
+      "(D) Mild mitral prolapse"
+    ],
+    "correct_index": 0,
+    "explanation": "A. The combined findings suggest aortic and branch-vessel involvement."
+  },
+  {
+    "question": "A patient with suspected dissection is hypertensive and tachycardic. Which medication class is commonly used first, unless contraindicated, to reduce aortic shear stress?",
+    "options": [
+      "(A) Intravenous beta blocker",
+      "(B) Fibrinolytic",
+      "(C) Potassium supplement",
+      "(D) Oral antibiotic"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Rate control with an IV beta blocker is a key initial anti-impulse measure."
+  },
+  {
+    "question": "A patient suddenly becomes pulseless; the monitor shows ventricular fibrillation. What should the nurse do?",
+    "options": [
+      "(A) Begin CPR and obtain rapid defibrillation",
+      "(B) Perform synchronized cardioversion",
+      "(C) Give oral medication first",
+      "(D) Wait for a blood-pressure reading"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Ventricular fibrillation is a shockable cardiac-arrest rhythm."
+  },
+  {
+    "question": "A patient is pulseless with organized electrical activity on the monitor. Which approach is appropriate?",
+    "options": [
+      "(A) CPR and investigation of reversible causes",
+      "(B) Defibrillation as the routine first step",
+      "(C) Oral beta blocker",
       "(D) Routine discharge"
     ],
     "correct_index": 0,
-    "explanation": "A — Synchronized cardioversion."
+    "explanation": "A. Pulseless electrical activity is a nonshockable arrest rhythm."
   },
   {
-    "question": "A stable patient with AF of unknown duration is scheduled for elective cardioversion. What safety issue must be addressed?",
+    "question": "A patient has symptomatic bradycardia with hypotension despite initial treatment. Which intervention may be needed?",
     "options": [
-      "(A) Left atrial thromboembolism risk",
-      "(B) Dental decay",
-      "(C) Coronary calcium only",
-      "(D) Hemoglobin type"
+      "(A) Transcutaneous pacing",
+      "(B) Routine exercise testing",
+      "(C) Carotid sinus massage",
+      "(D) Fibrinolysis"
     ],
     "correct_index": 0,
-    "explanation": "A — Thromboembolism risk."
+    "explanation": "A. Persistent unstable bradycardia may require temporary pacing."
   },
   {
-    "question": "A monitor strip shows a pause followed by an escape complex; the patient faints. What is the nursing priority?",
+    "question": "A patient with a prolonged QT interval suddenly develops polymorphic VT. Which prescribed medication is commonly used for torsades de pointes?",
     "options": [
-      "(A) Assess perfusion and call for urgent evaluation",
-      "(B) Remove monitoring",
-      "(C) Encourage walking",
-      "(D) Give food"
+      "(A) IV magnesium sulfate",
+      "(B) IV diltiazem",
+      "(C) Oral iron",
+      "(D) Sublingual nitroglycerin"
     ],
     "correct_index": 0,
-    "explanation": "A — Assess perfusion and escalate."
+    "explanation": "A. Magnesium is used for torsades, alongside treatment of instability and reversible causes."
   },
   {
-    "question": "A patient’s sinus rate is 125/min with fever and low BP. What should the nurse consider?",
+    "question": "A newborn has weak femoral pulses and becomes shocked as the ductus arteriosus closes. Which lesion should be considered?",
     "options": [
-      "(A) Treat underlying physiological cause",
-      "(B) Assume primary SVT",
-      "(C) Ignore the BP",
-      "(D) Use carotid massage automatically"
+      "(A) Critical coarctation of the aorta",
+      "(B) Small uncomplicated atrial septal defect",
+      "(C) Isolated mild pulmonary regurgitation",
+      "(D) Innocent murmur"
     ],
     "correct_index": 0,
-    "explanation": "A — Assess and treat underlying cause."
+    "explanation": "A. Severe coarctation may depend on ductal flow to supply the lower body."
   },
   {
-    "question": "A patient develops frequent ectopy after a new diuretic. What should be checked?",
+    "question": "A newborn with suspected duct-dependent cardiac disease is receiving prostaglandin E₁. What should the nurse monitor particularly closely?",
     "options": [
-      "(A) Potassium and magnesium",
-      "(B) Blood group",
+      "(A) Breathing and possible apnea",
+      "(B) Hair growth",
       "(C) Visual acuity",
-      "(D) Hearing"
+      "(D) Tooth eruption"
     ],
     "correct_index": 0,
-    "explanation": "A — Potassium and magnesium."
+    "explanation": "A. Apnea is an important possible adverse effect."
   },
   {
-    "question": "A stable patient has an ECG interpreted as first-degree AV block. Which finding defines it?",
+    "question": "An infant with a large ventricular septal defect becomes sweaty and tachypneic during feeds. Which nursing plan best addresses the immediate problem?",
     "options": [
-      "(A) Prolonged PR with every P conducted",
-      "(B) Random dropped QRS",
-      "(C) No P waves",
-      "(D) Complete AV dissociation"
+      "(A) Assess feeding tolerance, work of breathing, intake, and weight gain",
+      "(B) Prolong every feed despite exhaustion",
+      "(C) Ignore growth trends",
+      "(D) Withhold all nutrition"
     ],
     "correct_index": 0,
-    "explanation": "A — Prolonged PR with 1:1 conduction."
+    "explanation": "A. Pulmonary overcirculation and heart failure can make feeding tiring and impair growth."
   },
   {
-    "question": "A patient with acute MI has a new right bundle-branch block. What should the nurse do?",
+    "question": "A child with tetralogy of Fallot has a sudden hypercyanotic episode while crying. What is the immediate nursing action?",
     "options": [
-      "(A) Report and correlate with symptoms/hemodynamics",
-      "(B) Assume it is always harmless",
-      "(C) Remove ECG leads",
-      "(D) Discharge immediately"
+      "(A) Place in knee-chest position and call for urgent help",
+      "(B) Encourage running",
+      "(C) Give a large meal",
+      "(D) Leave the child alone"
     ],
     "correct_index": 0,
-    "explanation": "A — Report and correlate clinically."
+    "explanation": "A. Knee-chest positioning can help reduce right-to-left shunting while definitive care is organized."
   },
   {
-    "question": "A patient has a low-amplitude ECG after a large pericardial effusion is found. What should the nurse prioritize?",
+    "question": "A newborn’s critical congenital heart disease pulse-oximetry screen is abnormal, although no murmur is heard. What should the nurse do?",
     "options": [
-      "(A) Hemodynamic assessment",
-      "(B) Exercise testing",
-      "(C) Unsupervised ambulation",
-      "(D) Routine diet review"
+      "(A) Follow the protocol for prompt clinical evaluation",
+      "(B) Discharge because the examination lacks a murmur",
+      "(C) Wait until the next annual visit",
+      "(D) Assume all low readings are harmless"
     ],
     "correct_index": 0,
-    "explanation": "A — Hemodynamic assessment."
+    "explanation": "A. A serious congenital defect may be present without an audible murmur."
   },
   {
-    "question": "Telemetry reports torsades, and the patient is unresponsive and pulseless. What comes first?",
+    "question": "A child has persistent fever, red eyes, oral changes, and swelling of hands. Which cardiac complication makes Kawasaki disease evaluation important?",
     "options": [
-      "(A) CPR and defibrillation pathway",
-      "(B) Oral magnesium",
-      "(C) Outpatient ECG",
-      "(D) Vagal maneuver"
+      "(A) Coronary artery abnormalities",
+      "(B) Guaranteed aortic rupture",
+      "(C) Complete closure of all coronary arteries in every child",
+      "(D) Permanent AV block in every child"
     ],
     "correct_index": 0,
-    "explanation": "A — CPR and defibrillation pathway."
+    "explanation": "A. Kawasaki disease can damage coronary arteries."
   },
   {
-    "question": "A patient has narrow-complex tachycardia and adenosine is ordered. Which preparation is appropriate?",
+    "question": "A child with a repaired congenital heart defect feels well. The family asks to cancel all further cardiac appointments. What is the best response?",
     "options": [
-      "(A) Continuous rhythm monitoring and rapid IV administration setup",
-      "(B) Disconnect ECG",
-      "(C) Give orally",
-      "(D) Delay flush"
+      "(A) Continue scheduled follow-up because residual or later problems may occur",
+      "(B) Follow-up is never required after repair",
+      "(C) Stop prescribed medicines independently",
+      "(D) Obtain care only if the child develops fever"
     ],
     "correct_index": 0,
-    "explanation": "A — Monitoring and rapid IV setup."
+    "explanation": "A. Some patients need ongoing surveillance after repair."
   },
   {
-    "question": "A patient’s rhythm converts after adenosine; brief flushing resolves. What should the nurse do next?",
+    "question": "A patient scheduled for CABG asks which vessel is commonly used as a graft to the LAD. Which response is correct?",
     "options": [
-      "(A) Continue assessment and document response",
-      "(B) Give another dose automatically",
-      "(C) Remove all monitoring immediately",
-      "(D) Diagnose MI from flushing"
+      "(A) Left internal mammary artery",
+      "(B) Pulmonary vein",
+      "(C) Inferior vena cava",
+      "(D) Coronary sinus"
     ],
     "correct_index": 0,
-    "explanation": "A — Continue assessment and document."
+    "explanation": "A. The left internal mammary artery is commonly grafted to the LAD."
+  },
+  {
+    "question": "A patient immediately after CABG has rapidly increasing chest-tube output and falling blood pressure. What should the nurse do?",
+    "options": [
+      "(A) Assess for hemorrhage and urgently contact the surgical team",
+      "(B) Clamp the tube independently",
+      "(C) Wait until the end of the shift",
+      "(D) Encourage walking"
+    ],
+    "correct_index": 0,
+    "explanation": "A. The pattern suggests potentially serious postoperative bleeding."
+  },
+  {
+    "question": "After CABG, chest-tube drainage stops abruptly while the patient becomes hypotensive with distended neck veins. What should the nurse suspect?",
+    "options": [
+      "(A) Tamponade from accumulated blood",
+      "(B) Guaranteed recovery",
+      "(C) Normal postoperative appetite",
+      "(D) Stable chronic angina"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Obstructed drainage with impaired filling may signal postoperative tamponade."
+  },
+  {
+    "question": "After valve replacement, a patient with a mechanical valve asks why long-term anticoagulation is needed. What is the best explanation?",
+    "options": [
+      "(A) The artificial surface increases thrombus risk",
+      "(B) The valve produces red blood cells",
+      "(C) Anticoagulation makes the valve quieter",
+      "(D) Anticoagulation treats every infection"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Mechanical valves are thrombogenic and require an appropriate anticoagulation regimen."
+  },
+  {
+    "question": "A patient with a mechanical mitral valve says they will switch from prescribed warfarin to a friend’s direct oral anticoagulant. What should the nurse say?",
+    "options": [
+      "(A) “Do not switch; contact your valve team because mechanical valves require a specific anticoagulation plan.”",
+      "(B) “All anticoagulants are interchangeable.”",
+      "(C) “Stop anticoagulation entirely.”",
+      "(D) “Take both medicines without asking.”"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Direct oral anticoagulants are not routine substitutes for warfarin in mechanical-valve patients."
+  },
+  {
+    "question": "A patient with a temporary epicardial pacemaker becomes dizzy. The ECG shows pacing spikes with no subsequent QRS complexes. What is occurring?",
+    "options": [
+      "(A) Failure to capture",
+      "(B) Normal pacing",
+      "(C) Atrial fibrillation confirmed",
+      "(D) Ventricular fibrillation"
+    ],
+    "correct_index": 0,
+    "explanation": "A. A spike without ventricular depolarization indicates failure to capture."
+  },
+  {
+    "question": "A patient’s implantable cardioverter-defibrillator delivers repeated shocks within minutes. What should the nurse do first?",
+    "options": [
+      "(A) Assess the patient and rhythm and initiate urgent device evaluation",
+      "(B) Send the patient home",
+      "(C) Remove all monitoring",
+      "(D) Tell the patient the shocks cannot reflect arrhythmia"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Multiple shocks may indicate recurrent arrhythmia or a device issue."
+  },
+  {
+    "question": "A patient with a continuous-flow LVAD is awake and talking, but no radial pulse is palpable. What should the nurse understand?",
+    "options": [
+      "(A) A palpable pulse may be absent despite adequate device flow",
+      "(B) The patient must be in cardiac arrest",
+      "(C) The device should be disconnected",
+      "(D) Blood pressure can never be assessed"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Continuous-flow LVADs may produce little pulsatility; perfusion is assessed with device-specific methods."
+  },
+  {
+    "question": "After aortic surgery, a patient develops new leg weakness. What is the priority?",
+    "options": [
+      "(A) Urgent neurologic and perfusion assessment",
+      "(B) Reassurance without examination",
+      "(C) Delay reporting until discharge",
+      "(D) Ask the patient to walk alone"
+    ],
+    "correct_index": 0,
+    "explanation": "A. New weakness may reflect a serious spinal-cord perfusion complication."
+  },
+  {
+    "question": "A patient after MI says they will stop all activity indefinitely. Which discharge plan is best?",
+    "options": [
+      "(A) An individualized gradual activity plan and cardiac rehabilitation referral",
+      "(B) Permanent bed rest",
+      "(C) Immediate maximal exertion",
+      "(D) No follow-up"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Cardiac rehabilitation supports safe recovery and secondary prevention."
+  },
+  {
+    "question": "A patient with heart failure uses ibuprofen frequently for joint pain. What should the nurse include in teaching?",
+    "options": [
+      "(A) Discuss alternatives with the care team because NSAIDs can worsen fluid retention and kidney function",
+      "(B) Take extra ibuprofen whenever edema develops",
+      "(C) Stop all prescribed heart-failure treatment",
+      "(D) NSAIDs always improve heart failure"
+    ],
+    "correct_index": 0,
+    "explanation": "A. NSAIDs may worsen congestion and renal function."
+  },
+  {
+    "question": "At discharge after PCI, the old medication list conflicts with the new prescription. What is the safest nursing action?",
+    "options": [
+      "(A) Reconcile the lists and use teach-back for the final regimen",
+      "(B) Give both lists without clarification",
+      "(C) Tell the patient to choose either list",
+      "(D) Identify medicines only by pill color"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Medication reconciliation and teach-back help prevent dosing and omission errors."
+  },
+  {
+    "question": "A patient with heart failure has a prescribed plan to monitor weight at home. Which report most clearly warrants contacting the care team under an individualized action plan?",
+    "options": [
+      "(A) A rapid, sustained weight increase with worsening breathlessness",
+      "(B) An unchanged weight and improved exercise tolerance",
+      "(C) One measurement taken on a different scale without symptoms",
+      "(D) Stable appetite alone"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Rapid weight gain with symptoms may indicate worsening fluid retention."
   }
 ]
