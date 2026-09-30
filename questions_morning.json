@@ -1,1102 +1,1102 @@
 [
   {
-    "question": "An atrial septal defect is an opening in the:",
+    "question": "A patient in cardiogenic shock has pH 7.24, PaCO₂ 38 mm Hg, and HCO₃⁻ 16 mmol/L. What is the primary disorder?",
     "options": [
-      "(A) Interventricular septum",
-      "(B) Interatrial septum",
-      "(C) Ductus arteriosus",
-      "(D) Aortic valve"
+      "(A) Respiratory acidosis",
+      "(B) Metabolic acidosis",
+      "(C) Respiratory alkalosis",
+      "(D) Metabolic alkalosis"
     ],
     "correct_index": 1,
-    "explanation": "It connects the two atria."
+    "explanation": "B. Metabolic acidosis."
   },
   {
-    "question": "The usual initial direction of flow across an isolated ASD after birth is:",
+    "question": "A hypotensive post-MI patient has metabolic acidosis and rising lactate. What should the nurse assess first?",
     "options": [
-      "(A) Right to left",
-      "(B) Left to right",
-      "(C) Aorta to pulmonary artery",
-      "(D) RV to LV"
+      "(A) Tissue perfusion",
+      "(B) Hearing",
+      "(C) Bowel pattern",
+      "(D) Skin pigmentation"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Tissue perfusion."
+  },
+  {
+    "question": "An anxious patient with palpitations has pH 7.49, PaCO₂ 29, and HCO₃⁻ 23. Which disorder is present?",
+    "options": [
+      "(A) Respiratory alkalosis",
+      "(B) Metabolic acidosis",
+      "(C) Respiratory acidosis",
+      "(D) Metabolic alkalosis"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Respiratory alkalosis."
+  },
+  {
+    "question": "A patient with acute pulmonary edema tires and hypoventilates. ABG: pH 7.25, PaCO₂ 62, HCO₃⁻ 26. What is the primary problem?",
+    "options": [
+      "(A) Metabolic alkalosis",
+      "(B) Respiratory acidosis",
+      "(C) Metabolic acidosis",
+      "(D) Respiratory alkalosis"
     ],
     "correct_index": 1,
-    "explanation": "Left to right flow occurs due to higher pressure and compliance in the left atrium compared to the right atrium."
+    "explanation": "B. Respiratory acidosis."
   },
   {
-    "question": "An untreated, significant ASD primarily causes volume overload of the:",
+    "question": "A patient taking high-dose loop diuretics has pH 7.49, PaCO₂ 45, HCO₃⁻ 33. What is the primary disorder?",
     "options": [
-      "(A) LA and LV",
-      "(B) RA and RV",
-      "(C) LV alone",
-      "(D) Aorta"
-    ],
-    "correct_index": 1,
-    "explanation": "The extra blood shunted from the left atrium enters the right atrium and right ventricle, causing volume overload of both right-sided chambers."
-  },
-  {
-    "question": "Pulmonary blood flow in a significant left-to-right ASD is generally:",
-    "options": [
-      "(A) Decreased",
-      "(B) Increased",
-      "(C) Absent",
-      "(D) Unrelated to shunt size"
-    ],
-    "correct_index": 1,
-    "explanation": "Left-to-right shunting increases the volume of blood delivered through the right heart to the pulmonary vasculature."
-  },
-  {
-    "question": "The most common anatomical type of ASD is:",
-    "options": [
-      "(A) Ostium secundum",
-      "(B) Ostium primum",
-      "(C) Sinus venosus",
-      "(D) Coronary sinus type"
+      "(A) Metabolic alkalosis",
+      "(B) Respiratory alkalosis",
+      "(C) Respiratory acidosis",
+      "(D) Metabolic acidosis"
     ],
     "correct_index": 0,
-    "explanation": "Ostium secundum ASD accounts for approximately 70% to 80% of all atrial septal defects."
+    "explanation": "A. Metabolic alkalosis."
   },
   {
-    "question": "An ostium secundum ASD is located chiefly in the region of the:",
+    "question": "A patient with septic shock and endocarditis has pH 7.19, PaCO₂ 28, HCO₃⁻ 11. What best explains the low PaCO₂?",
     "options": [
-      "(A) Membranous ventricular septum",
-      "(B) Fossa ovalis",
-      "(C) Aortic arch",
-      "(D) Pulmonary valve"
-    ],
-    "correct_index": 1,
-    "explanation": "Secundum defects involve the central portion of the interatrial septum at the fossa ovalis."
-  },
-  {
-    "question": "An ostium primum ASD is located in the:",
-    "options": [
-      "(A) Upper posterior atrial septum",
-      "(B) Lower atrial septum near the AV valves",
-      "(C) Ventricular apex",
-      "(D) Pulmonary trunk"
-    ],
-    "correct_index": 1,
-    "explanation": "Ostium primum defects are positioned low in the interatrial septum, adjacent to the atrioventricular valves."
-  },
-  {
-    "question": "Ostium primum ASD is considered part of the spectrum of:",
-    "options": [
-      "(A) Atrioventricular septal defect",
-      "(B) Tetralogy of Fallot",
-      "(C) Transposition of great arteries",
-      "(D) Coarctation"
+      "(A) Respiratory compensation",
+      "(B) Primary respiratory acidosis",
+      "(C) Laboratory error in every case",
+      "(D) No ventilation"
     ],
     "correct_index": 0,
-    "explanation": "Primum ASDs are endocardial cushion defects and represent a partial form of an atrioventricular septal defect (AVSD)."
+    "explanation": "A. Respiratory compensation."
   },
   {
-    "question": "A sinus venosus ASD commonly lies near the entrance of the:",
+    "question": "A patient’s pH is 7.40, PaCO₂ 20, and HCO₃⁻ 12 after prolonged illness. What should the nurse recognize?",
     "options": [
-      "(A) Aorta",
-      "(B) Superior or inferior vena cava",
-      "(C) Coronary arteries",
-      "(D) Pulmonary trunk"
-    ],
-    "correct_index": 1,
-    "explanation": "Sinus venosus defects are situated near the junction of the right atrium with either the superior or inferior vena cava."
-  },
-  {
-    "question": "A superior sinus venosus ASD is often associated with:",
-    "options": [
-      "(A) Anomalous right pulmonary venous drainage",
-      "(B) Aortic coarctation in every case",
-      "(C) Pulmonary atresia",
-      "(D) Absent tricuspid valve"
+      "(A) Mixed acid–base disorder may be present",
+      "(B) Values are all normal",
+      "(C) Isolated metabolic alkalosis",
+      "(D) Isolated respiratory acidosis"
     ],
     "correct_index": 0,
-    "explanation": "Superior sinus venosus defects frequently coexist with partial anomalous pulmonary venous return (PAPVR) of the right upper pulmonary vein."
+    "explanation": "A mixed disorder may be present."
   },
   {
-    "question": "The hemodynamic effect of an ASD depends more on its:",
+    "question": "A patient with severe heart failure has PaO₂ 55 mm Hg on room air. Which finding is demonstrated?",
     "options": [
-      "(A) Name alone",
-      "(B) Resulting shunt and right-heart volume load",
-      "(C) Color on echocardiography",
-      "(D) Patient's height alone"
-    ],
-    "correct_index": 1,
-    "explanation": "The clinical impact depends primarily on the magnitude of the left-to-right shunt and the degree of right ventricular volume overload."
-  },
-  {
-    "question": "In an uncomplicated left-to-right ASD, oxygenated blood passes from the:",
-    "options": [
-      "(A) LA to RA",
-      "(B) RA to LA",
-      "(C) RV to LV",
-      "(D) Aorta to pulmonary trunk"
+      "(A) Hypoxemia",
+      "(B) Hyperkalemia",
+      "(C) Hypercapnia",
+      "(D) Metabolic alkalosis"
     ],
     "correct_index": 0,
-    "explanation": "Oxygenated blood from the left atrium crosses the defect into the unoxygenated right atrium."
+    "explanation": "A. Hypoxemia."
   },
   {
-    "question": "The chamber receiving additional blood directly through the usual ASD shunt is the:",
+    "question": "A patient on supplemental oxygen has worsening work of breathing despite a normal pulse-oximeter reading. What does an ABG add?",
     "options": [
-      "(A) RA",
-      "(B) RV",
-      "(C) LA",
-      "(D) LV"
+      "(A) PaCO₂ and acid–base assessment",
+      "(B) Coronary anatomy",
+      "(C) Valve area",
+      "(D) INR"
     ],
     "correct_index": 0,
-    "explanation": "The right atrium directly receives the extra volume from the left atrium via the atrial septal defect."
+    "explanation": "A. PaCO₂ and acid–base assessment."
   },
   {
-    "question": "The right ventricle receives the extra shunted volume through the:",
+    "question": "A patient has a normal SpO₂ but suspected carbon monoxide exposure and chest pain. Which test provides essential additional information?",
     "options": [
-      "(A) Aortic valve",
-      "(B) Tricuspid valve",
-      "(C) Mitral valve",
-      "(D) Pulmonary veins"
-    ],
-    "correct_index": 1,
-    "explanation": "Blood flows from the right atrium across the tricuspid valve into the right ventricle."
-  },
-  {
-    "question": "A large chronic left-to-right ASD may eventually raise:",
-    "options": [
-      "(A) Pulmonary vascular resistance",
-      "(B) Aortic valve cusp number",
-      "(C) Systemic venous oxygen extraction to zero",
-      "(D) LV wall thickness in every child"
+      "(A) Co-oximetry",
+      "(B) Standard pulse oximetry alone",
+      "(C) ABI",
+      "(D) Echocardiography alone"
     ],
     "correct_index": 0,
-    "explanation": "Chronically elevated pulmonary blood flow can lead to remodeling of pulmonary arterioles and elevated pulmonary vascular resistance."
+    "explanation": "A. Co-oximetry."
   },
   {
-    "question": "Severe, longstanding pulmonary vascular disease can cause the ASD shunt to become:",
+    "question": "An ABG is ordered after a major change in ventilator settings. What should the nurse document with the sample?",
     "options": [
-      "(A) Right to left or bidirectional",
-      "(B) Permanently left to right in every case",
-      "(C) Aorta to pulmonary artery",
-      "(D) LV to RV"
+      "(A) Oxygen and ventilator settings at collection",
+      "(B) Only patient height",
+      "(C) Only breakfast intake",
+      "(D) Only room number"
     ],
     "correct_index": 0,
-    "explanation": "When right-sided pressures exceed left-sided pressures, the shunt reverses to right-to-left or bidirectional flow."
+    "explanation": "A. Settings at collection."
   },
   {
-    "question": "Cyanosis developing after reversal of a longstanding ASD shunt suggests:",
+    "question": "A patient’s ABG sample contains a visible air bubble. What should the nurse do according to sampling protocol?",
     "options": [
-      "(A) Eisenmenger physiology",
-      "(B) An uncomplicated small ASD",
-      "(C) Normal fetal circulation",
-      "(D) Isolated mitral prolapse"
+      "(A) Remove the bubble promptly and handle correctly",
+      "(B) Shake vigorously with air",
+      "(C) Leave it open",
+      "(D) Add room air deliberately"
     ],
     "correct_index": 0,
-    "explanation": "Eisenmenger physiology refers to severe pulmonary arterial hypertension secondary to a left-to-right shunt causing shunt reversal and central cyanosis."
+    "explanation": "A. Remove the bubble promptly."
   },
   {
-    "question": "In a typical child with an uncomplicated ASD, cardiac pressures may remain:",
+    "question": "An ABG syringe is drawn from an arterial line while a saline flush is running. What is the concern?",
     "options": [
-      "(A) Generally near normal despite increased right-heart volume",
-      "(B) Equal to systemic pressure in the RA",
-      "(C) Zero in the RV",
-      "(D) Higher in the RA than the aorta"
+      "(A) Sample dilution",
+      "(B) Improved accuracy",
+      "(C) Guaranteed hyperkalemia",
+      "(D) No effect on results"
     ],
     "correct_index": 0,
-    "explanation": "Because the right heart is highly compliant, cardiac pressures often remain normal or near-normal despite handling extra volume."
+    "explanation": "A. Sample dilution."
   },
   {
-    "question": "A patent foramen ovale differs from a true ASD because a PFO is usually a:",
+    "question": "A patient on anticoagulation needs radial arterial puncture. What is particularly important afterward?",
     "options": [
-      "(A) Flap-like potential opening",
-      "(B) Ventricular septal hole",
-      "(C) Persistent ductus arteriosus",
-      "(D) Missing pulmonary valve"
+      "(A) Adequate pressure and bleeding assessment",
+      "(B) Immediate massage",
+      "(C) No site check",
+      "(D) Tight tourniquet left in place"
     ],
     "correct_index": 0,
-    "explanation": "A PFO is an incomplete anatomic closure of a valvular flap rather than a deficiency of septal tissue."
+    "explanation": "A. Pressure and bleeding assessment."
   },
   {
-    "question": "Which measurement compares pulmonary with systemic blood flow?",
+    "question": "Before radial arterial sampling, the hand is pale and cool with poor perfusion. What should the nurse do?",
     "options": [
-      "(A) EF",
-      "(B) Qp:Qs",
-      "(C) QTc",
-      "(D) PR interval"
-    ],
-    "correct_index": 1,
-    "explanation": "Qp:Qs is the ratio of pulmonary blood flow (Qp) to systemic blood flow (Qs); a ratio > 1 indicates a left-to-right shunt."
-  },
-  {
-    "question": "A child with a small ASD is most likely to be:",
-    "options": [
-      "(A) Profoundly cyanotic",
-      "(B) Asymptomatic",
-      "(C) In cardiogenic shock",
-      "(D) Severely hypertensive"
-    ],
-    "correct_index": 1,
-    "explanation": "Small ASDs cause minimal hemodynamic change and are usually completely asymptomatic."
-  },
-  {
-    "question": "The classic second-heart-sound finding in ASD is:",
-    "options": [
-      "(A) Fixed, wide splitting of S2",
-      "(B) Absent S1",
-      "(C) Opening snap",
-      "(D) Single loud S2 in every patient"
+      "(A) Stop and seek assessment of a safer site/approach",
+      "(B) Puncture repeatedly",
+      "(C) Ignore perfusion",
+      "(D) Apply heat directly"
     ],
     "correct_index": 0,
-    "explanation": "Wide, fixed splitting of S2 occurs because right ventricular overload delays pulmonary valve closure regardless of respiration."
+    "explanation": "A. Seek assessment before puncture."
   },
   {
-    "question": "“Fixed” splitting means that the separation of A2 and P2 changes little with:",
+    "question": "After radial puncture, the patient reports increasing hand numbness and pain. What is the first action?",
     "options": [
-      "(A) Respiration",
-      "(B) Body weight",
-      "(C) Feeding",
-      "(D) Age"
+      "(A) Assess distal circulation urgently",
+      "(B) Reassure without assessment",
+      "(C) Repeat puncture",
+      "(D) Encourage forceful gripping only"
     ],
     "correct_index": 0,
-    "explanation": "Respiratory variation in S2 splitting is minimal or absent in significant ASD."
+    "explanation": "Assess distal circulation."
   },
   {
-    "question": "The usual systolic murmur of an uncomplicated ASD is heard best at the:",
+    "question": "A patient has a pulsatile, expanding swelling after arterial puncture. What complication is concerning?",
     "options": [
-      "(A) Upper left sternal border",
-      "(B) Cardiac apex",
-      "(C) Right lower sternal border",
-      "(D) Back below the scapula"
+      "(A) Arterial hematoma or pseudoaneurysm",
+      "(B) Normal venous refill",
+      "(C) Stable angina",
+      "(D) Expected heart sound"
     ],
     "correct_index": 0,
-    "explanation": "The pulmonary flow systolic murmur is best appreciated at the upper left sternal border (second intercostal space)."
+    "explanation": "Arterial hematoma or pseudoaneurysm."
   },
   {
-    "question": "The typical systolic murmur of ASD is mainly due to increased flow across the:",
+    "question": "An ABG specimen is unlabeled at the bedside. What should the nurse do?",
     "options": [
-      "(A) Pulmonary valve",
-      "(B) Mitral valve",
-      "(C) ASD itself",
-      "(D) Aortic arch"
+      "(A) Follow identification policy; do not guess its source",
+      "(B) Label it with another patient’s name",
+      "(C) Send it without identification",
+      "(D) Guess from syringe color"
     ],
     "correct_index": 0,
-    "explanation": "Flow across the ASD itself is non-turbulent; the systolic murmur is produced by high blood volume crossing the normal pulmonary valve."
+    "explanation": "A. Follow identification policy."
   },
   {
-    "question": "A low-pitched diastolic murmur at the lower sternal border in a large ASD can reflect increased flow across the:",
+    "question": "A patient with pulmonary edema has pH 7.31, PaCO₂ 52, and PaO₂ 49. What is the immediate priority?",
     "options": [
-      "(A) Tricuspid valve",
-      "(B) Aortic valve",
-      "(C) Mitral valve",
-      "(D) Pulmonary veins"
+      "(A) Support ventilation and oxygenation",
+      "(B) Complete discharge paperwork",
+      "(C) Encourage ambulation",
+      "(D) Give food"
     ],
     "correct_index": 0,
-    "explanation": "A large left-to-right shunt creates relative tricuspid stenosis due to high blood volume crossing the tricuspid valve in mid-diastole."
+    "explanation": "A. Support ventilation and oxygenation."
   },
   {
-    "question": "An older patient with a significant ASD may first report:",
+    "question": "A shocked patient’s lactate increases despite treatment. What does the trend prompt?",
     "options": [
-      "(A) Exertional fatigue",
-      "(B) Sudden neonatal cyanosis in every case",
-      "(C) Severe leg pain only",
-      "(D) Persistent hypoglycemia"
+      "(A) Reassessment of perfusion and cause",
+      "(B) Routine discharge",
+      "(C) Removal of monitoring",
+      "(D) Exercise testing"
     ],
     "correct_index": 0,
-    "explanation": "Exertional dyspnea and fatigue are common initial symptoms in adolescents and adults with unrepaired ASD."
+    "explanation": "A. Reassessment of perfusion and cause."
   },
   {
-    "question": "Dyspnea with activity in an adult with unrepaired ASD is:",
+    "question": "A patient with low cardiac output has cold limbs and metabolic acidosis. Which mechanism produces the acidosis?",
     "options": [
-      "(A) A possible symptom",
-      "(B) Proof of a small harmless shunt",
-      "(C) Diagnostic without imaging",
-      "(D) Caused only by anemia"
+      "(A) Inadequate tissue oxygen delivery and lactate generation",
+      "(B) Excess coronary flow",
+      "(C) Increased valve area",
+      "(D) Low serum chloride alone"
     ],
     "correct_index": 0,
-    "explanation": "Exertional dyspnea is a recognized symptom caused by progressive pulmonary overcirculation or right heart burden."
+    "explanation": "A. Inadequate tissue oxygen delivery."
   },
   {
-    "question": "In an infant with a larger shunt, which history deserves attention?",
+    "question": "A patient with vomiting and diuretic use has metabolic alkalosis. Which electrolyte should the nurse closely review?",
     "options": [
-      "(A) Tiring during feeds",
-      "(B) Increased hair growth",
-      "(C) Excessive urination alone",
-      "(D) Hearing loss alone"
+      "(A) Potassium",
+      "(B) Iron only",
+      "(C) Phosphate only",
+      "(D) Hemoglobin only"
     ],
     "correct_index": 0,
-    "explanation": "Diaphoresis or tiring during feeding is an early sign of pediatric heart failure or significant hemodynamic workload."
+    "explanation": "A. Potassium."
   },
   {
-    "question": "Slow weight gain in a child with a significant ASD should prompt assessment of:",
+    "question": "A patient with severe hypokalemia and alkalosis develops ectopy. What is the nursing priority?",
     "options": [
-      "(A) Feeding tolerance and cardiopulmonary symptoms",
-      "(B) Hair color",
+      "(A) ECG monitoring and ordered electrolyte correction",
+      "(B) Extra diuretic",
+      "(C) Exercise",
+      "(D) No reassessment"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Monitor and correct as ordered."
+  },
+  {
+    "question": "A patient with metabolic acidosis has potassium 6.4 mmol/L and ECG changes. Which issue is immediately dangerous?",
+    "options": [
+      "(A) Hyperkalemia-related arrhythmia",
+      "(B) Low cholesterol",
+      "(C) Mild anemia",
+      "(D) Stable BP"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Hyperkalemia-related arrhythmia."
+  },
+  {
+    "question": "A patient with pH 7.53, PaCO₂ 27, HCO₃⁻ 22 is breathing rapidly with chest pain. What should the nurse avoid assuming?",
+    "options": [
+      "(A) That anxiety alone explains the respiratory alkalosis",
+      "(B) That respiratory rate matters",
+      "(C) That oxygenation needs assessment",
+      "(D) That pain warrants evaluation"
+    ],
+    "correct_index": 0,
+    "explanation": "Avoid assuming anxiety alone."
+  },
+  {
+    "question": "A patient with suspected PE has low PaCO₂ from tachypnea. Does this result alone confirm PE?",
+    "options": [
+      "(A) No",
+      "(B) Yes",
+      "(C) Only if sodium is low",
+      "(D) Only if pulse is normal"
+    ],
+    "correct_index": 0,
+    "explanation": "A. No."
+  },
+  {
+    "question": "A patient with advanced HF has low PaO₂ and pulmonary edema. Which assessment best evaluates immediate response to oxygen support?",
+    "options": [
+      "(A) Respiratory effort, SpO₂, and clinical status",
+      "(B) Shoe size",
+      "(C) Hearing",
+      "(D) Last bowel movement"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Respiratory and clinical response."
+  },
+  {
+    "question": "A ventilated patient’s PaCO₂ rises markedly after sedation and respiratory rate falls. What mechanism is likely?",
+    "options": [
+      "(A) Alveolar hypoventilation",
+      "(B) Excess ventilation",
+      "(C) Metabolic alkalosis alone",
+      "(D) Increased renal excretion of CO₂"
+    ],
+    "correct_index": 0,
+    "explanation": "Alveolar hypoventilation."
+  },
+  {
+    "question": "A patient with acute respiratory alkalosis has tingling and light-headedness. What should the nurse do first?",
+    "options": [
+      "(A) Assess breathing and the underlying cause",
+      "(B) Give a sedative without assessment",
+      "(C) Ignore chest pain",
+      "(D) Stop monitoring"
+    ],
+    "correct_index": 0,
+    "explanation": "Assess breathing and cause."
+  },
+  {
+    "question": "A patient’s ABG reads pH 7.28, PaCO₂ 25, HCO₃⁻ 12. What is the primary disturbance?",
+    "options": [
+      "(A) Metabolic acidosis",
+      "(B) Metabolic alkalosis",
+      "(C) Respiratory acidosis",
+      "(D) Respiratory alkalosis"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Metabolic acidosis."
+  },
+  {
+    "question": "A patient’s ABG reads pH 7.51, PaCO₂ 47, HCO₃⁻ 36. What is the primary disturbance?",
+    "options": [
+      "(A) Metabolic alkalosis",
+      "(B) Respiratory alkalosis",
+      "(C) Metabolic acidosis",
+      "(D) Respiratory acidosis"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Metabolic alkalosis."
+  },
+  {
+    "question": "A patient’s ABG reads pH 7.29, PaCO₂ 58, HCO₃⁻ 27. What is the primary disturbance?",
+    "options": [
+      "(A) Respiratory acidosis",
+      "(B) Respiratory alkalosis",
+      "(C) Metabolic acidosis",
+      "(D) Metabolic alkalosis"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Respiratory acidosis."
+  },
+  {
+    "question": "A patient’s ABG reads pH 7.47, PaCO₂ 30, HCO₃⁻ 21. What is the primary disturbance?",
+    "options": [
+      "(A) Respiratory alkalosis",
+      "(B) Respiratory acidosis",
+      "(C) Metabolic alkalosis",
+      "(D) Metabolic acidosis"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Respiratory alkalosis."
+  },
+  {
+    "question": "A patient with pH 7.20 and severe hypotension is waiting for routine lab review. What should the nurse do?",
+    "options": [
+      "(A) Escalate the critical result and assess perfusion",
+      "(B) Wait until morning",
+      "(C) Offer a meal",
+      "(D) Remove ECG leads"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Escalate and assess perfusion."
+  },
+  {
+    "question": "During CPR, an ABG is drawn from an arterial catheter. Which fact is essential when interpreting it?",
+    "options": [
+      "(A) Arrest physiology and sampling time",
+      "(B) Patient’s height only",
       "(C) Shoe size",
-      "(D) Pupillary distance"
+      "(D) Family history alone"
     ],
     "correct_index": 0,
-    "explanation": "Failure to thrive or poor weight gain indicates possible heart failure or increased metabolic work of breathing."
+    "explanation": "Arrest physiology and sampling time."
   },
   {
-    "question": "A palpable parasternal lift in significant ASD suggests increased activity or enlargement of the:",
+    "question": "A patient has an arterial line for repeated ABGs. Which nursing action reduces infection risk?",
     "options": [
-      "(A) Right ventricle",
-      "(B) Left atrium only",
-      "(C) Aortic arch",
-      "(D) Coronary sinus only"
+      "(A) Maintain aseptic access and a closed system",
+      "(B) Leave ports uncapped",
+      "(C) Disconnect repeatedly without need",
+      "(D) Use the line for routine medication infusion"
     ],
     "correct_index": 0,
-    "explanation": "A parasternal heave or lift reflects right ventricular enlargement or hyperdynamic impulse against the chest wall."
+    "explanation": "A. Maintain aseptic access and a closed system."
   },
   {
-    "question": "Palpitations in an adult with longstanding ASD may reflect:",
+    "question": "An arterial pressure line is mistakenly connected to a medication infusion. What should the nurse do?",
     "options": [
-      "(A) An atrial arrhythmia",
-      "(B) Normal coronary anatomy only",
-      "(C) Closure of the pulmonary valve",
-      "(D) Disappearance of the shunt"
+      "(A) Stop the unsafe connection and follow emergency device protocol",
+      "(B) Continue infusion",
+      "(C) Assume it is venous",
+      "(D) Ignore alarms"
     ],
     "correct_index": 0,
-    "explanation": "Chronic atrial stretch and dilation in ASD predispose patients to atrial flutter and fibrillation."
+    "explanation": "A. Stop the unsafe connection."
   },
   {
-    "question": "Which rhythm problem may occur with longstanding ASD?",
+    "question": "After arterial puncture, bleeding persists despite initial pressure. What should the nurse do?",
     "options": [
-      "(A) Atrial fibrillation",
-      "(B) Ventricular fibrillation in every child",
-      "(C) Complete AV block in every patient",
-      "(D) Sinus arrest in every patient"
+      "(A) Continue appropriate compression and escalate",
+      "(B) Cover without checking",
+      "(C) Ask the patient to walk",
+      "(D) Massage the site"
     ],
     "correct_index": 0,
-    "explanation": "Atrial stretch commonly triggers supraventricular tachyarrhythmias, particularly atrial fibrillation and atrial flutter."
+    "explanation": "A. Continue compression and escalate."
   },
   {
-    "question": "A venous clot crossing an ASD into systemic circulation is a:",
+    "question": "A patient’s ABG is drawn immediately after oxygen delivery is changed. Why should timing be recorded?",
     "options": [
-      "(A) Paradoxical embolus",
-      "(B) Pulmonary embolus by definition",
-      "(C) Coronary shunt",
-      "(D) Normal fetal event"
+      "(A) Results depend on oxygen exposure and equilibration",
+      "(B) Time never matters",
+      "(C) It determines blood group",
+      "(D) It replaces clinical assessment"
     ],
     "correct_index": 0,
-    "explanation": "A paradoxical embolus occurs when a venous thrombus passes through an interatrial communication directly into systemic arteries."
+    "explanation": "A. Timing affects interpretation."
   },
   {
-    "question": "A new focal neurological deficit in a patient with an ASD requires urgent evaluation for:",
+    "question": "A patient has pH 7.34, PaCO₂ 60, HCO₃⁻ 32 after chronic respiratory disease. Which primary problem is likely?",
     "options": [
-      "(A) Stroke",
-      "(B) Normal shunt flow",
-      "(C) Benign respiratory variation",
-      "(D) Spontaneous closure"
+      "(A) Respiratory acidosis with metabolic compensation",
+      "(B) Metabolic acidosis",
+      "(C) Respiratory alkalosis",
+      "(D) Pure metabolic alkalosis"
     ],
     "correct_index": 0,
-    "explanation": "Focal neurological deficits point to acute ischemic stroke, potentially from paradoxical thromboembolism."
+    "explanation": "A. Respiratory acidosis with compensation."
   },
   {
-    "question": "An untreated large ASD can cause long-term injury to the:",
+    "question": "A patient has pH 7.36, PaCO₂ 28, HCO₃⁻ 16 with chronic metabolic disease. What primary disorder is likely?",
     "options": [
-      "(A) Pulmonary vasculature",
-      "(B) Lens of the eye exclusively",
-      "(C) Thyroid cartilage",
-      "(D) Pericardial sac in every patient"
+      "(A) Metabolic acidosis with respiratory compensation",
+      "(B) Respiratory acidosis",
+      "(C) Metabolic alkalosis",
+      "(D) Normal acid–base status"
     ],
     "correct_index": 0,
-    "explanation": "Prolonged high blood flow leads to vascular remodeling, smooth muscle hypertrophy, and pulmonary arterial hypertension."
+    "explanation": "A. Metabolic acidosis with compensation."
   },
   {
-    "question": "Peripheral edema in an adult with longstanding ASD raises concern for:",
+    "question": "A patient in shock has PaO₂ within the reference range on oxygen but low BP and elevated lactate. What remains possible?",
     "options": [
-      "(A) Right-sided heart failure",
-      "(B) Normal childhood physiology",
-      "(C) Immediate spontaneous closure",
-      "(D) Isolated left atrial contraction"
+      "(A) Inadequate tissue oxygen delivery",
+      "(B) Normal tissue perfusion guaranteed",
+      "(C) No cardiac dysfunction",
+      "(D) No metabolic acidosis"
     ],
     "correct_index": 0,
-    "explanation": "Peripheral edema, hepatomegaly, and elevated JVP reflect right heart decompensation from chronic volume overload."
+    "explanation": "A. Inadequate tissue oxygen delivery."
   },
   {
-    "question": "Which finding is least typical of an uncomplicated small ASD in infancy?",
+    "question": "A patient asks whether pulse oximetry measures PaCO₂. Which response is correct?",
     "options": [
-      "(A) No symptoms",
-      "(B) Incidental murmur",
-      "(C) Severe persistent central cyanosis",
-      "(D) Normal feeding"
-    ],
-    "correct_index": 2,
-    "explanation": "Central cyanosis occurs in right-to-left shunts and is absent in an uncomplicated, acyanotic left-to-right ASD."
-  },
-  {
-    "question": "A large ASD may remain undetected until adulthood chiefly because:",
-    "options": [
-      "(A) Childhood symptoms can be minimal",
-      "(B) Echocardiography cannot show an ASD",
-      "(C) Every ASD closes by age one",
-      "(D) The right heart receives no extra blood"
+      "(A) No; ABG or appropriate CO₂ monitoring assesses ventilation",
+      "(B) Yes, directly",
+      "(C) Only if SpO₂ is 100%",
+      "(D) Only during sleep"
     ],
     "correct_index": 0,
-    "explanation": "Children tolerate right heart volume overload well, allowing significant ASDs to stay symptom-free for decades."
+    "explanation": "A. No."
   },
   {
-    "question": "Which change most strongly suggests progression beyond an uncomplicated left-to-right shunt?",
+    "question": "A patient with HF has worsening dyspnea despite stable SpO₂. Which change may reveal ventilatory fatigue?",
     "options": [
-      "(A) New resting cyanosis",
-      "(B) Normal oxygenation",
-      "(C) Good feeding",
-      "(D) A soft flow murmur alone"
+      "(A) Rising PaCO₂ with falling pH",
+      "(B) Falling potassium alone",
+      "(C) Lower INR",
+      "(D) Normal hemoglobin"
     ],
     "correct_index": 0,
-    "explanation": "Resting cyanosis implies shunt reversal due to advanced pulmonary vascular obstructive disease."
+    "explanation": "A. Rising PaCO₂ with falling pH."
   },
   {
-    "question": "The primary test used to confirm an ASD after birth is:",
+    "question": "A patient’s arterial sample was accidentally taken from a venous line. What is the correct response?",
     "options": [
-      "(A) Echocardiography",
-      "(B) Blood glucose",
-      "(C) Spirometry alone",
-      "(D) Urinalysis"
+      "(A) Identify it as venous and obtain a true arterial specimen if required",
+      "(B) Label it arterial anyway",
+      "(C) Average it with SpO₂",
+      "(D) Guess PaO₂"
     ],
     "correct_index": 0,
-    "explanation": "Transthoracic echocardiography is the definitive non-invasive diagnostic modality for ASD identification."
+    "explanation": "A. Identify correctly and recollect if needed."
   },
   {
-    "question": "Color Doppler echocardiography is especially useful for showing:",
+    "question": "A patient receiving heparin has radial ABG sampling. What should the nurse check afterward?",
     "options": [
-      "(A) Flow across the atrial septum",
-      "(B) Serum calcium",
-      "(C) Coronary plaque composition",
-      "(D) Hemoglobin concentration"
+      "(A) Bleeding and hand perfusion",
+      "(B) Only temperature",
+      "(C) Only appetite",
+      "(D) Only lung sounds"
     ],
     "correct_index": 0,
-    "explanation": "Color Doppler visualizes the direction, jet size, and velocity of interatrial blood flow."
+    "explanation": "A. Bleeding and hand perfusion."
   },
   {
-    "question": "An echocardiographic sign of a significant chronic ASD shunt is:",
+    "question": "A patient with cardiogenic shock receives treatment; lactate falls and urine output improves. What do these trends suggest?",
     "options": [
-      "(A) RV volume enlargement",
-      "(B) Absence of the aorta",
-      "(C) LV cavity obliteration in every case",
-      "(D) A closed tricuspid valve throughout diastole"
+      "(A) Improving perfusion",
+      "(B) Worsening shock",
+      "(C) New tamponade",
+      "(D) Guaranteed normal EF"
     ],
     "correct_index": 0,
-    "explanation": "Increased blood volume causes right atrial and right ventricular dilatation, recognizable on echocardiogram."
+    "explanation": "A. Improving perfusion."
   },
   {
-    "question": "Before considering device closure, imaging must assess the defect's:",
+    "question": "A patient with pH 7.18, HCO₃⁻ 10, and high lactate has severe LV failure. What should treatment target first?",
     "options": [
-      "(A) Location and surrounding septal rims",
-      "(B) Patient's hair color",
-      "(C) Rib count",
-      "(D) Platelet shape alone"
+      "(A) The underlying inadequate perfusion",
+      "(B) The printed pH alone",
+      "(C) Hair color",
+      "(D) Only dietary fiber"
     ],
     "correct_index": 0,
-    "explanation": "Adequate tissue rims (superior, inferior, anterior, posterior) are essential to anchor an occluder device."
+    "explanation": "A. Underlying inadequate perfusion."
   },
   {
-    "question": "An ASD with unexplained right-heart enlargement but an unclear transthoracic image may require:",
+    "question": "An ABG sample is delayed in transport. What should the nurse do?",
     "options": [
-      "(A) Additional cardiac imaging",
-      "(B) No further assessment",
-      "(C) Bone scan only",
-      "(D) Routine abdominal X-ray"
+      "(A) Follow laboratory handling requirements and report delay",
+      "(B) Assume the result is always valid",
+      "(C) Add air",
+      "(D) Leave uncapped"
     ],
     "correct_index": 0,
-    "explanation": "Advanced modalities like transesophageal echo (TEE) or cardiac MRI are needed if transthoracic views are non-diagnostic."
+    "explanation": "A. Follow handling requirements."
   },
   {
-    "question": "Transesophageal echocardiography can provide a more detailed view of the:",
+    "question": "An arterial puncture is planned in an arm with an AV fistula for dialysis. What is the safest action?",
     "options": [
-      "(A) Interatrial septum",
-      "(B) Kidney cortex",
-      "(C) Femoral nerve",
-      "(D) Lung alveoli"
+      "(A) Avoid that arm and seek an alternative per policy",
+      "(B) Puncture the fistula",
+      "(C) Apply a tourniquet across it",
+      "(D) Ignore the access"
     ],
     "correct_index": 0,
-    "explanation": "TEE places the transducer directly behind the left atrium, giving clear high-resolution views of atrial septal structure."
+    "explanation": "Avoid the fistula arm."
   },
   {
-    "question": "Which ECG pattern may occur with significant ASD and right-heart loading?",
+    "question": "A patient with severe aortic stenosis develops respiratory distress; ABG shows hypoxemia. Which finding still needs immediate assessment beyond ABG?",
     "options": [
-      "(A) Right axis deviation",
-      "(B) Persistent ST elevation in all leads",
-      "(C) Complete electrical silence",
-      "(D) Delta wave in every patient"
+      "(A) BP and signs of low output",
+      "(B) Hair growth",
+      "(C) Vision test",
+      "(D) Bowel frequency"
     ],
     "correct_index": 0,
-    "explanation": "Right ventricular volume overload shifts the mean QRS axis to the right."
+    "explanation": "A. BP and low-output signs."
   },
   {
-    "question": "An rSR′ pattern in V1 in a patient with ASD may indicate:",
+    "question": "A patient’s PaCO₂ is 70 mm Hg and pH is 7.20 after opioid administration. What should the nurse assess first?",
     "options": [
-      "(A) Right ventricular conduction delay",
-      "(B) Complete absence of ventricular depolarization",
-      "(C) Acute aortic dissection",
-      "(D) Diagnostic proof of Eisenmenger syndrome"
+      "(A) Airway and ventilation",
+      "(B) Daily weight",
+      "(C) Stool color",
+      "(D) Diet preference"
     ],
     "correct_index": 0,
-    "explanation": "Incomplete right bundle branch block (rSR' pattern in lead V1) reflects right ventricular conduction delay from hypertrophy or dilation."
+    "explanation": "Airway and ventilation."
   },
   {
-    "question": "A chest radiograph with a significant ASD may show increased:",
+    "question": "A patient with acute MI is tachypneic. ABG shows low PaCO₂ but normal PaO₂. Does the ABG exclude MI?",
     "options": [
-      "(A) Pulmonary vascular markings",
-      "(B) Bowel gas only",
-      "(C) Bone density",
-      "(D) Air under the diaphragm"
+      "(A) No",
+      "(B) Yes",
+      "(C) Only in women",
+      "(D) Only in older adults"
     ],
     "correct_index": 0,
-    "explanation": "Increased pulmonary blood flow manifests as pulmonary plethora (prominent pulmonary vascular markings) on CXR."
+    "explanation": "A. No."
   },
   {
-    "question": "Enlargement of which structures may appear on chest radiography with a large ASD?",
+    "question": "A patient has pH 7.48, HCO₃⁻ 34, and K⁺ 2.9 after diuresis. Which monitoring is important?",
     "options": [
-      "(A) RA and RV",
-      "(B) LA only",
-      "(C) LV only",
-      "(D) Descending aorta only"
+      "(A) ECG for arrhythmia",
+      "(B) Hearing only",
+      "(C) Vision only",
+      "(D) Stool testing only"
     ],
     "correct_index": 0,
-    "explanation": "Cardiomegaly with prominent right atrial border and enlarged right ventricle is characteristic on plain radiographs."
+    "explanation": "A. ECG monitoring."
   },
   {
-    "question": "A prominent main pulmonary artery segment on chest radiography can support:",
+    "question": "A patient with an arterial catheter has a damped waveform but appears well perfused. What should the nurse do?",
     "options": [
-      "(A) Increased pulmonary blood flow",
-      "(B) Complete absence of pulmonary circulation",
-      "(C) Normal septal anatomy by itself",
-      "(D) Systemic venous obstruction only"
+      "(A) Assess patient and line setup before acting on the number",
+      "(B) Treat a possible artifact blindly",
+      "(C) Disconnect monitoring",
+      "(D) Give medication without BP check"
     ],
     "correct_index": 0,
-    "explanation": "High volume flow through the pulmonary circulation leads to post-capillary/arterial dilation of the pulmonary trunk."
+    "explanation": "Assess patient and setup."
   },
   {
-    "question": "An echocardiogram should assess not only the hole but also:",
+    "question": "An arterial transducer is below the reference level. How may displayed BP be affected?",
     "options": [
-      "(A) Right-heart size and pulmonary pressures",
-      "(B) Hair texture",
-      "(C) Liver biopsy findings in every patient",
-      "(D) Visual acuity"
+      "(A) Falsely high",
+      "(B) Falsely low",
+      "(C) Unchanged under all conditions",
+      "(D) Converted to venous pressure"
     ],
     "correct_index": 0,
-    "explanation": "Comprehensive echo evaluation measures right ventricular dimensions and estimates pulmonary arterial systolic pressure."
+    "explanation": "A. Falsely high."
   },
   {
-    "question": "A Qp:Qs of 2:1 means estimated pulmonary flow is:",
+    "question": "The transducer is raised above the reference level. How may displayed BP be affected?",
     "options": [
-      "(A) Half systemic flow",
-      "(B) Equal to systemic flow",
-      "(C) Twice systemic flow",
-      "(D) Four times systemic flow"
-    ],
-    "correct_index": 2,
-    "explanation": "A ratio of 2:1 directly indicates that pulmonary perfusion volume is double that of systemic flow."
-  },
-  {
-    "question": "A Qp:Qs of approximately 1:1 indicates:",
-    "options": [
-      "(A) Roughly equal pulmonary and systemic flows",
-      "(B) A large left-to-right shunt in every case",
-      "(C) No systemic circulation",
-      "(D) Mandatory device closure"
+      "(A) Falsely low",
+      "(B) Falsely high",
+      "(C) Unchanged",
+      "(D) Converted to PaCO₂"
     ],
     "correct_index": 0,
-    "explanation": "A 1:1 Qp:Qs ratio signifies balanced flows without a hemodynamically significant shunt."
+    "explanation": "A. Falsely low."
   },
   {
-    "question": "When sinus venosus ASD is suspected, imaging should carefully evaluate:",
+    "question": "A patient’s ABG is urgently needed during decompensation. Which action should accompany sampling?",
     "options": [
-      "(A) Pulmonary venous connections",
-      "(B) Carotid plaque only",
-      "(C) Aortic valve calcification only",
-      "(D) Coronary stents"
+      "(A) Ongoing clinical stabilization",
+      "(B) Delay all support until result",
+      "(C) Remove oxygen",
+      "(D) Stop ECG monitoring"
     ],
     "correct_index": 0,
-    "explanation": "Sinus venosus defects are frequently associated with anomalous connection of the right pulmonary veins."
+    "explanation": "A. Continue stabilization."
   },
   {
-    "question": "Prenatal ultrasound may detect ASD, but detection depends partly on defect:",
+    "question": "A cardiac patient has pH 7.31, PaCO₂ 30, HCO₃⁻ 15, and lactate 6 mmol/L. Which mechanism is most plausible?",
     "options": [
-      "(A) Size and location",
-      "(B) Infant's future weight",
-      "(C) Postnatal ECG speed",
-      "(D) Maternal pulse pressure alone"
+      "(A) Lactic metabolic acidosis with respiratory compensation",
+      "(B) Isolated respiratory acidosis",
+      "(C) Isolated metabolic alkalosis",
+      "(D) Normal acid–base state"
     ],
     "correct_index": 0,
-    "explanation": "Fetal ASD diagnosis is challenging due to the presence of the normal foramen ovale and depends heavily on defect size and position."
+    "explanation": "A. Lactic metabolic acidosis with compensation."
   },
   {
-    "question": "A murmur alone is insufficient to confirm ASD because it:",
+    "question": "A patient’s ABG improves after treatment, but mental status worsens. What should the nurse do?",
     "options": [
-      "(A) Requires anatomical confirmation by imaging",
-      "(B) Always identifies the exact ASD type",
-      "(C) Proves pulmonary hypertension",
-      "(D) Determines device size"
+      "(A) Reassess the patient and escalate despite the improved ABG",
+      "(B) Ignore symptoms",
+      "(C) Discharge",
+      "(D) Stop vital signs"
     ],
     "correct_index": 0,
-    "explanation": "Auscultation cannot differentiate defect types or establish structural details; definitive imaging like echocardiography is mandatory."
+    "explanation": "A. Reassess the patient."
   },
   {
-    "question": "Cardiac catheterization is most likely to be needed when:",
+    "question": "A telemetry alarm shows a flat line, but the patient is awake. What should the nurse check first?",
     "options": [
-      "(A) Transcatheter closure is planned or invasive hemodynamics are required",
-      "(B) Every small ASD is first detected",
-      "(C) An ECG is normal",
-      "(D) The patient is asymptomatic with a tiny shunt"
+      "(A) Patient and lead connection",
+      "(B) Begin CPR",
+      "(C) Defibrillate",
+      "(D) Give epinephrine"
     ],
     "correct_index": 0,
-    "explanation": "Diagnostic catheterization is reserved for device placement or measuring exact pulmonary vascular resistance in complex or pulmonary hypertensive patients."
+    "explanation": "A. Patient and lead connection."
   },
   {
-    "question": "In an adult with ASD and suspected pulmonary vascular disease, a key preclosure issue is:",
+    "question": "A monitor labels a moving patient’s tracing “VT,” but a regular pulse is palpable. What should the nurse do?",
     "options": [
-      "(A) Pulmonary vascular resistance",
+      "(A) Assess patient and obtain a reliable tracing",
+      "(B) Shock immediately",
+      "(C) Ignore all alarms",
+      "(D) Diagnose VF"
+    ],
+    "correct_index": 0,
+    "explanation": "Assess patient and tracing."
+  },
+  {
+    "question": "ECG shows no distinct P waves and irregularly irregular R–R intervals. Which rhythm is likely?",
+    "options": [
+      "(A) AF",
+      "(B) Sinus rhythm",
+      "(C) Complete block",
+      "(D) Monomorphic VT"
+    ],
+    "correct_index": 0,
+    "explanation": "Atrial fibrillation."
+  },
+  {
+    "question": "ECG shows sawtooth atrial waves with a ventricular rate near 150/min. Which rhythm is likely?",
+    "options": [
+      "(A) Atrial flutter with 2:1 conduction",
+      "(B) Asystole",
+      "(C) Sinus rhythm",
+      "(D) Complete block"
+    ],
+    "correct_index": 0,
+    "explanation": "Atrial flutter with 2:1 conduction."
+  },
+  {
+    "question": "A patient has a regular narrow-complex rhythm at 180/min, normal BP, and mild palpitations. What should the nurse assess before treatment?",
+    "options": [
+      "(A) Stability and 12-lead ECG",
+      "(B) Only diet",
+      "(C) Only weight",
+      "(D) Only temperature"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Stability and ECG."
+  },
+  {
+    "question": "The same patient becomes confused with BP 70/40. Which intervention should be prepared?",
+    "options": [
+      "(A) Synchronized cardioversion",
+      "(B) Routine discharge",
+      "(C) Exercise test",
+      "(D) Oral iron"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Synchronized cardioversion."
+  },
+  {
+    "question": "ECG shows regular wide-complex tachycardia; the patient is pulseless. What is the priority?",
+    "options": [
+      "(A) CPR and defibrillation",
+      "(B) Oral beta blocker",
+      "(C) Vagal maneuver",
+      "(D) Outpatient Holter"
+    ],
+    "correct_index": 0,
+    "explanation": "A. CPR and defibrillation."
+  },
+  {
+    "question": "A patient has polymorphic VT with QT prolongation. Which reversible factor should be checked?",
+    "options": [
+      "(A) Potassium and magnesium",
       "(B) Hair color",
-      "(C) Tonsil size",
-      "(D) PR interval alone"
+      "(C) Blood group",
+      "(D) Vision"
     ],
     "correct_index": 0,
-    "explanation": "Fixing an ASD in the setting of irreversibly high pulmonary vascular resistance can cause acute right ventricular failure."
+    "explanation": "A. Potassium and magnesium."
   },
   {
-    "question": "A new irregular pulse in an adult with unrepaired ASD should prompt:",
+    "question": "A patient’s PR interval progressively lengthens before a QRS is dropped. What rhythm is shown?",
     "options": [
-      "(A) Rhythm assessment, such as ECG",
-      "(B) Immediate assumption of normal sinus rhythm",
-      "(C) Elimination of follow-up",
-      "(D) Routine hearing test only"
+      "(A) Mobitz I",
+      "(B) Mobitz II",
+      "(C) Complete block",
+      "(D) AF"
     ],
     "correct_index": 0,
-    "explanation": "Irregular heartbeats raise concern for atrial fibrillation or flutter, requiring immediate electrophysiologic diagnostic testing."
+    "explanation": "A. Mobitz I."
   },
   {
-    "question": "An asymptomatic child with a small, hemodynamically insignificant ASD most commonly needs:",
+    "question": "P waves intermittently fail to conduct without progressive PR lengthening. Which rhythm is concerning?",
     "options": [
-      "(A) Observation and follow-up",
-      "(B) Emergency surgery",
-      "(C) Thrombolysis",
-      "(D) Immediate valve replacement"
+      "(A) Mobitz II",
+      "(B) Sinus arrhythmia",
+      "(C) AF",
+      "(D) Sinus tachycardia"
     ],
     "correct_index": 0,
-    "explanation": "Small defects with normal right-heart dimensions do not require closure and are monitored conservatively."
+    "explanation": "A. Mobitz II."
   },
   {
-    "question": "A moderate-to-large ASD causing RV volume overload generally warrants consideration of:",
+    "question": "ECG shows P waves unrelated to QRS complexes and rate 34/min. What should the nurse assess immediately?",
     "options": [
-      "(A) Closure",
-      "(B) Lifelong bed rest alone",
-      "(C) Antibiotics to shrink the opening",
-      "(D) Coronary bypass"
+      "(A) Perfusion and symptoms",
+      "(B) Diet order",
+      "(C) Hearing",
+      "(D) Height"
     ],
     "correct_index": 0,
-    "explanation": "Right ventricular volume overload is a primary indication for elective closure to prevent late cardiac failure or pulmonary vascular disease."
+    "explanation": "A. Perfusion and symptoms."
   },
   {
-    "question": "Which ASD type is most commonly suitable for transcatheter device closure when its rims are adequate?",
+    "question": "A patient taking digoxin has a new slow irregular rhythm and nausea. What should the nurse do?",
     "options": [
-      "(A) Ostium secundum",
-      "(B) Ostium primum",
-      "(C) Sinus venosus",
-      "(D) Every ASD regardless of anatomy"
+      "(A) Withhold next dose pending urgent assessment",
+      "(B) Double dose",
+      "(C) Ignore ECG",
+      "(D) Encourage exercise"
     ],
     "correct_index": 0,
-    "explanation": "Secundum ASDs have surrounding tissue rims suitable for percutaneous transcatheter occluder deployment."
+    "explanation": "A. Withhold and assess."
   },
   {
-    "question": "An ostium primum ASD generally requires:",
+    "question": "A patient with potassium 6.8 mmol/L has widening QRS complexes. What is the priority?",
     "options": [
-      "(A) Surgical repair",
-      "(B) Routine catheter device closure",
-      "(C) No anatomical assessment",
-      "(D) Pulmonary valve replacement alone"
+      "(A) Urgent hyperkalemia response",
+      "(B) Potassium supplement",
+      "(C) Routine follow-up",
+      "(D) Exercise test"
     ],
     "correct_index": 0,
-    "explanation": "Primum defects involve low septal tissue and adjacent AV valve structures, necessitating open surgical reconstruction."
+    "explanation": "A. Urgent hyperkalemia response."
   },
   {
-    "question": "Sinus venosus ASD with anomalous pulmonary venous drainage is usually managed with:",
+    "question": "A patient on a diuretic has flattened T waves and prominent U waves. Which electrolyte disturbance fits?",
     "options": [
-      "(A) Surgical correction",
-      "(B) Medication that closes the defect",
-      "(C) Isolated coronary stenting",
-      "(D) Routine device closure without venous assessment"
+      "(A) Hypokalemia",
+      "(B) Hyperkalemia",
+      "(C) Hypercalcemia only",
+      "(D) Hypernatremia only"
     ],
     "correct_index": 0,
-    "explanation": "Surgical repair is necessary to baffle anomalous pulmonary venous return to the left atrium while closing the defect."
+    "explanation": "A. Hypokalemia."
   },
   {
-    "question": "Before secundum ASD device closure, adequate septal tissue around the hole matters because it helps:",
+    "question": "A patient has new ST elevation in II, III, aVF with ischemic pain. What should the nurse activate?",
     "options": [
-      "(A) Support stable device placement",
-      "(B) Increase the murmur",
-      "(C) Raise pulmonary pressure",
-      "(D) Create a second defect"
+      "(A) STEMI response",
+      "(B) Routine outpatient review",
+      "(C) Exercise test",
+      "(D) Discharge"
     ],
     "correct_index": 0,
-    "explanation": "Adequate anatomical rims prevent device displacement, embolization, or erosion into adjacent structures."
+    "explanation": "A. STEMI response."
   },
   {
-    "question": "The usual catheter route for ASD device closure involves access through a:",
+    "question": "A hypotensive inferior-MI patient has clear lungs and raised JVP. Which extra lead can assess RV involvement?",
     "options": [
-      "(A) Vein",
-      "(B) Bronchus",
-      "(C) Ureter",
-      "(D) Coronary artery"
+      "(A) V4R",
+      "(B) V8 only",
+      "(C) aVL only",
+      "(D) Lead I only"
     ],
     "correct_index": 0,
-    "explanation": "Transcatheter repair is routinely performed percutaneously through the femoral vein into the inferior vena cava and right atrium."
+    "explanation": "A. V4R."
   },
   {
-    "question": "The purpose of an ASD occluder device is to:",
+    "question": "ST elevation in V1–V4 suggests injury in which territory?",
     "options": [
-      "(A) Seal the interatrial opening",
-      "(B) Replace the mitral valve",
-      "(C) Pace the SA node",
-      "(D) Dilate the aorta"
+      "(A) Anterior/septal",
+      "(B) Inferior",
+      "(C) Right atrial only",
+      "(D) Posterior only"
     ],
     "correct_index": 0,
-    "explanation": "The device physically clamps both sides of the atrial septum to permanently seal the shunt."
+    "explanation": "Anterior/septal."
   },
   {
-    "question": "Surgical ASD repair may close the opening with:",
+    "question": "Horizontal ST depression in V1–V3 with tall R waves suggests posterior MI. Which leads may be added?",
     "options": [
-      "(A) Sutures or a patch",
-      "(B) A coronary stent only",
-      "(C) A mechanical pulmonary valve in every case",
-      "(D) An external chest binder"
+      "(A) V7–V9",
+      "(B) Limb leads removed",
+      "(C) V4R alone",
+      "(D) None"
     ],
     "correct_index": 0,
-    "explanation": "Surgeons close small defects with primary suture repair and larger defects using pericardial or synthetic patches."
+    "explanation": "A. V7–V9."
   },
   {
-    "question": "Which statement about medication is correct?",
+    "question": "A patient has diffuse ST elevation, PR depression, and positional pleuritic pain. Which diagnosis fits?",
     "options": [
-      "(A) Medication can treat symptoms but does not close the ASD",
-      "(B) A diuretic permanently seals the septum",
-      "(C) Antibiotics grow septal tissue",
-      "(D) Aspirin closes all ASDs"
+      "(A) Acute pericarditis",
+      "(B) Inferior STEMI necessarily",
+      "(C) Aortic stenosis",
+      "(D) Stable angina"
     ],
     "correct_index": 0,
-    "explanation": "Pharmacotherapy (e.g., diuretics) manages fluid overload or arrhythmia symptoms but cannot close structural cardiac tissue deficits."
+    "explanation": "Acute pericarditis."
   },
   {
-    "question": "Small centrally located atrial communications in early childhood may:",
+    "question": "A pacemaker spike is visible without a following QRS complex. What is the issue?",
     "options": [
-      "(A) Close spontaneously",
-      "(B) Always enlarge",
-      "(C) Always cause cyanosis",
-      "(D) Require emergency catheterization"
+      "(A) Failure to capture",
+      "(B) Normal pacing",
+      "(C) AF",
+      "(D) Ventricular fibrillation"
     ],
     "correct_index": 0,
-    "explanation": "Small secundum ASDs (< 5-6 mm) identified in infancy frequently undergo spontaneous size reduction or complete closure."
+    "explanation": "A. Failure to capture."
   },
   {
-    "question": "Which ASD types are not expected to close spontaneously?",
+    "question": "A pacemaker fires despite intrinsic QRS complexes. Which malfunction should be investigated?",
     "options": [
-      "(A) Ostium primum and sinus venosus",
-      "(B) Every small secundum defect",
-      "(C) Every stretched PFO",
-      "(D) All atrial communications"
+      "(A) Failure to sense",
+      "(B) Appropriate demand pacing",
+      "(C) Stable sinus rhythm",
+      "(D) Normal artifact"
     ],
     "correct_index": 0,
-    "explanation": "Primum and sinus venosus defects represent structural tissue deficits that never spontaneously resolve."
+    "explanation": "A. Failure to sense."
   },
   {
-    "question": "An otherwise well child with a significant ASD is often scheduled for elective closure in:",
+    "question": "A patient’s ICD delivers three shocks in ten minutes. What is the first nursing priority?",
     "options": [
-      "(A) Early childhood",
-      "(B) The first hour of life in every case",
-      "(C) Late adulthood only",
-      "(D) No circumstances"
+      "(A) Assess rhythm and hemodynamic status",
+      "(B) Send home",
+      "(C) Stop monitoring",
+      "(D) Assume battery failure"
     ],
     "correct_index": 0,
-    "explanation": "Elective repair is typically performed between 2 and 5 years of age before schooling and before long-term right ventricular remodeling occurs."
+    "explanation": "Assess rhythm and hemodynamics."
   },
   {
-    "question": "The strongest reason to close a significant ASD before long-term complications develop is to reduce:",
+    "question": "Before synchronized cardioversion, synchronization markers are absent. What should the team do?",
     "options": [
-      "(A) Right-heart volume overload and excess pulmonary flow",
-      "(B) The number of pulmonary veins",
-      "(C) Left ventricular valve leaflets",
-      "(D) Normal systemic venous return"
+      "(A) Restore synchronization before planned shock",
+      "(B) Continue regardless",
+      "(C) Remove ECG leads",
+      "(D) Give oral iron"
     ],
     "correct_index": 0,
-    "explanation": "Closure prevents chronic right ventricular fatigue, pulmonary arterial hypertension, and atrial arrhythmogenesis."
+    "explanation": "A. Restore synchronization."
   },
   {
-    "question": "Severe pulmonary vascular disease with a right-to-left shunt requires specialist assessment because:",
+    "question": "A pulseless patient has a chaotic, disorganized waveform with no identifiable QRS complexes. Which rhythm is likely?",
     "options": [
-      "(A) Closing the opening may be harmful",
-      "(B) Every defect can be closed safely without testing",
-      "(C) Shunt direction cannot change",
-      "(D) A device cures pulmonary vascular disease"
+      "(A) VF",
+      "(B) Sinus tachycardia",
+      "(C) AF with pulse",
+      "(D) First-degree block"
     ],
     "correct_index": 0,
-    "explanation": "In Eisenmenger syndrome, the defect acts as a safety valve for high right-sided pressures; closing it can lead to acute fatal right ventricular failure."
+    "explanation": "A. Ventricular fibrillation."
   },
   {
-    "question": "An adult with ASD and pulmonary hypertension should have closure decisions made using:",
+    "question": "A patient has organized electrical activity on ECG but no central pulse. What is the rhythm category?",
     "options": [
-      "(A) Congenital-heart expertise and hemodynamic assessment",
-      "(B) Murmur intensity alone",
-      "(C) Age alone",
-      "(D) Chest radiograph alone"
+      "(A) PEA",
+      "(B) Stable sinus rhythm",
+      "(C) VF",
+      "(D) SVT with pulse"
     ],
     "correct_index": 0,
-    "explanation": "Multidisciplinary adult congenital heart disease (ACHD) teams must evaluate pulmonary vascular resistance before recommending closure."
+    "explanation": "A. Pulseless electrical activity."
   },
   {
-    "question": "After successful ASD closure, follow-up echocardiography can assess:",
+    "question": "A patient receiving a QT-prolonging drug has a markedly prolonged QTc. What should the nurse review?",
     "options": [
-      "(A) Residual shunt and right-heart response",
-      "(B) Dental caries exclusively",
-      "(C) Bone age only",
+      "(A) Drug list and electrolytes",
+      "(B) Shoe size",
+      "(C) Hair color",
       "(D) ABO group"
     ],
     "correct_index": 0,
-    "explanation": "Post-procedure echocardiography evaluates device stability, absence of residual shunts, and regression of right ventricular enlargement."
+    "explanation": "A. Drugs and electrolytes."
   },
   {
-    "question": "Routine infective-endocarditis antibiotic prophylaxis is generally not indicated for:",
+    "question": "A patient’s QRS is wide after new bundle-branch block. What is the underlying ECG event?",
     "options": [
-      "(A) An uncomplicated unrepaired ASD",
-      "(B) Every prosthetic valve",
-      "(C) A prior episode of infective endocarditis",
-      "(D) All high-risk congenital lesions"
+      "(A) Altered ventricular depolarization",
+      "(B) Atrial repolarization measured directly",
+      "(C) Valve opening",
+      "(D) Coronary filling"
     ],
     "correct_index": 0,
-    "explanation": "Unrepaired, uncomplicated ASD carries a low risk of endocarditis, so routine antibiotic prophylaxis is not recommended."
+    "explanation": "Altered ventricular depolarization."
   },
   {
-    "question": "Following ASD repair with prosthetic material or a device, endocarditis prophylaxis for relevant dental procedures is generally considered during the first:",
+    "question": "A patient has new ischemic chest pain and ST depression. What is the best action?",
     "options": [
-      "(A) 24 hours",
-      "(B) 1 week",
-      "(C) 6 months",
-      "(D) 10 years in every case"
-    ],
-    "correct_index": 2,
-    "explanation": "Prophylaxis is recommended for 6 months after device insertion or patch repair to allow complete endothelialization of foreign material."
-  },
-  {
-    "question": "A patient with a residual defect adjacent to an ASD patch needs assessment for:",
-    "options": [
-      "(A) Ongoing endocarditis prophylaxis eligibility",
-      "(B) Automatic discharge from cardiac care",
-      "(C) Mandatory repeat surgery that day",
-      "(D) Permanent oxygen in every case"
+      "(A) Prompt ACS assessment and serial evaluation",
+      "(B) Ignore without ST elevation",
+      "(C) Exercise immediately",
+      "(D) Stop ECG monitoring"
     ],
     "correct_index": 0,
-    "explanation": "Residual defects next to prosthetic patches cause turbulent flow and maintain lifelong risk for infective endocarditis, warranting ongoing prophylaxis."
+    "explanation": "A. Prompt ACS assessment."
   },
   {
-    "question": "Before ASD closure, the most useful baseline nursing assessment includes:",
+    "question": "A patient’s rate is 45/min but BP and mentation are normal. What guides intervention?",
     "options": [
-      "(A) Vital signs, oxygenation, rhythm, and perfusion",
-      "(B) Hair length only",
-      "(C) Shoe size only",
-      "(D) Visual acuity only"
+      "(A) Symptoms and perfusion, not rate alone",
+      "(B) Rate alone always requires pacing",
+      "(C) Troponin alone",
+      "(D) Patient’s height"
     ],
     "correct_index": 0,
-    "explanation": "Establishing baseline cardiopulmonary parameters is essential to detect post-procedure clinical status changes."
+    "explanation": "A. Symptoms and perfusion."
   },
   {
-    "question": "For an infant with a significant ASD who tires during feeding, the nurse should particularly monitor:",
+    "question": "A patient with AF at 150/min has pulmonary edema and hypotension. What rhythm treatment is urgent?",
     "options": [
-      "(A) Intake and weight trend",
-      "(B) Eye color",
-      "(C) Tooth eruption",
-      "(D) Hand dominance"
+      "(A) Synchronized cardioversion",
+      "(B) Elective review",
+      "(C) Vagal maneuver alone",
+      "(D) Routine discharge"
     ],
     "correct_index": 0,
-    "explanation": "Tiring during feeds leads to poor caloric intake; serial weight checks track nutritional progress and heart failure control."
+    "explanation": "A. Synchronized cardioversion."
   },
   {
-    "question": "Which report from a parent warrants assessment for worsening functional status?",
+    "question": "A stable patient with AF of unknown duration is scheduled for elective cardioversion. What safety issue must be addressed?",
     "options": [
-      "(A) \"My child now stops frequently while playing to catch a breath.\"",
-      "(B) \"My child likes a new game.\"",
-      "(C) \"My child sleeps at night.\"",
-      "(D) \"My child asks questions.\""
+      "(A) Left atrial thromboembolism risk",
+      "(B) Dental decay",
+      "(C) Coronary calcium only",
+      "(D) Hemoglobin type"
     ],
     "correct_index": 0,
-    "explanation": "New onset of exertional fatigue or stopping during play indicates progressive hemodynamic compromise or heart failure."
+    "explanation": "A. Thromboembolism risk."
   },
   {
-    "question": "A previously pink patient with ASD develops new central cyanosis. The nurse's priority is to:",
+    "question": "A monitor strip shows a pause followed by an escape complex; the patient faints. What is the nursing priority?",
     "options": [
-      "(A) Assess oxygenation and promptly escalate",
-      "(B) Document it as expected in every ASD",
-      "(C) Encourage vigorous exercise",
-      "(D) Delay assessment until routine follow-up"
+      "(A) Assess perfusion and call for urgent evaluation",
+      "(B) Remove monitoring",
+      "(C) Encourage walking",
+      "(D) Give food"
     ],
     "correct_index": 0,
-    "explanation": "New cyanosis signals right-to-left shunt reversal or severe hypoxemia, requiring immediate emergency evaluation."
+    "explanation": "Assess perfusion and escalate."
   },
   {
-    "question": "New one-sided weakness in a patient with ASD requires:",
+    "question": "A patient’s sinus rate is 125/min with fever and low BP. What should the nurse consider?",
     "options": [
-      "(A) Emergency stroke response",
-      "(B) Routine weight check",
-      "(C) Oral fluids and observation alone",
-      "(D) Reassurance that it is normal"
+      "(A) Treat underlying physiological cause",
+      "(B) Assume primary SVT",
+      "(C) Ignore the BP",
+      "(D) Use carotid massage automatically"
     ],
     "correct_index": 0,
-    "explanation": "Sudden neurological deficits point to paradoxical cerebral embolism through the ASD and demand emergency stroke protocol activation."
+    "explanation": "Assess and treat underlying cause."
   },
   {
-    "question": "After femoral venous catheter closure, the nurse should check the access site for:",
+    "question": "A patient develops frequent ectopy after a new diuretic. What should be checked?",
     "options": [
-      "(A) Bleeding or expanding swelling",
-      "(B) Hair growth",
-      "(C) Bowel sounds exclusively",
-      "(D) Skin pigmentation only"
+      "(A) Potassium and magnesium",
+      "(B) Blood group",
+      "(C) Visual acuity",
+      "(D) Hearing"
     ],
     "correct_index": 0,
-    "explanation": "Frequent inspection of the groin site is vital to identify hematomas, pseudoaneurysms, or vascular access bleeding."
+    "explanation": "A. Potassium and magnesium."
   },
   {
-    "question": "After a femoral catheter procedure, comparing distal pulses and limb warmth helps identify:",
+    "question": "A stable patient has an ECG interpreted as first-degree AV block. Which finding defines it?",
     "options": [
-      "(A) Impaired limb perfusion",
-      "(B) ASD size",
-      "(C) Pulmonary valve cusp number",
-      "(D) Atrial septal tissue rims"
+      "(A) Prolonged PR with every P conducted",
+      "(B) Random dropped QRS",
+      "(C) No P waves",
+      "(D) Complete AV dissociation"
     ],
     "correct_index": 0,
-    "explanation": "Neurovascular checks assess for acute arterial occlusion or venous thrombosis secondary to sheath access."
+    "explanation": "A. Prolonged PR with 1:1 conduction."
   },
   {
-    "question": "A rapidly enlarging groin swelling after catheter closure requires:",
+    "question": "A patient with acute MI has a new right bundle-branch block. What should the nurse do?",
     "options": [
-      "(A) Immediate assessment and escalation",
-      "(B) Routine discharge",
-      "(C) Vigorous massage",
-      "(D) Ambulation without evaluation"
+      "(A) Report and correlate with symptoms/hemodynamics",
+      "(B) Assume it is always harmless",
+      "(C) Remove ECG leads",
+      "(D) Discharge immediately"
     ],
     "correct_index": 0,
-    "explanation": "Rapidly expanding mass suggests active arterial/venous access site bleeding or pseudoaneurysm formation."
+    "explanation": "A. Report and correlate clinically."
   },
   {
-    "question": "Following device closure, a new sustained irregular rhythm should prompt:",
+    "question": "A patient has a low-amplitude ECG after a large pericardial effusion is found. What should the nurse prioritize?",
     "options": [
-      "(A) ECG and clinical evaluation",
-      "(B) Automatic assumption of normal recovery",
-      "(C) Removal of all monitors",
-      "(D) No documentation"
+      "(A) Hemodynamic assessment",
+      "(B) Exercise testing",
+      "(C) Unsupervised ambulation",
+      "(D) Routine diet review"
     ],
     "correct_index": 0,
-    "explanation": "Irregular rhythms after device deployment may indicate atrial irritation, AV block, or device displacement."
+    "explanation": "A. Hemodynamic assessment."
   },
   {
-    "question": "Which finding after ASD closure requires prompt evaluation for possible device or hemodynamic complication?",
+    "question": "Telemetry reports torsades, and the patient is unresponsive and pulseless. What comes first?",
     "options": [
-      "(A) New chest pain with dyspnea",
-      "(B) Mild thirst alone",
-      "(C) Hunger at lunchtime",
-      "(D) Quiet rest"
+      "(A) CPR and defibrillation pathway",
+      "(B) Oral magnesium",
+      "(C) Outpatient ECG",
+      "(D) Vagal maneuver"
     ],
     "correct_index": 0,
-    "explanation": "Chest pain and shortness of breath can herald pericardial effusion, cardiac erosion, device dislodgement, or pulmonary embolus."
+    "explanation": "A. CPR and defibrillation pathway."
   },
   {
-    "question": "Immediately after open surgical ASD repair, a key priority is monitoring:",
+    "question": "A patient has narrow-complex tachycardia and adenosine is ordered. Which preparation is appropriate?",
     "options": [
-      "(A) Hemodynamics, rhythm, oxygenation, and chest-tube drainage as applicable",
-      "(B) School grades",
-      "(C) Shoe size",
-      "(D) Dental eruption only"
+      "(A) Continuous rhythm monitoring and rapid IV administration setup",
+      "(B) Disconnect ECG",
+      "(C) Give orally",
+      "(D) Delay flush"
     ],
     "correct_index": 0,
-    "explanation": "Postoperative cardiac surgery care focuses on hemorheology, blood pressure stability, arrhythmia detection, and chest tube loss."
+    "explanation": "A. Monitoring and rapid IV setup."
   },
   {
-    "question": "An unexpectedly large increase in chest-tube drainage after surgical repair should lead to:",
+    "question": "A patient’s rhythm converts after adenosine; brief flushing resolves. What should the nurse do next?",
     "options": [
-      "(A) Prompt escalation for possible bleeding",
-      "(B) Clamping without an order",
-      "(C) Routine discharge",
-      "(D) Ignoring vital signs"
+      "(A) Continue assessment and document response",
+      "(B) Give another dose automatically",
+      "(C) Remove all monitoring immediately",
+      "(D) Diagnose MI from flushing"
     ],
     "correct_index": 0,
-    "explanation": "Sudden or excessive sanguinous chest tube output flags active postoperative hemorrhage requiring urgent surgical intervention."
-  },
-  {
-    "question": "A falling blood pressure with poor perfusion after ASD surgery calls for:",
-    "options": [
-      "(A) Immediate reassessment and escalation",
-      "(B) Delaying assessment until the next shift",
-      "(C) Oral feeding first",
-      "(D) Ambulation first"
-    ],
-    "correct_index": 0,
-    "explanation": "Hypotension and poor systemic perfusion indicate low cardiac output syndrome, hypovolemia, or cardiac tamponade."
-  },
-  {
-    "question": "An important family teaching point after successful ASD closure is:",
-    "options": [
-      "(A) Keep the prescribed cardiology follow-up",
-      "(B) No further evaluation is ever needed",
-      "(C) Stop all prescribed medicines immediately",
-      "(D) Every activity is permanently prohibited"
-    ],
-    "correct_index": 0,
-    "explanation": "Routine cardiology follow-up ensures proper healing, checks device positioning, and tracks long-term right heart remodeling."
-  },
-  {
-    "question": "After catheter or surgical closure, temporary activity restrictions should be based on:",
-    "options": [
-      "(A) The treating team's procedure-specific instructions",
-      "(B) An identical rule for every child",
-      "(C) Social-media advice",
-      "(D) Murmur loudness alone"
-    ],
-    "correct_index": 0,
-    "explanation": "Post-procedure activity modifications depend on patient specifics, vascular access integrity, and closure modality."
-  },
-  {
-    "question": "Teaching for a child with an uncomplicated small ASD should emphasize that:",
-    "options": [
-      "(A) Follow-up monitors the defect and right-heart effects",
-      "(B) Severe cyanosis is inevitable",
-      "(C) Medication always closes it",
-      "(D) Exercise is permanently forbidden"
-    ],
-    "correct_index": 0,
-    "explanation": "Families should understand that longitudinal check-ups track hemodynamic trends and defect stability over time."
-  },
-  {
-    "question": "Which statement by a parent shows correct understanding?",
-    "options": [
-      "(A) \"An echocardiogram can show the defect and its effect on the right heart.\"",
-      "(B) \"An ECG alone measures the hole exactly.\"",
-      "(C) \"A chest X-ray always proves its type.\"",
-      "(D) \"A murmur rules out other conditions.\""
-    ],
-    "correct_index": 0,
-    "explanation": "Echocardiography provides direct anatomical visualization of septal gaps and quantifies right-sided volumetric load."
-  },
-  {
-    "question": "A parent asks whether a diuretic will permanently close the ASD. The best response is:",
-    "options": [
-      "(A) \"It may help symptoms, but it will not repair the opening.\"",
-      "(B) \"Yes, every ASD closes with diuretics.\"",
-      "(C) \"It replaces the need for all follow-up.\"",
-      "(D) \"It changes the ASD into a VSD.\""
-    ],
-    "correct_index": 0,
-    "explanation": "Diuretics manage fluid balance and workload symptoms, but definitive repair requires structural closure."
-  },
-  {
-    "question": "For a patient with a repaired ASD who develops new palpitations years later, the best advice is:",
-    "options": [
-      "(A) Seek cardiac evaluation",
-      "(B) Ignore symptoms because repair eliminates all future risk",
-      "(C) Take an unprescribed antiarrhythmic",
-      "(D) Stop physical activity permanently without assessment"
-    ],
-    "correct_index": 0,
-    "explanation": "Late atrial arrhythmias can emerge post-closure due to pre-existing atrial fibrosis or incisional scars."
-  },
-  {
-    "question": "Which handover best communicates the status of a child after ASD device closure?",
-    "options": [
-      "(A) Rhythm, vital signs, oxygenation, access site, distal perfusion, and ordered restrictions",
-      "(B) Only the child's name",
-      "(C) Only the device brand",
-      "(D) Only the preprocedure murmur grade"
-    ],
-    "correct_index": 0,
-    "explanation": "A complete nursing handoff includes vital signs, heart rhythm, vascular insertion site, peripheral perfusion, and active activity limits."
+    "explanation": "A. Continue assessment and document."
   }
 ]
