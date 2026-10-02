@@ -1,1113 +1,1113 @@
 [
   {
-    "question": "A patient after stent placement asks why antiplatelet medicines matter. What is the principal concern?",
+    "question": "Four patients call the nurse. Who should be assessed first?",
     "options": [
-      "(A) Preventing coronary thrombosis",
-      "(B) Preventing every infection",
-      "(C) Treating bradycardia",
-      "(D) Measuring EF"
+      "(A) A patient with sudden chest pressure, diaphoresis, and nausea",
+      "(B) A patient asking for a scheduled walk",
+      "(C) A patient with unchanged chronic ankle edema",
+      "(D) A patient requesting dietary information"
     ],
     "correct_index": 0,
-    "explanation": "A. Preventing thrombosis."
+    "explanation": "A. Possible acute coronary syndrome requires immediate assessment."
   },
   {
-    "question": "A patient says they will stop antiplatelets because of bruising. What should the nurse advise?",
+    "question": "A patient with known heart failure reports needing to sleep upright for the first time. What should the nurse assess first?",
     "options": [
-      "(A) Contact the prescriber before changing treatment",
-      "(B) Stop both immediately",
-      "(C) Substitute NSAID",
-      "(D) Double next dose"
+      "(A) Respiratory status and oxygenation",
+      "(B) Preferred sleeping position",
+      "(C) Last dental visit",
+      "(D) Visual acuity"
     ],
     "correct_index": 0,
-    "explanation": "A. Contact prescriber first."
+    "explanation": "A. New orthopnea can signal worsening congestion."
   },
   {
-    "question": "A patient after PCI develops sudden focal neurologic symptoms. What should the nurse do?",
+    "question": "A postoperative patient is pale, confused, and cool with a weak pulse. Which action is priority?",
     "options": [
-      "(A) Activate stroke evaluation",
-      "(B) Assume contrast warmth",
-      "(C) Encourage walking",
-      "(D) Delay until next shift"
+      "(A) Assess vital signs and perfusion and call for urgent help",
+      "(B) Offer a meal",
+      "(C) Obtain routine weight",
+      "(D) Begin discharge teaching"
     ],
     "correct_index": 0,
-    "explanation": "Activate stroke evaluation."
+    "explanation": "A. The findings suggest circulatory instability."
   },
   {
-    "question": "After CAG, a patient has declining urine output. What should be reviewed?",
+    "question": "A patient reports brief palpitations and now feels well. Which history best helps identify an arrhythmia?",
     "options": [
-      "(A) Renal perfusion, fluid status, and kidney function",
+      "(A) Time of onset, duration, triggers, and associated dizziness",
       "(B) Shoe size",
-      "(C) Hearing",
-      "(D) Vision only"
+      "(C) Favorite food",
+      "(D) Hair color"
     ],
     "correct_index": 0,
-    "explanation": "A. Renal and fluid assessment."
+    "explanation": "A. Symptom correlation guides rhythm evaluation."
   },
   {
-    "question": "A patient is prescribed hydration after contrast, but has severe HF. What is the safest nursing approach?",
+    "question": "A patient describes chest discomfort that now occurs at rest after previously occurring only with exercise. What is the best interpretation?",
     "options": [
-      "(A) Follow individualized fluid plan and monitor congestion",
-      "(B) Give unlimited fluid",
-      "(C) Withhold all fluids independently",
-      "(D) Ignore urine output"
+      "(A) A concerning change requiring urgent evaluation",
+      "(B) Predictable stable symptoms",
+      "(C) Proof of heartburn",
+      "(D) A normal effect of aging"
     ],
     "correct_index": 0,
-    "explanation": "A. Individualized fluid plan."
+    "explanation": "A concerning change requiring urgent evaluation"
   },
   {
-    "question": "A patient asks whether CAG and PCI are the same. Which answer is correct?",
+    "question": "A patient with possible cardiac disease reports fainting while exercising. Which response is best?",
     "options": [
-      "(A) CAG images coronary arteries; PCI treats a suitable lesion",
-      "(B) Both are blood tests",
-      "(C) PCI is only ECG",
-      "(D) CAG always includes bypass surgery"
+      "(A) Arrange prompt clinical assessment and protect against another fall",
+      "(B) Recommend exercising harder",
+      "(C) Reassure without assessment",
+      "(D) Record only the heart rate"
     ],
     "correct_index": 0,
-    "explanation": "A. Imaging versus intervention."
+    "explanation": "Arrange prompt clinical assessment and protect against another fall"
   },
   {
-    "question": "A patient’s angiogram shows left main coronary narrowing. Why does the team urgently discuss revascularization options?",
+    "question": "Which patient should the nurse see first?",
     "options": [
-      "(A) A large myocardial territory may be at risk",
-      "(B) The pulmonary veins are blocked",
-      "(C) The finding measures potassium",
-      "(D) It is always harmless"
+      "(A) New severe dyspnea with pink, frothy sputum",
+      "(B) Stable patient awaiting dietary teaching",
+      "(C) Patient with a healed sternotomy scar",
+      "(D) Patient asking when visitors arrive"
     ],
     "correct_index": 0,
-    "explanation": "A. Large myocardial territory at risk."
+    "explanation": "Acute pulmonary edema threatens breathing."
   },
   {
-    "question": "A patient has right-heart catheterization. Which vessel does the catheter enter after the right ventricle?",
+    "question": "The monitor shows a rate of 170/min. What information is most important before selecting the response pathway?",
     "options": [
-      "(A) Pulmonary artery",
-      "(B) Aorta",
-      "(C) Pulmonary vein",
-      "(D) Left atrium"
+      "(A) Blood pressure, consciousness, symptoms, and pulse",
+      "(B) Patient’s height",
+      "(C) Time of last meal only",
+      "(D) Number of electrodes"
     ],
     "correct_index": 0,
-    "explanation": "A. Pulmonary artery."
+    "explanation": "A. Hemodynamic stability directs urgency."
   },
   {
-    "question": "During PA catheter insertion, frequent PVCs occur as the catheter enters the RV. What should the nurse do?",
+    "question": "A patient with a heart murmur reports new fever and night sweats. Which question is most relevant?",
     "options": [
-      "(A) Notify operator and monitor patient",
-      "(B) Advance catheter independently",
-      "(C) Turn off monitor",
-      "(D) Encourage coughing continuously"
+      "(A) “Have you had a valve replacement or previous endocarditis?”",
+      "(B) “What shoes do you wear?”",
+      "(C) “Do you prefer mornings?”",
+      "(D) “What is your favorite drink?”"
     ],
     "correct_index": 0,
-    "explanation": "A. Notify operator and monitor."
+    "explanation": "A. Valve history changes concern for endocarditis."
   },
   {
-    "question": "A patient with shock has a right-heart catheter for hemodynamic assessment. Which measurement helps evaluate forward flow?",
+    "question": "A patient receiving treatment for heart failure has less edema but becomes dizzy when standing. What is the nurse’s best action?",
     "options": [
-      "(A) Cardiac output",
-      "(B) Hair color",
-      "(C) INR from the catheter directly",
-      "(D) Coronary calcium score"
+      "(A) Check blood pressure and volume-related findings",
+      "(B) Assume treatment has failed",
+      "(C) Give extra diuretic without an order",
+      "(D) Ignore fall risk"
     ],
     "correct_index": 0,
-    "explanation": "A. Cardiac output."
+    "explanation": "A. Check blood pressure and volume-related findings"
   },
   {
-    "question": "A PA catheter waveform suddenly changes after patient repositioning. What is the priority?",
+    "question": "A patient with cardiac disease has a new urine output decline. Which finding would strengthen concern for poor perfusion?",
     "options": [
-      "(A) Assess patient and catheter position/waveform",
-      "(B) Interpret number without review",
-      "(C) Flush forcefully without direction",
-      "(D) Ignore alarm"
+      "(A) Cool extremities and falling blood pressure",
+      "(B) Warm skin and improving alertness",
+      "(C) Stable pulse and pressure",
+      "(D) Improved appetite"
     ],
     "correct_index": 0,
-    "explanation": "Assess patient and waveform."
+    "explanation": "A. Cool extremities and falling blood pressure"
   },
   {
-    "question": "A patient with a PA catheter develops fever and erythema at the insertion site. What is the concern?",
+    "question": "A patient reports severe chest and back pain that began suddenly. Which additional finding increases concern for aortic dissection?",
     "options": [
-      "(A) Catheter-related infection",
-      "(B) Normal wave formation",
-      "(C) Improved cardiac output",
-      "(D) Stable angina"
+      "(A) New difference between arm pulses",
+      "(B) Stable long-standing ankle edema",
+      "(C) Mild chronic constipation",
+      "(D) Improved breathing"
     ],
     "correct_index": 0,
-    "explanation": "A. Catheter-related infection."
+    "explanation": "A. New difference between arm pulses"
   },
   {
-    "question": "Before left-heart catheterization, a patient’s INR is above the team’s procedural threshold. What should the nurse do?",
+    "question": "A patient says, “My heart is racing,” but the bedside monitor shows a normal rate. What should the nurse do?",
     "options": [
-      "(A) Notify team and follow anticoagulation plan",
-      "(B) Hide result",
-      "(C) Administer extra warfarin",
+      "(A) Assess symptoms and obtain or review a reliable rhythm tracing",
+      "(B) Dismiss the report",
+      "(C) Disconnect monitoring",
+      "(D) Diagnose anxiety alone"
+    ],
+    "correct_index": 0,
+    "explanation": "Assess symptoms and obtain or review a reliable rhythm tracing"
+  },
+  {
+    "question": "A child with heart disease becomes sweaty and tachypneic while feeding. Which assessment is most useful?",
+    "options": [
+      "(A) Work of breathing, intake, oxygenation, and weight trend",
+      "(B) Bottle color",
+      "(C) Tooth count",
+      "(D) Hair texture"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Work of breathing, intake, oxygenation, and weight trend"
+  },
+  {
+    "question": "Which finding is most consistent with right-sided congestion?",
+    "options": [
+      "(A) Increasing abdominal girth and dependent edema",
+      "(B) Isolated sharp pleuritic pain",
+      "(C) New ST elevation alone",
+      "(D) Hyperactive bowel sounds alone"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Increasing abdominal girth and dependent edema"
+  },
+  {
+    "question": "A patient on telemetry says they feel faint. What should the nurse do before interpreting the monitor printout in detail?",
+    "options": [
+      "(A) Assess responsiveness, pulse, and blood pressure",
+      "(B) Search the medication cabinet",
+      "(C) Silence all alarms",
+      "(D) Leave to get a routine weight"
+    ],
+    "correct_index": 0,
+    "explanation": "Assess responsiveness, pulse, and blood pressure"
+  },
+  {
+    "question": "The nurse notes that the apical pulse is faster than the radial pulse. What should be documented?",
+    "options": [
+      "(A) Pulse deficit with the measured rates",
+      "(B) A normal finding in every patient",
+      "(C) Blood pressure difference",
+      "(D) Oxygen saturation difference"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Pulse deficit with the measured rates"
+  },
+  {
+    "question": "An older adult presents with fatigue, nausea, and unexplained breathlessness but no chest pain. Which nursing judgment is safest?",
+    "options": [
+      "(A) Consider a possible cardiac cause and obtain timely assessment",
+      "(B) Rule out ischemia",
+      "(C) Diagnose gastritis",
+      "(D) Delay vital signs"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Consider a possible cardiac cause and obtain timely assessment"
+  },
+  {
+    "question": "Which patient finding most strongly suggests an acute change rather than chronic stable heart failure?",
+    "options": [
+      "(A) Sudden rest dyspnea and new hypoxemia",
+      "(B) Unchanged mild edema",
+      "(C) Stable daily weight",
+      "(D) Usual walking distance"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Sudden rest dyspnea and new hypoxemia"
+  },
+  {
+    "question": "A patient reports chest discomfort. Which focused history element should be obtained without delaying urgent actions?",
+    "options": [
+      "(A) Onset and whether symptoms are ongoing",
+      "(B) Childhood shoe size",
+      "(C) Preferred room temperature",
+      "(D) Last eye examination"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Onset and whether symptoms are ongoing"
+  },
+  {
+    "question": "A patient with an irregular rhythm is alert with stable blood pressure. Which nursing principle remains essential?",
+    "options": [
+      "(A) Continue assessment and obtain rhythm documentation",
+      "(B) Assume no stroke risk",
+      "(C) Stop monitoring",
+      "(D) Treat the monitor label as the diagnosis"
+    ],
+    "correct_index": 0,
+    "explanation": "A. "
+  },
+  {
+    "question": "A patient’s first ECG is nondiagnostic despite continuing ischemic symptoms. What should the nurse anticipate?",
+    "options": [
+      "(A) Repeat ECG and serial evaluation",
+      "(B) Automatic discharge",
+      "(C) No biomarker testing",
+      "(D) Immediate exercise stress test during pain"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Repeat ECG and serial evaluation"
+  },
+  {
+    "question": "A troponin value is above the laboratory reference limit. Which statement is best?",
+    "options": [
+      "(A) It indicates myocardial injury; the cause requires clinical evaluation",
+      "(B) It proves plaque rupture",
+      "(C) It identifies the blocked artery",
+      "(D) It rules out myocarditis"
+    ],
+    "correct_index": 0,
+    "explanation": "A. It indicates myocardial injury; the cause requires clinical evaluation"
+  },
+  {
+    "question": "A patient arrives shortly after chest pain begins and has a low initial troponin. The nurse should:",
+    "options": [
+      "(A) Follow the ordered serial testing pathway",
+      "(B) Declare MI excluded",
+      "(C) Discard the sample",
+      "(D) Skip ECG assessment"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Very early results may not capture a rise."
+  },
+  {
+    "question": "A patient with renal disease has an elevated BNP and dyspnea. Which interpretation is appropriate?",
+    "options": [
+      "(A) Integrate the result with examination, imaging, and renal status",
+      "(B) Diagnose heart failure from the number alone",
+      "(C) Diagnose MI",
+      "(D) Ignore the dyspnea"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Integrate the result with examination, imaging, and renal status"
+  },
+  {
+    "question": "A patient taking a loop diuretic has new weakness and ectopy. Which result should be checked promptly?",
+    "options": [
+      "(A) Potassium",
+      "(B) Lipid profile only",
+      "(C) Hemoglobin A1c only",
+      "(D) Blood group"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Potassium"
+  },
+  {
+    "question": "A patient has an irregular pulse, but a resting ECG is normal between episodes. Which test may help?",
+    "options": [
+      "(A) Ambulatory ECG monitor",
+      "(B) Chest X-ray only",
+      "(C) Urinalysis",
+      "(D) Coronary calcium scan only"
+    ],
+    "correct_index": 0,
+    "explanation": "Ambulatory ECG monitor"
+  },
+  {
+    "question": "During a Holter study, the patient feels dizzy. What instruction supports interpretation?",
+    "options": [
+      "(A) Record the symptom and time using the device instructions",
+      "(B) Remove all electrodes",
+      "(C) Ignore the symptom",
+      "(D) Stop all medicines independently"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Record the symptom and time using the device instructions"
+  },
+  {
+    "question": "A patient’s ECG has severe baseline artifact. What should the nurse do?",
+    "options": [
+      "(A) Check skin contact, leads, and patient movement, then repeat as indicated",
+      "(B) Accept the automated interpretation",
+      "(C) Diagnose VF",
+      "(D) Remove patient identification"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Check skin contact, leads, and patient movement, then repeat as indicated"
+  },
+  {
+    "question": "A TTE reports normal ejection fraction in a patient with edema and orthopnea. Which statement is correct?",
+    "options": [
+      "(A) Heart failure is still possible",
+      "(B) Heart failure is impossible",
+      "(C) Pulmonary embolism is confirmed",
+      "(D) No assessment is needed"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Heart failure is still possible"
+  },
+  {
+    "question": "Before sedated TEE, a patient reports difficulty swallowing and prior esophageal surgery. What should the nurse do?",
+    "options": [
+      "(A) Alert the procedural team before probe insertion",
+      "(B) Conceal the history",
+      "(C) Offer solid food",
       "(D) Proceed without review"
     ],
     "correct_index": 0,
-    "explanation": "A. Notify team."
+    "explanation": "Alert the procedural team before probe insertion"
   },
   {
-    "question": "A patient with an arterial sheath in place attempts to sit up beyond the ordered position. What should the nurse do?",
+    "question": "A patient returns after TEE with a numb throat. Which instruction is appropriate?",
     "options": [
-      "(A) Explain and maintain prescribed access-site precautions",
-      "(B) Encourage unsupported walking",
-      "(C) Remove sheath independently",
-      "(D) Ignore movement"
+      "(A) Wait for safe swallowing before oral intake",
+      "(B) Drink immediately",
+      "(C) Eat crackers to test the throat",
+      "(D) Drive home alone after sedation"
     ],
     "correct_index": 0,
-    "explanation": "A. Maintain access-site precautions."
+    "explanation": "A. Wait for safe swallowing before oral intake"
   },
   {
-    "question": "A patient has sudden severe groin pain while a femoral sheath is present. Which assessment is first?",
+    "question": "A patient scheduled for cardiac MRI has a device card for an implanted defibrillator. What is the priority?",
     "options": [
-      "(A) Site bleeding/hematoma and distal pulses",
-      "(B) Diet preference",
-      "(C) Hearing",
-      "(D) Vision"
+      "(A) Verify MRI compatibility and the device management plan",
+      "(B) Assume all devices are identical",
+      "(C) Remove the device",
+      "(D) Skip screening"
     ],
     "correct_index": 0,
-    "explanation": "A. Site and distal perfusion."
+    "explanation": "A. Verify MRI compatibility and the device management plan"
   },
   {
-    "question": "After sheath removal, BP falls and the patient is diaphoretic. What is the nursing priority?",
+    "question": "A patient is scheduled for CCTA and reports a severe prior contrast reaction. The nurse should:",
     "options": [
-      "(A) Assess for bleeding and perfusion",
-      "(B) Give food",
-      "(C) Encourage standing",
-      "(D) Remove dressing"
+      "(A) Notify the imaging team before contrast",
+      "(B) Document it after injection",
+      "(C) Assume it cannot recur",
+      "(D) Give contrast without review"
     ],
     "correct_index": 0,
-    "explanation": "Assess bleeding and perfusion."
+    "explanation": "A. Notify the imaging team before contrast"
   },
   {
-    "question": "A patient after CAG has a normal groin site but falling hemoglobin. What should the nurse avoid assuming?",
+    "question": "During treadmill testing, a patient develops chest pain and near-syncope. What should the nurse do?",
     "options": [
-      "(A) That absence of visible bleeding excludes hemorrhage",
-      "(B) That hemoglobin matters",
-      "(C) That BP matters",
-      "(D) That back pain matters"
+      "(A) Stop the exercise and assist the monitored assessment",
+      "(B) Increase speed",
+      "(C) Tell the patient to finish the stage",
+      "(D) Disconnect ECG"
     ],
     "correct_index": 0,
-    "explanation": "A. Concealed bleeding remains possible."
+    "explanation": "A. Stop the exercise and assist the monitored assessment"
   },
   {
-    "question": "A patient with severe CAD asks what CABG does compared with PCI. What is correct?",
+    "question": "An echo shows a large pericardial effusion. Which further question is most important?",
     "options": [
-      "(A) CABG creates a bypass route around obstructed segments",
-      "(B) CABG uses no grafts",
-      "(C) PCI replaces the whole heart",
-      "(D) Both are identical"
+      "(A) Is there evidence of impaired filling and hemodynamic compromise?",
+      "(B) What is the patient’s shoe size?",
+      "(C) Is LDL elevated?",
+      "(D) Does the patient prefer CT?"
     ],
     "correct_index": 0,
-    "explanation": "A. CABG bypasses obstruction."
+    "explanation": "A. Is there evidence of impaired filling and hemodynamic compromise?"
   },
   {
-    "question": "A patient receiving sedation in the cath lab becomes hypoventilated. What should the nurse assess first?",
+    "question": "Before cardiac catheterization, a patient reports taking an anticoagulant that was not on the medication list. What should the nurse do?",
     "options": [
-      "(A) Airway and ventilation",
-      "(B) Cholesterol",
-      "(C) Daily weight",
-      "(D) Last bowel movement"
+      "(A) Notify the procedural team and reconcile the medication",
+      "(B) Ignore it",
+      "(C) Stop it permanently without an order",
+      "(D) Change the chart to match the old list"
     ],
     "correct_index": 0,
-    "explanation": "Airway and ventilation."
+    "explanation": "A. Notify the procedural team and reconcile the medication"
   },
   {
-    "question": "A patient during PCI becomes hypotensive with a new pericardial effusion. What complication should be considered?",
+    "question": "A patient asks why kidney function is checked before an iodinated-contrast study. The best answer is:",
     "options": [
-      "(A) Coronary perforation with tamponade",
-      "(B) Normal contrast effect",
-      "(C) Stable hypertension",
-      "(D) Simple anxiety"
+      "(A) It helps plan safe contrast use and follow-up",
+      "(B) It diagnoses atrial fibrillation",
+      "(C) It measures valve area",
+      "(D) It determines ECG lead position"
     ],
     "correct_index": 0,
-    "explanation": "A. Perforation with tamponade."
+    "explanation": "A. It helps plan safe contrast use and follow-up"
   },
   {
-    "question": "After catheterization, the patient reports new severe flank pain and tachycardia. What should the nurse do?",
+    "question": "A stress perfusion report describes reduced flow only during stress. Which concept is most consistent?",
     "options": [
-      "(A) Check vital signs and urgently assess concealed bleeding",
-      "(B) Give routine discharge instructions",
-      "(C) Encourage walking",
-      "(D) Ignore symptoms"
+      "(A) Inducible ischemia",
+      "(B) Guaranteed normal perfusion",
+      "(C) Acute endocarditis",
+      "(D) Pericardial tamponade"
     ],
     "correct_index": 0,
-    "explanation": "Assess concealed bleeding."
+    "explanation": "A. Inducible ischemia"
   },
   {
-    "question": "A patient after PCI has persistent ST elevation and worsening pain. What is the priority?",
+    "question": "A patient with suspected infective endocarditis is scheduled for blood cultures and antibiotics. Which sequence is generally preferred when feasible?",
     "options": [
-      "(A) Immediate interventional-team review",
-      "(B) Wait for next troponin only",
-      "(C) Give meal",
-      "(D) Remove ECG"
+      "(A) Obtain ordered cultures, then begin prescribed antibiotics promptly",
+      "(B) Finish antibiotics, then collect all cultures",
+      "(C) Omit cultures",
+      "(D) Collect blood from an ECG electrode"
     ],
     "correct_index": 0,
-    "explanation": "A. Immediate review."
+    "explanation": "A. Obtain ordered cultures, then begin prescribed antibiotics promptly"
   },
   {
-    "question": "Before CAG, which identification step is essential?",
+    "question": "Which test result should prompt immediate communication rather than waiting for routine handoff?",
     "options": [
-      "(A) Confirm patient, procedure, and consent per policy",
-      "(B) Assume from room number",
-      "(C) Use another patient’s band",
-      "(D) Skip time-out"
+      "(A) Critical potassium with a new arrhythmia",
+      "(B) Stable lipid profile",
+      "(C) Unchanged weight",
+      "(D) Normal CBC"
     ],
     "correct_index": 0,
-    "explanation": "A. Confirm identification and procedure."
+    "explanation": "A. www."
   },
   {
-    "question": "A patient scheduled for CAG says, “I may be pregnant.” What should the nurse do?",
+    "question": "A patient has chest pressure, diaphoresis, and nausea. Which order should the nurse prioritize implementing promptly?",
     "options": [
-      "(A) Tell procedural team before imaging",
-      "(B) Ignore statement",
-      "(C) Proceed without discussion",
-      "(D) Cancel independently"
+      "(A) 12-lead ECG",
+      "(B) Routine lipid teaching",
+      "(C) Elective treadmill test",
+      "(D) Annual weight check"
     ],
     "correct_index": 0,
-    "explanation": "A. Tell procedural team."
+    "explanation": "A. 12-lead ECG"
   },
   {
-    "question": "A patient with a radial band has a warm hand and normal capillary refill. What should the nurse continue?",
+    "question": "A patient with suspected MI becomes hypotensive after a prescribed nitrate. Which action is best?",
     "options": [
-      "(A) Scheduled access-site and perfusion checks",
-      "(B) Stop all assessment",
-      "(C) Remove device early without order",
-      "(D) Massage artery"
+      "(A) Reassess perfusion and notify the team",
+      "(B) Repeat the nitrate automatically",
+      "(C) Encourage ambulation",
+      "(D) Ignore the pressure change"
     ],
     "correct_index": 0,
-    "explanation": "A. Continue checks."
+    "explanation": "A. Reassess perfusion and notify the team"
   },
   {
-    "question": "A patient has contrast-associated nausea during CAG without airway or BP changes. What should the nurse do?",
+    "question": "Before giving a prescribed nitrate, which recent medication use must be reported?",
     "options": [
-      "(A) Assess and communicate symptoms",
-      "(B) Assume severe anaphylaxis automatically",
-      "(C) Ignore progression",
+      "(A) A phosphodiesterase-5 inhibitor",
+      "(B) A routine multivitamin",
+      "(C) An iron tablet",
+      "(D) A stool softener"
+    ],
+    "correct_index": 0,
+    "explanation": "A. The combination can cause profound hypotension."
+  },
+  {
+    "question": "A patient with ACS has an oxygen saturation within the prescribed normal range and no respiratory distress. Which principle is correct?",
+    "options": [
+      "(A) Oxygen is guided by the clinical need rather than given automatically to everyone",
+      "(B) Oxygen replaces reperfusion",
+      "(C) A normal saturation excludes MI",
+      "(D) ECG can be delayed"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Oxygen is guided by the clinical need rather than given automatically to everyone"
+  },
+  {
+    "question": "A patient with ST elevation and persistent chest pain is being prepared for urgent PCI. The nurse should:",
+    "options": [
+      "(A) Support rapid transfer and continue hemodynamic monitoring",
+      "(B) Begin a routine stress test",
+      "(C) Delay transfer for a lipid panel",
+      "(D) Encourage a meal"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Support rapid transfer and continue hemodynamic monitoring"
+  },
+  {
+    "question": "Why should a patient’s antiplatelet history be communicated before PCI?",
+    "options": [
+      "(A) It affects treatment and bleeding assessment",
+      "(B) It determines eye color",
+      "(C) It replaces angiography",
+      "(D) It proves a normal coronary artery"
+    ],
+    "correct_index": 0,
+    "explanation": "A. It affects treatment and bleeding assessment"
+  },
+  {
+    "question": "A patient after PCI reports sudden recurrent chest pain. What is the best response?",
+    "options": [
+      "(A) Obtain urgent assessment and ECG according to protocol",
+      "(B) Reassure without assessment",
+      "(C) Ask the patient to walk",
+      "(D) Wait until discharge"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Obtain urgent assessment and ECG according to protocol"
+  },
+  {
+    "question": "A patient with a new stent says, “I can stop my antiplatelets when I feel well.” What should the nurse say?",
+    "options": [
+      "(A) “Do not stop them without discussing it with your treating team.”",
+      "(B) “That is correct.”",
+      "(C) “Take double doses every other day.”",
+      "(D) “Replace them with vitamins.”"
+    ],
+    "correct_index": 0,
+    "explanation": "A. “Do not stop them without discussing it with your treating team.”"
+  },
+  {
+    "question": "A patient on dual antiplatelet therapy reports vomiting blood. What should the nurse do?",
+    "options": [
+      "(A) Assess and escalate suspected major bleeding",
+      "(B) Ignore it",
+      "(C) Stop both drugs independently and discharge",
+      "(D) Encourage exercise"
+    ],
+    "correct_index": 0,
+    "explanation": "Assess and escalate suspected major bleeding"
+  },
+  {
+    "question": "Following an inferior MI, a patient develops bradycardia and hypotension. The nurse should:",
+    "options": [
+      "(A) Assess perfusion and notify the team promptly",
+      "(B) Assume the rhythm is harmless",
+      "(C) Give a nitrate automatically",
+      "(D) Remove the ECG leads"
+    ],
+    "correct_index": 0,
+    "explanation": "Assess perfusion and notify the team promptly"
+  },
+  {
+    "question": "After MI, a patient suddenly develops a new loud systolic murmur and pulmonary edema. Which concern should be reported?",
+    "options": [
+      "(A) A mechanical complication such as acute MR or septal rupture",
+      "(B) Routine recovery",
+      "(C) Stable angina",
+      "(D) Isolated artifact"
+    ],
+    "correct_index": 0,
+    "explanation": "A mechanical complication such as acute MR or septal rupture"
+  },
+  {
+    "question": "A patient with MI develops ventricular fibrillation and is pulseless. What is priority?",
+    "options": [
+      "(A) CPR and defibrillation pathway",
+      "(B) Oral nitroglycerin",
+      "(C) Routine echocardiography first",
+      "(D) Discharge teaching"
+    ],
+    "correct_index": 0,
+    "explanation": "A. CPR and defibrillation pathway"
+  },
+  {
+    "question": "A patient’s troponin rises, but symptoms and ECG suggest sepsis-related supply–demand imbalance. Which statement is best?",
+    "options": [
+      "(A) The mechanism of myocardial injury must be evaluated; not every rise is type 1 MI",
+      "(B) Every rise proves plaque rupture",
+      "(C) Troponin is irrelevant",
+      "(D) The value identifies the artery"
+    ],
+    "correct_index": 0,
+    "explanation": "A. The mechanism of myocardial injury must be evaluated; not every rise is type 1 MI"
+  },
+  {
+    "question": "A patient with chest pain says the pain has stopped, but the ECG shows new ischemic changes. What should the nurse do?",
+    "options": [
+      "(A) Continue urgent evaluation",
+      "(B) Cancel all testing",
+      "(C) Discharge because pain stopped",
+      "(D) Remove telemetry"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Continue urgent evaluation"
+  },
+  {
+    "question": "A patient with suspected ACS is allergic to aspirin. What should the nurse do when an aspirin order appears?",
+    "options": [
+      "(A) Verify and notify the prescriber before administration",
+      "(B) Give it anyway",
+      "(C) Delete the allergy",
+      "(D) Replace it independently"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Verify and notify the prescriber before administration"
+  },
+  {
+    "question": "A patient is discharged after MI. Which statement shows understanding?",
+    "options": [
+      "(A) “I will seek urgent help for new concerning chest symptoms.”",
+      "(B) “A previous MI means future chest pain is harmless.”",
+      "(C) “I may stop all medicine when I feel better.”",
+      "(D) “Follow-up is unnecessary.”"
+    ],
+    "correct_index": 0,
+    "explanation": "A. “I will seek urgent help for new concerning chest symptoms.”"
+  },
+  {
+    "question": "A patient asks why cardiac rehabilitation is recommended after MI. The best response is:",
+    "options": [
+      "(A) It combines supervised activity, education, and risk-reduction support",
+      "(B) It is only an ECG test",
+      "(C) It replaces all medicine",
+      "(D) It is required only if pain persists"
+    ],
+    "correct_index": 0,
+    "explanation": "A. It combines supervised activity, education, and risk-reduction support"
+  },
+  {
+    "question": "A patient with acute chest pain and possible aortic dissection has been entered into an ACS pathway. What should the nurse do with the sudden tearing back-pain and pulse-difference findings?",
+    "options": [
+      "(A) Report them immediately because they may change treatment",
+      "(B) Ignore them",
+      "(C) Start an exercise test",
+      "(D) Record them only at discharge"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Report them immediately because they may change treatment"
+  },
+  {
+    "question": "After coronary stenting, which additional instruction is important before another planned surgery?",
+    "options": [
+      "(A) Tell the surgical and cardiac teams about the stent and antiplatelet regimen",
+      "(B) Stop medicines independently",
+      "(C) Conceal the PCI history",
+      "(D) Assume bleeding risk is irrelevant"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Tell the surgical and cardiac teams about the stent and antiplatelet regimen"
+  },
+  {
+    "question": "Which patient should the ACS nurse assess first?",
+    "options": [
+      "(A) New hypotension with cool, clammy skin",
+      "(B) Stable patient requesting a blanket",
+      "(C) Patient reviewing a cardiac diet",
+      "(D) Patient awaiting a routine appointment"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Shock may be developing."
+  },
+  {
+    "question": "A patient with heart failure gains weight suddenly and has more ankle swelling. What should the nurse assess?",
+    "options": [
+      "(A) Lung sounds, breathing, intake/output, and prescribed action plan",
+      "(B) Only appetite",
+      "(C) Only height",
+      "(D) Only ECG electrode color"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Lung sounds, breathing, intake/output, and prescribed action plan"
+  },
+  {
+    "question": "A patient with acute pulmonary edema is struggling to breathe while lying flat. What is the best immediate positioning action, if tolerated?",
+    "options": [
+      "(A) Help the patient sit upright",
+      "(B) Keep flat for a meal",
+      "(C) Place prone without assessment",
+      "(D) Encourage walking"
+    ],
+    "correct_index": 0,
+    "explanation": "A. Help the patient sit upright"
+  },
+  {
+    "question": "During IV diuretic therapy, urine output increases but blood pressure falls and the patient becomes dizzy. What should the nurse do?",
+    "options": [
+      "(A) Reassess and report possible excessive volume loss or poor perfusion",
+      "(B) Give an extra dose automatically",
+      "(C) Ignore symptoms",
       "(D) Stop monitoring"
     ],
     "correct_index": 0,
-    "explanation": "Assess and communicate."
+    "explanation": "A. Reassess and report possible excessive volume loss or poor perfusion"
   },
   {
-    "question": "A patient after contrast exposure develops rash and wheeze. Which change makes the reaction an emergency?",
+    "question": "A patient with heart failure has serum potassium below the laboratory range while taking a diuretic. Which concern is most relevant?",
     "options": [
-      "(A) Airway symptoms or hypotension",
-      "(B) Mild warmth alone",
-      "(C) Stable BP",
-      "(D) Normal breathing"
+      "(A) Increased arrhythmia risk",
+      "(B) Improved coronary perfusion",
+      "(C) Confirmation of valve stenosis",
+      "(D) Normal medication effect requiring no review"
     ],
     "correct_index": 0,
-    "explanation": "Airway symptoms or hypotension."
+    "explanation": "A. Increased arrhythmia risk"
   },
   {
-    "question": "A patient receiving intra-aortic balloon pump support develops a cold limb below the access site. What is the priority?",
+    "question": "Which discharge plan best supports recognition of worsening heart failure?",
     "options": [
-      "(A) Distal perfusion assessment and urgent escalation",
-      "(B) Ignore because device is active",
-      "(C) Massage the limb",
-      "(D) Remove device independently"
+      "(A) Consistent weights and a symptom action plan",
+      "(B) Weighing at random times",
+      "(C) Stopping medicines when edema decreases",
+      "(D) Ignoring orthopnea"
     ],
     "correct_index": 0,
-    "explanation": "Assess and escalate."
+    "explanation": "A. Consistent weights and a symptom action plan"
   },
   {
-    "question": "The IABP patient becomes hypotensive and device alarms. What should the nurse assess?",
+    "question": "A patient with HFpEF asks, “How can I have heart failure if my EF is preserved?” The best response is:",
     "options": [
-      "(A) Patient perfusion, ECG trigger, and device function",
-      "(B) Only diet",
-      "(C) Only hearing",
-      "(D) Only weight"
+      "(A) “The heart may have impaired filling and high pressures despite preserved EF.”",
+      "(B) “The diagnosis is impossible.”",
+      "(C) “EF measures kidney function.”",
+      "(D) “Only a low EF causes breathlessness.”"
     ],
     "correct_index": 0,
-    "explanation": "A. Perfusion and device function."
+    "explanation": "A. “The heart may have impaired filling and high pressures despite preserved EF.”"
   },
   {
-    "question": "A patient with a temporary pacing catheter loses capture and becomes faint. What should the nurse do?",
+    "question": "A patient with low-output heart failure becomes confused with cool extremities. The nurse should prioritize:",
     "options": [
-      "(A) Urgent perfusion assessment and pacing-team response",
-      "(B) Wait for routine check",
-      "(C) Remove catheter",
-      "(D) Encourage exercise"
+      "(A) Assessment and escalation of impaired perfusion",
+      "(B) Routine dietary teaching",
+      "(C) Unsupervised ambulation",
+      "(D) A delayed daily weight"
     ],
     "correct_index": 0,
-    "explanation": "A. Urgent assessment and response."
+    "explanation": "Assessment and escalation of impaired perfusion"
   },
   {
-    "question": "A patient is scheduled for an electrophysiology study. What is the purpose?",
+    "question": "A patient taking a prescribed fluid restriction asks if ice chips count. Which reply is best?",
     "options": [
-      "(A) Identify arrhythmia mechanisms and potential ablation targets",
-      "(B) Culture blood",
-      "(C) Measure lung volume",
-      "(D) Replace echocardiography in every case"
+      "(A) “Yes; count them according to the care plan.”",
+      "(B) “Only water counts.”",
+      "(C) “Frozen liquids never count.”",
+      "(D) “There is no need to track intake.”"
     ],
     "correct_index": 0,
-    "explanation": "A. Identify arrhythmia mechanisms."
+    "explanation": "A. “Yes; count them according to the care plan.”"
   },
   {
-    "question": "After EP ablation, a patient develops chest pain and hypotension. Which complication requires immediate evaluation?",
+    "question": "A patient with HCM reports exertional syncope. Which instruction is appropriate?",
     "options": [
-      "(A) Tamponade",
-      "(B) Normal expected appetite",
-      "(C) Stable PAD",
-      "(D) Simple incision itching"
+      "(A) Seek prompt specialist assessment and avoid unapproved strenuous activity",
+      "(B) Train harder",
+      "(C) Ignore it if young",
+      "(D) Stop all follow-up"
     ],
     "correct_index": 0,
-    "explanation": "A. Tamponade."
+    "explanation": "A. Seek prompt specialist assessment and avoid unapproved strenuous activity"
   },
   {
-    "question": "A patient undergoing transseptal catheterization develops new neurologic deficit. What is the first action?",
+    "question": "A patient newly diagnosed with HCM reports a close relative died suddenly at a young age. Why is this history important?",
     "options": [
-      "(A) Activate stroke evaluation",
-      "(B) Wait for sedation to wear off without assessment",
-      "(C) Offer oral fluid",
-      "(D) Remove monitoring"
+      "(A) It informs inherited and arrhythmic-risk assessment",
+      "(B) It confirms aortic dissection",
+      "(C) It rules out HCM",
+      "(D) It replaces echocardiography"
     ],
     "correct_index": 0,
-    "explanation": "Activate stroke evaluation."
+    "explanation": "A. It informs inherited and arrhythmic-risk assessment"
   },
   {
-    "question": "A patient after CAG asks about heavy lifting with the access arm. What should the nurse use to answer?",
+    "question": "A patient with dilated cardiomyopathy develops an irregular rhythm. What additional risk should be considered?",
     "options": [
-      "(A) Site-specific discharge instructions from the procedural team",
-      "(B) A universal unrestricted rule",
-      "(C) Another patient’s instructions",
-      "(D) No advice"
+      "(A) Intracardiac thrombus and embolism in the appropriate clinical context",
+      "(B) Immediate pulmonary atresia",
+      "(C) A new congenital VSD",
+      "(D) Guaranteed normal stroke risk"
     ],
     "correct_index": 0,
-    "explanation": "A. Site-specific instructions."
+    "explanation": "A. Intracardiac thrombus and embolism in the appropriate clinical context"
   },
   {
-    "question": "A patient after femoral catheterization feels dizzy when first mobilized. What should the nurse do?",
+    "question": "A postpartum patient has increasing breathlessness, orthopnea, and edema. The nurse should:",
     "options": [
-      "(A) Help to a safe position and check BP/access site",
-      "(B) Ask them to walk faster",
-      "(C) Ignore dizziness",
-      "(D) Remove dressing"
+      "(A) Arrange urgent evaluation for cardiac and other causes, including peripartum cardiomyopathy",
+      "(B) Assume normal recovery",
+      "(C) Recommend running",
+      "(D) Wait months without review"
     ],
     "correct_index": 0,
-    "explanation": "A. Safe position and assessment."
+    "explanation": "Arrange urgent evaluation for cardiac and other causes, including peripartum cardiomyopathy"
   },
   {
-    "question": "A patient undergoing CAG has a documented shellfish allergy but no known contrast reaction. Which statement is most accurate?",
+    "question": "A patient with restrictive cardiomyopathy has edema despite an apparently adequate EF. What explains this?",
     "options": [
-      "(A) Clarify actual contrast reaction history rather than equating shellfish with contrast allergy",
-      "(B) Contrast is always prohibited",
-      "(C) Give no assessment",
-      "(D) Shellfish guarantees anaphylaxis"
+      "(A) Poor ventricular relaxation can elevate filling pressures",
+      "(B) EF proves normal filling",
+      "(C) Coronary arteries are absent",
+      "(D) The pericardium always contains blood"
     ],
     "correct_index": 0,
-    "explanation": "A. Clarify the actual allergy history."
+    "explanation": "A. Poor ventricular relaxation can elevate filling pressures"
   },
   {
-    "question": "A patient after stenting asks why recurrent chest pain matters even if the access site is normal. Which response is correct?",
+    "question": "A patient with severe emotional stress has acute chest pain and LV dysfunction. What is the nurse’s priority?",
     "options": [
-      "(A) Coronary complications can occur without access-site bleeding",
-      "(B) Normal groin excludes ischemia",
-      "(C) Pain is always expected",
-      "(D) ECG is unnecessary"
+      "(A) Treat the presentation as a possible cardiac emergency while the cause is determined",
+      "(B) Assume takotsubo without evaluation",
+      "(C) Ignore the ECG",
+      "(D) Send the patient home"
     ],
     "correct_index": 0,
-    "explanation": "A. Coronary complications may still occur."
+    "explanation": "A. Treat the presentation as a possible cardiac emergency while the cause is determined"
   },
   {
-    "question": "A patient with mechanical circulatory support has rising lactate despite device operation. What should the nurse assess?",
+    "question": "A patient with heart failure has new nocturnal cough and needs more pillows. Which finding best indicates a worsening trend?",
     "options": [
-      "(A) End-organ perfusion and device effectiveness",
-      "(B) Only the power indicator",
-      "(C) Shoe size",
-      "(D) Hearing"
+      "(A) Increased breathlessness compared with baseline",
+      "(B) Stable daily weight",
+      "(C) Improved walking distance",
+      "(D) Decreased edema"
     ],
     "correct_index": 0,
-    "explanation": "A. Perfusion and device effectiveness."
+    "explanation": "A. Increased breathlessness compared with baseline"
   },
   {
-    "question": "During a catheter procedure, sterile technique is breached. What should the nurse do?",
+    "question": "A patient on heart-failure treatment wants to stop a prescribed medicine after feeling better. The nurse should:",
     "options": [
-      "(A) Speak up and correct the breach before proceeding",
-      "(B) Remain silent",
-      "(C) Hide it",
-      "(D) Continue using contaminated equipment"
+      "(A) Explain that medication changes should be reviewed with the treating team",
+      "(B) Agree immediately",
+      "(C) Double another medicine",
+      "(D) Cancel follow-up"
     ],
     "correct_index": 0,
-    "explanation": "A. Correct the breach."
+    "explanation": "A. Explain that medication changes should be reviewed with the treating team"
   },
   {
-    "question": "A patient has severe coronary calcification and complex PCI planned. What adjunct may guide stent sizing and optimization?",
+    "question": "A patient with new HF symptoms has an elevated BNP. Which additional test helps evaluate structure and ventricular function?",
     "options": [
-      "(A) Intravascular imaging",
-      "(B) Routine chest X-ray alone",
-      "(C) EEG",
-      "(D) Spirometry"
+      "(A) Echocardiography",
+      "(B) Dental X-ray",
+      "(C) Urinalysis alone",
+      "(D) Hearing screen"
     ],
     "correct_index": 0,
-    "explanation": "A. Intravascular imaging."
+    "explanation": "A. Echocardiography"
   },
   {
-    "question": "A patient is stable after CAG but has a new loss of distal pulse before discharge. What should happen?",
+    "question": "A patient with heart failure has poor appetite and abdominal fullness. Which assessment is relevant?",
     "options": [
-      "(A) Urgent evaluation before discharge",
-      "(B) Discharge as planned",
-      "(C) Apply heat",
-      "(D) Ask patient to return in a month"
+      "(A) Systemic congestion and nutritional intake",
+      "(B) Tooth eruption",
+      "(C) Eye color",
+      "(D) ECG paper speed"
     ],
     "correct_index": 0,
-    "explanation": "A. Urgent evaluation."
+    "explanation": "A. Systemic congestion and nutritional intake"
   },
   {
-    "question": "Before CVC insertion, what must be confirmed?",
+    "question": "When a patient with HF reports rapid weight gain, the nurse should ask about:",
     "options": [
-      "(A) Indication, patient identity, site plan, and consent process",
-      "(B) Shoe size",
-      "(C) Only meal choice",
-      "(D) Only room number"
+      "(A) Dyspnea, edema, medicine adherence, and the individualized threshold for contacting the team",
+      "(B) Hair length",
+      "(C) Room temperature only",
+      "(D) Height changes"
     ],
     "correct_index": 0,
-    "explanation": "A. Indication and procedural checks."
+    "explanation": "A. Dyspnea, edema, medicine adherence, and the individualized threshold for contacting the team"
   },
   {
-    "question": "A patient with severe coagulopathy needs a CVC. What should the nurse do?",
+    "question": "Which result most directly evaluates response to a prescribed diuretic in an acutely congested patient?",
     "options": [
-      "(A) Communicate bleeding risk and review the insertion plan",
-      "(B) Ignore results",
-      "(C) Give anticoagulant independently",
-      "(D) Start without assessment"
+      "(A) Improved breathing together with fluid-balance and perfusion trends",
+      "(B) Serum cholesterol alone",
+      "(C) ECG axis alone",
+      "(D) A single height measurement"
     ],
     "correct_index": 0,
-    "explanation": "A. Communicate bleeding risk."
+    "explanation": "A. "
   },
   {
-    "question": "During CVC insertion, which barrier approach reduces infection risk?",
+    "question": "Telemetry shows a wide-complex tachycardia. What must the nurse check immediately?",
     "options": [
-      "(A) Maximal sterile barrier precautions",
-      "(B) Clean gloves alone",
-      "(C) No drape",
-      "(D) Uncovered hair"
+      "(A) Responsiveness and pulse",
+      "(B) Last meal",
+      "(C) Height",
+      "(D) Daily weight"
     ],
     "correct_index": 0,
-    "explanation": "A. Maximal sterile barrier precautions."
+    "explanation": "A. Responsiveness and pulse"
   },
   {
-    "question": "Before CVC insertion, what should be performed even if sterile gloves will be used?",
+    "question": "The monitor shows apparent VF, but the patient is awake and speaking. What is the first action?",
     "options": [
-      "(A) Hand hygiene",
-      "(B) Routine ECG only",
-      "(C) ABG only",
-      "(D) Chest X-ray only"
+      "(A) Assess the patient and check for artifact",
+      "(B) Defibrillate without assessment",
+      "(C) Turn off monitoring permanently",
+      "(D) Diagnose asystole"
     ],
     "correct_index": 0,
-    "explanation": "A. Hand hygiene."
+    "explanation": "Assess the patient and check for artifact"
   },
   {
-    "question": "Skin preparation for CVC insertion commonly uses which agent when appropriate?",
+    "question": "A patient is unresponsive and pulseless, and the monitor shows VF. Which response is appropriate?",
     "options": [
-      "(A) Chlorhexidine in alcohol",
-      "(B) Plain water only",
-      "(C) Hand lotion",
-      "(D) Saline alone"
+      "(A) Start CPR and follow the defibrillation pathway",
+      "(B) Give oral fluids",
+      "(C) Obtain routine weight",
+      "(D) Wait for a troponin result"
     ],
     "correct_index": 0,
-    "explanation": "A. Chlorhexidine in alcohol."
+    "explanation": "A. Start CPR and follow the defibrillation pathway"
   },
   {
-    "question": "A nurse notices the CVC operator touches a nonsterile surface with sterile gloves. What should the nurse do?",
+    "question": "A patient has organized electrical activity without a palpable pulse. Which rhythm category applies?",
     "options": [
-      "(A) Identify the breach and replace contaminated items",
-      "(B) Remain silent",
-      "(C) Continue the procedure unchanged",
-      "(D) Cover gloves with a dressing"
+      "(A) Pulseless electrical activity",
+      "(B) Normal perfusing sinus rhythm",
+      "(C) Stable SVT",
+      "(D) Sinus arrhythmia"
     ],
     "correct_index": 0,
-    "explanation": "A. Correct the sterile breach."
+    "explanation": "A. Pulseless electrical activity"
   },
   {
-    "question": "Ultrasound guidance is used during internal jugular CVC insertion. What does it help identify?",
+    "question": "A patient has symptomatic bradycardia with hypotension. What should the nurse prepare for under the emergency protocol?",
     "options": [
-      "(A) Target vein and nearby anatomy",
-      "(B) Serum sodium",
-      "(C) Coronary plaque",
-      "(D) Cardiac EF"
+      "(A) Directed bradycardia treatment and possible pacing",
+      "(B) Elective treadmill testing",
+      "(C) Immediate discharge",
+      "(D) Routine lipid teaching"
     ],
     "correct_index": 0,
-    "explanation": "A. Vein and nearby anatomy."
+    "explanation": "A. Directed bradycardia treatment and possible pacing"
   },
   {
-    "question": "A patient develops sudden dyspnea and unilateral reduced breath sounds during subclavian CVC insertion. What should be suspected?",
+    "question": "A patient with AF has new one-sided weakness. What is the priority?",
     "options": [
-      "(A) Pneumothorax",
-      "(B) Normal response",
-      "(C) Stable angina",
-      "(D) Hypoglycemia"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Pneumothorax."
-  },
-  {
-    "question": "During CVC insertion, the patient develops sudden tachyarrhythmia as a guidewire advances. What should the nurse do?",
-    "options": [
-      "(A) Alert operator and assess rhythm/perfusion",
-      "(B) Advance wire farther independently",
-      "(C) Remove ECG leads",
-      "(D) Ignore alarm"
-    ],
-    "correct_index": 0,
-    "explanation": "Alert operator and assess."
-  },
-  {
-    "question": "After internal jugular CVC insertion, the patient has expanding neck swelling and difficulty breathing. What is the priority?",
-    "options": [
-      "(A) Airway assessment and emergency help",
-      "(B) Routine dressing change",
-      "(C) Oral fluids",
-      "(D) Wait until morning"
-    ],
-    "correct_index": 0,
-    "explanation": "Airway assessment and emergency help."
-  },
-  {
-    "question": "A patient with a new CVC is hypotensive and has chest pain. What should the nurse assess?",
-    "options": [
-      "(A) Patient stability and possible insertion complication",
-      "(B) Only appetite",
-      "(C) Only height",
-      "(D) Only bowel movement"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Stability and complication."
-  },
-  {
-    "question": "A newly inserted CVC will be used for vasoactive infusion. What must be established first under policy?",
-    "options": [
-      "(A) Appropriate tip position and line function",
-      "(B) Hair color",
-      "(C) Patient’s preferred meal",
-      "(D) Next annual visit"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Tip position and function."
-  },
-  {
-    "question": "A central line flushes with resistance and the patient has chest discomfort. What should the nurse do?",
-    "options": [
-      "(A) Stop and assess; do not force flush",
-      "(B) Push harder",
-      "(C) Ignore discomfort",
-      "(D) Disconnect monitoring"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Do not force flush."
-  },
-  {
-    "question": "A nurse changes a CVC dressing and sees redness and purulent drainage. What should happen?",
-    "options": [
-      "(A) Assess and report possible infection",
-      "(B) Cover without documenting",
-      "(C) Massage site",
-      "(D) Give antibiotics independently"
-    ],
-    "correct_index": 0,
-    "explanation": "Assess and report."
-  },
-  {
-    "question": "A patient with a central line develops fever and chills during infusion. What should the nurse consider?",
-    "options": [
-      "(A) Catheter-related bloodstream infection, among other causes",
-      "(B) Guaranteed normal reaction",
-      "(C) Improved perfusion",
-      "(D) Pacemaker failure"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Possible catheter-related infection."
-  },
-  {
-    "question": "A central-line hub is accessed frequently. Which action reduces contamination?",
-    "options": [
-      "(A) Disinfect the access port per protocol",
-      "(B) Touch with unclean hands",
-      "(C) Leave uncapped",
-      "(D) Reuse contaminated caps"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Disinfect the access port."
-  },
-  {
-    "question": "A CVC dressing is loose and damp. What should the nurse do?",
-    "options": [
-      "(A) Replace it aseptically per protocol",
-      "(B) Tape over indefinitely",
-      "(C) Leave exposed",
-      "(D) Ignore until next week"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Replace aseptically."
-  },
-  {
-    "question": "A CVC is no longer clinically needed. What infection-prevention action is appropriate?",
-    "options": [
-      "(A) Promptly review for removal",
-      "(B) Keep indefinitely",
-      "(C) Use it for convenience alone",
-      "(D) Stop site checks"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Review for removal."
-  },
-  {
-    "question": "A patient with a CVC suddenly becomes dyspneic during tubing disconnection. What should be considered?",
-    "options": [
-      "(A) Venous air embolism",
-      "(B) Stable angina",
-      "(C) Mitral stenosis",
-      "(D) Hypokalemia only"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Venous air embolism."
-  },
-  {
-    "question": "A central-line connection is found open to air. What should the nurse do immediately?",
-    "options": [
-      "(A) Clamp/occlude the line and assess the patient",
-      "(B) Leave open",
+      "(A) Activate urgent stroke assessment",
+      "(B) Wait for the next anticoagulant dose",
       "(C) Encourage walking",
-      "(D) Give oral fluids"
+      "(D) Reassure without examination"
     ],
     "correct_index": 0,
-    "explanation": "A. Occlude and assess."
+    "explanation": "Activate urgent stroke assessment"
   },
   {
-    "question": "A patient develops sudden respiratory distress and hypotension after CVC placement. Which initial response is correct?",
+    "question": "Before planned AF cardioversion, the patient reports missing several anticoagulant doses. What should the nurse do?",
     "options": [
-      "(A) ABC assessment and emergency escalation",
-      "(B) Complete routine charting first",
-      "(C) Remove monitoring",
-      "(D) Delay until radiograph returns"
+      "(A) Notify the procedural team",
+      "(B) Hide the information",
+      "(C) Proceed without review",
+      "(D) Double the dose independently"
     ],
     "correct_index": 0,
-    "explanation": "ABC assessment and escalation."
+    "explanation": "A. Notify the procedural team"
   },
   {
-    "question": "A CVC dressing change is planned. Which action comes before touching the site?",
+    "question": "After sedated cardioversion, what should the nurse assess first?",
     "options": [
-      "(A) Hand hygiene and aseptic preparation",
-      "(B) Remove gloves only",
-      "(C) Give oral food",
-      "(D) Turn off monitor"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Hand hygiene and preparation."
-  },
-  {
-    "question": "A patient has a femoral CVC. Which assessment is particularly relevant?",
-    "options": [
-      "(A) Site cleanliness and lower-limb perfusion",
-      "(B) Hearing",
-      "(C) Vision",
-      "(D) Dental status"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Site and lower-limb assessment."
-  },
-  {
-    "question": "A patient with a PICC develops arm swelling and pain. What complication should be assessed?",
-    "options": [
-      "(A) Catheter-associated thrombosis",
-      "(B) Normal growth",
-      "(C) Aortic dissection confirmed",
-      "(D) Complete heart block"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Catheter-associated thrombosis."
-  },
-  {
-    "question": "A patient with a CVC develops swelling of the face and neck. What should the nurse assess?",
-    "options": [
-      "(A) Venous obstruction and airway symptoms",
-      "(B) Only weight",
-      "(C) Only appetite",
-      "(D) Only temperature"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Venous obstruction and airway."
-  },
-  {
-    "question": "A CVC lumen is labeled for a vasoactive infusion. Before connecting a different medication, what should the nurse check?",
-    "options": [
-      "(A) Line compatibility and institutional policy",
-      "(B) Only drug color",
-      "(C) Only bag size",
-      "(D) Nothing"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Compatibility and policy."
-  },
-  {
-    "question": "A patient receiving norepinephrine through a CVC has a sudden interruption in infusion. What should the nurse assess first?",
-    "options": [
-      "(A) BP/perfusion and line/pump function",
-      "(B) Daily weight",
-      "(C) Hearing",
-      "(D) Meal preference"
-    ],
-    "correct_index": 0,
-    "explanation": "A. BP, perfusion, and infusion."
-  },
-  {
-    "question": "A central-line pump alarms “occlusion.” What should the nurse do?",
-    "options": [
-      "(A) Inspect line, clamps, and patient; avoid forcing medication",
-      "(B) Silence and leave",
-      "(C) Flush forcefully",
-      "(D) Remove catheter independently"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Inspect without forcing."
-  },
-  {
-    "question": "A patient with HF has a CVC for hemodynamic monitoring. Does a single CVP number alone determine fluid responsiveness?",
-    "options": [
-      "(A) No",
-      "(B) Yes, always",
-      "(C) Only if heart rate is normal",
-      "(D) Only if SpO₂ is 100%"
-    ],
-    "correct_index": 0,
-    "explanation": "A. No."
-  },
-  {
-    "question": "A central venous pressure transducer is below the reference level. How may CVP read?",
-    "options": [
-      "(A) Falsely high",
-      "(B) Falsely low",
-      "(C) It becomes an ABG",
-      "(D) It measures EF"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Falsely high."
-  },
-  {
-    "question": "A CVP tracing is unexpectedly flat. What should the nurse assess first?",
-    "options": [
-      "(A) Patient and catheter/transducer system",
-      "(B) Give fluid automatically",
-      "(C) Stop ECG monitoring",
-      "(D) Discharge"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Patient and system."
-  },
-  {
-    "question": "A patient with right ventricular failure has elevated CVP. What should the nurse correlate it with?",
-    "options": [
-      "(A) JVP, edema, BP, urine output, and other findings",
-      "(B) Eye color",
+      "(A) Airway, consciousness, rhythm, and vital signs",
+      "(B) Long-term diet preference",
       "(C) Shoe size",
-      "(D) Hearing"
+      "(D) Only skin color at the electrode site"
     ],
     "correct_index": 0,
-    "explanation": "A. Clinical findings."
+    "explanation": "Airway, consciousness, rhythm, and vital signs"
   },
   {
-    "question": "A patient develops ectopy during guidewire insertion. Which action is appropriate?",
+    "question": "A patient on a QT-prolonging medicine has a new markedly prolonged QTc. Which ordered result is relevant?",
     "options": [
-      "(A) Tell the operator immediately",
-      "(B) Ignore",
-      "(C) Advance wire more",
-      "(D) Remove ECG"
+      "(A) Potassium and magnesium",
+      "(B) Hemoglobin A1c alone",
+      "(C) LDL alone",
+      "(D) Blood group"
     ],
     "correct_index": 0,
-    "explanation": "A. Tell the operator."
+    "explanation": "A. Potassium and magnesium"
   },
   {
-    "question": "A CVC has no blood return from one lumen. What should the nurse do?",
+    "question": "A patient with torsades de pointes loses consciousness and has no pulse. What determines immediate management?",
     "options": [
-      "(A) Follow patency assessment protocol; do not force use",
-      "(B) Force flush",
-      "(C) Infuse vesicant immediately",
-      "(D) Ignore site swelling"
+      "(A) Treat as cardiac arrest under the shockable-rhythm pathway",
+      "(B) Offer oral magnesium",
+      "(C) Arrange routine follow-up",
+      "(D) Perform a stress test"
     ],
     "correct_index": 0,
-    "explanation": "A. Follow patency protocol."
+    "explanation": "A. Treat as cardiac arrest under the shockable-rhythm pathway"
   },
   {
-    "question": "A patient has chest pain and dyspnea after CVC placement. A radiograph shows a pneumothorax. What is the nursing priority?",
+    "question": "A patient has a regular narrow-complex tachycardia and is hypotensive with altered mentation. What is most important?",
     "options": [
-      "(A) Respiratory and hemodynamic assessment with urgent treatment support",
-      "(B) Routine discharge",
-      "(C) Encourage exercise",
-      "(D) Give food"
+      "(A) Immediate response to an unstable tachyarrhythmia",
+      "(B) Routine discharge teaching",
+      "(C) A lipid test first",
+      "(D) Unsupervised ambulation"
     ],
     "correct_index": 0,
-    "explanation": "A. Support urgent respiratory care."
+    "explanation": "A. Immediate response to an unstable tachyarrhythmia"
   },
   {
-    "question": "A central-line insertion checklist requires a time-out. What does it verify?",
+    "question": "A pacing spike is seen but no QRS follows. What should the nurse report?",
     "options": [
-      "(A) Correct patient, procedure, site, and team readiness",
-      "(B) Only lunch time",
-      "(C) Only bed number",
-      "(D) Only catheter color"
+      "(A) Possible failure to capture",
+      "(B) Normal pacing",
+      "(C) A confirmed pulse",
+      "(D) Normal valve function"
     ],
     "correct_index": 0,
-    "explanation": "A. Correct procedural details."
+    "explanation": "A. Possible failure to capture"
   },
   {
-    "question": "A patient with a CVC has new fever. Why should cultures be collected according to the ordered diagnostic plan before antibiotics when feasible?",
+    "question": "A paced QRS is present but the patient has no palpable pulse. What is the priority?",
     "options": [
-      "(A) To help identify the organism",
-      "(B) To measure EF",
-      "(C) To diagnose MI",
-      "(D) To evaluate valve area"
+      "(A) Treat the patient’s absent perfusion, not the monitor appearance",
+      "(B) Assume effective pacing",
+      "(C) Stop pulse checks",
+      "(D) Give a meal"
     ],
     "correct_index": 0,
-    "explanation": "A. Identify the organism."
+    "explanation": "A. Treat the patient’s absent perfusion, not the monitor appearance"
   },
   {
-    "question": "A patient has positive cultures from a line and peripheral blood. What should the nurse avoid doing independently?",
+    "question": "A patient reports several ICD shocks in one hour. Which instruction is best?",
     "options": [
-      "(A) Removing the CVC without following the treatment plan unless an emergency requires it",
-      "(B) Reporting results",
-      "(C) Monitoring vitals",
-      "(D) Assessing site"
+      "(A) Seek urgent evaluation",
+      "(B) Ignore shocks if awake",
+      "(C) Disable the device",
+      "(D) Start strenuous exercise"
     ],
     "correct_index": 0,
-    "explanation": "A. Follow the removal plan."
+    "explanation": "A. Seek urgent evaluation"
   },
   {
-    "question": "A CVC dressing is transparent. What advantage does this provide?",
+    "question": "A patient with complete heart block is dizzy and hypotensive. Why is this urgent?",
     "options": [
-      "(A) The insertion site can be observed",
-      "(B) It eliminates infection risk",
-      "(C) It replaces hand hygiene",
-      "(D) It measures CVP"
+      "(A) Ventricular rate may not maintain adequate perfusion",
+      "(B) It always resolves with rest",
+      "(C) It is a normal ECG variant",
+      "(D) It means the aortic valve is narrow"
     ],
     "correct_index": 0,
-    "explanation": "A. Site visibility."
+    "explanation": "A. Ventricular rate may not maintain adequate perfusion"
   },
   {
-    "question": "A patient is allergic to chlorhexidine. What should the team do for skin antisepsis?",
+    "question": "A telemetry patient’s rhythm changes to AF. Which assessment helps determine immediate priority?",
     "options": [
-      "(A) Use an approved alternative per protocol",
-      "(B) Use chlorhexidine anyway",
-      "(C) Omit antisepsis",
-      "(D) Use hand lotion"
+      "(A) Symptoms, rate, blood pressure, and perfusion",
+      "(B) Number of ECG stickers",
+      "(C) Last dental visit",
+      "(D) Height"
     ],
     "correct_index": 0,
-    "explanation": "Approved alternative."
+    "explanation": "A. Symptoms, rate, blood pressure, and perfusion"
   },
   {
-    "question": "A premature neonate has a short-term CVC. What should the nurse check before using a chlorhexidine-impregnated dressing?",
+    "question": "After ablation, a patient has a new rapid rhythm and chest discomfort. What should the nurse do?",
     "options": [
-      "(A) Age-specific policy and skin-injury risk",
-      "(B) Adult practice only",
-      "(C) Shoe size",
-      "(D) No need to check"
+      "(A) Obtain urgent assessment and notify the team",
+      "(B) Assume cure prevents recurrence",
+      "(C) Ignore symptoms",
+      "(D) Remove the access-site dressing"
     ],
     "correct_index": 0,
-    "explanation": "Age-specific policy and risk."
+    "explanation": "A. Obtain urgent assessment and notify the team"
   },
   {
-    "question": "A CVC patient develops rigors immediately after infusion starts. What should the nurse do?",
+    "question": "A patient with recurrent unexplained syncope is prescribed an implantable loop recorder. The purpose is to:",
     "options": [
-      "(A) Stop/assess infusion per protocol and promptly evaluate patient",
-      "(B) Increase infusion rate",
-      "(C) Ignore",
-      "(D) Give food"
+      "(A) Capture a rhythm during a future event",
+      "(B) Treat all slow rhythms automatically",
+      "(C) Replace valve surgery",
+      "(D) Measure troponin"
     ],
     "correct_index": 0,
-    "explanation": "Assess and escalate."
+    "explanation": "A. Capture a rhythm during a future event"
   },
   {
-    "question": "During dressing removal, the CVC is accidentally pulled outward. What should the nurse do?",
+    "question": "A patient taking a rate-control medicine develops new symptomatic bradycardia. The nurse should:",
     "options": [
-      "(A) Secure it, stop use as appropriate, and seek position assessment",
-      "(B) Push it back in",
-      "(C) Continue infusion automatically",
-      "(D) Hide the change"
+      "(A) Assess hemodynamics and review the medication with the prescriber",
+      "(B) Administer extra rate-control medicine",
+      "(C) Ignore dizziness",
+      "(D) Encourage maximal exercise"
     ],
     "correct_index": 0,
-    "explanation": "A. Secure and assess position."
+    "explanation": "Assess hemodynamics and review the medication with the prescriber"
   },
   {
-    "question": "A central-line lumen cap falls onto the floor. What should the nurse do?",
+    "question": "During a cardiac arrest, which information is more important than the monitor’s rhythm label alone?",
     "options": [
-      "(A) Replace with a sterile/new cap using aseptic technique",
-      "(B) Reattach it",
-      "(C) Rinse with tap water",
-      "(D) Leave open"
+      "(A) Whether the patient is responsive and has a pulse",
+      "(B) The brand of monitor",
+      "(C) The paper color",
+      "(D) The last meal"
     ],
     "correct_index": 0,
-    "explanation": "A. Replace aseptically."
-  },
-  {
-    "question": "A patient receiving TPN through a central line becomes suddenly febrile. What should the nurse assess?",
-    "options": [
-      "(A) Patient stability, line site, and infection workup needs",
-      "(B) Only calorie count",
-      "(C) Only weight",
-      "(D) Only hearing"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Stability and possible infection."
-  },
-  {
-    "question": "A patient with a tunneled catheter reports pain along the tunnel and fever. What is concerning?",
-    "options": [
-      "(A) Tunnel infection",
-      "(B) Normal healing always",
-      "(C) Stable angina",
-      "(D) Sinus bradycardia"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Tunnel infection."
-  },
-  {
-    "question": "A patient has a central line removed and develops sudden dyspnea. What should the nurse consider?",
-    "options": [
-      "(A) Air embolism or another acute complication",
-      "(B) Guaranteed normal response",
-      "(C) Mitral stenosis",
-      "(D) Low cholesterol"
-    ],
-    "correct_index": 0,
-    "explanation": "Acute complication including air embolism."
-  },
-  {
-    "question": "During line removal, what should the nurse follow to reduce air-entry risk?",
-    "options": [
-      "(A) Institution-specific positioning, breathing, and occlusive-dressing protocol",
-      "(B) Leave site open",
-      "(C) Encourage vigorous inspiration at removal without protocol",
-      "(D) Sit patient upright in every case"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Follow removal protocol."
-  },
-  {
-    "question": "A CVC patient develops unilateral neck swelling and catheter dysfunction. What is an appropriate concern?",
-    "options": [
-      "(A) Venous thrombosis",
-      "(B) Improved venous return",
-      "(C) Coronary plaque rupture confirmed",
-      "(D) Aortic stenosis"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Venous thrombosis."
-  },
-  {
-    "question": "A patient with a new central line has a sudden BP drop after flushing. What should the nurse do first?",
-    "options": [
-      "(A) Assess ABCs and stop use pending urgent evaluation",
-      "(B) Continue flushing",
-      "(C) Wait for routine rounds",
-      "(D) Encourage exercise"
-    ],
-    "correct_index": 0,
-    "explanation": "Assess and stop use pending evaluation."
-  },
-  {
-    "question": "A central-line dressing is changed using clean gloves without the required aseptic precautions. What should the nurse do?",
-    "options": [
-      "(A) Correct the technique and follow infection-control protocol",
-      "(B) Accept the breach",
-      "(C) Leave the line exposed",
-      "(D) Stop all care"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Correct technique."
-  },
-  {
-    "question": "A patient is transferred with a CVC. What should handoff include?",
-    "options": [
-      "(A) Type/site, lumen use, dressing, complications, and line necessity",
-      "(B) Only catheter color",
-      "(C) Only room number",
-      "(D) Only height"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Complete line status."
-  },
-  {
-    "question": "A central line has multiple lumens. What determines which medications can run together?",
-    "options": [
-      "(A) Compatibility and unit policy",
-      "(B) Number of ports alone",
-      "(C) Color of tubing alone",
-      "(D) Patient age alone"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Compatibility and policy."
-  },
-  {
-    "question": "A nurse sees blood backing up in a central-line lumen. What should be checked?",
-    "options": [
-      "(A) Clamp, connection, pump, and patient condition",
-      "(B) Only diet",
-      "(C) Only temperature",
-      "(D) Only height"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Line and patient."
-  },
-  {
-    "question": "A patient with a central line has an exposed insertion site after dressing loss. What should the nurse do?",
-    "options": [
-      "(A) Protect and redress aseptically promptly",
-      "(B) Leave open overnight",
-      "(C) Apply nonsterile tape only",
-      "(D) Massage"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Redress aseptically."
-  },
-  {
-    "question": "A patient has persistent CVC-associated bloodstream infection despite treatment. Which issue should the team review?",
-    "options": [
-      "(A) Ongoing need for the catheter and source control",
-      "(B) Shoe size",
-      "(C) Hearing",
-      "(D) Exercise tolerance only"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Catheter need and source control."
-  },
-  {
-    "question": "A patient with severe HF needs a CVC for vasoactive therapy. What assessment indicates medication effectiveness?",
-    "options": [
-      "(A) BP, perfusion, urine output, and clinical status",
-      "(B) Line color alone",
-      "(C) Patient height",
-      "(D) Dressing brand"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Hemodynamic and organ perfusion response."
-  },
-  {
-    "question": "A CVC patient has chest pain and new dysrhythmia after catheter repositioning. What should the nurse consider?",
-    "options": [
-      "(A) Catheter tip irritation or malposition",
-      "(B) Normal food intolerance",
-      "(C) Stable PAD",
-      "(D) Mitral stenosis confirmed"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Tip irritation or malposition."
-  },
-  {
-    "question": "At the end of each shift, what question helps prevent unnecessary CVC exposure?",
-    "options": [
-      "(A) Is this line still clinically necessary?",
-      "(B) Is the tubing color attractive?",
-      "(C) Can the dressing stay forever?",
-      "(D) Can assessment stop?"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Is it still necessary?"
-  },
-  {
-    "question": "A patient with a CVC suddenly becomes hypotensive and dyspneic. What is the nurse’s first action?",
-    "options": [
-      "(A) Immediate ABC/perfusion assessment and emergency escalation",
-      "(B) Complete routine documentation",
-      "(C) Offer a meal",
-      "(D) Wait for scheduled rounds"
-    ],
-    "correct_index": 0,
-    "explanation": "A. Immediate assessment and escalation.["
+    "explanation": "A. Whether the patient is responsive and has a pulse"
   }
 ]
