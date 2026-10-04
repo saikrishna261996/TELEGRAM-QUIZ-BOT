@@ -1,1113 +1,1102 @@
 [
   {
-    "question": "Four patients call the nurse. Who should be assessed first?",
+    "question": "Total surface area of a cylinder (Volume 80,850 cm³, Height 21 cm)?",
     "options": [
-      "(A) A patient with sudden chest pressure, diaphoresis, and nausea",
-      "(B) A patient asking for a scheduled walk",
-      "(C) A patient with unchanged chronic ankle edema",
-      "(D) A patient requesting dietary information"
+      "(A) 12,312 cm²",
+      "(B) 12,320 cm²",
+      "(C) 12,331 cm²",
+      "(D) 12,289 cm²"
     ],
-    "correct_index": 0,
-    "explanation": "A. Possible acute coronary syndrome requires immediate assessment."
-  },
-  {
-    "question": "A patient with known heart failure reports needing to sleep upright for the first time. What should the nurse assess first?",
-    "options": [
-      "(A) Respiratory status and oxygenation",
-      "(B) Preferred sleeping position",
-      "(C) Last dental visit",
-      "(D) Visual acuity"
-    ],
-    "correct_index": 0,
-    "explanation": "A. New orthopnea can signal worsening congestion."
+    "correct_index": 1,
+    "explanation": "B. 12,320 cm²."
   },
   {
-    "question": "A postoperative patient is pale, confused, and cool with a weak pulse. Which action is priority?",
+    "question": "Which amendment increased Lok Sabha seats from 525 to 545?",
     "options": [
-      "(A) Assess vital signs and perfusion and call for urgent help",
-      "(B) Offer a meal",
-      "(C) Obtain routine weight",
-      "(D) Begin discharge teaching"
+      "(A) 31st",
+      "(B) 35th",
+      "(C) 39th",
+      "(D) 27th"
     ],
     "correct_index": 0,
-    "explanation": "A. The findings suggest circulatory instability."
+    "explanation": "A. 31st."
   },
   {
-    "question": "A patient reports brief palpitations and now feels well. Which history best helps identify an arrhythmia?",
+    "question": "Simplify: \\((1.2^3 - 0.12^3) / 12^3\\)",
     "options": [
-      "(A) Time of onset, duration, triggers, and associated dizziness",
-      "(B) Shoe size",
-      "(C) Favorite food",
-      "(D) Hair color"
+      "(A) 0.00999",
+      "(B) 0.0000999",
+      "(C) 0.000999",
+      "(D) 0.0999"
     ],
-    "correct_index": 0,
-    "explanation": "A. Symptom correlation guides rhythm evaluation."
+    "correct_index": 2,
+    "explanation": "C. 0.000999."
   },
   {
-    "question": "A patient describes chest discomfort that now occurs at rest after previously occurring only with exercise. What is the best interpretation?",
+    "question": "People between O and J (counted from right of O) in circular seating?",
     "options": [
-      "(A) A concerning change requiring urgent evaluation",
-      "(B) Predictable stable symptoms",
-      "(C) Proof of heartburn",
-      "(D) A normal effect of aging"
+      "(A) Four",
+      "(B) Two",
+      "(C) Three",
+      "(D) One"
     ],
-    "correct_index": 0,
-    "explanation": "A concerning change requiring urgent evaluation"
+    "correct_index": 1,
+    "explanation": "B. Two."
   },
   {
-    "question": "A patient with possible cardiac disease reports fainting while exercising. Which response is best?",
+    "question": "Who wrote 'Beyond the Syllabus: The Real-Life Guide for Teenagers'?",
     "options": [
-      "(A) Arrange prompt clinical assessment and protect against another fall",
-      "(B) Recommend exercising harder",
-      "(C) Reassure without assessment",
-      "(D) Record only the heart rate"
+      "(A) Ankur Warikoo",
+      "(B) Prajakta Koli",
+      "(C) Santanu Bhattacharya",
+      "(D) Amish Tripathi"
     ],
-    "correct_index": 0,
-    "explanation": "Arrange prompt clinical assessment and protect against another fall"
+    "correct_index": 2,
+    "explanation": "C. Santanu Bhattacharya."
   },
   {
-    "question": "Which patient should the nurse see first?",
+    "question": "Value of '?' in 6B2D14A7C2=? (B=x, D=-, A=/, C=+)",
     "options": [
-      "(A) New severe dyspnea with pink, frothy sputum",
-      "(B) Stable patient awaiting dietary teaching",
-      "(C) Patient with a healed sternotomy scar",
-      "(D) Patient asking when visitors arrive"
+      "(A) 8",
+      "(B) 12",
+      "(C) 10",
+      "(D) 14"
     ],
-    "correct_index": 0,
-    "explanation": "Acute pulmonary edema threatens breathing."
+    "correct_index": 1,
+    "explanation": "B. 12."
   },
   {
-    "question": "The monitor shows a rate of 170/min. What information is most important before selecting the response pathway?",
+    "question": "What determines water reabsorption in human kidneys?",
     "options": [
-      "(A) Blood pressure, consciousness, symptoms, and pulse",
-      "(B) Patient’s height",
-      "(C) Time of last meal only",
-      "(D) Number of electrodes"
+      "(A) Kidney size",
+      "(B) Food type",
+      "(C) Blood oxygen",
+      "(D) Excess water/waste amount"
     ],
-    "correct_index": 0,
-    "explanation": "A. Hemodynamic stability directs urgency."
+    "correct_index": 3,
+    "explanation": "D. Excess water/waste amount."
   },
   {
-    "question": "A patient with a heart murmur reports new fever and night sweats. Which question is most relevant?",
+    "question": "Complete the pair: OKN-JFI, GCF-BXA, KFH-?",
     "options": [
-      "(A) “Have you had a valve replacement or previous endocarditis?”",
-      "(B) “What shoes do you wear?”",
-      "(C) “Do you prefer mornings?”",
-      "(D) “What is your favorite drink?”"
+      "(A) KFH-FBE",
+      "(B) KGJ-FBE",
+      "(C) KGJ-EBD",
+      "(D) KFH-EAD"
     ],
-    "correct_index": 0,
-    "explanation": "A. Valve history changes concern for endocarditis."
+    "correct_index": 2,
+    "explanation": "C. KGJ-EBD."
   },
   {
-    "question": "A patient receiving treatment for heart failure has less edema but becomes dizzy when standing. What is the nurse’s best action?",
+    "question": "Which helps plug leaks in injured blood vessels?",
     "options": [
-      "(A) Check blood pressure and volume-related findings",
-      "(B) Assume treatment has failed",
-      "(C) Give extra diuretic without an order",
-      "(D) Ignore fall risk"
+      "(A) RBCs",
+      "(B) Plasma",
+      "(C) Lymphocytes",
+      "(D) Platelets"
     ],
-    "correct_index": 0,
-    "explanation": "A. Check blood pressure and volume-related findings"
+    "correct_index": 3,
+    "explanation": "D. Platelets."
   },
   {
-    "question": "A patient with cardiac disease has a new urine output decline. Which finding would strengthen concern for poor perfusion?",
+    "question": "Who appoints UPSC members in India?",
     "options": [
-      "(A) Cool extremities and falling blood pressure",
-      "(B) Warm skin and improving alertness",
-      "(C) Stable pulse and pressure",
-      "(D) Improved appetite"
+      "(A) PM",
+      "(B) Parliament",
+      "(C) President",
+      "(D) Supreme Court"
     ],
-    "correct_index": 0,
-    "explanation": "A. Cool extremities and falling blood pressure"
+    "correct_index": 2,
+    "explanation": "C. President."
   },
   {
-    "question": "A patient reports severe chest and back pain that began suddenly. Which additional finding increases concern for aortic dissection?",
+    "question": "Average speed of a train (1/3 at 40 km/hr, 1/4 at 50 km/hr...)?",
     "options": [
-      "(A) New difference between arm pulses",
-      "(B) Stable long-standing ankle edema",
-      "(C) Mild chronic constipation",
-      "(D) Improved breathing"
+      "(A) 48 km/hr",
+      "(B) 42 km/hr",
+      "(C) 50 km/hr",
+      "(D) 45 km/hr"
     ],
     "correct_index": 0,
-    "explanation": "A. New difference between arm pulses"
+    "explanation": "A. 48 km/hr."
   },
   {
-    "question": "A patient says, “My heart is racing,” but the bedside monitor shows a normal rate. What should the nurse do?",
+    "question": "Earliest known Marathi literary work?",
     "options": [
-      "(A) Assess symptoms and obtain or review a reliable rhythm tracing",
-      "(B) Dismiss the report",
-      "(C) Disconnect monitoring",
-      "(D) Diagnose anxiety alone"
+      "(A) Gathasaptasati",
+      "(B) Lilacharitra",
+      "(C) Jnanesvari",
+      "(D) Dipavamsa"
     ],
     "correct_index": 0,
-    "explanation": "Assess symptoms and obtain or review a reliable rhythm tracing"
+    "explanation": "A. Gathasaptasati."
   },
   {
-    "question": "A child with heart disease becomes sweaty and tachypneic while feeding. Which assessment is most useful?",
+    "question": "Who led the Santhal Rebellion (implied by names)?",
     "options": [
-      "(A) Work of breathing, intake, oxygenation, and weight trend",
-      "(B) Bottle color",
-      "(C) Tooth count",
-      "(D) Hair texture"
+      "(A) Santhal",
+      "(B) Jaintia/Garo",
+      "(C) Munda",
+      "(D) Halba"
     ],
     "correct_index": 0,
-    "explanation": "A. Work of breathing, intake, oxygenation, and weight trend"
+    "explanation": "A. Santhal."
   },
   {
-    "question": "Which finding is most consistent with right-sided congestion?",
+    "question": "Letters between 4th left/2nd right in alphabetical JALOPIES?",
     "options": [
-      "(A) Increasing abdominal girth and dependent edema",
-      "(B) Isolated sharp pleuritic pain",
-      "(C) New ST elevation alone",
-      "(D) Hyperactive bowel sounds alone"
+      "(A) 5",
+      "(B) 4",
+      "(C) 3",
+      "(D) 6"
     ],
     "correct_index": 0,
-    "explanation": "A. Increasing abdominal girth and dependent edema"
+    "explanation": "A. 5."
   },
   {
-    "question": "A patient on telemetry says they feel faint. What should the nurse do before interpreting the monitor printout in detail?",
+    "question": "Confirmation of Carbon Dioxide gas?",
     "options": [
-      "(A) Assess responsiveness, pulse, and blood pressure",
-      "(B) Search the medication cabinet",
-      "(C) Silence all alarms",
-      "(D) Leave to get a routine weight"
+      "(A) Supports combustion",
+      "(B) Extinguishes splint",
+      "(C) Turns limewater milky",
+      "(D) Blue precipitate"
     ],
-    "correct_index": 0,
-    "explanation": "Assess responsiveness, pulse, and blood pressure"
+    "correct_index": 2,
+    "explanation": "C. Turns limewater milky."
   },
   {
-    "question": "The nurse notes that the apical pulse is faster than the radial pulse. What should be documented?",
+    "question": "GRAP-4 implemented in which city in Dec 2025?",
     "options": [
-      "(A) Pulse deficit with the measured rates",
-      "(B) A normal finding in every patient",
-      "(C) Blood pressure difference",
-      "(D) Oxygen saturation difference"
+      "(A) Delhi",
+      "(B) Pune",
+      "(C) Chandigarh",
+      "(D) Chennai"
     ],
     "correct_index": 0,
-    "explanation": "A. Pulse deficit with the measured rates"
+    "explanation": "A. Delhi."
   },
   {
-    "question": "An older adult presents with fatigue, nausea, and unexplained breathlessness but no chest pain. Which nursing judgment is safest?",
+    "question": "Particle size range in a colloidal solution?",
     "options": [
-      "(A) Consider a possible cardiac cause and obtain timely assessment",
-      "(B) Rule out ischemia",
-      "(C) Diagnose gastritis",
-      "(D) Delay vital signs"
+      "(A) >1mm",
+      "(B) >1000nm",
+      "(C) <1nm",
+      "(D) 1 to 100 nm"
     ],
-    "correct_index": 0,
-    "explanation": "A. Consider a possible cardiac cause and obtain timely assessment"
+    "correct_index": 3,
+    "explanation": "D. 1 to 100 nm."
   },
   {
-    "question": "Which patient finding most strongly suggests an acute change rather than chronic stable heart failure?",
+    "question": "Speed-time graph for one revolution at constant speed?",
     "options": [
-      "(A) Sudden rest dyspnea and new hypoxemia",
-      "(B) Unchanged mild edema",
-      "(C) Stable daily weight",
-      "(D) Usual walking distance"
+      "(A) Line sloping up",
+      "(B) Curved line",
+      "(C) Horizontal straight line",
+      "(D) Sinusoidal curve"
     ],
-    "correct_index": 0,
-    "explanation": "A. Sudden rest dyspnea and new hypoxemia"
+    "correct_index": 2,
+    "explanation": "C. Horizontal straight line."
   },
   {
-    "question": "A patient reports chest discomfort. Which focused history element should be obtained without delaying urgent actions?",
+    "question": "Concave lens image size compared to object?",
     "options": [
-      "(A) Onset and whether symptoms are ongoing",
-      "(B) Childhood shoe size",
-      "(C) Preferred room temperature",
-      "(D) Last eye examination"
+      "(A) Equal to focal length",
+      "(B) Smaller",
+      "(C) Same size",
+      "(D) Larger"
     ],
-    "correct_index": 0,
-    "explanation": "A. Onset and whether symptoms are ongoing"
+    "correct_index": 1,
+    "explanation": "B. Smaller."
   },
   {
-    "question": "A patient with an irregular rhythm is alert with stable blood pressure. Which nursing principle remains essential?",
+    "question": "Who maintains the Rural Infrastructure Development Fund?",
     "options": [
-      "(A) Continue assessment and obtain rhythm documentation",
-      "(B) Assume no stroke risk",
-      "(C) Stop monitoring",
-      "(D) Treat the monitor label as the diagnosis"
+      "(A) India Infra Trust",
+      "(B) SEBI",
+      "(C) RBI",
+      "(D) NABARD"
     ],
-    "correct_index": 0,
-    "explanation": "A. "
+    "correct_index": 3,
+    "explanation": "D. NABARD."
   },
   {
-    "question": "A patient’s first ECG is nondiagnostic despite continuing ischemic symptoms. What should the nurse anticipate?",
+    "question": "Which of the following shows oxidation?",
     "options": [
-      "(A) Repeat ECG and serial evaluation",
-      "(B) Automatic discharge",
-      "(C) No biomarker testing",
-      "(D) Immediate exercise stress test during pain"
+      "(A) Addition of H",
+      "(B) Loss of O",
+      "(C) Addition of O",
+      "(D) Gain of electrons"
     ],
-    "correct_index": 0,
-    "explanation": "A. Repeat ECG and serial evaluation"
+    "correct_index": 2,
+    "explanation": "C. Addition of O."
   },
   {
-    "question": "A troponin value is above the laboratory reference limit. Which statement is best?",
+    "question": "Difference between medians of (21, 41, 34, 19, 37) and (33, 23, 27, 39, 31)?",
     "options": [
-      "(A) It indicates myocardial injury; the cause requires clinical evaluation",
-      "(B) It proves plaque rupture",
-      "(C) It identifies the blocked artery",
-      "(D) It rules out myocarditis"
+      "(A) 8",
+      "(B) 3",
+      "(C) 5",
+      "(D) 10"
     ],
-    "correct_index": 0,
-    "explanation": "A. It indicates myocardial injury; the cause requires clinical evaluation"
+    "correct_index": 1,
+    "explanation": "B. 3."
   },
   {
-    "question": "A patient arrives shortly after chest pain begins and has a low initial troponin. The nurse should:",
+    "question": "Truck direction after turns (135° clockwise, then 45° anti-clockwise...)?",
     "options": [
-      "(A) Follow the ordered serial testing pathway",
-      "(B) Declare MI excluded",
-      "(C) Discard the sample",
-      "(D) Skip ECG assessment"
+      "(A) South",
+      "(B) South-east",
+      "(C) South-west",
+      "(D) North"
     ],
     "correct_index": 0,
-    "explanation": "A. Very early results may not capture a rise."
+    "explanation": "A. South."
   },
   {
-    "question": "A patient with renal disease has an elevated BNP and dyspnea. Which interpretation is appropriate?",
+    "question": "Factor for widespread rainfall over mainland India in summer?",
     "options": [
-      "(A) Integrate the result with examination, imaging, and renal status",
-      "(B) Diagnose heart failure from the number alone",
-      "(C) Diagnose MI",
-      "(D) Ignore the dyspnea"
+      "(A) Differential heating",
+      "(B) Convective only",
+      "(C) Retreating monsoon",
+      "(D) Western disturbances"
     ],
     "correct_index": 0,
-    "explanation": "A. Integrate the result with examination, imaging, and renal status"
+    "explanation": "A. Differential heating."
   },
   {
-    "question": "A patient taking a loop diuretic has new weakness and ectopy. Which result should be checked promptly?",
+    "question": "River containing Majuli, the largest inhabited riverine island?",
     "options": [
-      "(A) Potassium",
-      "(B) Lipid profile only",
-      "(C) Hemoglobin A1c only",
-      "(D) Blood group"
+      "(A) Ganga",
+      "(B) Brahmaputra",
+      "(C) Teesta",
+      "(D) Indus"
     ],
-    "correct_index": 0,
-    "explanation": "A. Potassium"
+    "correct_index": 1,
+    "explanation": "B. Brahmaputra."
   },
   {
-    "question": "A patient has an irregular pulse, but a resting ECG is normal between episodes. Which test may help?",
+    "question": "First tempered glass facility inaugurated (Sept 2025) in?",
     "options": [
-      "(A) Ambulatory ECG monitor",
-      "(B) Chest X-ray only",
-      "(C) Urinalysis",
-      "(D) Coronary calcium scan only"
+      "(A) Hyderabad",
+      "(B) Pune",
+      "(C) Bengaluru",
+      "(D) Noida"
     ],
     "correct_index": 0,
-    "explanation": "Ambulatory ECG monitor"
+    "explanation": "A. Hyderabad."
   },
   {
-    "question": "During a Holter study, the patient feels dizzy. What instruction supports interpretation?",
+    "question": "Which contraception stops ovulation via hormones?",
     "options": [
-      "(A) Record the symptom and time using the device instructions",
-      "(B) Remove all electrodes",
-      "(C) Ignore the symptom",
-      "(D) Stop all medicines independently"
+      "(A) Oral pills",
+      "(B) Copper-T",
+      "(C) Withdrawal",
+      "(D) Condom"
     ],
     "correct_index": 0,
-    "explanation": "A. Record the symptom and time using the device instructions"
+    "explanation": "A. Oral pills."
   },
   {
-    "question": "A patient’s ECG has severe baseline artifact. What should the nurse do?",
+    "question": "If 40% of a number + 120 = the number, what is 30%?",
     "options": [
-      "(A) Check skin contact, leads, and patient movement, then repeat as indicated",
-      "(B) Accept the automated interpretation",
-      "(C) Diagnose VF",
-      "(D) Remove patient identification"
+      "(A) 80",
+      "(B) 180",
+      "(C) 90",
+      "(D) 60"
     ],
-    "correct_index": 0,
-    "explanation": "A. Check skin contact, leads, and patient movement, then repeat as indicated"
+    "correct_index": 3,
+    "explanation": "D. 60."
   },
   {
-    "question": "A TTE reports normal ejection fraction in a patient with edema and orthopnea. Which statement is correct?",
+    "question": "Effect on gravitational force if constant G was 10x higher?",
     "options": [
-      "(A) Heart failure is still possible",
-      "(B) Heart failure is impossible",
-      "(C) Pulmonary embolism is confirmed",
-      "(D) No assessment is needed"
+      "(A) 10x smaller",
+      "(B) Half",
+      "(C) 10x greater",
+      "(D) Unchanged"
     ],
-    "correct_index": 0,
-    "explanation": "A. Heart failure is still possible"
+    "correct_index": 2,
+    "explanation": "C. 10x greater."
   },
   {
-    "question": "Before sedated TEE, a patient reports difficulty swallowing and prior esophageal surgery. What should the nurse do?",
+    "question": "Machine with greater power (A in half the time of B)?",
     "options": [
-      "(A) Alert the procedural team before probe insertion",
-      "(B) Conceal the history",
-      "(C) Offer solid food",
-      "(D) Proceed without review"
+      "(A) Both equal",
+      "(B) Machine A",
+      "(C) Machine B",
+      "(D) Undetermined"
     ],
-    "correct_index": 0,
-    "explanation": "Alert the procedural team before probe insertion"
+    "correct_index": 1,
+    "explanation": "B. Machine A."
   },
   {
-    "question": "A patient returns after TEE with a numb throat. Which instruction is appropriate?",
+    "question": "Prioritized investigation for primary infertility (Bilateral blockage)?",
     "options": [
-      "(A) Wait for safe swallowing before oral intake",
-      "(B) Drink immediately",
-      "(C) Eat crackers to test the throat",
-      "(D) Drive home alone after sedation"
+      "(A) Diagnostic laparoscopy",
+      "(B) Serum Thyroid",
+      "(C) Transvaginal USG",
+      "(D) Endometrial biopsy"
     ],
     "correct_index": 0,
-    "explanation": "A. Wait for safe swallowing before oral intake"
+    "explanation": "A. Diagnostic laparoscopy."
   },
   {
-    "question": "A patient scheduled for cardiac MRI has a device card for an implanted defibrillator. What is the priority?",
+    "question": "Mechanism of infertility in Asherman's syndrome?",
     "options": [
-      "(A) Verify MRI compatibility and the device management plan",
-      "(B) Assume all devices are identical",
-      "(C) Remove the device",
-      "(D) Skip screening"
+      "(A) Mucus",
+      "(B) Hormones",
+      "(C) Intrauterine adhesions",
+      "(D) Blocked tubes"
     ],
-    "correct_index": 0,
-    "explanation": "A. Verify MRI compatibility and the device management plan"
+    "correct_index": 2,
+    "explanation": "C. Intrauterine adhesions."
   },
   {
-    "question": "A patient is scheduled for CCTA and reports a severe prior contrast reaction. The nurse should:",
+    "question": "Intervention for an anaphylactic reaction?",
     "options": [
-      "(A) Notify the imaging team before contrast",
-      "(B) Document it after injection",
-      "(C) Assume it cannot recur",
-      "(D) Give contrast without review"
+      "(A) Supine only",
+      "(B) Warm compress",
+      "(C) Patent airway & epinephrine",
+      "(D) Oral antihistamine"
     ],
-    "correct_index": 0,
-    "explanation": "A. Notify the imaging team before contrast"
+    "correct_index": 2,
+    "explanation": "C. Patent airway & epinephrine."
   },
   {
-    "question": "During treadmill testing, a patient develops chest pain and near-syncope. What should the nurse do?",
+    "question": "Combining verbal/nonverbal cues aims to understand?",
     "options": [
-      "(A) Stop the exercise and assist the monitored assessment",
-      "(B) Increase speed",
-      "(C) Tell the patient to finish the stage",
-      "(D) Disconnect ECG"
+      "(A) Social status",
+      "(B) Physical health",
+      "(C) Mental/emotional state",
+      "(D) Family history"
     ],
-    "correct_index": 0,
-    "explanation": "A. Stop the exercise and assist the monitored assessment"
+    "correct_index": 2,
+    "explanation": "C. Mental/emotional state."
   },
   {
-    "question": "An echo shows a large pericardial effusion. Which further question is most important?",
+    "question": "First action to evaluate post-op respiratory effectiveness?",
     "options": [
-      "(A) Is there evidence of impaired filling and hemodynamic compromise?",
-      "(B) What is the patient’s shoe size?",
-      "(C) Is LDL elevated?",
-      "(D) Does the patient prefer CT?"
+      "(A) Dressing check",
+      "(B) SpO2 & Respiratory rate",
+      "(C) Medication review",
+      "(D) Urine output"
     ],
-    "correct_index": 0,
-    "explanation": "A. Is there evidence of impaired filling and hemodynamic compromise?"
+    "correct_index": 1,
+    "explanation": "B. SpO2 & Respiratory rate."
   },
   {
-    "question": "Before cardiac catheterization, a patient reports taking an anticoagulant that was not on the medication list. What should the nurse do?",
+    "question": "Indicator of successful communication in health education?",
     "options": [
-      "(A) Notify the procedural team and reconcile the medication",
-      "(B) Ignore it",
-      "(C) Stop it permanently without an order",
-      "(D) Change the chart to match the old list"
+      "(A) Finishes early",
+      "(B) Participants summarize points",
+      "(C) Thorough content",
+      "(D) Mass media used"
     ],
-    "correct_index": 0,
-    "explanation": "A. Notify the procedural team and reconcile the medication"
+    "correct_index": 1,
+    "explanation": "B. Participants summarize points."
   },
   {
-    "question": "A patient asks why kidney function is checked before an iodinated-contrast study. The best answer is:",
+    "question": "Hormone fluctuation primarily linked to PMS?",
     "options": [
-      "(A) It helps plan safe contrast use and follow-up",
-      "(B) It diagnoses atrial fibrillation",
-      "(C) It measures valve area",
-      "(D) It determines ECG lead position"
+      "(A) Oxytocin",
+      "(B) FSH",
+      "(C) Insulin",
+      "(D) Estrogen & Progesterone"
     ],
-    "correct_index": 0,
-    "explanation": "A. It helps plan safe contrast use and follow-up"
+    "correct_index": 3,
+    "explanation": "D. Estrogen & Progesterone."
   },
   {
-    "question": "A stress perfusion report describes reduced flow only during stress. Which concept is most consistent?",
+    "question": "Action for used gloves and broken glass ampoule?",
     "options": [
-      "(A) Inducible ischemia",
-      "(B) Guaranteed normal perfusion",
-      "(C) Acute endocarditis",
-      "(D) Pericardial tamponade"
+      "(A) Black bag",
+      "(B) Segregate both",
+      "(C) Yellow bag",
+      "(D) Red bag"
     ],
-    "correct_index": 0,
-    "explanation": "A. Inducible ischemia"
+    "correct_index": 1,
+    "explanation": "B. Segregate both."
   },
   {
-    "question": "A patient with suspected infective endocarditis is scheduled for blood cultures and antibiotics. Which sequence is generally preferred when feasible?",
+    "question": "Appropriate nursing intervention for a panic attack?",
     "options": [
-      "(A) Obtain ordered cultures, then begin prescribed antibiotics promptly",
-      "(B) Finish antibiotics, then collect all cultures",
-      "(C) Omit cultures",
-      "(D) Collect blood from an ECG electrode"
+      "(A) Stimulant",
+      "(B) Remain calm/stay with patient",
+      "(C) Recall trauma",
+      "(D) Leave alone"
     ],
-    "correct_index": 0,
-    "explanation": "A. Obtain ordered cultures, then begin prescribed antibiotics promptly"
+    "correct_index": 1,
+    "explanation": "B. Remain calm/stay with patient."
   },
   {
-    "question": "Which test result should prompt immediate communication rather than waiting for routine handoff?",
+    "question": "Essential vitamin for hyperemesis gravidarum (Wernicke's risk)?",
     "options": [
-      "(A) Critical potassium with a new arrhythmia",
-      "(B) Stable lipid profile",
-      "(C) Unchanged weight",
-      "(D) Normal CBC"
+      "(A) Folic acid",
+      "(B) Vitamin D",
+      "(C) Vitamin C",
+      "(D) Intravenous thiamine"
     ],
-    "correct_index": 0,
-    "explanation": "A. www."
+    "correct_index": 3,
+    "explanation": "D. Intravenous thiamine."
   },
   {
-    "question": "A patient has chest pressure, diaphoresis, and nausea. Which order should the nurse prioritize implementing promptly?",
+    "question": "Formal social control is associated with?",
     "options": [
-      "(A) 12-lead ECG",
-      "(B) Routine lipid teaching",
-      "(C) Elective treadmill test",
-      "(D) Annual weight check"
+      "(A) Personal habits",
+      "(B) Laws & regulations",
+      "(C) Peer opinion",
+      "(D) Traditions"
     ],
-    "correct_index": 0,
-    "explanation": "A. 12-lead ECG"
+    "correct_index": 1,
+    "explanation": "B. Laws & regulations."
   },
   {
-    "question": "A patient with suspected MI becomes hypotensive after a prescribed nitrate. Which action is best?",
+    "question": "Method for critical thinking on real-life scenarios?",
     "options": [
-      "(A) Reassess perfusion and notify the team",
-      "(B) Repeat the nitrate automatically",
-      "(C) Encourage ambulation",
-      "(D) Ignore the pressure change"
+      "(A) Field visit",
+      "(B) Demonstration",
+      "(C) Role play",
+      "(D) Case study"
     ],
-    "correct_index": 0,
-    "explanation": "A. Reassess perfusion and notify the team"
+    "correct_index": 3,
+    "explanation": "D. Case study."
   },
   {
-    "question": "Before giving a prescribed nitrate, which recent medication use must be reported?",
+    "question": "Primary function of alveoli?",
     "options": [
-      "(A) A phosphodiesterase-5 inhibitor",
-      "(B) A routine multivitamin",
-      "(C) An iron tablet",
-      "(D) A stool softener"
+      "(A) Exchanging gases",
+      "(B) Mucus",
+      "(C) Rib cage",
+      "(D) Filtering blood"
     ],
     "correct_index": 0,
-    "explanation": "A. The combination can cause profound hypotension."
+    "explanation": "A. Exchanging gases."
   },
   {
-    "question": "A patient with ACS has an oxygen saturation within the prescribed normal range and no respiratory distress. Which principle is correct?",
+    "question": "Comfort measure for nasal cannula dryness?",
     "options": [
-      "(A) Oxygen is guided by the clinical need rather than given automatically to everyone",
-      "(B) Oxygen replaces reperfusion",
-      "(C) A normal saturation excludes MI",
-      "(D) ECG can be delayed"
+      "(A) Humidify oxygen",
+      "(B) Discontinue",
+      "(C) Petroleum jelly",
+      "(D) Increase flow"
     ],
     "correct_index": 0,
-    "explanation": "A. Oxygen is guided by the clinical need rather than given automatically to everyone"
+    "explanation": "A. Humidify oxygen."
   },
   {
-    "question": "A patient with ST elevation and persistent chest pain is being prepared for urgent PCI. The nurse should:",
+    "question": "Colostomy observation requiring immediate attention?",
     "options": [
-      "(A) Support rapid transfer and continue hemodynamic monitoring",
-      "(B) Begin a routine stress test",
-      "(C) Delay transfer for a lipid panel",
-      "(D) Encourage a meal"
+      "(A) Temporary decrease",
+      "(B) Formed/brown",
+      "(C) Moist/pink",
+      "(D) Dark and bluish stoma"
     ],
-    "correct_index": 0,
-    "explanation": "A. Support rapid transfer and continue hemodynamic monitoring"
+    "correct_index": 3,
+    "explanation": "D. Dark and bluish stoma."
   },
   {
-    "question": "Why should a patient’s antiplatelet history be communicated before PCI?",
+    "question": "Normal flora disruption responsible for antibiotic GI symptoms?",
     "options": [
-      "(A) It affects treatment and bleeding assessment",
-      "(B) It determines eye color",
-      "(C) It replaces angiography",
-      "(D) It proves a normal coronary artery"
+      "(A) Skin flora",
+      "(B) Gut flora balance disruption",
+      "(C) Respiratory tract",
+      "(D) Oral bacteria"
     ],
-    "correct_index": 0,
-    "explanation": "A. It affects treatment and bleeding assessment"
+    "correct_index": 1,
+    "explanation": "B. Gut flora balance disruption."
   },
   {
-    "question": "A patient after PCI reports sudden recurrent chest pain. What is the best response?",
+    "question": "Solution for fluid replacement in burn patients?",
     "options": [
-      "(A) Obtain urgent assessment and ECG according to protocol",
-      "(B) Reassure without assessment",
-      "(C) Ask the patient to walk",
-      "(D) Wait until discharge"
+      "(A) NS with Glucose",
+      "(B) Hypertonic Saline",
+      "(C) Distilled water",
+      "(D) Ringer's lactate"
     ],
-    "correct_index": 0,
-    "explanation": "A. Obtain urgent assessment and ECG according to protocol"
+    "correct_index": 3,
+    "explanation": "D. Ringer's lactate."
   },
   {
-    "question": "A patient with a new stent says, “I can stop my antiplatelets when I feel well.” What should the nurse say?",
+    "question": "Malfunctioning gland (Low ADH, thirst, fatigue)?",
     "options": [
-      "(A) “Do not stop them without discussing it with your treating team.”",
-      "(B) “That is correct.”",
-      "(C) “Take double doses every other day.”",
-      "(D) “Replace them with vitamins.”"
+      "(A) Anterior pituitary",
+      "(B) Posterior pituitary",
+      "(C) Adrenal cortex",
+      "(D) Pineal"
     ],
-    "correct_index": 0,
-    "explanation": "A. “Do not stop them without discussing it with your treating team.”"
+    "correct_index": 1,
+    "explanation": "B. Posterior pituitary."
   },
   {
-    "question": "A patient on dual antiplatelet therapy reports vomiting blood. What should the nurse do?",
+    "question": "NICU level for newborn requiring mechanical ventilation?",
     "options": [
-      "(A) Assess and escalate suspected major bleeding",
-      "(B) Ignore it",
-      "(C) Stop both drugs independently and discharge",
-      "(D) Encourage exercise"
+      "(A) Level III",
+      "(B) Level II",
+      "(C) Level IV",
+      "(D) Level I"
     ],
     "correct_index": 0,
-    "explanation": "Assess and escalate suspected major bleeding"
+    "explanation": "A. Level III."
   },
   {
-    "question": "Following an inferior MI, a patient develops bradycardia and hypotension. The nurse should:",
+    "question": "Sociological significance of marriage?",
     "options": [
-      "(A) Assess perfusion and notify the team promptly",
-      "(B) Assume the rhythm is harmless",
-      "(C) Give a nitrate automatically",
-      "(D) Remove the ECG leads"
+      "(A) Procreation only",
+      "(B) Private contract",
+      "(C) Social institution for kinship",
+      "(D) Legal status only"
     ],
-    "correct_index": 0,
-    "explanation": "Assess perfusion and notify the team promptly"
+    "correct_index": 2,
+    "explanation": "C. Social institution for kinship."
   },
   {
-    "question": "After MI, a patient suddenly develops a new loud systolic murmur and pulmonary edema. Which concern should be reported?",
+    "question": "Adherence requirement for updating records after consultations?",
     "options": [
-      "(A) A mechanical complication such as acute MR or septal rupture",
-      "(B) Routine recovery",
-      "(C) Stable angina",
-      "(D) Isolated artifact"
+      "(A) Confidentiality",
+      "(B) Legibility",
+      "(C) Storage",
+      "(D) Timeliness"
     ],
-    "correct_index": 0,
-    "explanation": "A mechanical complication such as acute MR or septal rupture"
+    "correct_index": 3,
+    "explanation": "D. Timeliness."
   },
   {
-    "question": "A patient with MI develops ventricular fibrillation and is pulseless. What is priority?",
+    "question": "Approach to tailor education for diverse cultures?",
     "options": [
-      "(A) CPR and defibrillation pathway",
-      "(B) Oral nitroglycerin",
-      "(C) Routine echocardiography first",
-      "(D) Discharge teaching"
+      "(A) Own perspective",
+      "(B) Standard only",
+      "(C) Preliminary assessment of beliefs",
+      "(D) Avoid discussion"
     ],
-    "correct_index": 0,
-    "explanation": "A. CPR and defibrillation pathway"
+    "correct_index": 2,
+    "explanation": "C. Preliminary assessment of beliefs."
   },
   {
-    "question": "A patient’s troponin rises, but symptoms and ECG suggest sepsis-related supply–demand imbalance. Which statement is best?",
+    "question": "Nurse's role in addressing psychological needs?",
     "options": [
-      "(A) The mechanism of myocardial injury must be evaluated; not every rise is type 1 MI",
-      "(B) Every rise proves plaque rupture",
-      "(C) Troponin is irrelevant",
-      "(D) The value identifies the artery"
+      "(A) Emotional support/active listening",
+      "(B) Meds only",
+      "(C) Dietary",
+      "(D) Vital signs"
     ],
     "correct_index": 0,
-    "explanation": "A. The mechanism of myocardial injury must be evaluated; not every rise is type 1 MI"
+    "explanation": "A. Emotional support/active listening."
   },
   {
-    "question": "A patient with chest pain says the pain has stopped, but the ECG shows new ischemic changes. What should the nurse do?",
+    "question": "Solution for nurse-physician role conflicts?",
     "options": [
-      "(A) Continue urgent evaluation",
-      "(B) Cancel all testing",
-      "(C) Discharge because pain stopped",
-      "(D) Remove telemetry"
+      "(A) Ignore",
+      "(B) Increase ratio",
+      "(C) Physicians decide",
+      "(D) Inter-professional meeting"
     ],
-    "correct_index": 0,
-    "explanation": "A. Continue urgent evaluation"
+    "correct_index": 3,
+    "explanation": "D. Inter-professional meeting."
   },
   {
-    "question": "A patient with suspected ACS is allergic to aspirin. What should the nurse do when an aspirin order appears?",
+    "question": "Proper bag technique for contaminated waste disposal?",
     "options": [
-      "(A) Verify and notify the prescriber before administration",
-      "(B) Give it anyway",
-      "(C) Delete the allergy",
-      "(D) Replace it independently"
+      "(A) Kitchen bin",
+      "(B) Back in bag",
+      "(C) Separate leak-proof container",
+      "(D) Wrapping in paper"
     ],
-    "correct_index": 0,
-    "explanation": "A. Verify and notify the prescriber before administration"
+    "correct_index": 2,
+    "explanation": "C. Separate leak-proof container."
   },
   {
-    "question": "A patient is discharged after MI. Which statement shows understanding?",
+    "question": "Erikson's Industry vs. Inferiority illustration?",
     "options": [
-      "(A) “I will seek urgent help for new concerning chest symptoms.”",
-      "(B) “A previous MI means future chest pain is harmless.”",
-      "(C) “I may stop all medicine when I feel better.”",
-      "(D) “Follow-up is unnecessary.”"
+      "(A) Proud of group project",
+      "(B) Tantrum",
+      "(C) Dressing self",
+      "(D) Playing alone"
     ],
     "correct_index": 0,
-    "explanation": "A. “I will seek urgent help for new concerning chest symptoms.”"
+    "explanation": "A. Proud of group project."
   },
   {
-    "question": "A patient asks why cardiac rehabilitation is recommended after MI. The best response is:",
+    "question": "Prioritized factors for refugee camp infection control?",
     "options": [
-      "(A) It combines supervised activity, education, and risk-reduction support",
-      "(B) It is only an ECG test",
-      "(C) It replaces all medicine",
-      "(D) It is required only if pain persists"
+      "(A) Meds/Transport",
+      "(B) Sanitation/Hygiene",
+      "(C) Nutrition/Immunity",
+      "(D) Language/Diet"
     ],
-    "correct_index": 0,
-    "explanation": "A. It combines supervised activity, education, and risk-reduction support"
+    "correct_index": 1,
+    "explanation": "B. Sanitation/Hygiene."
   },
   {
-    "question": "A patient with acute chest pain and possible aortic dissection has been entered into an ACS pathway. What should the nurse do with the sudden tearing back-pain and pulse-difference findings?",
+    "question": "Maternal health record maintenance step?",
     "options": [
-      "(A) Report them immediately because they may change treatment",
-      "(B) Ignore them",
-      "(C) Start an exercise test",
-      "(D) Record them only at discharge"
+      "(A) Editing",
+      "(B) Combining",
+      "(C) Destroying",
+      "(D) Systematic organization"
     ],
-    "correct_index": 0,
-    "explanation": "A. Report them immediately because they may change treatment"
+    "correct_index": 3,
+    "explanation": "D. Systematic organization."
   },
   {
-    "question": "After coronary stenting, which additional instruction is important before another planned surgery?",
+    "question": "Bed to wheelchair transfer injury minimization?",
     "options": [
-      "(A) Tell the surgical and cardiac teams about the stent and antiplatelet regimen",
-      "(B) Stop medicines independently",
-      "(C) Conceal the PCI history",
-      "(D) Assume bleeding risk is irrelevant"
+      "(A) Locking brakes",
+      "(B) Moving quickly",
+      "(C) Raising bed",
+      "(D) Independent transfer"
     ],
     "correct_index": 0,
-    "explanation": "A. Tell the surgical and cardiac teams about the stent and antiplatelet regimen"
+    "explanation": "A. Locking brakes."
   },
   {
-    "question": "Which patient should the ACS nurse assess first?",
+    "question": "Significance of 'show' (blood-tinged mucus) in pregnancy?",
     "options": [
-      "(A) New hypotension with cool, clammy skin",
-      "(B) Stable patient requesting a blanket",
-      "(C) Patient reviewing a cardiac diet",
-      "(D) Patient awaiting a routine appointment"
+      "(A) Cervical softening/opening",
+      "(B) Dehydration",
+      "(C) Placental abruption",
+      "(D) Uterine infection"
     ],
     "correct_index": 0,
-    "explanation": "A. Shock may be developing."
+    "explanation": "A. Cervical softening/opening."
   },
   {
-    "question": "A patient with heart failure gains weight suddenly and has more ankle swelling. What should the nurse assess?",
+    "question": "Primary role of a nurse in health education?",
     "options": [
-      "(A) Lung sounds, breathing, intake/output, and prescribed action plan",
-      "(B) Only appetite",
-      "(C) Only height",
-      "(D) Only ECG electrode color"
+      "(A) Administer meds",
+      "(B) Diagnosing",
+      "(C) Information on healthy lifestyles",
+      "(D) Surgery"
     ],
-    "correct_index": 0,
-    "explanation": "A. Lung sounds, breathing, intake/output, and prescribed action plan"
+    "correct_index": 2,
+    "explanation": "C. Information on healthy lifestyles."
   },
   {
-    "question": "A patient with acute pulmonary edema is struggling to breathe while lying flat. What is the best immediate positioning action, if tolerated?",
+    "question": "Joint immune system support by Spleen and Thymus?",
     "options": [
-      "(A) Help the patient sit upright",
-      "(B) Keep flat for a meal",
-      "(C) Place prone without assessment",
-      "(D) Encourage walking"
+      "(A) Antibodies/Iron",
+      "(B) Bacteria/Insulin",
+      "(C) Fats/Lymph",
+      "(D) Pathogen filter/T-lymphocytes"
     ],
-    "correct_index": 0,
-    "explanation": "A. Help the patient sit upright"
+    "correct_index": 3,
+    "explanation": "D. Pathogen filter/T-lymphocytes."
   },
   {
-    "question": "During IV diuretic therapy, urine output increases but blood pressure falls and the patient becomes dizzy. What should the nurse do?",
+    "question": "Surgical asepsis for indwelling catheter insertion?",
     "options": [
-      "(A) Reassess and report possible excessive volume loss or poor perfusion",
-      "(B) Give an extra dose automatically",
-      "(C) Ignore symptoms",
-      "(D) Stop monitoring"
+      "(A) Closed sterile system",
+      "(B) Hypochlorite lubricant",
+      "(C) Reusing gloves",
+      "(D) Clean gloves"
     ],
     "correct_index": 0,
-    "explanation": "A. Reassess and report possible excessive volume loss or poor perfusion"
+    "explanation": "A. Closed sterile system."
   },
   {
-    "question": "A patient with heart failure has serum potassium below the laboratory range while taking a diuretic. Which concern is most relevant?",
+    "question": "Characteristic guiding research applicability (Generalizability)?",
     "options": [
-      "(A) Increased arrhythmia risk",
-      "(B) Improved coronary perfusion",
-      "(C) Confirmation of valve stenosis",
-      "(D) Normal medication effect requiring no review"
+      "(A) Single hospital",
+      "(B) Generalizability",
+      "(C) Unique group",
+      "(D) Accessible sample"
     ],
-    "correct_index": 0,
-    "explanation": "A. Increased arrhythmia risk"
+    "correct_index": 1,
+    "explanation": "B. Generalizability."
   },
   {
-    "question": "Which discharge plan best supports recognition of worsening heart failure?",
+    "question": "Counseling type for family history of diabetes?",
     "options": [
-      "(A) Consistent weights and a symptom action plan",
-      "(B) Weighing at random times",
-      "(C) Stopping medicines when edema decreases",
-      "(D) Ignoring orthopnea"
+      "(A) Motivational/unrelated",
+      "(B) Emotional only",
+      "(C) Non-directive",
+      "(D) Directive (Risk/Prevention)"
     ],
-    "correct_index": 0,
-    "explanation": "A. Consistent weights and a symptom action plan"
+    "correct_index": 3,
+    "explanation": "D. Directive (Risk/Prevention)."
   },
   {
-    "question": "A patient with HFpEF asks, “How can I have heart failure if my EF is preserved?” The best response is:",
+    "question": "Example of a visual aid in health education?",
     "options": [
-      "(A) “The heart may have impaired filling and high pressures despite preserved EF.”",
-      "(B) “The diagnosis is impossible.”",
-      "(C) “EF measures kidney function.”",
-      "(D) “Only a low EF causes breathlessness.”"
+      "(A) Microphone",
+      "(B) Poster",
+      "(C) Radio",
+      "(D) Song"
     ],
-    "correct_index": 0,
-    "explanation": "A. “The heart may have impaired filling and high pressures despite preserved EF.”"
+    "correct_index": 1,
+    "explanation": "B. Poster."
   },
   {
-    "question": "A patient with low-output heart failure becomes confused with cool extremities. The nurse should prioritize:",
+    "question": "Husband living in wife's home family type?",
     "options": [
-      "(A) Assessment and escalation of impaired perfusion",
-      "(B) Routine dietary teaching",
-      "(C) Unsupervised ambulation",
-      "(D) A delayed daily weight"
+      "(A) Matrilineal",
+      "(B) Monogamous",
+      "(C) Matrilocal",
+      "(D) Matriarchal"
     ],
-    "correct_index": 0,
-    "explanation": "Assessment and escalation of impaired perfusion"
+    "correct_index": 2,
+    "explanation": "C. Matrilocal."
   },
   {
-    "question": "A patient taking a prescribed fluid restriction asks if ice chips count. Which reply is best?",
+    "question": "Pathway leading to Virchow's node development?",
     "options": [
-      "(A) “Yes; count them according to the care plan.”",
-      "(B) “Only water counts.”",
-      "(C) “Frozen liquids never count.”",
-      "(D) “There is no need to track intake.”"
+      "(A) Axillary",
+      "(B) Right lymphatic",
+      "(C) Deep cervical",
+      "(D) Thoracic duct"
     ],
-    "correct_index": 0,
-    "explanation": "A. “Yes; count them according to the care plan.”"
+    "correct_index": 3,
+    "explanation": "D. Thoracic duct."
   },
   {
-    "question": "A patient with HCM reports exertional syncope. Which instruction is appropriate?",
+    "question": "Primary goal of coordination in nursing administration?",
     "options": [
-      "(A) Seek prompt specialist assessment and avoid unapproved strenuous activity",
-      "(B) Train harder",
-      "(C) Ignore it if young",
-      "(D) Stop all follow-up"
+      "(A) Paperwork",
+      "(B) Harmonious teamwork",
+      "(C) Random duties",
+      "(D) Reduce interaction"
     ],
-    "correct_index": 0,
-    "explanation": "A. Seek prompt specialist assessment and avoid unapproved strenuous activity"
+    "correct_index": 1,
+    "explanation": "B. Harmonious teamwork."
   },
   {
-    "question": "A patient newly diagnosed with HCM reports a close relative died suddenly at a young age. Why is this history important?",
+    "question": "Definition of intelligence?",
     "options": [
-      "(A) It informs inherited and arrhythmic-risk assessment",
-      "(B) It confirms aortic dissection",
-      "(C) It rules out HCM",
-      "(D) It replaces echocardiography"
+      "(A) Multiple languages",
+      "(B) Past events only",
+      "(C) Impulsivity",
+      "(D) Learn and adapt"
     ],
-    "correct_index": 0,
-    "explanation": "A. It informs inherited and arrhythmic-risk assessment"
+    "correct_index": 3,
+    "explanation": "D. Learn and adapt."
   },
   {
-    "question": "A patient with dilated cardiomyopathy develops an irregular rhythm. What additional risk should be considered?",
+    "question": "Consistency and reproducibility of a measurement tool?",
     "options": [
-      "(A) Intracardiac thrombus and embolism in the appropriate clinical context",
-      "(B) Immediate pulmonary atresia",
-      "(C) A new congenital VSD",
-      "(D) Guaranteed normal stroke risk"
+      "(A) Reliability",
+      "(B) Control",
+      "(C) Validity",
+      "(D) Manipulation"
     ],
     "correct_index": 0,
-    "explanation": "A. Intracardiac thrombus and embolism in the appropriate clinical context"
+    "explanation": "A. Reliability."
   },
   {
-    "question": "A postpartum patient has increasing breathlessness, orthopnea, and edema. The nurse should:",
+    "question": "Effect of nurse's misconception (Mental illness = dangerous)?",
     "options": [
-      "(A) Arrange urgent evaluation for cardiac and other causes, including peripartum cardiomyopathy",
-      "(B) Assume normal recovery",
-      "(C) Recommend running",
-      "(D) Wait months without review"
+      "(A) More attention",
+      "(B) Empathy",
+      "(C) Therapeutic comm",
+      "(D) Prejudice/Reduced quality"
     ],
-    "correct_index": 0,
-    "explanation": "Arrange urgent evaluation for cardiac and other causes, including peripartum cardiomyopathy"
+    "correct_index": 3,
+    "explanation": "D. Prejudice/Reduced quality."
   },
   {
-    "question": "A patient with restrictive cardiomyopathy has edema despite an apparently adequate EF. What explains this?",
+    "question": "Benefit of postnatal maternal-infant bonding?",
     "options": [
-      "(A) Poor ventricular relaxation can elevate filling pressures",
-      "(B) EF proves normal filling",
-      "(C) Coronary arteries are absent",
-      "(D) The pericardium always contains blood"
+      "(A) Rapid weight",
+      "(B) Eliminate jaundice",
+      "(C) Avoid vaccines",
+      "(D) Respond to baby's needs"
     ],
-    "correct_index": 0,
-    "explanation": "A. Poor ventricular relaxation can elevate filling pressures"
+    "correct_index": 3,
+    "explanation": "D. Respond to baby's needs."
   },
   {
-    "question": "A patient with severe emotional stress has acute chest pain and LV dysfunction. What is the nurse’s priority?",
+    "question": "Most effective strategy for safety culture?",
     "options": [
-      "(A) Treat the presentation as a possible cardiac emergency while the cause is determined",
-      "(B) Assume takotsubo without evaluation",
-      "(C) Ignore the ECG",
-      "(D) Send the patient home"
+      "(A) Posters",
+      "(B) Non-punitive reporting",
+      "(C) Disciplinary action",
+      "(D) Quarterly audits"
     ],
-    "correct_index": 0,
-    "explanation": "A. Treat the presentation as a possible cardiac emergency while the cause is determined"
+    "correct_index": 1,
+    "explanation": "B. Non-punitive reporting."
   },
   {
-    "question": "A patient with heart failure has new nocturnal cough and needs more pillows. Which finding best indicates a worsening trend?",
+    "question": "Initial nursing action for dizzy/sweaty diabetic student?",
     "options": [
-      "(A) Increased breathlessness compared with baseline",
-      "(B) Stable daily weight",
-      "(C) Improved walking distance",
-      "(D) Decreased edema"
+      "(A) Restrict fluids",
+      "(B) Extra insulin",
+      "(C) Exercise",
+      "(D) Fast-acting carbohydrate snack"
     ],
-    "correct_index": 0,
-    "explanation": "A. Increased breathlessness compared with baseline"
+    "correct_index": 3,
+    "explanation": "D. Fast-acting carbohydrate snack."
   },
   {
-    "question": "A patient on heart-failure treatment wants to stop a prescribed medicine after feeling better. The nurse should:",
+    "question": "Correct Maslow's hierarchy order?",
     "options": [
-      "(A) Explain that medication changes should be reviewed with the treating team",
-      "(B) Agree immediately",
-      "(C) Double another medicine",
-      "(D) Cancel follow-up"
+      "(A) Safety...",
+      "(B) Physical, Safety, Belonging, Esteem",
+      "(C) Belonging...",
+      "(D) Esteem..."
     ],
-    "correct_index": 0,
-    "explanation": "A. Explain that medication changes should be reviewed with the treating team"
+    "correct_index": 1,
+    "explanation": "B. Physical, Safety, Belonging, Esteem."
   },
   {
-    "question": "A patient with new HF symptoms has an elevated BNP. Which additional test helps evaluate structure and ventricular function?",
+    "question": "Health and disease relationship in community nursing?",
     "options": [
-      "(A) Echocardiography",
-      "(B) Dental X-ray",
-      "(C) Urinalysis alone",
-      "(D) Hearing screen"
+      "(A) Continuum",
+      "(B) Unrelated",
+      "(C) Disease static/Health dynamic",
+      "(D) Social vs biological"
     ],
     "correct_index": 0,
-    "explanation": "A. Echocardiography"
+    "explanation": "A. Continuum."
   },
   {
-    "question": "A patient with heart failure has poor appetite and abdominal fullness. Which assessment is relevant?",
+    "question": "Action for urgent supplies outside regular cycle?",
     "options": [
-      "(A) Systemic congestion and nutritional intake",
-      "(B) Tooth eruption",
-      "(C) Eye color",
-      "(D) ECG paper speed"
+      "(A) Wait",
+      "(B) Special indent with justification",
+      "(C) Borrowing",
+      "(D) Personal purchase"
     ],
-    "correct_index": 0,
-    "explanation": "A. Systemic congestion and nutritional intake"
+    "correct_index": 1,
+    "explanation": "B. Special indent with justification."
   },
   {
-    "question": "When a patient with HF reports rapid weight gain, the nurse should ask about:",
+    "question": "Psychosocial therapy technique for negative thought patterns?",
     "options": [
-      "(A) Dyspnea, edema, medicine adherence, and the individualized threshold for contacting the team",
-      "(B) Hair length",
-      "(C) Room temperature only",
-      "(D) Height changes"
+      "(A) Cognitive restructuring",
+      "(B) Psychoeducation",
+      "(C) Social skills",
+      "(D) ECT"
     ],
     "correct_index": 0,
-    "explanation": "A. Dyspnea, edema, medicine adherence, and the individualized threshold for contacting the team"
+    "explanation": "A. Cognitive restructuring."
   },
   {
-    "question": "Which result most directly evaluates response to a prescribed diuretic in an acutely congested patient?",
+    "question": "Interventions for adolescent weight management?",
     "options": [
-      "(A) Improved breathing together with fluid-balance and perfusion trends",
-      "(B) Serum cholesterol alone",
-      "(C) ECG axis alone",
-      "(D) A single height measurement"
+      "(A) Activity & balanced diet",
+      "(B) Sleep",
+      "(C) Skipping meals",
+      "(D) Competitive/high fat"
     ],
     "correct_index": 0,
-    "explanation": "A. "
+    "explanation": "A. Activity & balanced diet."
   },
   {
-    "question": "Telemetry shows a wide-complex tachycardia. What must the nurse check immediately?",
+    "question": "Infection risk minimization for intermittent catheterization?",
     "options": [
-      "(A) Responsiveness and pulse",
-      "(B) Last meal",
-      "(C) Height",
-      "(D) Daily weight"
+      "(A) Hand hygiene",
+      "(B) Site change",
+      "(C) Urethral antibiotics",
+      "(D) Prophylactic antibiotics"
     ],
     "correct_index": 0,
-    "explanation": "A. Responsiveness and pulse"
+    "explanation": "A. Hand hygiene."
   },
   {
-    "question": "The monitor shows apparent VF, but the patient is awake and speaking. What is the first action?",
+    "question": "Age group for pediatric nursing?",
     "options": [
-      "(A) Assess the patient and check for artifact",
-      "(B) Defibrillate without assessment",
-      "(C) Turn off monitoring permanently",
-      "(D) Diagnose asystole"
+      "(A) Seniors",
+      "(B) Adults",
+      "(C) Pregnant",
+      "(D) Newborns to adolescents"
     ],
-    "correct_index": 0,
-    "explanation": "Assess the patient and check for artifact"
+    "correct_index": 3,
+    "explanation": "D. Newborns to adolescents."
   },
   {
-    "question": "A patient is unresponsive and pulseless, and the monitor shows VF. Which response is appropriate?",
+    "question": "Peer support network action for empowerment?",
     "options": [
-      "(A) Start CPR and follow the defibrillation pathway",
-      "(B) Give oral fluids",
-      "(C) Obtain routine weight",
-      "(D) Wait for a troponin result"
+      "(A) Medication focus",
+      "(B) Infrequent",
+      "(C) Client-led meetings",
+      "(D) Healthcare professional decisions"
     ],
-    "correct_index": 0,
-    "explanation": "A. Start CPR and follow the defibrillation pathway"
+    "correct_index": 2,
+    "explanation": "C. Client-led meetings."
   },
   {
-    "question": "A patient has organized electrical activity without a palpable pulse. Which rhythm category applies?",
+    "question": "Diagnosis for uncoordinated painful uterine contractions?",
     "options": [
-      "(A) Pulseless electrical activity",
-      "(B) Normal perfusing sinus rhythm",
-      "(C) Stable SVT",
-      "(D) Sinus arrhythmia"
+      "(A) Hypotonic",
+      "(B) Hypertonic",
+      "(C) Incoordinate uterine action",
+      "(D) Normal"
     ],
-    "correct_index": 0,
-    "explanation": "A. Pulseless electrical activity"
+    "correct_index": 2,
+    "explanation": "C. Incoordinate uterine action."
   },
   {
-    "question": "A patient has symptomatic bradycardia with hypotension. What should the nurse prepare for under the emergency protocol?",
+    "question": "Structure responsible for sperm production?",
     "options": [
-      "(A) Directed bradycardia treatment and possible pacing",
-      "(B) Elective treadmill testing",
-      "(C) Immediate discharge",
-      "(D) Routine lipid teaching"
+      "(A) Prostate",
+      "(B) Vas deferens",
+      "(C) Epididymis",
+      "(D) Seminiferous tubules"
     ],
-    "correct_index": 0,
-    "explanation": "A. Directed bradycardia treatment and possible pacing"
+    "correct_index": 3,
+    "explanation": "D. Seminiferous tubules."
   },
   {
-    "question": "A patient with AF has new one-sided weakness. What is the priority?",
+    "question": "Hormone measured for ovarian reserve?",
     "options": [
-      "(A) Activate urgent stroke assessment",
-      "(B) Wait for the next anticoagulant dose",
-      "(C) Encourage walking",
-      "(D) Reassure without examination"
+      "(A) Testosterone",
+      "(B) FSH",
+      "(C) Prolactin",
+      "(D) TSH"
     ],
-    "correct_index": 0,
-    "explanation": "Activate urgent stroke assessment"
+    "correct_index": 1,
+    "explanation": "B. FSH."
   },
   {
-    "question": "Before planned AF cardioversion, the patient reports missing several anticoagulant doses. What should the nurse do?",
+    "question": "Major social structure difference (Rural vs Urban)?",
     "options": [
-      "(A) Notify the procedural team",
-      "(B) Hide the information",
-      "(C) Proceed without review",
-      "(D) Double the dose independently"
+      "(A) Larger Rural",
+      "(B) Urban formal institutions",
+      "(C) Rural diversity",
+      "(D) Urban agriculture"
     ],
-    "correct_index": 0,
-    "explanation": "A. Notify the procedural team"
+    "correct_index": 1,
+    "explanation": "B. Urban formal institutions."
   },
   {
-    "question": "After sedated cardioversion, what should the nurse assess first?",
+    "question": "Five-year plan introducing Minimum Needs Programme?",
     "options": [
-      "(A) Airway, consciousness, rhythm, and vital signs",
-      "(B) Long-term diet preference",
-      "(C) Shoe size",
-      "(D) Only skin color at the electrode site"
+      "(A) 6th",
+      "(B) 7th",
+      "(C) 4th",
+      "(D) 5th Five-Year Plan"
     ],
-    "correct_index": 0,
-    "explanation": "Airway, consciousness, rhythm, and vital signs"
+    "correct_index": 3,
+    "explanation": "D. 5th Five-Year Plan."
   },
   {
-    "question": "A patient on a QT-prolonging medicine has a new markedly prolonged QTc. Which ordered result is relevant?",
+    "question": "Reversible long-term contraception for puerperium?",
     "options": [
-      "(A) Potassium and magnesium",
-      "(B) Hemoglobin A1c alone",
-      "(C) LDL alone",
-      "(D) Blood group"
+      "(A) IUCD",
+      "(B) Injectables",
+      "(C) Tubal ligation",
+      "(D) Pills"
     ],
     "correct_index": 0,
-    "explanation": "A. Potassium and magnesium"
+    "explanation": "A. IUCD."
   },
   {
-    "question": "A patient with torsades de pointes loses consciousness and has no pulse. What determines immediate management?",
+    "question": "Hormone decreasing most rapidly after surgical menopause?",
     "options": [
-      "(A) Treat as cardiac arrest under the shockable-rhythm pathway",
-      "(B) Offer oral magnesium",
-      "(C) Arrange routine follow-up",
-      "(D) Perform a stress test"
+      "(A) Thyroxine",
+      "(B) Insulin",
+      "(C) Progesterone",
+      "(D) Estrogen"
     ],
-    "correct_index": 0,
-    "explanation": "A. Treat as cardiac arrest under the shockable-rhythm pathway"
+    "correct_index": 3,
+    "explanation": "D. Estrogen."
   },
   {
-    "question": "A patient has a regular narrow-complex tachycardia and is hypotensive with altered mentation. What is most important?",
+    "question": "Hormone associated with stress response?",
     "options": [
-      "(A) Immediate response to an unstable tachyarrhythmia",
-      "(B) Routine discharge teaching",
-      "(C) A lipid test first",
-      "(D) Unsupervised ambulation"
+      "(A) Serotonin",
+      "(B) Insulin",
+      "(C) Cortisol",
+      "(D) Melatonin"
     ],
-    "correct_index": 0,
-    "explanation": "A. Immediate response to an unstable tachyarrhythmia"
+    "correct_index": 2,
+    "explanation": "C. Cortisol."
   },
   {
-    "question": "A pacing spike is seen but no QRS follows. What should the nurse report?",
+    "question": "Promoting holistic care through health/disease understanding?",
     "options": [
-      "(A) Possible failure to capture",
-      "(B) Normal pacing",
-      "(C) A confirmed pulse",
-      "(D) Normal valve function"
+      "(A) Disease focus only",
+      "(B) Physical only",
+      "(C) Symptoms only",
+      "(D) Promote holistic care/prevention"
     ],
-    "correct_index": 0,
-    "explanation": "A. Possible failure to capture"
+    "correct_index": 3,
+    "explanation": "D. Promote holistic care/prevention."
   },
   {
-    "question": "A paced QRS is present but the patient has no palpable pulse. What is the priority?",
+    "question": "Correct match for microbe control?",
     "options": [
-      "(A) Treat the patient’s absent perfusion, not the monitor appearance",
-      "(B) Assume effective pacing",
-      "(C) Stop pulse checks",
-      "(D) Give a meal"
+      "(A) Autoclave-dry",
+      "(B) Incineration-moist",
+      "(C) Pasteurization-high pressure",
+      "(D) Filtration-removes without killing"
     ],
-    "correct_index": 0,
-    "explanation": "A. Treat the patient’s absent perfusion, not the monitor appearance"
+    "correct_index": 3,
+    "explanation": "D. Filtration-removes without killing."
   },
   {
-    "question": "A patient reports several ICD shocks in one hour. Which instruction is best?",
+    "question": "Principle for effective education in diverse groups?",
     "options": [
-      "(A) Seek urgent evaluation",
-      "(B) Ignore shocks if awake",
-      "(C) Disable the device",
-      "(D) Start strenuous exercise"
+      "(A) One language",
+      "(B) Scientific focus",
+      "(C) Adapt to audience needs",
+      "(D) Assume same background"
     ],
-    "correct_index": 0,
-    "explanation": "A. Seek urgent evaluation"
+    "correct_index": 2,
+    "explanation": "C. Adapt to audience needs."
   },
   {
-    "question": "A patient with complete heart block is dizzy and hypotensive. Why is this urgent?",
+    "question": "Preference for Depo Provera in migraine with aura?",
     "options": [
-      "(A) Ventricular rate may not maintain adequate perfusion",
-      "(B) It always resolves with rest",
-      "(C) It is a normal ECG variant",
-      "(D) It means the aortic valve is narrow"
+      "(A) High Estrogen",
+      "(B) Androgen",
+      "(C) Lacks Estrogen (reduces stroke risk)",
+      "(D) Estrogen (clotting)"
     ],
-    "correct_index": 0,
-    "explanation": "A. Ventricular rate may not maintain adequate perfusion"
+    "correct_index": 2,
+    "explanation": "C. Lacks Estrogen (reduces stroke risk)."
   },
   {
-    "question": "A telemetry patient’s rhythm changes to AF. Which assessment helps determine immediate priority?",
+    "question": "Advice for cup feeding preterm infants?",
     "options": [
-      "(A) Symptoms, rate, blood pressure, and perfusion",
-      "(B) Number of ECG stickers",
-      "(C) Last dental visit",
-      "(D) Height"
+      "(A) Pour directly",
+      "(B) Tilt backward",
+      "(C) Large cup",
+      "(D) Sip at own pace"
     ],
-    "correct_index": 0,
-    "explanation": "A. Symptoms, rate, blood pressure, and perfusion"
+    "correct_index": 3,
+    "explanation": "D. Sip at own pace."
   },
   {
-    "question": "After ablation, a patient has a new rapid rhythm and chest discomfort. What should the nurse do?",
+    "question": "Committee for specialist services at district hospitals?",
     "options": [
-      "(A) Obtain urgent assessment and notify the team",
-      "(B) Assume cure prevents recurrence",
-      "(C) Ignore symptoms",
-      "(D) Remove the access-site dressing"
+      "(A) Mudaliar",
+      "(B) Bhore",
+      "(C) Jungalwalla",
+      "(D) Srivastava"
     ],
     "correct_index": 0,
-    "explanation": "A. Obtain urgent assessment and notify the team"
+    "explanation": "A. Mudaliar."
   },
   {
-    "question": "A patient with recurrent unexplained syncope is prescribed an implantable loop recorder. The purpose is to:",
+    "question": "Diagnosis for respiratory distress/hypotension/cyanosis in labor?",
     "options": [
-      "(A) Capture a rhythm during a future event",
-      "(B) Treat all slow rhythms automatically",
-      "(C) Replace valve surgery",
-      "(D) Measure troponin"
+      "(A) Cord prolapse",
+      "(B) Placental abruption",
+      "(C) Amniotic fluid embolism",
+      "(D) Uterine inversion"
     ],
-    "correct_index": 0,
-    "explanation": "A. Capture a rhythm during a future event"
+    "correct_index": 2,
+    "explanation": "C. Amniotic fluid embolism."
   },
   {
-    "question": "A patient taking a rate-control medicine develops new symptomatic bradycardia. The nurse should:",
+    "question": "Sign of a healthy newborn?",
     "options": [
-      "(A) Assess hemodynamics and review the medication with the prescriber",
-      "(B) Administer extra rate-control medicine",
-      "(C) Ignore dizziness",
-      "(D) Encourage maximal exercise"
+      "(A) Low temp",
+      "(B) No movement",
+      "(C) Strong cry",
+      "(D) Pale skin"
     ],
-    "correct_index": 0,
-    "explanation": "Assess hemodynamics and review the medication with the prescriber"
+    "correct_index": 2,
+    "explanation": "C. Strong cry."
   },
   {
-    "question": "During a cardiac arrest, which information is more important than the monitor’s rhythm label alone?",
+    "question": "Provision of NDPS Act 1985 regarding medical use?",
     "options": [
-      "(A) Whether the patient is responsive and has a pulse",
-      "(B) The brand of monitor",
-      "(C) The paper color",
-      "(D) The last meal"
+      "(A) Under strict regulation",
+      "(B) Banned",
+      "(C) Unrestricted",
+      "(D) Without oversight"
     ],
     "correct_index": 0,
-    "explanation": "A. Whether the patient is responsive and has a pulse"
+    "explanation": "A. Under strict regulation."
   }
 ]
