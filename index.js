@@ -65,7 +65,7 @@ async function sendNextQuestion() {
                 const rank = (i / 2) + 1;
                 const name = await redis.hget('user_names', top[i]) || "Candidate";
                 const medal = rank === 1 ? "🥇 " : rank === 2 ? "🥈 " : rank === 3 ? "🥉 " : `${rank}. `;
-                board += `${medal}*${name}* — ${top[i+1]} pts\n`;
+                board += `${medal}*${name}* — ${top[i + 1]} pts\n`;
             }
         }
 
@@ -180,7 +180,7 @@ bot.command('leaderboard', async (ctx) => {
     let board = "🏆 *CURRENT TOP 20 ACHIEVERS* 🏆\n\n";
     for (let i = 0; i < top.length; i += 2) {
         const name = await redis.hget('user_names', top[i]) || "Candidate";
-        board += `${(i/2)+1}. *${name}* — ${top[i+1]} pts\n`;
+        board += `${(i / 2) + 1}. *${name}* — ${top[i + 1]} pts\n`;
     }
     ctx.reply(board, { parse_mode: 'Markdown' });
 });
